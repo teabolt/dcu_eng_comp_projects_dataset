@@ -4,8 +4,7 @@ Every year Dublin City University (DCU) holds an Expo for computing and engineer
 
 In this repo it is proposed to extract all the data related to student projects (project title, programme, supervisor, descriptions, etc) from PDF files, and put that data into a structured format like CSV. The structured file should then be analysed using Data Science techniques.
 
-Update: Booklets from 2011 to 2019 are supported.
-
+Currently booklets from 2020 to 2011 are supported.
 
 ## Extraction steps
 
@@ -15,21 +14,26 @@ Linux has been used.
 
 ### Get all booklets
 
-See the `setup.sh` script.
+Run the `setup.sh` script.
 
-Results in `/booklets`.
+Find the results in `/booklets`.
 
 ### Strip PDF's
 
-Clean up the underlying PDF's.
+Clean up the original PDF's and put the results in `/booklets_stripped`.
 
-PDF's should have only those pages that have project descriptions, i.e. remove cover, introduction, etc. pages.
+#### Remove pages
+
+PDF's should have only those pages that have project descriptions, i.e. remove booklet cover, introduction, table of contents, list of projects.
 Search online `pdf remove pages` for websites that provide this service.
 
-PDF's should also be stripped of margins that contain the booklet header, page numbers, etc.
-Search online `pdf crop` for websites that can do this.
+Can also use the PdfTk multi-platform command line tool to remove pages. (see https://superuser.com/a/517993)
 
-Results in `/booklets_stripped`.
+#### Remove margins
+
+PDF's should also be stripped of margins that contain the booklet header, page numbers, etc.
+
+Search online `pdf crop` for websites or tools. May also need `pdf merge`.
 
 ### Convert PDF's to a text format (TODO)
 
@@ -46,15 +50,25 @@ References:
 * Online results for `pdf to csv`
 * Online results for `pdf to excel`
 
-### Parse data from text files (TODO)
+May need to do manual data fixing in some cases.
+
+### Parse the data from text files (TODO)
+
+Convert text or excel files into structured data.
 
 Python may be good for this.
 
 ### Combine data (TODO)
 
+Combine structured data from the last step into one spreadsheet.
+
 ### Analyse/use the dataset (TODO)
 
-Ideas:
-* Trends in project areas, technologies.
-* History of supervisors' projects.
+* Count of project tools / project areas each year.
+* Supervisors ranked by number of projects.
+* Search for all projects of a supervisor.
+
+### Usage ideas
+* See trends in project areas, technologies.
+* Check history of supervisors' projects.
 * Check if a project has been done before by searching through the titles and descriptions.
