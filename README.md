@@ -50,19 +50,23 @@ References:
 * Online results for `pdf to csv`
 * Online results for `pdf to excel`
 
-May need to do manual data fixing in some cases.
-
-Alternatively just CTRL+A the stripped PDF for all the text, where possible.
+Alternatively just copy all the text from a stripped PDF (using CTRL+A), where it's possible to do a selection.
 
 ### Parse the data from text files (TODO)
 
 Convert text or excel files into structured data.
 
-Python may be good for this.
+Python and Jupyter Notebook may be good for this.
 
-### Combine data (TODO)
+Adjust the source of data from the last step as needed.
+E.g. in 2019 one of the projects had students all with different programmes. It was easier to just list all the programmes after the list of students (though we lose information about which student is in which programme, that is not so necessary).
+For small anomaly cases, it's best to just adjust the data, instead of writing extra logic.
 
-Combine structured data from the last step into one spreadsheet.
+### Combine or "version" the data (TODO)
+
+Make sure that the data format is consistent across the years.
+
+If needed combine all the data into one file.
 
 ### Analyse/use the dataset (TODO)
 

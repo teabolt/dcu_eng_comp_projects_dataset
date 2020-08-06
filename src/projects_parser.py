@@ -3,105 +3,95 @@
 import json
 import re
 
+
 def anomaly_warning(anomaly, *args):
+    """Print a warning for anomaly, with optional strings to print"""
     print('{} ANOMALY: {}'.format(anomaly, ' '.join(map(str, args))))
 
-def parse_projects(project_list):
-    projects = []
-    for idx, project_string in enumerate(project_list):
-        title = re.findall(r'(?s)Project Title(.*?)Name', project_string)
-        if len(title) != 1:
-            anomaly_warning('PROJECT TITLE', idx, project_string, title)
-        else:
-            title = title[0]
-
-        students = re.findall(r'Name(.*?)Programme', project_string, flags=re.S)
-        if len(students) != 1:
-            anomaly_warning('STUDENTS', idx, project_string, students)
-        else:
-            students = students[0]
-
-        programme = re.findall(r'Programme(.*)Supervisor', project_string, flags=re.S)
-        if len(programme) != 1:
-            anomaly_warning('PROGRAMME', idx, project_string, programme)
-        else:
-            programme = programme[0]
-            
-        supervisor_and_description = re.findall(r'Supervisor(.*)Project Video', project_string, flags=re.S)
-        if len(supervisor_and_description) != 1:
-            anomaly_warning('SUPERVISOR AND DESCRIPTION', idx, project_string, supervisor_and_description)
-        else:
-            supervisor_and_description = supervisor_and_description[0]
-
-        video = re.findall(r'Project Video(.*?)Project Area', project_string, flags=re.S)
-        if len(video) != 1:
-            anomaly_warning('VIDEO', idx, project_string, video)
-        else:
-            video = video[0]
-
-        area = re.findall(r'Project Area(.*?)Project Technology', project_string, flags=re.S)
-        if len(area) != 1:
-            anomaly_warning('AREA', idx, project_string, area)
-        else:
-            area = area[0]
-
-        technology = re.findall(r'Project Technology(.*?)$', project_string, flags=re.S)
-        if len(technology) != 1:
-            anomaly_warning('TECHNOLOGY', idx, project_string, technology)
-        else:
-            technology = technology[0]
-
-        projects.append({
-            'title': title,
-            'students': students,
-            'programme': programme,
-            'supervisor_and_description': supervisor_and_description,
-            'video': video,
-            'area': area,
-            'technology': technology,
-        })
-    return projects
+def parse_projects(project_list, regex_schema):
+    """
+    project_list is a list of strings, where each string is a single project's details (unstructured).
+    regex_schema is a dictionary from project details to regular expressions that should match that detail.
     
-def split_supervisor_and_description(supervisor_and_description):
-    res = supervisor_and_description.split('@dcu.ie')
-    if len(res) != 2:
-        anomaly_warning('SUPERVISOR AND DESCRIPTION', supervisor_and_description, res)
-        return None, None
-    else:
-        supervisor, description = res
-        supervisor = supervisor + '@dcu.ie'
-        return supervisor.strip(), description.strip()
+    returns a list of structured objects with each project's parsed (matched) details.
+    """
+    # compile all regexes
+    compiled = {k: re.compile(regex, flags=re.S)
+                              for k, regex in regex_schema.items()}
+    # extract details of all projects into a list
+    return [parse_project(project_string, compiled, idx) for idx, project_string in enumerate(project_list)]
 
-def normalize_students(students):
-    normalized = []
+
+def parse_project(project_string, compiled, idx=''):
+    """
+    extract details of a single project
+    project_string - string containing all project information
+    compiled - dictionary of detail names to compiled regular expressions that provide those details
+    idx - project number as a string for debugging purposes, optional
+
+    returns a dictionary from detail keys to the matched detail values.
+    """
+    project = {}
+    for detail, pattern in compiled.items():
+        match = pattern.findall(project_string)
+        if len(match) != 1:
+            anomaly_warning(detail, idx, project_string)
+        else:
+            match = match[0]
+        project[detail] = match
+    return project
+
+def apply_transformation(projects, fn, *args, **kwargs):
+    """
+    Apply the function fn to every project in projects. Additional arguments are passed to fn.
+    fn must return a complete project object.
+    """
+    return [fn(project, *args, **kwargs) for project in projects]
+
+def split_supervisor_and_description(project, separator='@dcu.ie'):
+    """
+    Split the combined supervisor and description field into separate fields.
+    Use the separator to differentiate supervisor from description.
+    """
+    supervisor_and_description = project['supervisor_and_description']
+    idx = supervisor_and_description.find(separator)
+    if idx == -1:
+        anomaly_warning('SUPERVISOR AND DESCRIPTION SPLIT', supervisor_and_description, res)
+        # leave project unmodified
+        return project
+    else:
+        split = idx+len(separator)
+        supervisor = supervisor_and_description[:split]
+        description = supervisor_and_description[split:]
+        # delete old key and add two new keys
+        del project['supervisor_and_description']
+        return {**project, 'supervisor': supervisor, 'description': description}
+
+def parse_student_details(project):
+    """
+    Parse unstructured student data into a structured data.
+    """
+    students = project['students']
+    parsed_students = []
     for stud in students.split('Name'):
         s = stud.split('Email')
         if len(s) != 2:
-            print('STUDENT NORMALIZATION ANOMALY: {}, {}, {}'.format(students, stud, s))
+            anomaly_warning('STUDENT PARSING', students, stud, s)
             continue
         name, email = s
-        normalized.append({
+        parsed_students.append({
             'name': name.strip(),
             'email': email.strip(),
         })
-    return normalized
+    return {**project, 'students': parsed_students}
 
-def normalize_projects(projects):
-    normalized_projects = []
-    for project in projects:
-        supervisor, description = split_supervisor_and_description(project['supervisor_and_description'])
-        normalized_projects.append({
-            'title': project['title'].strip(),
-            'students': normalize_students(project['students']),
-            'programme': project['programme'].strip(),
-            'supervisor': supervisor,
-            'description': description,
-            'video': project['video'].strip(),
-            'area': project['area'].strip(),
-            'technology': project['technology'].strip(),
-        })
-    return normalized_projects
+def remove_newlines(project):
+    """
+    Strip and replace newlines in project details.
+    """
+    return { k: v.strip().replace('\n', ' ') if type(v) == str else v for k, v in project.items()}
 
 def write_json(booklet_year, projects_obj):
+    """Write projects_obj as a JSON file for a given year"""
     with open('../booklets_data/{}.json'.format(booklet_year), 'w') as f:
-        json.dump(projects_obj, f, indent=4)
+        json.dump(projects_obj, f, indent=4, sort_keys=True)
