@@ -37,7 +37,7 @@ Search online `pdf crop` for websites or tools. May also need `pdf merge`.
 
 ### Convert PDF's to a text format (TODO)
 
-Files should be converted from PDF to a text format (.txt, .csv, or anything else) for easy parsing.
+Files should be converted from PDF to a text format (.txt, .csv, .xlsx) for easy parsing.
 
 Need to accurately convert tables.
 
@@ -51,6 +51,8 @@ References:
 * Online results for `pdf to excel`
 
 May need to do manual data fixing in some cases.
+
+Alternatively just CTRL+A the stripped PDF for all the text, where possible.
 
 ### Parse the data from text files (TODO)
 
