@@ -887,7 +887,7 @@
                 "email": "lawrence.lillis2@mail.dcu.ie"
             }
         ],
-        programme": "Computer Applications",
+        "programme": "Computer Applications",
         "supervisor": "murat.yilmaz@dcu.ie",
         "description": "This project is a recreation of the puzzle game Tetris with an AI, which has been taught through reinforcement learning. The Tetris game was designed from a pseudo-3D perspective, and the AI was developed using the Unity ML-Agents package. The goal of the project was to create both a faithful Tetris version, which included both single and two player modes and to be able to implement this AI, to both play the game by itself and against a user.",
         "video": "shorturl.at/hkDZ4",
