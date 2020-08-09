@@ -21,7 +21,6 @@ def parse_projects(project_list, regex_schema):
     # extract details of all projects into a list
     return [parse_project(project_string, compiled, idx) for idx, project_string in enumerate(project_list)]
 
-
 def parse_project(project_string, compiled, idx=''):
     """
     extract details of a single project
@@ -36,31 +35,27 @@ def parse_project(project_string, compiled, idx=''):
         match = pattern.findall(project_string)
         if len(match) != 1:
             anomaly_warning(detail, idx, project_string)
+            if len(match) == 0:
+                # assign None as "not found" value
+                match = None
         else:
             match = match[0]
         project[detail] = match
     return project
 
-def apply_transformation(projects, fn, *args, **kwargs):
-    """
-    Apply the function fn to every project in projects. Additional arguments are passed to fn.
-    fn must return a complete project object.
-    """
-    return [fn(project, *args, **kwargs) for project in projects]
-
-def split_supervisor_and_description(project, separator='@dcu.ie'):
+def split_supervisor_and_description(project, supervisor_descr_separator='\n'):
     """
     Split the combined supervisor and description field into separate fields.
     Use the separator to differentiate supervisor from description.
     """
     supervisor_and_description = project['supervisor_and_description']
-    idx = supervisor_and_description.find(separator)
+    idx = supervisor_and_description.find(supervisor_descr_separator)
     if idx == -1:
-        anomaly_warning('SUPERVISOR AND DESCRIPTION SPLIT', supervisor_and_description, res)
+        anomaly_warning('SUPERVISOR AND DESCRIPTION SPLIT', supervisor_and_description, idx)
         # leave project unmodified
         return project
     else:
-        split = idx+len(separator)
+        split = idx+len(supervisor_descr_separator)
         supervisor = supervisor_and_description[:split]
         description = supervisor_and_description[split:]
         # delete old key and add two new keys
@@ -91,7 +86,27 @@ def remove_newlines(project):
     """
     return { k: v.strip().replace('\n', ' ') if type(v) == str else v for k, v in project.items()}
 
+def canonicalize_projects(projects, **kwargs):
+    """Transform projects to a standard (canonical) form.
+       kwargs are passed to functions with extra arguments.
+    """
+    canonical_projects = []
+    for project in projects:
+        canon = split_supervisor_and_description(project, **kwargs)
+        canon = parse_student_details(canon)
+        canon = remove_newlines(canon)
+        canonical_projects.append(canon)
+    return canonical_projects
+
+def apply_transformation(projects, fn, *args, **kwargs):
+    """
+    Utility function to apply the function fn to every project in projects.
+    Additional arguments are passed to fn.
+    fn must return a complete project object.
+    """
+    return [fn(project, *args, **kwargs) for project in projects]
+
 def write_json(booklet_year, projects_obj):
     """Write projects_obj as a JSON file for a given year"""
-    with open('../booklets_data/{}.json'.format(booklet_year), 'w') as f:
-        json.dump(projects_obj, f, indent=4, sort_keys=True)
+    with open('../booklets_data/{}.json'.format(booklet_year), 'w', encoding='utf-8') as f:
+        json.dump(projects_obj, f, ensure_ascii=False, indent=4, sort_keys=True)

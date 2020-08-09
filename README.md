@@ -62,19 +62,13 @@ Adjust the source of data from the last step as needed.
 E.g. in 2019 one of the projects had students all with different programmes. It was easier to just list all the programmes after the list of students (though we lose information about which student is in which programme, that is not so necessary).
 For small anomaly cases, it's best to just adjust the data, instead of writing extra logic.
 
-### Combine or "version" the data (TODO)
+Also perform data "canonicalization" (standardisation or normalization) in this step. Ensure that data is clean and ready to use.
 
-Make sure that the data format is consistent across the years.
+### Analyse or use the dataset (TODO)
 
-If needed combine all the data into one file.
-
-### Analyse/use the dataset (TODO)
-
-* Count of project tools / project areas each year.
-* Supervisors ranked by number of projects.
-* Search for all projects of a supervisor.
-
-### Usage ideas
+Some ideas
 * See trends in project areas, technologies.
 * Check history of supervisors' projects.
 * Check if a project has been done before by searching through the titles and descriptions.
+* Count number of projects per year
+* Count number of projects of each supervisor.
