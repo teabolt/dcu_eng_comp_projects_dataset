@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import os.path
 import json
 import re
 
@@ -106,7 +107,14 @@ def apply_transformation(projects, fn, *args, **kwargs):
     """
     return [fn(project, *args, **kwargs) for project in projects]
 
-def write_json(booklet_year, projects_obj):
-    """Write projects_obj as a JSON file for a given year"""
-    with open('../booklets_data/{}.json'.format(booklet_year), 'w', encoding='utf-8') as f:
+def write_json(booklet_year, projects_obj, dir_path=None):
+    """
+    Write projects_obj as a JSON file for a given year.
+    Save the file under the dir_path directory, or under the default directory if none is given.
+    """
+    if dir_path:
+        filepath = os.path.join(dir_path, '{}.json'.format(booklet_year))
+    else:
+        filepath = '../booklets_data/{}.json'.format(booklet_year)
+    with open(filepath, 'w', encoding='utf-8') as f:
         json.dump(projects_obj, f, ensure_ascii=False, indent=4, sort_keys=True)
