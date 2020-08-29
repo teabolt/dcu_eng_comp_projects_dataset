@@ -1,0 +1,3255 @@
+1
+Project Title Virtual society
+Name Jingyun Xu
+Email jingyun.xu5@mail.dcu.ie
+Programme Computer Applications
+Supervisor Alistair.Sutherland@dcu.ie
+Virtual society is an application that could simulate virtual humans to solve tasks with different behaviours in a
+virtual environment. Different humans in groups with different personalities will make different decisions in a
+same event. Some are cooperative and others are aggressive. This project is about to simulate humans which
+have different strategy try to get higher rewards in a society, then find out which strategy will works out best in
+long term.
+Project Area Artificial Intelligence
+Project Technology C#, SQLite
+2
+Project Title Design and evaluation of a testing unit to measure sealing pressure of fasteners joints
+project
+Name Pádraig Wall
+Email padraig.wall5@mail.dcu.ie
+Programme Mechanical and Manufacturing Engineering
+Supervisor Dermot.Brabazon@dcu.ie
+This project was to design and oversee the manufacturing of a pressure vessel which was used to test Penn
+Engineering insert products. The vessel design was also constructed in such a way that different parts can be
+tested using it in the future by replacing one piece of the unit. The pressure system is nitrogen-based, and can
+be tested up to a ceiling pressure of 160 bar.
+Project Area Device Design, Fluid Mechanics, Mechanical Design and Manufacture
+Project Technology Excel/VB, Solidworks
+3
+Project Title Predictive Analytics Toolkit
+Name Sean Quinn
+Email sean.quinn34@mail.dcu.ie
+Programme Computer Applications
+Supervisor Mark.Roantree@dcu.ie
+This application allows the user to upload csv format datasets and then configure and run several different types
+of predictive algorithms simultaneously on the data through a browser-based graphical user interface. This
+allows contrasting of the performance of the different algorithms and various configurations of their run
+parameters for any given dataset, principle component analysis and investigation of the nature of the data. The
+application features the K-Nearest Neighbours, Decision Tree, Naïve Bayes and Rocchio classification
+algorithms.
+Project Area Data Analytics, Data Mining, Statistical Analysis, Web Application
+Project Technology HTML5, Java, JavaScript, JQuery, REST, SpringMVC
+35 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+4
+Project Title Bioresorbable Calcium Phosphate Cements
+Name Aaron Farrelly
+Email aaron.farrelly64@mail.dcu.ie
+Programme Biomedical Engineering
+Supervisor Nicholas.Dunne@dcu.ie
+This project investigates the mechanical properties and resorption rate of bioresorbable calcium phosphate
+cements (CPC). CPCs are currently being developed for treating of ‘burst fractures’ of the spine which are
+caused by sudden impact trauma, such as falling off a ladder or in a car crash. The aims of the project were to
+produce CPCs, determine the compressive properties, initial and final setting times and to develop a method of
+monitoring the resorption rate, the key parameters involved with CPCs.
+Project Area Biomedical Engineering
+Project Technology Solidworks
+5
+Project Title Vocaby Builder
+Name Thomas Feeney
+Email thomas.feeney3@mail.dcu.ie
+Programme Computer Applications
+Supervisor Qun.Liu@dcu.ie
+This project attempts to provide a novel way in which users can keep track of, and learn, new English words. The
+application consists of both a Chrome extension and an Android app. When new words are encountered online,
+the definition of the word, as well as other information, can be viewed and then optionally added to a database.
+The user can then use the Android application to view and test themselves in different ways on the words
+previously encountered.
+Project Area Educational
+Project Technology JQuery, REST, NoSQL, Chrome Extension and Android Application, CSS, Java,
+JavaScript, HTML5
+6
+Project Title A study of solar panel efficiency in Ireland
+Name Joshua Woods
+Email joshua.woods9@mail.dcu.ie
+Programme Mechanical and Manufacturing Engineering
+Supervisor Lorna.Fitzsimons@dcu.ie
+This project looks at the factors affecting solar panel efficiency for the production of hot water in Ireland. It
+reviews areas such as material choice, set-up of a solar collector system, international attitude towards solar
+energy and various other areas.
+Project Area Energy Conservation
+Project Technology Solidworks
+36 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+7
+Project Title Containerised microservice backend for CoderDojo
+Name Cian Butler
+Email cian.butler25@mail.dcu.ie
+Programme Computer Applications
+Supervisor Mark.Roantree@dcu.ie
+My project is to take the tightly coupled services that are the event and dojo management system used by
+CoderDojo to manage their more than 1000 dojos and make them independent and containerised. At CoderDojo,
+they have a very small team but have a very large project. Their software architecture is micro-services oriented,
+but the devops architecture has been built in a monolithic way, replicating a whole environment instead of
+exploiting microservices strength for scalability.
+Project Area Distributed Systems
+Project Technology Docker, Node.js
+8
+Project Title Image recognition for vegetables
+Name James Nathaniel De Ocampo
+Email james.deocampo2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Alistair.Sutherland@dcu.ie
+This is an Android application that aims to recognise images of vegetables. The user would take a picture of a
+vegetable on their Android device and the application would send the picture to a back-end server that performs
+the image recognition. The server contains a convolutional neural network that was developed using Tensorflow
+and Python.
+Project Area Android, Computer Vision, Mobile App
+Project Technology Python, Java, Eclipse
+9
+Project Title Analysis and Optimisation of Vibration Bowls in Xerox DCTP
+Name John Walls
+Email john.walls2@mail.dcu.ie
+Programme Mechanical and Manufacturing Engineering
+Supervisor Harold.Esmonde@dcu.ie
+Vibratory bowl feeders are a key component of the assembly production lines at Xerox Dundalk Colour Toner
+Plant (DCTP), supplying correctly orientated plugs and handles for printer cartridge assembly. The aim of this
+project is to reduce the amount of downtime caused by vibratory bowl feeder inefficiencies during production
+runs. The project aims to minimise such downtime through vibration bowl analysis and the design of passive
+and active in-bowl tooling, thus contributing to overall production improvement.
+Project Area Mechanical Design and Manufacture
+Project Technology Solidworks, PLC Programming, Excel/VB
+37 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+10
+Project Title Physics Room
+Name Conor Reddin
+Email conor.reddin3@mail.dcu.ie
+Programme Computer Applications
+Supervisor Mark.Humphrys@dcu.ie
+My project is a “Physics Room” in which the user has complete control over the laws of physics. The project is
+a web browser application which is written in Three.js. The application is intended to be helpful to secondaryschool students studying physics related subjects and can be used to replicate Leaving Cert-style questions. The
+behavior of the environment is determined by inputs from the user and feedback is provided to assist learning.
+Project Area Web Application, Graphics, Educational
+Project Technology HTML5, JavaScript, WebGL, Three.js, CSS
+11
+Project Title Design of a device for minimally invasive delivery of cartilage repair therapies
+Name Niall Connolly
+Email niall.connolly6@mail.dcu.ie
+Programme Biomedical Engineering
+Supervisor Tanya.Levingstone@dcu.ie
+This project investigates developing a small, lightweight and ergonomic delivery device that would ensure the
+rapid and repeatable arthroscopic delivery of cartilage repair therapies to defect sites within the knee joint.
+Project Area Device Design
+Project Technology Solidworks
+12
+Project Title Neural Sprint
+Name Edward Moriarty
+Email edward.moriarty4@mail.dcu.ie
+Programme Computer Applications
+Supervisor Cathal.Gurrin@dcu.ie
+This project “Neural Sprint” is a 2-D side scrolling platform game built within the Unity 5 engine that also
+contains a neural network using the NEAT (Neuroevolution of augmenting topologies) genetic algorithm, both
+developed using C#. When prompted to do so it will run, learn and evolve to complete the level presented to it.
+The game will also allow the user to take control and play the game as normal if so desired.
+Project Area Artificial Intelligence, Gaming
+Project Technology C#
+38 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+13
+Project Title Receipt Management Application and Hardware
+Name Eanna Byrne
+Email eanna.byrne76@mail.dcu.ie
+Programme Computer Applications
+Supervisor David.Gray@dcu.ie
+This project aims to reduce or remove the need for paper receipts in everyday life by providing an easy to use
+application for storing and managing receipts. The project project also demonstrates how receipts may be
+transferred from a POS device to an Android device.
+Project Area Android
+Project Technology XML, Java
+14
+Project Title Modelling and Analysis of Closed Loop Supply Chain Management for Reusable
+Articles
+Name Evan Doherty
+Email evan.doherty34@mail.dcu.ie
+Programme Manufacturing Engineering with Business
+Supervisor John.Geraghty@dcu.ie
+This report is compiled to explore the extensive meanings of Closed Loop Supply Chain Management, mostly
+concentrating on reusable articles. The case study is based on the Supply chain between a pharmaceutical
+company and one of its suppliers, who have recently changed to a closed loop supply chain using a reusable
+article. A simulation has been assembled to probe the issues that may arise with this reusable articles and to
+see if it’s a plausible solution for other companies.
+Project Area Closed Loop Supply Chains
+Project Technology ExtendSIM
+15
+Project Title Appointments Manager
+Name Jose Mulowayi
+Email j.mulowayi2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Martin.Crane@dcu.ie
+Appointments Manager is available on both mobile and web platforms. This application lets users see dates/
+times availability for doctor surgery. Once a user makes/cancels an appointment, a notification text message is
+sent to their phone. Users can register interest for a time slot already taken and whoever is first in the waiting
+queue will get it allocated to him in case of cancellation. This application is adaptable to many professionals
+including university lecturers, sport clubs, government agencies and more.
+Project Area Android, Mobile App, Web Application
+Project Technology SQL, SpringMVC, REST, Java, AngularJS
+39 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+16
+Project Title Development of a Lean/Six Sigma toolbox for water conservation in manufacturing
+processes
+Name Fearghal O’Hare
+Email fearghal.ohare3@mail.dcu.ie
+Programme Mechanical and Manufacturing Engineering
+Supervisor Lorna.Fitzsimons@dcu.ie
+Lean and Six Sigma tools have been widely applied to drive efficiency in manufacturing processes. The aim
+of this project is to assess the appropriateness of Lean/Six Sigma approaches for water conservation in a
+manufacturing environment. The objective of this project is to assess individual methods, for example, DMAIC
+Process, vertical integration, and their appropriateness for use in manufacturing. The process includes
+developing a Lean/Six Sigma toolkit and by using a case study, assessing the toolkit’s performance.
+Project Area Lean Manufacturing
+Project Technology Excel/VB
+17
+Project Title TutorMe
+Name Mark Gerrity
+Email mark.gerrity2@mail.dcu.ie
+Name James Burke
+Email james.burke47@mail.dcu.ie
+Programme Enterprise Computing
+Supervisor Jane.Kernan@dcu.ie
+TutorMe is a cross-platform tutoring service that allows a student to easily book private grinds with a tutor of
+their choice. This app aims at creating a simple, all-inclusive service that encapsulates every step needed to be
+taken when booking a grind. The project itself will showcase a web and mobile application prototype,
+demonstrating some of the features available through TutorMe.
+Project Area Web Application, Mobile App, Databases, Android
+Project Technology PHP, SQL, CSS, HTML5, JavaScript, Java
+18
+Project Title Grapevine
+Name John Garrahan
+Email john.garrahan2@mail.dcu.ie
+Name Seán Cahill
+Email seanrcahill@gmail.com
+Programme Enterprise Computing
+Supervisor Markus.Helfert@dcu.ie
+The aim of our app is to replace the need for a booking agent by allowing the musician to become their own
+agent by providing a single platform for them to book gigs for themselves. By having a LinkedIn style profile,
+including photos, bios, reviews, social media content and upcoming gigs, it will provide a transparent view of
+each user. With our app, we will be targeting the gigging sub-sector of the music industry.
+Project Area Android, Mobile App, Social Networking
+Project Technology CSS, Eclipse, HTML5, Java, JavaScript, PHP, SQL
+40 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+19
+Project Title Scrum Web App
+Name George McNally
+Email george.mcnally7@mail.dcu.ie
+Programme Computer Applications
+Supervisor Paul.M.Clarke@dcu.ie
+This web application facilitates the activities of scrum along with being integrated with Git. Users can create
+projects which contain project members, the product backlog and sprints. In addition, the project can be
+connected to the project’s Git repository. Once connected, users can submit issues with pieces of code that they
+are having difficulty with. These issues can be solved by other team members, committed and pushed back to
+origin.
+Project Area Model View Controller, Web Application
+Project Technology NoSQL, AngularJS, CSS, HTML5, JavaScript, JQuery, Node.js, REST
+20
+Project Title Analysis of the Toyota Production System
+Name Saif Alasmi
+Email saif.alasmi2@mail.dcu.ie
+Programme Mechanical and Manufacturing Engineering
+Supervisor Tamas.Szecsi@dcu.ie
+The project involves the analysis of a world-leader operations management system (TPS). It will highlight the
+major contributions of TPS to operations management, and the main shortcomings of the system.
+Project Area Lean Manufacturing
+Project Technology ExtendSIM
+21
+Project Title Mapping Jobs
+Name Artur Vorobjov
+Email artur.vorobjov2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Brian.Stone@dcu.ie
+Mapping Jobs is a web application that provides a graphical representation (SVG map of Ireland) of careers
+statistics in Ireland broken down by county; careers group which is defined as a job sector, for example, Arts,
+Audio/Video Technology and Communications; and average salary. Mapping jobs interacts with external jobs
+websites through the use of web scraping technology to extract the required data. In addition, polling technology
+will be used to refresh data from the external websites at a customisable interval.
+Project Area Web Application
+Project Technology AngularJS, CSS, HTML5, JavaScript, Node.js, REST, SQL
+41 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+22
+Project Title FitFinder
+Name Eoin McKenna
+Email eoin.mckenna23@mail.dcu.ie
+Programme Computer Applications
+Supervisor Geoff.Hamilton@dcu.ie
+This Android mobile app is designed to give people a single platform to find and begin communications with
+personal trainers offering fitness classes in their general area. The app will also give users a basic platform to
+record their own fitness regime.
+Project Area Android, Mobile App
+Project Technology Java, PHP, SQL
+23
+Project Title Method of Data Integration
+Name Lin Zhu
+Email lin.zhu4@mail.dcu.ie
+Programme Computer Applications
+Supervisor Alan.Smeaton@dcu.ie
+This project performs a systematic analysis on three different data integration tools which are Talend, Pentaho
+and Jitterbit. It uses three different datasets as cases to analyse each and perform an analysis on connecting
+speed, connect method, limitations (like data size, type or any table properties), flexibility of the user interface
+and how easy those settings are for beginners, and also system usability concerning integration.
+Project Area Databases, Data Analytics, Data Integration
+Project Technology Python, R, SQL, Talend, Pentaho, Jitterbit
+24
+Project Title Turf torque tester
+Name Diarmaid Sheridan
+Email diarmaid.sheridan35@mail.dcu.ie
+Programme Mechanical and Manufacturing Engineering
+Supervisor Brian.Corcoran@dcu.ie
+At Croke Park there are several tests performed to certify the pitch to a certain standard. One of these tests
+involves the torque experienced by a stud arrangement when embedded in the turf and a twist is applied. This
+project was set out to design and manufacture a new device to perform this test which is more repeatable and
+gives reproducible results.
+Project Area Device Design
+Project Technology Solidworks
+42 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+25
+Project Title Smartphone-based Indoor Positioning System
+Name David Gallagher
+Email david.gallagher43@mail.dcu.ie
+Programme Electronic and Computer Engineering
+Supervisor Robert.Sadleir@dcu.ie
+Indoor positioning systems function using signal fingerprinting in conjunction with sensor data to provide a
+rough indication of position. This project investigates the use of these data sources, which are readily available
+on modern smartphone devices, to create an indoor navigation application. A number of different location
+detection methods were developed during the project and these were evaluated in terms of accuracy by
+comparing their outputs with ground truth data that was also obtained as part of the project.
+Project Area Mobile App, Android
+Project Technology Java
+26
+Project Title The Design and Manufacture of a System To Positively Control a Trailer's Steering
+Name Cathal Deacon
+Email Cathal.deacon2@mail.dcu.ie
+Programme Manufacturing Engineering with Business
+Supervisor Paul.Young@dcu.ie
+This project involves the design and manufacture of a system to positively control a trailer's steering, in relation
+to that of the angle of the towing vehicle. This is achieved through a mechanical linkage system connected to the
+tractor, which activates master cylinders which in turn activate slave cylinders placed on the trailer's axles. This
+design was manufactured and tested by Distag QCS who supply trailer axles to machinery manufacturers
+throughout Ireland and the U.K.
+Project Area Mechanical Design and Manufacture
+Project Technology Solidworks
+27
+Project Title Automatic Transliteration between English and Russian
+Name Kieron Drumm
+Email kieron.drumm2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Qun.Liu@dcu.ie
+The main goal for this project is to implement an automatic transliteration system that can convert a proper
+noun from English to Russian. With the use of Moses, this system is trained by applying the principles of
+statistical machine translation augmented in such a way to account for transliteration rather than translation.
+This system is intended to be used by Russian language learners and teachers.
+Project Area Statistical Machine Transliteration, Machine Learning
+Project Technology Python, Moses, Scrapy
+43 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+28
+Project Title Crystal-Mania
+Name Mark Gorman
+Email mark.gorman8@mail.dcu.ie
+Programme Computer Applications
+Supervisor Paul.M.Clarke@dcu.ie
+Crystal-Mania is a 2D sidescrolling game which focuses on the collection of collectibles spread across the
+game's various levels. Players aim to collect enough of these collectibles to upgrade their character sufficiently
+to make it through the challenges that the game has to offer. Crystal-Mania was developed in the Unity Engine
+using C#.
+Project Area Gaming
+Project Technology C#
+29
+Project Title Computational simulation and analysis of statistical Six Sigma production techniques
+Name Cian O’Hagan
+Email cian.ohagan5@mail.dcu.ie
+Programme Biomedical Engineering
+Supervisor Tamas.Szecsi@dcu.ie
+Two statistical Six Sigma production techniques featured in this study. The concept of partial interchangeability
+was demonstrated through statistical tolerance analysis in C++ that showed that this financially beneficial
+technique can be successfully implemented in certain production scenarios. This project also demonstrated the
+implementation of linear discriminant analysis in C++ and potential applications this statistical technique can
+have in manufacturing engineering.
+Project Area Statistical Analysis
+Project Technology Eclipse, C/C++
+30
+Project Title Simulation of Radiance in Water Bodies
+Name Liam Finn
+Email liam.finn7@mail.dcu.ie
+Programme Computer Applications
+Supervisor Liam.Tuohey@dcu.ie
+This project takes the optical properties of water and simulates the radiance from the water body. The inputs to
+this simulation include the absorption and scattering coefficients gathered through sensor technologies in water
+bodies. The system allows the user to see how changes in the optical properties impact the calculated radiance.
+The radiance is calculated using the inputted optical properties and displayed graphically.
+Project Area Sensor Data, Graphics
+Project Technology Eclipse, Java
+44 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+31
+Project Title MR fluid external door latch
+Name Declan Hughes
+Email declan.hughes25@mail.dcu.ie
+Programme Mechanical and Manufacturing Engineering
+Supervisor Alan.Kennedy@dcu.ie
+External doors into many public places have heavy doors with stiff automatic closing mechanisms to remain
+closed in windy weather. People with disabilities, the elderly, and people attempting to enter a building with a
+pram or mobility device may struggle to open these kinds of doors. The aim of this project is to design a latch
+which will exhibit a strong holding force against the wind and be as easy to open as possible when required.
+Project Area Device Design
+Project Technology MR fluid
+32
+Project Title Student Support And Development Application
+Name Victor Adeboye Akinla
+Email victor.akinla2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Monica.Ward@dcu.ie
+The Student Support and Development application is aimed at providing DCU students with a more accessible
+and aesthetically pleasing version of the online orientation section of the the DCU website. It uses data from
+the Student Support and Development website and converts it into a tailored app for mobile phones.
+Project Area Android
+Project Technology Java
+33
+Project Title CycLED
+Name Shane O’Neill
+Email shane.oneill65@mail.dcu.ie
+Programme Computer Applications
+Supervisor David.Sinclair@dcu.ie
+This project is a helmet which can direct cyclists to their destination. Lights in the helmet tell a user whether to
+turn left or right at each turn. The helmet has an Arduino on board which connects with an Android app, where
+the user can select their destination and any waypoints on their route. The helmet also has GPS on board so will
+still work if untethered from the phone.
+Project Area Android, Arduino, Internet of Things, Mobile App, Wearable Technology
+Project Technology C/C++, Java
+45 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+34
+Project Title Research and Development of Electronic Cymbal Sensors
+Name Matthew Agnew
+Email matthew.agnew3@mail.dcu.ie
+Programme Manufacturing Engineering with Business
+Supervisor Alan.Kennedy@dcu.ie
+This project centres on investigating current electronic cymbals, both homemade and commercial with
+subsequent methodical testing with the objective of finding the optimum position to place a sensor in an
+electronic cymbal. This project focuses around the all-important positioning of piezo sensors with the objective
+of producing accurate, reliable and authentic cymbal sound.
+Project Area Sensor Technology
+Project Technology DSP
+35
+Project Title Serverless Microservices PaaS
+Name Jacob O’Keeffe
+Email jacob.okeeffe22@mail.dcu.ie
+Programme Computer Applications
+Supervisor Paul.M.Clarke@dcu.ie
+Microservice architectures are appealing because they allow individual components of an application to be
+deployed and scaled independently. However, some of these components are too small or infrequently used to
+warrant the provisioning of a server specifically for that microservice. The notion of ‘serverless microservices’
+addresses this issue by providing a platform on which developers can host a number of these smaller
+microservices. The platform automates the execution of these microservices as corresponding messages flow
+inwards.
+Project Area Microservice Deployment
+Project Technology Docker, JavaScript, Node.js
+36
+Project Title The Incorporation of Biocompatible Dyes into Biomaterials
+Name James Kelly
+Email james.kelly93@mail.dcu.ie
+Programme Biomedical Engineering
+Supervisor Tanya.Levingstone@dcu.ie
+Over the last decade, there has been an marked increase in procedures addressing cartilage repair. This project
+investigates the addition of biocompatible dyes into biomaterials used for cartilage and bone regeneration, as
+means of identifying correct surgical implantation and identification. The specific focus of this project is to
+identify suitable dyes for use in a collagen scaffold – a device for cartilage and bone regeneration.
+Project Area Tissue Engineering
+Project Technology Infinite® 200 NanoQuant
+46 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+37
+Project Title Project Whurl Performance Analysis and Real-time Injury Awareness for Hurling
+Name Aaron Steed
+Email aaron.steed2@mail.dcu.ie
+Programme Computer Applications
+Supervisor David.Sinclair@dcu.ie
+Project Whurl uses an Arduino system to capture GPS data to measure a player’s performance, where
+post-match a manager can review completed statistics on his/her dashboard. As well as this, managers can
+also be informed in real-time if a player has incurred in an injury suddenly or has developed an injury during the
+period of the game. The system also suggests the immediate action a manager should take with regards to his/
+her player’s safety within the real-time notification.
+Project Area GPS GIS, Databases, Arduino, Internet of Things, Sensor Data, Sensor Technology,
+Wireless Technology, Telecommunications
+Project Technology C/C++, Java, Python, REST, NoSQL
+38
+Project Title FPGA implementation and performance analysis of block cipher PRINCE
+Name Philip Clarke
+Email philip.clarke26@mail.dcu.ie
+Programme Electronic and Computer Engineering
+Supervisor Xiaojun.Wang@dcu.ie
+PRINCE is a low-latency block cipher for pervasive computing applications. This project is to implement the
+PRINCE block cipher on FPGA, and analyse its performance in terms of throughput, hardware resource
+requirement and power consumption. The implementation should be efficient in terms of space and power
+consumption, so that it can be deployed in resource and power constrained devices in the internet of things
+application scenarios. The implementation should also consider resistance to side-channel attacks.
+Project Area Cryptography
+Project Technology VHDL
+39
+Project Title Flood Analysis System
+Name Karl Gillespie
+Email karl.gillespie3@mail.dcu.ie
+Programme Computer Applications
+Supervisor Marija.Bezbradica@dcu.ie
+This project is to help detect floods during severe weather conditions. It uses SAR images provided by the
+European Space Agency to train a neural network to recognise flooded areas and provide information about the
+affected areas. The aim of the project is to investigate the effectiveness of new emerging image classification
+architectures in providing an early warning system against the increasing adverse weather conditions caused
+by climate change.
+Project Area Sensor Technology, Image Video Processing, GPS GIS, Environmental Mapping, Data
+Analytics, Automation, Artificial Intelligence
+Project Technology Python
+47 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+40
+Project Title Investigation of braided fibre structures for applications as ligaments or tendon
+replacements
+Name Evin Keane
+Email evin.keane24@mail.dcu.ie
+Programme Biomedical Engineering
+Supervisor Garrett.McGuinness@dcu.ie
+This project investigates the mechanical properties of various braided PVA fibre structures, for applications
+as artificial ligament replacements. Specifically, this project focuses on the ACL for the basis of desirable
+mechanical properties and aims to suggest a suitable braided structure that can be further explored in future
+research projects. The project consisted of three phases, which involved the design of a braiding rig to generate
+braided structures, the generation of braided PVA structures and mechanical testing of generated fibres.
+Project Area Biomedical Engineering
+Project Technology Solidworks
+41
+Project Title Holla Recruitment
+Name Chikelue Emmanuel Okigb
+Email chikelue.okigbo2@mail.dcu.ie
+Name Conor Brabazon
+Email conor.brabazon2@mail.dcu.ie
+Name Denise Purvina
+Email denise.purvina2@mail.dcu.ie
+Programme Enterprise Computing
+Supervisor Markus.Helfert@dcu.ie
+For this project we have created a web application to advertise local jobs to ideal candidates and to provide
+students with a useful recruitment tool. Our application is designed to grant students a source of income in the
+form of short-term employment. We have engineered a server and a mobile application from which our services
+can be accessed.
+Project Area Web Application
+Project Technology CSS
+42
+Project Title Heads-Up Computer Poker
+Name Neil Saccardo
+Email neil.saccardo2@mail.dcu.ie
+Programme Computer Applications
+Supervisor David.Sinclair@dcu.ie
+This project allows users to play Heads-Up Texas hold’em poker. Heads-Up poker is one-on-one poker in
+which the blinds increase as the game progresses. The project consists of the Poker AI, developed in Java,
+and an AngularJS/HTML5 front end which allows users to play a game against the AI in their web browser.
+Project Area Artificial Intelligence, Web Application
+Project Technology AngularJS, Java
+48 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+43
+Project Title MyMedication
+Name Stephanie Bellew
+Email stephanie.bellew3@mail.dcu.ie
+Name James McDonnell
+Email james.mcdonnell28@mail.dcu.ie
+Programme Enterprise Computing
+Supervisor Jane.Kernan@dcu.ie
+MyMedication is a notification-based medication scheduler that helps to assist the user in organising, tracking
+and taking their medications. It is designed to simplify the process and remove any uncertainties. MyMedication
+informs the user with constant notifications and alerts until they have interacted with our application and have
+selected they have taken their medications. The user can also designate a next of kin/carer who will receive
+these alerts when the user hasn’t taken their medications.
+Project Area Mobile App, Databases, Android
+Project Technology SQL, Java, HTML5, CSS
+44
+Project Title Absentify
+Name Mícheál Fitzpatrick
+Email micheal.fitzpatrick44@mail.dcu.ie
+Name Hywel Lloyd
+Email hywel.lloyd3@mail.dcu.ie
+Programme Enterprise Computing
+Supervisor Cathal.Gurrin@dcu.ie
+Absentify is an absence tracking web application, initially aimed at schools. It allows parents/guardians to
+digitally submit the reason for their child’s absence to the school. Absentify replaces the current inefficient pen
+and paper note system. It automates the system, making it more efficient for both parents/guardians and
+schools. Parents/guardians are more likely to submit the required information and it is stored in a single
+repository. The application is built using the MEAN stack.
+Project Area Web Application
+Project Technology AngularJS, CSS, HTML5, Node.js, REST, Async, Bootstrap, Backbone.js, ExpressJS,
+MongoDB, Mongoose, Passport.js
+45
+Project Title Wireless Android keyboard and mouse
+Name Arpit Chaudhary
+Email arpit.chaudhary2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Stephen.Blott@dcu.ie
+This project is an Android-based project that controls Linux PC keyboard functions and mouse operations
+through an Android mobile phone. The application requires a WiFi connection between the computer and the
+Android device helping a user to access the computer remotely instead of sitting beside it overcoming the
+limitations of a mouse and keyboard.
+Project Area Android
+Project Technology Java
+49 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+46
+Project Title CourseHappy
+Name Áine Nic Suibhne
+Email aine.nicsuibhne2@mail.dcu.ie
+Name Danika Doonan
+Email danika.doonan2@mail.dcu.ie
+Programme Enterprise Computing
+Supervisor Markus.Helfert@dcu.ie
+CourseHappy is a unique web application designed to guide potential third level students to their future
+academic path. Our application is tailored to help students find a third level college and course that caters to
+their personality and individual aptitude level. The psychometric questions asked by our application will depend
+on the users’ choice of field, e.g. computing, nursing, etc. Our unique scoring mechanism will present their
+results of college courses in a table format making their college preference effortless!
+Project Area Web Application
+Project Technology HTML5, JavaScript, PHP, SQL, CSS
+47
+Project Title Apptendance
+Name Ryan Treanor
+Email ryan.treanor2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Marija.Bezbradica@dcu.ie
+This project is an Android application that uses the Google Maps API and the user’s current location to create a
+lecture attendance recording platform. This application will use the user’s timetable to show on the map where
+the user’s next lecture is and also the lecture time. Once the time approaches the lecture time the application
+will record the lecture as ‘Attended’-based on the user’s current location and the lecture location.
+Project Area Mobile App, Android
+Project Technology Java, SQL, XML
+48
+Project Title Efficient Simulation Techniques for Circuits
+Name Robert Beirne
+Email robert.beirne3@mail.dcu.ie
+Programme Electronic and Computer Engineering
+Supervisor Marissa.Condon@dcu.ie
+This project examines simulation techniques for circuits with oscillatory signals. The envelope transient
+harmonic balance and the envelope following method are considered. This project is concerned with linear and
+nonlinear circuits. The methods are compared to standard differential equation solvers in terms of efficiency and
+accuracy.
+Project Area Circuit Modeling
+Project Technology MATLAB
+50 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+49
+Project Title Car Service History
+Name Povilas Auskalnis
+Email povilas.auskalnis2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Stephen.Blott@dcu.ie
+Car Service History moves paper-based car service history onto the internet by storing servicing details online
+where it will not get lost throughout the lifetime of a car. It makes use of optical character recognition to read
+registrations and associates servicing history to each car identified by the registration in a central location. It
+simplifies car buying by making it easy for potential buyers to check out the servicing history of a car before
+going to view it.
+Project Area Android, Automotive Technology, Databases, Mobile App, Model View Controller,
+Network Applications, Software Development, Web Application
+Project Technology CSS, HTML5, Java, JavaScript, JQuery, Node.js, REST, NoSQL, Optical character
+recognition
+50
+Project Title Very Low Frequency (VLF) Radio Observatory
+Name Fady Makram Max Abdelmalek
+Email fady.abdelmalek2@mail.dcu.ie
+Programme Information and Communications Engineering
+Supervisor Patrick.McNally@dcu.ie
+The Earth produces electromagnetic radiation due to natural phenomena such as thunderstorms or aurorae and
+can also can experience “sudden ionospheric disturbances” (SIDs) during solar flares. These disrupt
+telecommunications and GPS systems. SIDs are especially easy to measure in the VLF spectral region (e.g.
+3-30+ kHz). This project discusses the design of a VLF receiver and will use captured data to extract information
+on the state of the Earth’s ionosphere.
+Project Area Telecommunications, Power Electronics, Circuit Modeling, Arduino
+Project Technology MATLAB, LTSpice for designing the circuit and Arduino for switching
+51
+Project Title Consensus Ad recommendation system
+Name Robert Lucey
+Email robert.lucey3@mail.dcu.ie
+Name Luke Barr
+Email luke.barr2@mail.dcu.ie
+Programme Computational Problem Solving and Software Development
+Supervisor David.Gray@dcu.ie
+Displaying appropriate advertisements using machine learning techniques in a custom collaborative filtering
+system to passersby based on their interests and demographics. Interests are supplied by an installable
+Android library coordinating with nearby low energy bluetooth beacons placed around advertisement displays.
+Demographics are gained through cameras placed around these advertisement displays, images are then sent
+to Microsoft’s Computer Vision API for image classification. Using a combination of this data an appropriate
+advertisement is chosen.
+Project Area Android, Artificial Intelligence, Data Analytics, Machine Learning, Computer Vision
+Project Technology Java, Python, REST, NoSQL, JSON
+51 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+52
+Project Title CollegeJobs
+Name Darren Dowling
+Email darren.dowling22@mail.dcu.ie
+Name Dean Cregan
+Email dean.cregan2@mail.dcu.ie
+Programme Enterprise Computing
+Supervisor Rory.OConnor@dcu.ie
+Collegejobs is a jobs platform that enables college students to apply for graduate jobs and internships. This
+service will combine the conventional jobs website with a tracking and matching service to improve the
+recruitment experience. The site will be effective in matching employers with appropriate work candidates based
+on skills, experience, courses studied, etc. Collegejobs will enable students to register as job seekers, build
+their profiles and search for jobs and internships matching their skill sets.
+Project Area Web Application
+Project Technology PHP, SQL, Bootstrap, JQuery, JavaScript, Java, CSS, HTML5
+53
+Project Title College Carpool
+Name Stephen Cassedy
+Email stephen.cassedy2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Marija.Bezbradica@dcu.ie
+College Carpool is is a mobile application designed for an Android system. It caters for college students looking
+to carpool to and from college. The app has a few main features including login/registration, instant messaging,
+real-time user mapping and carpool planning. User information is stored in JSON format in a Firebase
+database.
+Project Area Mobile App, Instant Messaging, Databases, Android
+Project Technology XML, Java
+54
+Project Title Anti-Sway Control
+Name Mark Grimes
+Email mark.grimes6@mail.dcu.ie
+Programme Mechatronic Engineering
+Supervisor Harold.Esmonde@dcu.ie
+Anti-Sway control is implemented in crane systems so that when the payload is moved from one point to another
+it does not sway at the end of its travel. In this project antisway control will be implemented on a rigid and a
+flexible system for comparison purposes with a view to improving anti-sway control for the flexible case. Various
+control schemes will be considered by modeling the system and simulating proposed control strategies.
+Project Area Control Systems
+Project Technology MATLAB
+52 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+55
+Project Title Schedule Me
+Name Ruth Kelly
+Email ruth.kelly58@mail.dcu.ie
+Programme Computer Applications
+Supervisor Donal.Fitzpatrick@dcu.ie
+Schedule me is a web application which handles all aspects of scheduling staff in businesses that operate on
+a shift-work basis. Every staff member has their own account in which they input their availability and their
+time-off requests. The application uses this information, along with information given by the manager, to
+generate a roster.
+Project Area Web Application
+Project Technology CSS, Clojure ClojureScript Elasticsearch, REST, HTML5
+56
+Project Title Altruism in Simple Societies
+Name Shane Ryan
+Email shane.ryan79@mail.dcu.ie
+Programme Computer Applications
+Supervisor Mark.Humphrys@dcu.ie
+Altruistic traits have survived in humans and other species for thousands of years – the ability to cooperate
+provides an evolutionary advantage. But in the zero-sum game of survival, being too trusting is fatal. This project
+was built to provide a simulation environment to measure the performance of various strategies among
+creatures competing for survival. Agents controlled by AI algorithms move about a 3D landscape collecting and/
+or sharing ‘food’ needed for their survival and reproduction.
+Project Area Artificial Intelligence, Simulation
+Project Technology Unity, C#
+57
+Project Title eTasker app for business – flexible and effective tool for managing tasks, processes
+and employees
+Name Egidijus Zutautas
+Email egidijus.zutautas2@mail.dcu.ie
+Programme Computational Problem Solving and Software Development
+Supervisor David.Gray@dcu.ie
+Managers, in real-time, can see tasks and employee locations on a map, assign tasks and monitor their
+execution. Employees can see all tasks they have been assigned to on their mobile app, constantly report task
+status, inform about materials used and take a photo of the work done. Clients sign completed task by leaving
+their signature in the employee’s eTasker app and rate quality of received service.
+Project Area Software Development, Web Application, Mobile App, Android
+Project Technology REST, Spring-Boot, Java, Maven, Log4J, HSQLDB, HTML/CSS, JS/jQuery, AJAX,
+Bootstrap, Git, Junit, Android SDK, Jenkins, Waffle.io
+53 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+58
+Project Title Analysis of Six Sigma Tools and Techniques
+Name Aoife Gaffney
+Email aoife.gaffney23@mail.dcu.ie
+Programme Biomedical Engineering
+Supervisor Tamas.Szecsi@dcu.ie
+The project involves the analysis of tools and techniques used in Six Sigma manufacturing, with a focus on
+statistical tools. The project investigates how these tools can be applied to a manufacturing process, using raw
+data. The application areas, advantages and disadvantages of each tools are also examined through the analysis
+of various case studies.
+Project Area Six Sigma
+Project Technology Excel/VB
+59
+Project Title SecurIOT
+Name Freddie Hayden
+Email haydenf3@mail.dcu.ie
+Programme Computer Applications
+Supervisor Stephen.Blott@dcu.ie
+An Internet of Things-based household security system using Android and Raspberry Pi. The system allows for
+a range of smart devices to be integrated using WiFi or, a standardised protocol, z-wave. The user can monitor
+their home security, change or trigger security responses, and remotely change system setting from an
+application on their Android device. Applications are securely paired with the home system to ensure privacy.
+Peace of mind in your pocket.
+Project Area Android, Internet of Things, Mobile App, RaspberryPi, Software Development
+Project Technology C/C++, Java
+60
+Project Title Video Captioning using Neural Networks
+Name Dionne Meehan
+Email dionne.meehan8@mail.dcu.ie
+Programme Computer Applications
+Supervisor Alan.Smeaton@dcu.ie
+This project classifies basic frame captions from a neural network using natural language processing, exploits
+alternative tagging to optimise and enhance the captions leading to the derivation of an overall augmented
+caption for Vine videos. This project uses a variety of technologies including IBM’s Watson image recognition
+and natural language processing together with off-the-shelf image tagging APIs.
+Project Area Artificial Intelligence, Data Analytics, Image Video Processing, Natural Language
+Processing, Software Development
+Project Technology Python, Eclipse, REST
+54 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+61
+Project Title CloudCleanse
+Name J.P. Casserly
+Email johnpaul.casserly3@mail.dcu.ie
+Name Sam Benville
+Email samuel.benville2@mail.dcu.ie
+Programme Enterprise Computing
+Supervisor Gareth.Jones@dcu.ie
+CloudCleanse is a website-based service that will help the user review and sanitise all of their social media
+accounts. Our system will automatically crawl through the user’s social media account and by using a list of
+predetermined blacklisted words we can detect any adverse behaviour they may wish to review and then delete.
+Project Area Automation, Information Retrieval, Social Networking
+Project Technology SQL, PHP, Java
+62
+Project Title Educade
+Name Niall Kiely
+Email niall.kiely5@mail.dcu.ie
+Programme Computer Applications
+Supervisor Monica.Ward@dcu.ie
+This project is a video game application to help students learn a new language. Each game targets a different
+area of the language learning process. The teacher can view the student’s results in these games to see where
+improvement is needed. The project aims to add enjoyment and interactivity to language learning while
+improving the student’s ability.
+Project Area Educational, Gaming, Computer Assisted Language Learning (CALL)
+Project Technology C#, PHP, SQL, Unity
+63
+Project Title Secure Analytical Technical Information Service Healthcare (SATIS Healthcare)
+Name Faith Nneka Isichei
+Email Faith.Isichei2@mail.dcu.ie
+Name Sean Ryan
+Email Sean.Ryan77@mail.dcu.ie
+Programme Enterprise Computing
+Supervisor Andrew.McCarren@dcu.ie
+The need to improve our lifestyle has lead to the creation of wearable technologies such as Fitbit. It has also
+lead to the creation of applications such as My Fitness Pal. However all these applications and devices are
+merely for personal use and lack the ability to let healthcare professionals access this data. This problem
+resulted to the birth of SATIS Healthcare. SATIS stands for Secure Analytical Technical Information Services
+hence summarising the aim of our final year project.
+Project Area Android, Cloud Computing, Databases, Data Analytics, Data Mining, Information
+Retrieval, Mobile App, Software Development, Web Application
+Project Technology SQL, PHP, CSS, Java, JavaScript, Node.js
+55 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+64
+Project Title Automatic Error Correction Tool
+Name Lauren Geoghegan
+Email lauren.geoghegan7@mail.dcu.ie
+Programme Computer Applications
+Supervisor Andy.Way@dcu.ie
+This is an automatic error correction tool for academic papers. These errors include improper use of academic
+and scientific English and incorrect placement of references.These specific errors lie undetected by word
+processors and other tools, but are critical if good-quality academic writing is to be assured. The application
+allows a user to upload their chosen file in any text format where the engine will perform analysis, and the
+corrected version of the file is returned.
+Project Area Educational
+Project Technology Python
+65
+Project Title Drone Traffic Simulation
+Name Jack Murphy
+Email jack.murphy238@mail.dcu.ie
+Programme Computer Applications
+Supervisor Alan.Smeaton@dcu.ie
+This project simulates drone traffic in a cityscape environment. It achieves a smooth flow of traffic by using
+multiple lanes using the width of each street as well as the height of the buildings to protect the drones from the
+effects of the weather. The simulation will be run increasing the number of the drones until there is a collision.
+The statistics will be gathered and presented to show the effectiveness of the system.
+Project Area Data Analytics, Automation, 3D Modelling, Simulation, Software Development
+Project Technology .NET, C#, R, SQL, Nunit, EntityFramework
+66
+Project Title Derma Monitoring Application
+Name Conchuir Lynch
+Email conchuir.lynch84@mail.dcu.ie
+Programme Computer Applications
+Supervisor Suzanne.Little@dcu.ie
+This Android application allows users with skin issues to monitor changes as early as possible and to take
+action. Using intelligent image processing, this application can monitor several of the user’s skin irregularities
+such as melanomas, psoriasis and acne. Using insights from dermatology, this application promotes long term
+self-examination and allows users to share their results and records with dermatologists and doctors.This
+application also retrieves information for its users, relevant to their specific skin concern.
+Project Area Android, Computer Vision, Information Retrieval, Image Video Processing, Mobile App
+Project Technology Java, PHP, SQL, XML, OpenCV
+56 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+67
+Project Title Omniwheel Platform for Environment Sensing
+Name Abin Saju
+Email abin.saju2@mail.dcu.ie
+Programme Mechatronic Engineering
+Supervisor Jennifer.Bruton@dcu.ie
+Design of an Omni-wheel platform for low-cost environment sensing. Research into different types of wheels
+and sensors to effectively avoid obstacles. The project involves analysis of the wheel mechanics, sensor
+selection, micro-controller wheel actuation, sensor data acquisition and motion control.
+Project Area Embedded Systems, Motion Analysis, Robotics, Sensor Data, Sensor Technology
+Project Technology C#
+68
+Project Title Machine Translation for Food Ingredients
+Name Matthew Tang
+Email matthew.tang2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Andy.Way@dcu.ie
+This application allows multiple users to store their details (names and allergies) and the application notifies the
+user whether it is safe to consume a product, based on this information. The application will prompt the user to
+take a photo of the allergen label of the product. The allergens will be read in and, if need be, translated into the
+user’s preferred language before checking the user's known allergens.
+Project Area Mobile App, Optical Character Recognition, Android
+Project Technology XML, Java
+69
+Project Title Design, Build and Control of a 3D Printer
+Name Abdulmuhsen Al Fayez
+Email abdulmuhsen.alfayez2@mail.dcu.ie
+Programme Manufacturing Engineering with Business
+Supervisor Joseph.Stokes@dcu.ie
+Rapid prototyping is changing the product development process and the manufacturing industry in general,
+it enables engineers to create prototypes within few hours and fraction of the cost. This project aims to source
+two 3D printer kits and then design and build through integrating the two printers into one and control a double
+deposition 3D printer, in order to enhance its functionality and to reduce manufacturing time.
+Project Area 3D Modelling, Additive Manufacturing, Mechanical Design and Manufacture
+Project Technology Solidworks
+57 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+70
+Project Title iDMe
+Name Orla Dunne
+Email orla.dunne22@mail.dcu.ie
+Name Evelyn Noonan
+Email evelyn.noonan4@mail.dcu.ie
+Programme Enterprise Computing
+Supervisor Cathal.Gurrin@dcu.ie
+Our mobile application iDMe digitalises your government identification documents such as your passport, in
+order to provide proof of your identification. This application will replace the need for carrying a physical copy of
+your ID. Our application was developed with the aim of reducing the chances of users misplacing their ID, while
+considering technology trends such as IoT.
+Project Area Android
+Project Technology Java, PHP, SQL, CPanel
+71
+Project Title TextEngine
+Name Imogen Stewart
+Email 13312376@mail.dcu.ie
+Programme Computational Problem Solving and Software Development
+Supervisor David.Gray@dcu.ie
+TextEngine is a framework that provides facilities for developing text-based multiplayer games, written in C++
+and delivered through the web stack (HTML/CSS/JS). The framework comes with a HTTP API for supplying data
+to the web page, a web front end with HTML Canvas renderer and an example game, as well as various support
+features like terrain generation, saving/loading and account management.
+Project Area Gaming
+Project Technology C/C++
+72
+Project Title Design of a Haptic Feedback Device for Flight Condition and Situational Awareness
+Name Osama Hammad
+Email osama.hammad2@mail.dcu.ie
+Programme Mechatronic Engineering
+Supervisor Noel.Murphy@dcu.ie
+This project proposes a solution for the problem of sensory saturation in aircraft pilots. Research has shown this
+problem to be a significant cause of aircraft accidents. The project uses flight simulation software to provide
+information about the condition of an aircraft in flight, including ‘slip’ and angle-of-attack. The information is
+processed to check for out-of-balance/dangerous flight conditions, then activates a haptic feedback device
+which generate vibrations to notify the pilot of these flight conditions.
+Project Area Robotics, Mechatronic Systems, Device Design
+Project Technology C/C++
+58 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+73
+Project Title Impact of a Bottleneck on the Performance of a Lean Manufacturing System
+Name Liam Faulkner
+Email liam.faulkner2@mail.dcu.ie
+Programme Manufacturing Engineering with Business
+Supervisor John.Geraghty@dcu.ie
+Lean manufacturing environments are often controlled by production and inventory control strategies such as
+kanban control, CONWIP, etc. Or work (tasks) are distributed to stations to balance the line to the desired takt
+time. The aim of this project is to investigate the impact that a bottleneck would have on such a line. Issues that
+could be investigated include line length, severity of the bottleneck and recovery time after bottleneck
+occurrence.
+Project Area Lean Manufacturing
+Project Technology Excel/VB, ExtendSIM
+74
+Project Title Peel Characteristics of medical tapes and adhesives
+Name Conor Gribben
+Email conor.gribben2@mail.dcu.ie
+Programme Biomedical Engineering
+Supervisor Garrett.McGuinness@dcu.ie
+This project develops a system for testing the adhesiveness of thin polymer or gel samples to metal or other
+substrates. The project principally involved the development of an adjustable angle peel test apparatus followed
+by a programme of tests on bio-materials of interest. A numerical model describing peeling of a soft substrate
+from a stiff substrate was developed. Bio-materials were then characterised based on mechanical properties.
+Project Area Biomedical Engineering
+Project Technology Solidworks, Excel/VB
+75
+Project Title Loco
+Name Dejan Maksimovic
+Email dejan.maksimovic2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Gareth.Jones@dcu.ie
+Loco is a modern day Android application targeting primarily instant events and real-time postings. Inspired by
+Foursquare and Snapchat, Loco brings a unique feel and experience to modern day socialising. Loco is built
+from the ground up to cater for scalability, built on a RESTful microservice architecture in NodeJS and hosted on
+an EC2 AWS instance. Loco brings advanced Android functionality to users, provides geolocation-based event
+finding, real-time search capabilities, personalised recommendations and instant notifications.
+Project Area Cloud Computing, Android, Information Retrieval, GPS GIS, Device Design, Mobile App,
+Software Development, Social Networking, Recommendation System
+Project Technology Java, JavaScript, Node.js, Python, REST, NoSQL, XML, ElasticSearch
+59 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+76
+Project Title Takeaway Direct
+Name Colm Prone
+Email colm.prone2@mail.dcu.ie
+Name Conor Freeman
+Email conor.freeman3@mail.dcu.ie
+Programme Enterprise Computing
+Supervisor Marija.Bezbradica@dcu.ie
+Takeaway Direct is a mobile application which provides users with a ‘one stop shop’ for all their takeaway needs,
+offering a more personalised ordering experience. Takeaway Direct tracks the user’s location and based on their
+location shows the most popular meal deal/meals in their delivery radius and allows users to order online or
+call the restaurant directly. Save time on searching different menus, see the most popular meals with one tap.
+Project Area Mobile App
+Project Technology Java
+77
+Project Title Analysis of the Effect of varying the acid washing of glass micro-particles on the
+properties of EmboStasisP uterine fibroid treatment
+Name Sean Sharkey
+Email sean.sharkey5@mail.dcu.ie
+Programme Manufacturing Engineering with Business
+Supervisor Owen.Clarkin@dcu.ie
+The Biomaterials Research Group in DCU is currently developing EmboStasisP, a composite hydrogel for the
+treatment of uterine fibroids. EmboStasisP consists of a polymeric alginate, a novel bioactive glass and
+glucono-delta-lactone (GDL). This project examines the effect that acid washing the bioactive glass has on the
+working time, setting time and hardening time as well as on the compressive strength of the composite hydrogel
+by varying the acid washing time and varying the concentration of the acid solution
+Project Area Biomedical Engineering
+Project Technology Excel/VB
+78
+Project Title Music Transcription
+Name Jerzy Baran
+Email jerzy.baran2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Alistair.Sutherland@dcu.ie
+This project investigates the feasibility of note frequency analysis and time-stretching of audio in real-time. The
+goal of the application is to make it easier for beginner musicians to transcribe piano music from binary audio
+data to sheet music or any other format of their preference.
+Project Area Graphics, DSP
+Project Technology OpenGL, Fast Fourier Transform, DSP, C/C++
+60 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+79
+Project Title TeamConnect
+Name Gary Byrne
+Email gary.byrne39@mail.dcu.ie
+Programme Computer Applications
+Supervisor John.McKenna@dcu.ie
+TeamConnect is a web application for GAA coaches so they can easily manage their team performances. Each
+coach can add/edit teams/players, create events such as trainings or matches and generate statistics based on
+these events. The coach will be shown a live game mode with options to select players and say how they are
+doing. Reports are then generated from these results. Players are notified of upcoming events via SMS sending.
+Project Area Web Application
+Project Technology Node.js, REST, ExpressJs, MongoDB, JQuery, JavaScript, HTML5, CSS, AngularJS
+80
+Project Title Low Modulus PMMA Based Bone Cement for Osteoporotic Bone
+Name Neil Sweeney
+Email neil.sweeney23@mail.dcu.ie
+Programme Biomedical Engineering
+Supervisor Nicholas.Dunne@dcu.ie
+Poly(methyl methacrylate) (PMMA) bone cement is currently used in vertebral augmentation procedures such as
+vertebroplasty and kyphoplasty. Although the use of the cement in these procedures provides pain relief and
+stability to the fracture site, the cement has a relatively high stiffness compared to the cancellous bone. This
+mismatch can lead to adjacent vertebral fractures following the procedures. The aim of this project was to
+reduce the modulus of the bone cement through the addition of agents to the cement.
+Project Area Biomedical Engineering
+Project Technology None
+81
+Project Title Self-driving robot using image recognition
+Name Ioana Covic
+Email ioana.covic2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Gareth.Jones@dcu.ie
+Toby is an Arduino-based robot able to navigate a maze using its sensors. The Arduino kit integrates with a
+mobile Android app using serial communication over USB. Toby can follow directions, sense junctions and turn.
+He uses image recognition for traffic signs and his destination and publishes the route in real-time. The mobile
+application displays the camera view, robot status and route on a mirroring PC. Toby targets audiences
+interested in the vast world of robotics and image recognition.
+Project Area Android, Arduino, Automation, Automotive Technology, Image Video Processing,
+Mobile App, Robotics, Sensor Technology, Vehicle Control
+Project Technology Java, Arduino Programming Language
+61 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+82
+Project Title Electronic Drum Pad Design
+Name James Kenny
+Email james.kenny24@mail.dcu.ie
+Programme Mechatronic Engineering
+Supervisor Alan.Kennedy@dcu.ie
+This project details the design of an electronic drum pad that is inexpensive and reasonably simple to construct.
+Testing and analysis of the drum is completed to investigate how various factors in the drums design affect the
+overall performance of the drum pad.
+Project Area Device Design, Mechanical Design and Manufacture, Sensor Technology
+Project Technology Solidworks
+83
+Project Title Art-Drop
+Name Iulia Vitca
+Email iulia.vitca2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Gareth.Jones@dcu.ie
+Art-Drop is an interactive web application developed using the Spring framework. It aims to fill in the gap
+between browse and search by tailoring art recommendations specifically to a user’s taste. The application
+examines popularity data and conjointly explores user preferences to make topical suggestions to users, thus
+allowing them to continually discover new art pieces, galleries and artists. In addition, Art-Drop acts as a social
+platform for kindred artists, enabling them to connect and interact with each other.
+Project Area Data Analytics, Model View Controller, Web Application
+Project Technology Eclipse, HTML5, Java, JavaScript, SpringMVC, SQL, XML
+84
+Project Title Design and Testing of a Passive Radon Device
+Name Thomas Ryan
+Email thomas.ryan35@mail.dcu.ie
+Programme Mechanical and Manufacturing Engineering
+Supervisor Brian.Corcoran@dcu.ie
+The aims of this project were to design and test a passive radon device. The device sits on top of a pipe, which
+in theory would be connected to a radon sump beneath a property. The device accelerates air across a channel
+in order to create a suction of air from the pipe, which would mitigate radon from dwelling in a sump. The
+newly-designed device is tested against other passive devices practically, and by using CFD software.
+Project Area Fluid Mechanics, Device Design
+Project Technology ANSYS Workbench, FUENT, Solidworks, Excel/VB
+62 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+85
+Project Title Activity Recognition on smartphones using sensor fusion
+Name Sean Colgan
+Email sean.colgan@mail.dcu.ie
+Programme Electronic and Computer Engineering
+Supervisor Robert.Sadleir@dcu.ie
+Activity Recognition is a growing field in context-aware computing that deals with automatically recognising
+human activities based on sensor data. Smartphone devices offer a range of on-board sensors that can be
+used to determine a performed activity. Previous work has primarily focused on activity category recognition,
+e.g. walking, running and still. This project focuses on the recognition of potential sub activities with the goal
+of developing an Activity Recognition Framework that can be easily configured to recognise new activities.
+Project Area Android, Data Analytics, Sensor Data, Sensor Technology, Software Development
+Project Technology DSP, Fast Fourier Transform, Java, MATLAB
+86
+Project Title Investigation of high speed radio over fibre distribution systems for future high speed
+5G networks
+Name Sean Moran
+Email sean.moran32@mail.dcu.ie
+Programme Electronic and Computer Engineering
+Supervisor Liam.Barry@dcu.ie
+This project investigates how 5G networks could be implemented through radio over fibre through a MATLAB
+simulation. This simulation consists of a multi carrier system transmitter receiver pair which is passed through
+an optical channel and to observe if it is viable to be a suitable candidate for 5G.
+Project Area Optical Communications, DSP, Software Development, Telecommunications, Wireless
+Technology
+Project Technology MATLAB
+87
+Project Title Find Your Doppelgänger
+Name Cian McGuinness
+Email cian.mcguinness34@mail.dcu.ie
+Programme Computer Applications
+Supervisor Suzanne.Little@dcu.ie
+Find Your Doppelgänger is an Android application that allows users to find people around the world who look
+like them. The user takes a selfie while registering and then submits the image. The app returns a short list of
+people (other users) who look like most like him/her. Users are notified when somebody new who looks like
+them registers with the app in the future.
+Project Area Android
+Project Technology Java, XML
+63 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+88
+Project Title Conjugate Electrospinning of Biomaterials
+Name Bartosz Chamiga
+Email bartosz.chamiga2@mail.dcu.ie
+Programme Biomedical Engineering
+Supervisor Garrett.McGuinness@dcu.ie
+Electrospinning has proven an effective and versatile method to produce nanofibres with controlled fibre
+morphology. Most electrospinning materials are produced in the form of randomly-orientated micro and nano
+woven mats with low mechanical properties. The aim of this project is to develop and validate a novel conjugate
+electrospinning rig in order to create highly twisted and highly aligned nanofibre yarns. The incorporation of
+these well-defined three-dimensional fibrous architectures in more complex structures overcomes many
+limitations of traditionally electrospun biomaterials.
+Project Area Device Design, Biomedical Engineering, Advanced Material Engineering
+Project Technology Solidworks
+89
+Project Title Water hammer and cistern noise
+Name Paul Farrell
+Email paul.farrell42@mail.dcu.ie
+Programme Mechanical and Manufacturing Engineering
+Supervisor Brian.Corcoran@dcu.ie
+This project investigates the noise being produced from a working ball-cock valve as it fills a water tank, with the
+aim to reduce it. The noise generated as a result of the filling was investigated through the implementation of
+alternative/new components used as a solution to the problem. The project involved the design of components
+using SolidWorks which were then 3D printed. The decibel readings were recorded for each alternative concept
+to analyse the noise reduction.
+Project Area 3D Modelling, Device Design, Fluid Mechanics, Mechanical Design and Manufacture,
+Thermodynamics
+Project Technology Solidworks
+90
+Project Title On-Demand Grocery Marketplace
+Name Lucas Ramos
+Email lucas.dealmeidarodrigues2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Jane.Kernan@dcu.ie
+On-Demand Grocery Marketplace is an e-commerce web application. Its architecture consists of a RESTful
+microservices oriented middle-tier written in Java, using the Spring Boot framework. Its back-end consists of
+a MongoDB Server running various databases, and its front-end is a web template, following the MVVM (Model
+View ViewModel) design pattern. The On-Demand Grocery Marketplace serves the foreign food industry, so
+shops can have an online presence in Ireland.
+Project Area Model View Controller, Web Application, E-commerce, Microservices
+Project Technology CSS, HTML5, Java, JavaScript, JQuery, REST, NoSQL, Spring Boot
+64 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+91
+Project Title NearBuy
+Name Ryan McDyer
+Email ryan.mcdyer2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Cathal.Gurrin@dcu.ie
+NearBuy is a platform that allows retailers to advertise time-sensitive deals that are taking place in their stores.
+These deals are presented to Customers on a map centred on the Customer. Payment is then performed
+through the Application, presenting a monetisation opportunity.
+Project Area Android
+Project Technology Docker, Java, JavaScript, Node.js, REST, NoSQL
+92
+Project Title Rapid prototyping and validation of next generation wearable sensors for personal
+health monitoring
+Name Ruairí Barrett
+Email ruairi.barrett26@mail.dcu.ie
+Programme Biomedical Engineering
+Supervisor Dermot.Brabazon@dcu.ie
+This project entailed producing 3D models of concept designs for a watch-type platform for sensing sodium
+levels in sweat. This platform can be used as a primary indicator for Cystic Fibrosis, and for dehydration in elite
+athletes and firefighters. The project involved 3D printing of prototype designs as well as characterisation of
+different absorbent materials to be used in the watch as a wicking material. The fluid handling system was also
+redesigned to incorporate 3D printing technologies.
+Project Area 3D Modelling, Device Design, Mechanical Design and Manufacture
+Project Technology MATLAB, Solidworks
+93
+Project Title Smart meter energy usage statistics
+Name Steven Smith
+Email steven.smith52@mail.dcu.ie
+Programme Electronic and Computer Engineering
+Supervisor Gabriel.Muntean@dcu.ie
+This project involves looking at the use of smart meters and the potential significance of smart meter data to
+increase energy efficiency in the residential sector.
+Project Area Energy Conservation, Internet of Things
+Project Technology R, Java, Eclipse, Excel/VB
+65 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+94
+Project Title Advanced Human Interface Devices (HID) for Flight Simulation Applications
+Name Lukasz Markowski
+Email lukasz.markowski2@mail.dcu.ie
+Programme Electronic and Computer Engineering
+Supervisor Derek.Molloy@dcu.ie
+This project investigates the use of FPGA technology as a cost-effective method to achieve live video overlays to
+be used for “heads-up” navigation of aircraft and other vehicles. The overlays are used to display data from
+sensors that are connected to the device. The project also involves building a custom HID device. A Xilinx Zynq
+platform is being used as the development platform with an Arduino being used as a sensor slave device.
+Project Area Automotive Technology, Gaming, Graphics, Image Video Processing, Vehicle Control,
+Arduino
+Project Technology C/C++, Eclipse, FPGA
+95
+Project Title Energy Efficiency for Cleanrooms Modelling Energy Requirements
+Name Matthew Nulty
+Email matthew.nulty3@mail.dcu.ie
+Programme Mechanical and Manufacturing Engineering
+Supervisor Lorna.Fitzsimons@dcu.ie
+The aim of this project is to investigate the current control strategy and operation of a cleanroom with the aim of
+reducing the energy consumption while maintaining the desired environmental conditions. The project involves
+reviewing previous research and finding opportunities for energy savings in the current cleanroom control
+strategy. The focus of this project is on assessing the efficiency of the chiller unit and reviewing the control logic.
+Project Area Energy Conservation
+Project Technology Cylon Active Energy
+96
+Project Title It’s Dangerous To Go Alone!
+Name Robert McGrane
+Email robert.mcgrane2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Renaat.Verbruggen@dcu.ie
+This project is a top down rouge-like procedurally generated game that uses the Unity engine. The game is
+focused around progressing through a dungeon that is different each time you play, if you get Game Over you
+must start from the beginning so fresh levels keep the game challenging. The game draws inspiration from
+older video games. It takes the look and feel of a classic game but with the gameplay of modern rouge-likes
+mixed in.
+Project Area Gaming, Artificial Intelligence
+Project Technology C#
+66 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+97
+Project Title Isothermal Temperature Control for use with a Squeeze Film Rheometer
+Name Sean Dunniece
+Email sean.dunniece2@mail.dcu.ie
+Programme Mechatronic Engineering
+Supervisor Harold.Esmonde@dcu.ie
+This project involves designing, building and testing a temperature control unit for use with a squeeze film
+rheometer, with the aim of investigating the effect of temperature on the rheological properties of soft solids
+and liquids.
+Project Area Arduino, Control Systems, Mechatronic Systems, Sensor Data
+Project Technology Arduino
+98
+Project Title 4D Visualiser
+Name Liam Tuite
+Email liam.tuite3@mail.dcu.ie
+Programme Computer Applications
+Supervisor Liam.Tuohey@dcu.ie
+This software provides a visual representation of 4-dimensional geometric objects. The user can select an object
+to inspect from a given list and customise its properties such as colour and transparency, as well as its rotation.
+The main use of this program is to provide a currently non-existent interface for displaying higher-dimensional
+geometry. This can be used by researchers in many branches of mathematics. The project also investigates the
+potential of abstract functionality in perspective projection in higher dimensions.
+Project Area Graphics
+Project Technology Eclipse, Java
+99
+Project Title External Door Closing Design System
+Name Gerard Moore
+Email gerard.moore25@mail.dcu.ie
+Programme Mechanical and Manufacturing Engineering
+Supervisor Alan.Kennedy@dcu.ie
+This project investigates the possible improvements of a door closing device and whether using an alternative
+designs will enhance the closing time and speed of a door. A door closing model was designed using a
+mass-weight concept and was assembled. The model was assessed and compared to an existing design using a
+control analysis program, Simulink. This program accounted for all external factors which contribute to closing
+speed and time.
+Project Area Device Design, Control Systems
+Project Technology Simulink, MATLAB
+67 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+100
+Project Title Pre-treatment of fruit waste towards the production of bio methane
+Name Abdulrhman Sabor
+Email abdulrahman.sabor2@mail.dcu.ie
+Programme Manufacturing Engineering with Business
+Supervisor Joseph.Stokes@dcu.ie
+With the increasing demand for energy, green renewable energies have recently gained more attention. This
+project aims to investigate the use of organic waste (fruit waste) to produce biogas. Mechanical pre-treatment
+was applied to the feedstock used to verify its impact extent in methane production. The conversion technology
+used in this project is anaerobic digestion (AD) as it’s the most common method for biomass conversion.
+Project Area Renewable Energy Technology
+Project Technology non
+101
+Project Title Irish Genealogy Simulation
+Name Ciaran Murphy
+Email ciaran.murphy286@mail.dcu.ie
+Programme Computer Applications
+Supervisor Mark.Humphrys@dcu.ie
+This project is a simulation of the history of Ireland, modelling the population and the major events of Irish
+history to determine the impact they’ve had on the modern day population of the island. The successive waves
+of British invasion and plantation and the religious barriers created by them are modelled to investigate how
+different groups integrated into the larger Irish population and how far back the most recent common ancestor
+of everyone alive in Ireland, excluding recent immigration.
+Project Area Simulation
+Project Technology C/C++
+102
+Project Title Statistical Approach to Automatic Video Captioning
+Name David James Gahan
+Email david.gahan7@mail.dcu.ie
+Programme Computer Applications
+Supervisor Alan.Smeaton@dcu.ie
+Using off-the-shelf tools available online, this project aims to complete the TRECVID Video to Text challenge.
+Calls are made to an image tagging API for video frames spaced one second apart. Using machine learning
+techniques, these are used to generate statistically probable sentences which describe the content of the video.
+Project Area Data Analytics, Image Video Processing
+Project Technology Python
+68 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+103
+Project Title Validating Finite Element Models using Photoelasticity
+Name Shane Little
+Email shane.little2@mail.dcu.ie
+Programme Mechanical and Manufacturing Engineering
+Supervisor Bryan.MacDonald@dcu.ie
+This project qualitatively validated a series of finite element models using photoelasticity. Photoelasticity is an
+experimental stress analysis technique that can be used to graphically show stress contours in a loaded
+structure. An algorithm was created in the finite element software that created a contour plot of stress in the
+loaded specimen. Both contour plots were compared and the finite element models were altered until they
+closely matched the stress contour plot obtained using photoelasticity.
+Project Area 3D Modelling, Mechanical Design and Manufacture, Photoelasticity
+Project Technology Solidworks, ANSYS APDL
+104
+Project Title Laser Surface Smoothing of 3D Printed Metal Components
+Name Hatim Barri
+Email hatim.barri2@mail.dcu.ie
+Programme Manufacturing Engineering with Business
+Supervisor Dermot.Brabazon@dcu.ie
+Additive manufacturing of metals faces a common problem of producing rough surface objects.This projects
+aims to improve the object’s surface, by analysing and testing the effect of the different parameters of the laser
+surface smoothing process on stainless steel objects, manufactured by metal additive manufacturing process or
+selective laser melting.
+Project Area Additive Manufacturing
+Project Technology CES
+105
+Project Title GTT (Project Management Web Application)
+Name James O’Hara
+Email james.ohara5@mail.dcu.ie
+Programme Computer Applications
+Supervisor Renaat.Verbruggen@dcu.ie
+This project’s aim is to integrate project management into the cloud in one unique web application. It combines
+a social media strength of rapid and efficient communication with optimised and proven project management
+techniques, centralised in one location that is simple yet sleek from basic projects to complex. This is a unique
+niche that centralises a project’s data into one location with file sharing. This removes multiple programs
+needed to fully integrate projects into the cloud, it’s a master key.
+Project Area Web Application
+Project Technology Ruby On Rails
+69 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+ 106
+Project Title Dashboard for Optimising Data Mining Algorithms
+Name Gareth Neacy
+Email gareth.neacy2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Mark.Roantree@dcu.ie
+This project is a web application designed to aid data miners. It allows users to upload datasets and run several
+data mining classification algorithms. Users can tweak algorithm parameters, normalise attributes and apply
+weights to attributes. Results are displayed to the user indicating which technique works best. Users can save
+datasets and results and return to where they left off at a later stage.
+Project Area Data Mining, Web Application
+Project Technology Node.js, Python, ReactJS Redux MongoDB Material-UI
+107
+Project Title Re-design a test rig for the study of an innovative heat engine – Fluid Flow Study
+Name Leslee Augustine Muttathottil
+Email leslee.muttathottil2@mail.dcu.ie
+Programme Mechanical and Manufacturing Engineering
+Supervisor Yan.Delaure@dcu.ie
+The purpose of this project is to develop a lab scale prototype of an innovative heat engine developed by an
+industrial partner with a view to studying the flow in a small but representative domain. A test rig was designed
+and built that captures all key characteristics of the real engine. It was used to study the temperature profile and
+deformation along the engine core in response to heated water flow and to visualise the fluid flow within the
+engine.
+Project Area Mechanical Design and Manufacture, Fluid Mechanics
+Project Technology Computational Fluid Dynamics, Solidworks, Excel/VB
+108
+Project Title B.A.N. MT
+Name Conall Malone
+Email conall.malone36@mail.dcu.ie
+Programme Computer Applications
+Supervisor Andy.Way@dcu.ie
+This project investigates how to build a state-of-the-art adaptive/incremental retrained neural machine
+translation system so that it can quickly learn knowledge from a new domain and achieve acceptable translation
+quality.
+Project Area Natural Language Processing
+Project Technology Python
+70 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+109
+Project Title Path Planning Sensors
+Name Conal Tormey
+Email conal.tormey5@mail.dcu.ie
+Programme Electronic Engineering
+Supervisor Jennifer.Bruton@dcu.ie
+This project involves the testing, evaluation, and modeling of a number of low-cost distance sensors for use in
+autonomous robotic vehicles. The sensors evaluated are two ultrasonic-based and two infrared-based devices.
+This project covers the development of a testing platform, the implementation of a suitable testing methodology
+to evaluate sensor performance and ultimately the use of the collected data to form sensor models that can be
+employed when applying path planning or sensor fusion algorithms to future robotics projects.
+Project Area Sensor Technology, Sensor Data, Data Analytics, Embedded Systems, Control
+Systems, Automotive Technology
+Project Technology Simulink, MATLAB, C/C++
+110
+Project Title Ultrasound assisted extrusion of polymers and biomaterials
+Name Tadhg O’Mahony
+Email tadhg.omahony6@mail.dcu.ie
+Programme Mechanical and Manufacturing Engineering
+Supervisor Garrett.McGuinness@dcu.ie
+The proposed project will utilise an existing commercial sonicator, in the first instance, to characterise changes
+in the extrusion behaviour of simple polymeric solutions based on the sonication protocols used and the relevant
+material properties. The main focus of this project will be the development of a fully instrumented and
+calibrated rig for this experiment. The objective is to use the combination of experimental and modelling
+information to define an optimum sonication protocol for extrusion of specific high-viscosity solutions.
+Project Area Biomedical Engineering
+Project Technology Excel/VB, Solidworks
+111
+Project Title Anomaly Detection Dashboard
+Name Pavel Stratan
+Email pavel.stratan2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Mark.Roantree@dcu.ie
+The aim of this project is to allow a user to insert their own dataset into the web application and quickly receive
+useful visual information with out major delays. The main goal of this web application is to let a user get insight
+on the anomalies in his dataset.
+Project Area Data Analytics, Web Application
+Project Technology AngularJS, HTML5, Node.js, NoSQL, D3.js
+71 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+112
+Project Title Breathless – A Study of Tension Factors in a 3D First Person Horror Game
+Name Hazel Egan
+Email hazel.egan3@mail.dcu.ie
+Programme Computer Applications
+Supervisor Renaat.Verbruggen@dcu.ie
+This project investigates which factors produce the highest tension levels during a horror game. I have created
+a game for PC named ‘Breathless’ in the Unity Game Engine, with the 3D models having been created using
+Blender 3D Graphics and Animation Software. Different modes have been created such as the addition of music,
+jump scares and seeing the enemy vs not seeing the enemy to discover what combination of ingredients create
+the most nerve-racking experience for the player.
+Project Area 3D Modelling, Artificial Intelligence, Gaming
+Project Technology C#
+113
+Project Title Development of Various Implementations of the Simon Block Ciphers
+Name Brandon Walsh
+Email brandon.walsh43@mail.dcu.ie
+Programme Electronic and Computer Engineering
+Supervisor Xiaojun.Wang@dcu.ie
+This project centres around developing three different implementations of the Simon block cipher using VHDL,
+and testing these designs as external cryptography modules with a raspberry PI and an FPGA development
+board. In addition to this, the project includes developing a complete instructional paper on how to implement
+the cipher in its multiple designs – detailing inner logic and listing extensive test vectors.
+Project Area Cryptography
+Project Technology VHDL, JavaScript, C/C++
+114
+Project Title Heads-Up No-Limit Texas Hold’em Poker Agent
+Name Gianluca Puzzuoli
+Email gianluca.puzzuoli2@mail.dcu.ie
+Programme Computer Applications
+Supervisor David.Sinclair@dcu.ie
+This project is an easy to use web application that allows users to test their Texas hold’em poker skills
+against an Artificial Intelligence Agent in a game of Heads-Up No-Limit Texas hold’em poker. Heads-up play is
+the pinnacle of poker play. The Agent is powered by Counterfactual Regret Minimisation (CFR) and has engaged
+in days of self-play in order to learn how to play. The question is, man vs machine, do you have what it takes to
+beat it?
+Project Area Web Application, Artificial Intelligence
+Project Technology HTML5, Java, CSS, Angular 2
+72 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+115
+Project Title A Wireless Minibot Network for Coordinated Movement and Positioning
+Name Kenneth Dean
+Email kenneth.dean2@mail.dcu.ie
+Programme Mechatronic Engineering
+Supervisor Jennifer.Bruton@dcu.ie
+This project involves the investigation of using a wireless network and a scalable test platform for the
+coordination of mini mobile robot (minibot) movement. Three minibots are wirelessly controlled by a master
+connected to a computer. The master coordinates the movements of each minibot from a predetermined
+starting location and records their position after each movement by using motor feedback data. The results from
+this test platform are analysed to demonstrate the benefits and challenges of cooperating swarm mobile robots.
+Project Area Robotics, Wireless Technology, Vehicle Control, Sensor Data, Mechatronic Systems,
+Embedded Systems, BeagleBone, Automation
+Project Technology Eclipse, C/C++
+116
+Project Title V-Chess
+Name Kieran O'Neill
+Email kieran.oneill34@mail.dcu.ie
+Programme Computer Applications
+Supervisor Andy.Way@dcu.ie
+V-Chess is a virtual reality video game based on the classic board game ‘chess’. It utilises Google Cardboard
+for virtual reality support, paired with Leap Motion sensor for hand tracking. By combining these two pieces of
+hardware, users can move pieces using their own hands in a virtual environment as if they had a physical board
+in front of them.
+Project Area Virtual Reality
+Project Technology C#
+117
+Project Title Virtual Ant Colony
+Name Fearghal Caulfield
+Email fearghalcaulfield@gmail.com
+Programme Computer Applications
+Supervisor Alistair.Sutherland@dcu.ie
+This program was developed with the intention of displaying artificial intelligence within an ant colony. The ants
+will perform a number of activities including collecting resources and building a colony. As they perform an
+action they will leave behind a pheromone trail that will signal to other ants their current activity. This trail can
+be sensed by other ants and will be used to help them determine their own actions.
+Project Area Artificial Intelligence
+Project Technology C/C++
+73 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+118
+Project Title Real-time Networked Game Engine
+Name Daire O’Bruachail
+Email daire.obruachail2@mail.dcu.ie
+Programme Computer Applications
+Supervisor David.Sinclair@dcu.ie
+This project is a new concept of collaborative game engine design, allowing for multiple users running different
+instances of the engine to share changes in level design or object attributes in real-time via a network
+connection.
+Project Area Gaming
+Project Technology C/C++
+119
+Project Title The Development of a Hydrogel Heart Valve for Tissue Engineering
+Name Sean Moran
+Email sean.moran33@mail.dcu.ie
+Programme Biomedical Engineering
+Supervisor Tanya.Levingstone@dcu.ie
+This project investigates how hyaluronic acid hydrogel performs as a heart valve scaffold and if it shows the
+potential to be a suitable implantable heart valve replacement. Hyaluronic acid is found within connective,
+epithelial and neural tissue within the body, and has previously shown potential in bone and tissue engineering
+applications. Mechanical and degradation tests will be performed on the hydrogel whereby reinforcement fibres
+will be incorporated within the hydrogel heart valve in order to improve its mechanical properties.
+Project Area Biomedical Engineering
+Project Technology Solidworks
+120
+Project Title Metal powders and their applications in Selective Laser Melting
+Name Darragh Grehan
+Email darraghgrehan4@mail.dcu.ie
+Programme Biomedical Engineering
+Supervisor Dermot.Brabazon@dcu.ie
+Selective Laser Melting (SLM) is a growing field in the additive manufacturing world. SLM can be used to
+effectively 3D print metal parts layer by layer giving unlimited geometric freedom. The powders used for SLM
+have to be carefully produced and characterised and this project aims to investigate metal powders used for
+SLM and the how the properties of the powders used affect the final SLM parts.
+Project Area Additive Manufacturing
+Project Technology Powder Mettalurgy
+74 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+121
+Project Title Twilight Photometer
+Name Kacper Koszalka
+Email 12435522@mail.dcu.ie
+Programme Mechatronic Engineering
+Supervisor Harold.Esmonde@dcu.ie
+The goal of this project was to build a prototype of a twilight photometer, a device used to measure the
+concentrations of aerosols in the atmosphere by measuring light intensity from the ground. Part of the design
+requirement was to investigate the feasibility of mechanical light attenuation to increase the measurement
+range, and to make the device fully automated and capable of wireless data transmission.
+Project Area Mechatronic Systems
+Project Technology C/C++, Python
+122
+Project Title Lens
+Name Ciarán Deegan
+Email ciaran.deegan23@mail.dcu.ie
+Programme Computer Applications
+Supervisor Suzanne.Little@dcu.ie
+Lens is an Android app that combines location-based services and augmented reality in an innovative fashion.
+The app allows users to share their commentary at a location and explore the content shared by others by
+physically navigating in the direction of markers that populate the Lens map. When close enough to posted
+content, users can use Lens’ augmented reality component to visualise it. Lens is built on the Firebase platform
+and investigates location search and real-time data, among other concepts.
+Project Area Mobile App, GPS GIS, Android, Augmented Reality
+Project Technology NoSQL, XML, Java
+123
+Project Title Thermal Loss Measurement and Analysis
+Name Adam Flanagan
+Email adam.flanagan26@mail.dcu.ie
+Programme Electronic and Computer Engineering
+Supervisor Paul.Whelan@dcu.ie
+This project focused on the development of a computer vision system to measure and classify the degree of
+thermal loss of a building. The thermal images were captured using a FLIR one thermal camera attached to
+an iPad or iPhone. Captured images were analysed in MATLAB using various image processing and analysis
+techniques. The thermal measurement data was then correlated along with the buildings BER rating.
+Project Area Image Video Processing
+Project Technology MATLAB
+75 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+124
+Project Title Brand Analytics for Social Media
+Name Ryan Earley
+Email ryan.earley2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Ray.Walshe@dcu.ie
+This project analyses the branding of companies on social media. It aims to identify the properties of a
+successful social media marketing campaign. The application looks at elements such as sentiment, phrasing,
+inclusion of media, hashtags and individuals tagged in posts. It uses these elements to generate a score for
+the brand’s marketing campaign and offer suggestions on how to improve it. The software identifies key social
+influences that would help improve marketing campaigns.
+Project Area Databases, Data Analytics, Data Mining, Software Development, Social Networking
+Project Technology Python, Kiabana, ElasticSearch, logstash, x-pack
+125
+Project Title L2Program
+Name Noel Gallagher
+Email noel.gallagher26@mail.dcu.ie
+Programme Computer Applications
+Supervisor John.McKenna@dcu.ie
+L2Program is an online platform for novice programmers. The project provides a space for experimentation
+and learning. Users progress through a series of lessons and problems. The goal of the project is to introduce
+beginners to programming concepts using a combination of graphics and interactive tools.
+Project Area Web Application
+Project Technology MongoDB, Node.js, JavaScript, HTML5, CSS, AngularJS
+126
+Project Title Easy Interface CD player for seniors
+Name Ahmed Hassan
+Email ahmed.hassan3@mail.dcu.ie
+Programme Mechatronic Engineering
+Supervisor Alan.Kennedy@dcu.ie
+The project is to design and build a CD player for the elderly living with dementia or elderly experiencing
+weakness in their vision.The CD player contains easy interface touch screen, which is mounted on a mechanical
+frame allows the user to physically push the screen downwards to select the option.
+Project Area RaspberryPi
+Project Technology CSS, JavaScript, PHP, Python
+76 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+127
+Project Title An investigation into the factors affecting Reddit post popularity
+Name Kevin Gillanders
+Email kevin.gillanders3@mail.dcu.ie
+Programme Computer Applications
+Supervisor Marija.Bezbradica@dcu.ie
+This project aimed to investigate factors affecting popularity of posts on the social media site ‘reddit.com’
+through the use of data mining and analytics methods. These factors were then used to create an integrative
+predictive model for a post’s overall ‘score’, which was used as a proxy for popularity. Such a model has
+applications in the creation of viral content, which is highly relevant to effective advertisement on social media.
+Project Area Data Analytics, Data Mining, Statistical Analysis
+Project Technology Python, SQL
+128
+Project Title Lotto Hub
+Name Adam Purser
+Email adam.purser2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Darragh.OBrien@dcu.ie
+Lotto Hub is a lottery application for Android which caters to players of the Irish National Lottery, Daily Million
+and Euro Millions. Users can check a ticket by using their device’s camera which then extracts the relevant
+information using OCR. Users can also check current and previous results, view complete prize breakdown
+and save their favourite numbers.
+Project Area Optical Character Recognition, Android, Mobile App, Computer Vision
+Project Technology Java, XML
+129
+Project Title A Wireless Intruder System
+Name Avril Hayden
+Email avril.hayden4@mail.dcu.ie
+Programme Electronic and Computer Engineering
+Supervisor Martin.Collier@dcu.ie
+This project involves the design and construction of an intruder alarm where all signals are communicated
+wirelessly from sensors to a central controller. Various network protocols and devices to implement this were
+investigated. A Raspberry Pi was chosen as the controller, and Zigbee nodes implementing XBee were chosen
+to communicate sensor readings to it.
+Project Area Arduino, Internet of Things, RaspberryPi, Zigbee, Wireless Sensor Technology
+Project Technology XCTU, C/C++
+77 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+130
+Project Title Low-Cost 3-Axis Camera Motion Stabiliser
+Name Amir Al Ghafri
+Email amir.alghafri2@mail.dcu.ie
+Programme Mechatronic Engineering
+Supervisor Derek.Molloy@dcu.ie
+The project investigates high-speed techniques for the active stabilisation of a camera to remove distortion
+caused by camera shake and movement. A prototype hardware platform/rig was designed that demonstrated
+stabilisation for hand held cameras. The project involved the implementation of control algorithms on low-cost,
+real-time embedded systems that are capable of controlling motors according to position data that is acquired
+from sensor devices such as accelerometers and gyroscopes.
+Project Area Arduino, Control Systems, Embedded Systems
+Project Technology C/C++
+131
+Project Title Modelling and Simulation of the MAHA Suspension Test
+Name Mícheál Roddy
+Email micheal.roddy2@mail.dcu.ie
+Programme Mechanical and Manufacturing Engineering
+Supervisor Paul.Young@dcu.ie
+The MAHA suspension test is used as part of the Irish NCT to determine the effectiveness of the dampers in a
+vehicles suspension system. This project evaluates the performance of this testing method by modelling and
+simulating the full scale system using MATLAB and Simulink. A small scale rig was developed using SolidWorks
+to emulate the test and used to further investigate the behaviour of the system.
+Project Area Automotive Technology, Mechanical Design and Manufacture
+Project Technology MATLAB, Simulink, Solidworks
+132
+Project Title Computer Screen Navigation using Eye Movements
+Name Matthieu Briet
+Email matthieu.briet2@mail.dcu.ie
+Programme Mechatronic Engineering
+Supervisor Ronan.Scaife@dcu.ie
+Using a webcam, it is possible to estimate where on a computer screen a person is looking. The aim of this
+project is to design, construct and calibrate an eye-tracking device capable of identifying the user’s gaze
+and using that information to control the cursor on a screen. The project explores head-mounted versus
+desk-mounted cameras and various illumination strategies.
+Project Area Computer Vision, Image Video Processing, Motion Analysis
+Project Technology C#
+78 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+133
+Project Title Friends
+Name Mohammed Al Marhoon
+Email mohammed.almarhoon2@mail.dcu.ie
+Programme Computer Applications
+Supervisor David.Gray@dcu.ie
+Friends is a social media application for iOS devices. It allows friends create different kinds of events, such as
+social, sport, culture and many others. From those events, anyone who got invited can see detailed information
+about the event including a location map, who is coming and who is not. Users of this application can check
+friends’ locations or events they are going to and can join them. This application makes it easy and faster for
+friends to hangout together.
+Project Area Mobile App
+Project Technology Swift 3, Firebase
+134
+Project Title Parametric Finite Element Modelling of Hip Prosthesis
+Name Benjamin MacCurtain
+Email benjamin.maccurtain2@mail.dcu.ie
+Programme Biomedical Engineering
+Supervisor Bryan.MacDonald@dcu.ie
+This project examines the effect the offset and neck angle of a hip prosthesis have on the stresses present in
+a patient’s femur bone. A 3D Finite Element Model consisting of a standardised femur bone and a DePuy hip
+prosthesis model was constructed using ANSYS Workbench and SolidWorks in order to measure the different
+stresses present in the proximal femur bone as a result of the different offset and neck angle values tested.
+Project Area Biomedical Engineering
+Project Technology ANSYS Workbench
+135
+Project Title Design and Manufacturing of a Simple Hydroforming Rig to Manufacture Aircraft
+Structural Components
+Name Naif Alkharusi
+Email naif.alkharusi2@mail.dcu.ie
+Programme Mechanical and Manufacturing Engineering
+Supervisor Bryan.MacDonald@dcu.ie
+The objective of this project is to design a simple sheet hydroforming rig and then manufacture it. The rig can
+be used to shape different aluminium parts such as aircraft structural components. Furthermore, testing
+methodology will be used to identify the best required pressure or force to successfully deform an aluminium
+sheet. At the end, this project will assist master degree students in Dublin City University to build finite element
+model of process.
+Project Area Mechanical Design and Manufacture
+Project Technology .NET
+79 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+136
+Project Title Design, Manufacture, and Testing of a Continuous Water Jet for Dissection Based
+Surgical Procedures
+Name Daniel Breen
+Email daniel.breen22@mail.dcu.ie
+Programme Mechatronic Engineering
+Supervisor Garrett.McGuinness@dcu.ie
+This project investigates the design, manufacture and assembly of a surgical-based water jet system for
+dissection procedures. The project involves the mechanical design and manufacture of the pumping system,
+nozzle assembly and testing rig. The system is digitally controlled using a microcontroller which also records
+sensory data from two flow meters and a pressure sensor. Multiple tests were carried out to prove the
+capabilities of the system and a liver substitute gel was tested to further prove the system’s capabilities.
+Project Area Sensor Data, 3D Modelling, Biomedical Engineering, Device Design, Fluid Mechanics,
+Mechanical Design and Manufacture, Mechatronic Systems
+Project Technology Solidworks, C/C++
+137
+Project Title Real-time Video Stabilisation using the PYNQ ARM/FPGA Platform
+Name Chris Holmes
+Email christopher.holmes3@mail.dcu.ie
+Programme Electronic and Computer Engineering
+Supervisor Derek.Molloy@dcu.ie
+The aim of this project is to remove unwanted camera shake from live video streams using real-time image
+processing techniques along with sensor fusion on the PYNQ, Zynq-based ARM/FPGA embedded platform.
+The design used in this project takes advantage of the programmable logic of the multi-platform Systemon-a-Chip for real-time image processing and interfacing to the electronic sensors.
+Project Area Image Video Processing, Motion Analysis, Sensor Technology
+Project Technology C/C++, Python
+138
+Project Title Examination of the effect of the laser surface treatment for reflective satellite coatings
+Name Sulaiyam Al shukairi
+Email sulaiyam.alshukairi2@mail.dcu.ie
+Programme Mechanical and Manufacturing Engineering
+Supervisor Dermot.Brabazon@dcu.ie
+Mixed samples of aluminium and titanium (coated with either solar black or zinc phosphate) were given
+by a company called Enbio. The objective was was to examine the effect of laser on these special coatings.
+The desired result was to get great adhesion and a strong bonding between the coating itself and the metal
+substrate. Hence, aiming to heat the coating with laser without damaging or destroying it.
+Project Area Advanced Material Engineering
+Project Technology PLC Programming, Excel/VB
+80 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+139
+roject Title Investigation of Control Techniques for Buck Converters
+Name Sandra Kuttivelil Joy
+Email sandra.kuttiveliljoy2@mail.dcu.ie
+Programme Mechatronic Engineering
+Supervisor Marissa.Condon@dcu.ie
+This project investigates control techniques for a buck converter. The converter and control circuits are
+simulated to illustrate bifurcations due to changes in the input voltage. Linear and sinusoidal ramps are
+considered. The effect of feedforward control is investigated. An experimental setup of the buck converter
+is implemented to compare results with the simulated studies.
+Project Area Power Electronics
+Project Technology MATLAB
+140
+Project Title Woodlands
+Name Christopher Hurley
+Email christopher.hurley25@mail.dcu.ie
+Programme Computer Applications
+Supervisor Renaat.Verbruggen@dcu.ie
+Woodlands is a 2D action platforming game developed with Unity. The project aims to create a fun and unique
+platforming experience by letting the player swap between three characters (each with different attributes),
+fight enemies, pick up collectibles and explore a number of levels. Race to finish each level with the best score
+and time that you can!
+Project Area Gaming
+Project Technology C#
+141
+Project Title A desktop CNC milling machine for demonstration and open day purposes
+Name Diarmuid Kelleher
+Email diarmuid.kelleher27@mail.dcu.ie
+Programme Mechatronic Engineering
+Supervisor Tamas.Szecsi@dcu.ie
+The proposed project was to design and develop a desktop computer numerically controlled milling machine
+comparable to those on the market today while becoming lighter and more portable without compromising
+accuracy or robustness. The resultant device will be used to showcase engineering principles and demonstrate
+practical manufacturing processes live in a classroom environment.
+Project Area Mechatronic Systems, Educational, Mechanical Design and Manufacture
+Project Technology Solidworks
+81 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+142
+Project Title Design and build a test rig for the study of a reciprocating pump – Project I design of
+linear motion system
+Name Sultan Mohammed Said Al Maawali
+Email sultan.almaawali2@mail.dcu.ie
+Programme Mechanical and Manufacturing Engineering
+Supervisor Yan.Delaure@dcu.ie
+The main objective of this project is to design and build a system capable of replicating the linear motion of a
+piston. The application under investigation is a positive displacement pump with a spring loaded valve whose
+design must be optimised. The prototype will be used to investigate pressure fluctuations induced by the valve
+opening. The design and partial built were completed according to specifications and further modifications have
+been suggested to accommodate the low torque of a selected motor.
+Project Area Device Design
+Project Technology none
+143
+Project Title Piping Systems Dead Leg Analysis
+Name Ross Cullen
+Email ross.cullen22@mail.dcu.ie
+Programme Mechanical and Manufacturing Engineering
+Supervisor Brian.Corcoran@dcu.ie
+This project investigates a number of different ratios of dead leg length to diameter to determine the
+temperature difference between the base of a dead leg and that of the pipe network. A rig was used to simulate
+a pipe network and water storage tank and tests were run to gather data with the aim of suggesting the best
+ratio of length to diameter to ensure the dead leg reaches the same temperature as that of the pipe network.
+Project Area Fluid Mechanics
+Project Technology Pico Log Recorder
+144
+Project Title Lucky Hour
+Name Stuart McCluskey
+Email stuart.mccluskey4@mail.dcu.ie
+Name Luke O’Riordan
+Email luke.oriodan3@mail.dcu.ie
+Name Michael Omodele
+Email michael.omodele2@mail.dcu.ie
+Programme Enterprise Computing
+Supervisor Marija.Bezbradica@dcu.ie
+Our service aims to offer a personalised gambling experience by connecting users to physical casinos with the
+intention of increasing footfall in casinos. This will be done through a multi-sided platform, informing the users
+on when best to visit the casino, special offers, etc. Our users are everyday people and also clients such as
+bookmakers and medium-sized casinos.
+Project Area Mobile App
+Project Technology JavaScript, SQL
+82 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+145
+Project Title ViewPoint
+Name Raphaelle Smyth
+Email raphaelle.smyth27@mail.dcu.ie
+Programme Computer Applications
+Supervisor Brian.Stone@dcu.ie
+ViewPoint is a web application allowing employees from large-scale companies to view, upload and apply to
+collaborate on innovative project ideas. It encourages cross-division and cross-office teamwork. People within
+the company can use it to reach out to colleagues knowing their skills and interests match their project. It
+collects and displays project information transparently using a visual quid diagram. This allows employees to
+apply to work on tasks that interest them. It also aims to avoid idea duplication.
+Project Area Web Application
+Project Technology AngularJS, CSS, HTML5, Java, JavaScript, Node.js
+146
+Project Title An Investigation of Off-Chip and On-Chip Sensor Fusion Solutions for Position and
+Orientation Estimation
+Name Aidan Smyth
+Email aidan.smyth36@mail.dcu.ie
+Programme Electronic and Computer Engineering
+Supervisor Jennifer.Bruton@dcu.ie
+This project investigates off-chip sensor fusion approaches to compete with the performance and cost of
+available on-chip sensor fusion solutions. Sensor fusion is the use of software-based methods to combine data
+from several sensors to improve the overall sensor system performance. This project combines gyroscope,
+accelerometer and magnetometer sensor data. Sensor fusion algorithms such as the Complementary filter and
+Kalman filter estimate the orientation of the sensor system in real-time. Results from different sensor fusion
+schemes are compared and contrasted.
+Project Area Vehicle Control, Sensor Fusion, Statistical Analysis, Software Development, Sensor
+Data, Sensor Technology, Arduino, Automotive Technology, Control Systems,
+Embedded Systems, Data Analytics, Device Design, Environmental Mapping, GPS GIS,
+Information Retrieval, Motion Analysis, Robotics
+Project Technology Processing, Arduino, MATLAB, Excel/VB, C/C++
+147
+Project Title Development and testing of a true random number generator
+Name Kevin Harrington
+Email kevin.harrington4@mail.dcu.ie
+Programme Mechatronic Engineering
+Supervisor Conor.McArdle@dcu.ie
+The objective of this project was to design, build and test a cost-effective true random number generator, which
+can generate “high-quality” random numbers at a high rate. This was achieved by creating a source of noise,
+which was generated by a zener diode. This noise was then sampled on a Teensy 3.2 microcontroller. The
+numbers that were generated were then tested for correlation using MATLAB and Excel.
+Project Area Arduino, Circuit Modeling, Cryptography
+Project Technology DSP, Excel/VB, MATLAB
+83 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+148
+Project Title OCR Accounting Application
+Name Daniel Maguire
+Email daniel.maguire28@mail.dcu.ie
+Programme Computer Applications
+Supervisor Alistair.Sutherland@dcu.ie
+The purpose of this application is to allow users to monitor their spending habits on a day-to-day basis and gain
+control over their income. This application has been developed to capture receipt/invoice data and store it in an
+online database. The application takes advantage of tesseracts optical character recognition technology while
+applying error correcting algorithms for smoother input to capture obscured images.
+Project Area Software Development, Image Video Processing, Optical Character Recognition,
+Mobile App, Android
+Project Technology Java, NoSQL
+149
+Project Title Development of a Composite Hydrogel with Improved Radiopacity for the Treatment
+of Cerebral Aneurysms
+Name Eoghan Boyne
+Email eoghan.boyne2@mail.dcu.ie
+Programme Manufacturing Engineering with Business
+Supervisor Owen.Clarkin@dcu.ie
+This project involves formulating, as well as mechanical and rheological testing on a novel hydrogel composite
+with improved radiopacity for the treatment of cerebral and abdominal aortic aneurysms. This novel formulation
+is based on EnduraGel with the added inclusion of tantalum oxide particle and potassium iodide for improved
+radiopacity. These novel formulations are then compared to the original formulation in terms of mechanical
+integrity and rheological properties.
+Project Area Biomedical Engineering
+Project Technology Excel/VB
+150
+Project Title Modelling of Bolted Joints Using Finite Element Analysis
+Name Shane Patton
+Email shane.patton3@mail.dcu.ie
+Programme Mechanical and Manufacturing Engineering
+Supervisor Bryan.MacDonald@dcu.ie
+This project investigates modelling bolted joints using finite element analysis. Several different models were
+evaluated and compared against theoretical calculations. Each of the models were evaluated under a number
+of different load conditions to test their suitability in each case. The objective of this project is to find suitable
+approximations of bolted joints to reduce modelling and computing time when carrying out larger studies.
+Project Area Finite Element Analysis
+Project Technology Ansys Mechanical
+84 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+151
+Project Title Mixing fruit waste to enhance the quality of the bio-gas
+Name Johnathan McGuigan
+Email johnathan.mcguigan2@mail.dcu.ie
+Programme Mechanical and Manufacturing Engineering
+Supervisor Joseph.Stokes@dcu.ie
+The aim of this project is to use fruit waste as biomass material to investigate and optimise the production of
+bio-methane. Fruit waste usually comes with different types of fruits. The aim of this study is to find the optimal
+process settings for both the pre-treatment and the anaerobic digestion (AD) processes in order to obtain the
+optimum yield and concentration of the bio-gas produced. DOE techniques are used here to determine the
+relationship and to optimise the processes.
+Project Area Renewable Energy Technology
+Project Technology Design Expert, Excel/VB
+152
+Project Title Cloakroom
+Name Aimée McDonnell
+Email aimee.mcdonnell47@mail.dcu.ie
+Name Adam Ennis
+Email adam.ennis22@mail.dcu.ie
+Programme Enterprise Computing
+Supervisor Suzanne.Little@dcu.ie
+Cloakroom is a mobile application that will revolutionise the way cloakrooms operate by allowing the end user
+to check their coat or bag into a cloakroom without any cash, tickets or queues. Cloakroom aims to make the
+process of checking in an item as quick and simple as possible. Using QR codes, the cloakroom operator simply
+scans the users phone to check in or to retrieve their belongings, while being kept informed via notifications.
+Project Area Android, Mobile App
+Project Technology Java, PHP, SQL, QR Codes
+153
+Project Title OCR Sudoku Solver
+Name Luke O’Regan
+Email luke.oregan4@mail.dcu.ie
+Programme Computer Applications
+Supervisor Suzanne.Little@dcu.ie
+OCR Sudoku solver is a desktop application that uses computer vision to read in and solve Sudoku puzzles.
+User interact with the system by holding up a puzzle to the computers webcam or by inputting an image file
+to the system. After the Sudoku solver has identified the Sudoku grid it uses machine learning to identify both
+printed and handwritten numbers within it. The system will then efficiently solve the puzzle and return the
+correct solution to the user.
+Project Area Computer Vision, Image Video Processing, Optical Character Recognition,
+Machine Learning
+Project Technology Python, OpenCV
+85 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+154
+Project Title Demonstration rig for cylindrical turning
+Name Brian Duffy
+Email brian.duffy8@mail.dcu.ie
+Programme Mechanical and Manufacturing Engineering
+Supervisor Tamas.Szecsi@dcu.ie
+Design and manufacture of a demonstration rig, which can be used as a teaching aid in undergraduate classes.
+This compact and manually operated device clearly demonstrates the cutting parameters associated with the
+manufacturing process of turning.
+Project Area Mechanical Design and Manufacture
+Project Technology Solidworks
+155
+Project Title Testing and Optimisation of a Water Treatment System – Reverse Osmosis
+Name Sean Conway
+Email sean.conway28@mail.dcu.ie
+Programme Mechanical and Manufacturing Engineering
+Supervisor Lorna.Fitzsimons@dcu.ie
+The objective of the project was to characterise the reverse osmosis process, to identify key performance
+parameters and to optimise system operation.
+The steps taken were
+1. A review of relevant literature and existing system designs
+2. Study the system and identify key performance parameters
+3. Model, test and validate the system in ROSA software
+4. Optimise the operation of the system
+Project Area Water Treatment
+Project Technology Reverse Osmosis System Analysis (ROSA)
+156
+Project Title Junction Simulation Tool
+Name Ciaran Callaghan
+Email ciaran.callaghan8@mail.dcu.ie
+Programme Computer Applications
+Supervisor Mark.Humphrys@dcu.ie
+This application is a tool that allows users to simulate traffic flow through various junctions. This would be a
+very useful tool for public authorities responsible for traffic congestion in major cities and anyone interested in
+Traffic Simulation. The application has a wide range of settings which enables users to be creative. Real-time
+data analyses and a post simulation report allows users analyse and improve their work. Tired of the traffic
+congestion in your local area? GENERATE, SIMULATE, IMPROVE.
+Project Area Artificial Intelligence, Software Development, 3D Simulation
+Project Technology C#, Unity
+86 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+157
+Project Title My Guide Dogs Dane
+Name Kok Heng Chan
+Email kok.chan2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Mark.Roantree@dcu.ie
+This project is an orientated-aid Android mobile application to retrieve and locate a real-time information via
+Global Positioning System with step-to-step instruction provided by text-to-speech announcement.
+Project Area GPS GIS
+Project Technology Java
+158
+Project Title Aluminium Surface Texturing for Improved Interference Fit Control
+Name Donal Kilcullen
+Email donal.kilcullen2@mail.dcu.ie
+Programme Mechanical and Manufacturing Engineering
+Supervisor Dermot.Brabazon@dcu.ie
+Interference fits typically operate via high-precision machining of a pipe and hub section. In this project, a new
+method of laser texturing the interference fit has been investigated. The laser texturing is achieved by scanning
+the part beneath a laser beam to achieve localised melting of the material surface. The effect of the laser
+process parameters on the resulting micro-texture and bond strength will be examined using design of
+experiments methodology, by measuring the RA value and tensile strength.
+Project Area Advanced Material Engineering
+Project Technology Design Expert
+159
+Project Title Park At
+Name Michael McGlynn
+Email michael.mcglynn3@mail.dcu.ie
+Programme Computer Applications
+Supervisor Suzanne.Little@dcu.ie
+This project uses a Python backend framework Django with a SQL database and Bootstrap frontend. The project
+uses available data summarise Parking Data on an interactive google map.
+Project Area Web Application, Data Analytics, Databases
+Project Technology CSS, JavaScript, Python, REST, SQL
+87 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+160
+Project Title Improveme.ie
+Name Scott Mooney
+Email scott.mooney6@mail.dcu.ie
+Name Alexandru P Lapusneanu
+Email alexandru.lapusneanu2@mail.dcu.ie
+Programme Enterprise Computing
+Supervisor Rory.OConnor@dcu.ie
+This project is an internet-based platform that advertises the sale of expert services for various skills like
+languages, musical instruments and crafts. The website allows users to browse through Tutor/Expert profiles
+within their area, so that they can avail of their services with ease. This is aimed at the older generation of 40- to
+60-year-old adults, who are looking to better improve themselves in their spare time. The website created and
+linked database allows us to provide this service.
+Project Area Web Application
+Project Technology Java, SQL, HTML5
+161
+Project Title Gymnatic – Train With Intelligence
+Name Aaron Daly
+Email aaron.daly42@mail.dcu.ie
+Programme Computer Applications
+Supervisor Ray.Walshe@dcu.ie
+Gymnatic provides an intelligent gym experience through a user-oriented, simplistic mobile application. It gives
+users the ability to create and log workouts, track cardio sessions and compete against configurable bots to
+induce a sense of competitiveness in their training. Deep data analytics gives users insight into their
+performance, helping them to fine-tune their training and achieve their goals.
+Project Area Mobile App, Data Analytics
+Project Technology React-Native, Redux, Firebase, Node.js, JavaScript, ES6
+162
+Project Title Home Run Bus
+Name Jack Holsgrove
+Email jack.holsgrove2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Alan.Smeaton@dcu.ie
+This project is an improvement to a bus simulator set up for elderly residents in a care home. Using a triple
+monitor set up, footage is being played of a bus trip for the residents. It is being used for treatment management
+for people with dementia. There are several improvements made to the system, such as synchronising footage
+playback, multiple route storage and a means of pausing playback for the users without impacting the
+immersive experience for the users.
+Project Area Software Development
+Project Technology Java
+88 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+163
+Project Title Inverted Pendulum on a Cart
+Name Mitchell Ewulonu
+Email mitchell.ewulonu2@mail.dcu.ie
+Programme Mechatronic Engineering
+Supervisor Tony.Holohan@dcu.ie
+This project investigates the control and stabilisation of an inverted pendulum on a cart. Similar to trying
+to balance a broom stick, the primary objective of the project is to maintain the cart at a fixed position
+while keeping the pendulum at an upright position. The Inverted pendulum is a classical problem, which
+demonstrates how an open loop system can be stabilised through feedback. The control techniques explored
+include LQR (Linear Quadratic Regulation) and PID (Proportional Integral Derivative).
+Project Area Control Systems, Mechatronic Systems, Arduino
+Project Technology MATLAB, Simulink
+164
+Project Title Hand Mobility Monitoring and Analysis
+Name Richard Carragher
+Email richard.carragher2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Donal.Fitzpatrick@dcu.ie
+This project uses a Leap Motion controller to track hand movements through a series of games designed to help
+hand mobility. These games allow for real-time feedback on how users are progressing through an exercise and
+if they are archiving their goals. Analysis of the hand tracking allows for a record of progression to be recorded
+for care providers to create reports that can contain a mixture of both tables and graphs along with their own
+commentary of results.
+Project Area Sensor Data
+Project Technology AngularJS
+165
+Project Title Blockchain voting
+Name Michael Wall
+Email michael.wall22@mail.dcu.ie
+Programme Computer Applications
+Supervisor David.Gray@dcu.ie
+This project is a proof of concept for an electronic voting system which implements a blockchain database
+and cryptography to provide anonymity, tamper free ballots and ease of tallying the votes.
+Project Area Cryptography, Distributed Systems, Software Development, Voting
+Project Technology Go
+89 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+166
+Project Title Experimental Dynamic Protocol for the Simulation of Spinal Burst Fractures
+Name Martina O’Malley
+Email martina.omalley24@mail.dcu.ie
+Programme Biomedical Engineering
+Supervisor Nicholas.Dunne@dcu.ie
+This project aims to design, develop and validate a reliable test rig that can generate a thoracolumbar
+burst fracture. The test rig implements a “drop weight” technique where a known weight is dropped from a
+known height onto the sample. The kinetic and potential energies required to cause a burst fracture may be
+determined. By mimicking a naturally occurring fracture, several tests may be performed to understand the
+relationship between experimental test parameters and the type of spinal fracture introduced.
+Project Area Biomedical Engineering
+Project Technology Solidworks
+167
+Project Title Development of an Improved Drive System for the Greenpower Challenge
+Name Bryan Goodson
+Email bryan.goodson2@mail.dcu.ie
+Programme Mechanical and Manufacturing Engineering
+Supervisor Paul.Young@dcu.ie
+This project developed a Continuous Variable Transmission (CVT) system that can optimise the gear ratio, to
+maximise the distance travelled using a single battery charge. The electrical control of the motor is a simple
+on-off relay, which will draw significant current on start-up. The addition of a soft start is used to reduce the
+current drawn on start-up. This project required some experimentation to understand the characteristics of
+the motor and transmission.
+Project Area Mechanical Design and Manufacture, Automotive Technology, 3D Modelling
+Project Technology Solidworks, Excel/VB
+168
+Project Title Marketing, Sponsorship and Web-Site Development for the Siemens Greenpower
+Car Challenge
+Name Jamie Goodhart
+Email jamie.goodhart2@mail.dcu.ie
+Programme Manufacturing Engineering with Business
+Supervisor Brian.Corcoran@dcu.ie
+The Greenpower Education Trust’s competition is an electric car challenge which requires students, guided by
+DCU, to design, build and then race an electric car. This project involves liaison with the school teams and the
+main objectives include the design of a website to promote the Greenpower car challenge, linking with DCU’s
+communications and marketing team to promote activities during the year and making frequent school visits
+and promotion at open days and other events during the academic year.
+Project Area Social Networking
+Project Technology not relevant
+90 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+169
+Project Title Development of a low mass chassis for the GreenPower Challenge
+Name Colm Kelly
+Email colm.kelly237@mail.dcu.ie
+Programme Mechanical and Manufacturing Engineering
+Supervisor Paul.Young@dcu.ie
+This project investigates the structural integrity of a kit car chassis and develop it to reduce the overall mass.
+The new design improves the existing chassis in terms of performance through stiffness, rigidity and weight.
+Through finite element modelling, different types of analyses were performed on the existing chassis to
+investigate the optimum design. The new design exploits any deficiencies and outperforms the existing model.
+Project Area Mechanical Design and Manufacture
+Project Technology Solidworks
+170
+Project Title VR Puzzle Game
+Name Patrick Mulvaney
+Email patrick.mulvaney5@mail.dcu.iee
+Programme Computer Applications
+Supervisor David.Sinclair@dcu.ie
+This project is a virtual reality puzzle game. It was developed for Windows systems in the Unity3D engine
+and is played using the HTC Vive headset. The player is a detective in the Wild West who must solve a missing
+persons case. Using the VR headset, motion controls and room-scale VR, the player can fully interact with the
+environment. Using clues and objects they pick up, they must solve puzzles and interrogate suspects to get to
+the bottom of the mystery.
+Project Area Gaming
+Project Technology C#
+171
+Project Title Development of Scaffolds for Tissue Engineering Applications with Optimised Porosity
+and Mechanical Properties
+Name Helmi Hammad
+Email helmi.hammad2@mail.dcu.ie
+Programme Biomedical Engineering
+Supervisor Nicholas.Dunne@dcu.ie
+Tissue engineering relates to stimulating the regeneration of living tissue such as bone, muscle or skin,
+where natural healing will not occur. A scaffold is usually required in such situations. For bone, it is a porous
+biomaterial shaped to fit into the defect area. Stem cells and growth factors can be immobilised onto the
+scaffold to enhance healing. Porous calcium phosphate (HA & B-TCP) bone scaffolds are produced via the
+foam replication technique, optimising porosity and mechanical properties.
+Project Area Advanced Material Engineering, Biomedical Engineering, Tissue Engineering
+Project Technology Material synthesis, sintering, SEM, optical microscopy, experimentation
+91 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+172
+Project Title Manufacture of an Artificial Hand using Fibre-Reinforced Actuators
+Name Austin Fanning
+Email austin.fanning4@mail.dcu.ie
+Programme Biomedical Engineering
+Supervisor Jeremiah.Murphy@dcu.ie
+The field of soft robotics has become highly prominent in recent years, large ranges of natural movements
+can be easily created by mechanical programming inflatable elastomers with strain limiting components. Soft
+actuators offer the advantages of highly compliant structures with rapid prototyping capabilities and significantly
+lower financial costs. The project goals were to build a mechanically programmed artificial hand using the
+fibre-reinforced soft actuator in conjunction with the Soft Robotics Toolkit and investigate the effectiveness
+of different actuator designs.
+Project Area Biomedical Engineering, Robotics
+Project Technology Solidworks
+173
+Project Title Face Recognition System
+Name Jordan Healy
+Email jordan.healy36@mail.dcu.ie
+Programme Computer Applications
+Supervisor Alistair.Sutherland@dcu.ie
+This “Face Recognition System” will be a web application tool used for both students for educational purposes
+and for business for institutional use. The goal is to compare and contrast three different face recognition
+algorithms in the context of speed, accuracy and description. Whilst also having the purpose of being
+implemented within businesses for security reasons.
+Project Area Image Video Processing, Web Application
+Project Technology Java, SpringMVC, ClojureScript
+174
+Project Title Testing and optimisation of a water treatment system (membrane distillation)
+Name Karl Devereux
+Email karl.devereux3@mail.dcu.ie
+Programme Mechanical and Manufacturing Engineering
+Supervisor Lorna.Fitzsimons@dcu.ie
+The aim of this project is to investigate the water treatment system, membrane distillation. Offering proposals
+for optimisation techniques in relation to key parameters, such as temperature and water flow rates. Reviewing
+its viability as an energy efficient alternative to other distillation methods and suggesting possible areas of use.
+Project Area Energy Conservation, Water Treatment
+Project Technology Excel/VB, Design Expert, Membrane Distillation
+92 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+175
+Project Title Machine Translation Portal
+Name Owen Lennon
+Email owen.lennon4@mail.dcu.ie
+Programme Computer Applications
+Supervisor Andy.Way@dcu.ie
+The ADAPT Centre’s MT group require the development of a web-based data portal, where contributors can
+upload their data through a simple, easy to use process. The portal functions will include validation checks for
+the file formats. The portal’s front end is implemented with Angular 2 and the portal’s back end is implemented
+using a Python framework called Flask. The two services will interact through REST, communicating over HTTP
+– making requests to specific URLs.
+Project Area Databases, Mobile App, Web Application
+Project Technology AngularJS, Python, SQL
+176
+Project Title Automated Invoice System
+Name Oisin Costello
+Email oisin.costello5@mail.dcu.ie
+Programme Computer Applications
+Supervisor Jane.Kernan@dcu.ie
+This project is a system to compile all the fees for a client and automatically create an invoice to be sent out
+at the end of each month. The system consists of a SQL Server database, an asp.net MVC web application
+and a Web API. The web application allows the user to view and manage generated invoices, view sales
+and performance over time and provides client management and support features.
+Project Area Automation, Model View Controller, Web Application
+Project Technology .NET, C#, SQL
+177
+Project Title Design a THz Transmission line
+Name Steven Flynn
+Email steven.flynn27@mail.dcu.ie
+Programme Electronic and Computer Engineering
+Supervisor Pascal.Landais@dcu.ie
+The aim of this project is to design a wireless transmitter and receiver which can send and receive a THx signal
+with interference from simulated common, real world sources. I shall be designing this link between the optical
+and RF frequency ranges. The main source of interference I will be focused on will be the effect of water
+absorption at different altitudes and the length of the link. Some possible uses for THz frequencies include
+medical scanning and information communications
+Project Area Telecommunications
+Project Technology MATLAB
+93 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+178
+Project Title Home Monitoring Fall Detection and phone alerts
+Name Eóin O’Friel
+Email eoin.ofriel2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Cathal.Gurrin@dcu.ie
+This project uses a Raspberry Pi and camera to process images from a camera in real-time with OpenCV, to
+detect if the movement a person makes is a fall. Text notifications are sent to trusted individuals if a fall is
+detected. Temperature and humidity data is also taken from the room being monitored and displayed in a
+companion app.
+Project Area Image Video Processing, Mobile App, RaspberryPi, Sensor Data
+Project Technology Java, PHP, Python
+179
+Project Title Live a-Side
+Name Niall Fitzpatrick
+Email niall.fitzpatrick23@mail.dcu.ie
+Name Saul Carolan
+Email sol.ocearullain3@mail.dcu.ie
+Programme Enterprise Computing
+Supervisor Jane.Kernan@dcu.ie
+Live a-Side is a sports organisation and management system, consisting of a mobile application and a web
+application. The mobile app simplifies the organisation of games and provides a platform for users to book the
+use of sports facilities through its unique timetabling feature. The web app serves as a booking management
+system for sports facilities and provides data analytics for owners to make more educated business decisions.
+It’s your sport – you decide the time, you decide the place.
+Project Area Android, Databases, Data Analytics, Mobile App, Social Networking, Web Application
+Project Technology CSS, HTML5, Java, JavaScript, PHP, SpringMVC, SQL, Bootstrap
+180
+Project Title The design of collagen coatings for drug and growth factor delivery
+Name Ciaran Griffin
+Email ciaran.griffin33@mail.dcu.ie
+Programme Biomedical Engineering
+Supervisor Tanya.Levingstone@dcu.ie
+This project involves designing collagen coatings to be coated upon medical implants. Implants can be coated
+with collagen coatings to enable a localised delivery of drugs and growth factors to minimise the risk of infection
+and promote healing and growth around the implant site. The collagen coatings were tested in terms of their
+drying time, their surface roughness, their surface profile and their adhesion strength. Reducing the pH of the
+collagen slurry before making resulting coatings was also explored.
+Project Area Tissue Engineering, Advanced Material Engineering
+Project Technology Excel/VB
+94 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+181
+Project Title Lesson creation tool
+Name Eoin Ffrench
+Email eoin.ffrench2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Gareth.Jones@dcu.ie
+The complexities of trying to teach a lesson can be lessened somewhat by breaking it down into its smallest
+parts. Educators are always looking for new ways share lessons with students. Using the computer lesson
+creator teachers can break their lesson up into parts in order for their students to download and view. Their
+lessons can include audio, video, text and interactive slides. These lessons can then be viewed on a computer
+or on an Android device.
+Project Area Android
+Project Technology Java
+182
+Project Title Prototype Electronic Drum Tester
+Name Edward Byrne
+Email edward.byrne55@mail.dcu.ie
+Programme Mechatronic Engineering
+Supervisor Alan.Kennedy@dcu.ie
+This project consisted of the development of a prototype device that could test the use of electronic drums and
+how the use of different materials within the drum could dissipate the energy acquired by the striking of the
+drumstick. The project made use of several principles of engineering from project management to design and
+finally to implementation and testing. The project looked at using advanced technology such as 3D printing to
+produce alternative methods for damping the output signal.
+Project Area Automation
+Project Technology MATLAB, Solidworks
+183
+Project Title App Of All Trades
+Name Conor Moran
+Email conor.moran49@mail.dcu.ie
+Programme Computer Applications
+Supervisor Jane.Kernan@dcu.ie
+App Of All Trades is an Android application that serves to provide the public with the means of locating and
+requesting the services of tradesmen and women in their vicinity. Customers specify what sort of service they
+need and when, where they will then receive a map of local workers of that trade. It is essentially a Hailo app for
+tradespeople to find work, and for the public to find the right help for the job they need completed.
+Project Area Android
+Project Technology HTML5, Java, JavaScript, Node.js, SQL
+95 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+184
+Project Title DCU Navigator
+Name Brian Bonfil
+Email brian.bonfil2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Paul.M.Clarke@dcu.ie
+DCU Navigator is an Android application that will allow new students and guests find their way around the DCU
+Glasnevin Campus. Users can navigate their way between different buildings and search for room locations
+through an interactive map.
+Project Area Android, GPS GIS
+Project Technology Java, JavaScript, Node.js, REST, XML
+185
+Project Title Building an IoT Automated Triage System using NodeMCU
+Name Ciaran McNally
+Email ciaran.mcnally7@mail.dcu.ie
+Programme Electronic and Computer Engineering
+Supervisor Noel.Murphy@dcu.ie
+This project looks at creating an IoT-based support to the triage process. Several sensors are interfaced to
+a NodeMCU, creating a sensor network. This sensor network would be fitted to a patient waiting in an A&E
+department and would gather relevant health data on the patient. This data would then be sent over WiFi to a
+central computer that analyses the incoming data, generates an action list in real-time and flags if a patient’s
+health is deteriorating while waiting.
+Project Area Internet of Things, Sensor Data
+Project Technology C/C++, NodeMCU
+186
+Project Title Intro to programming gaming
+Name Rupak Thapa
+Email rupak.thapa2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Charlie.Daly@dcu.ie
+This game was developed to give new programmers an introduction to coding through visual representation.
+This is a gaming platform where new users can write their code and see the effect in the 3D world. The
+graphical world contains a robot, which is controlled by user code, to navigate through the obstacle and
+reach the goal. The game is focused on any age group who are new to programming.
+Project Area Gaming
+Project Technology C#
+96 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+187
+Project Title CyberTight
+Name Jordan Noonan
+Email jordan.noonan5@mail.dcu.ie
+Name Michael Fahy
+Email michael.fahy6@mail.dcu.ie
+Programme Enterprise Computing
+Supervisor Stephen.Blott@dcu.ie
+Our product, CyberTight, is dedicated to raising standards with regards to application, information and physical
+security. Our multifunctional website with specific security tools supports businesses in monitoring and
+improving upon various aspects of cyber security. Our customisable tool set allows companies to monitor and
+track security incidents and analyse potential threats. Our knowledge base provides professionals with a wealth
+of accurate and up-to-date information regarding software vulnerabilities, data regulations and other factors.
+Project Area Security, Web Application
+Project Technology CSS, HTML5, Java, JQuery, PHP, SQL
+188
+Project Title Natural Language Learner
+Name Emma Gannon
+Email emma.gannon6@mail.dcu.ie
+Programme Computer Applications
+Supervisor Monica.Ward@dcu.ie
+The Natural Language Learner is a web-based system to assist and encourage the learning of the language
+Nawat (an endangered language from Central America). The platform aims to engage with people of all ages to
+enable them to learn the language. The system has various levels of difficulty and there are quiz-based games
+to test learners’ knowledge at each level. The infrastructure of the system could be used to develop language
+learning resource for other endangered languages.
+Project Area Web Application
+Project Technology XML, SQL, JavaScript, Java, HTML5
+189
+Project Title Analysis and Scoring of the Top 100 Irish Social Media Influencers.
+Name Ellie Goggin
+Email ellie.goggin3@mail.dcu.ie
+Programme Computer Applications
+Supervisor Alan.Smeaton@dcu.ie
+This research project is inspired by Klout Score and Goss.ie’s list of 2016’s top 100 Irish Social Media
+Influencers. Klout don’t reveal their scoring system and we don’t know how Goss.ie generated this list. How did
+this list come to be? What makes these users influential? The goal is to investigate differences between these
+influencers by creating an algorithm to score them based on Twitter activity and using this data to create
+networks of followers allowing analysis of the influencers.
+Project Area Data Analytics
+Project Technology Python, NoSQL, Twitter API, NetworkX
+97 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+190
+Project Title PY15 Implementation of Siemens Control System PLC on FMS central controller
+and Dashboard
+Name Carlos Hartwick Moreno
+Email carlos.hartwickmoreno2@mail.dcu.ie
+Programme Mechanical and Manufacturing Engineering
+Supervisor Paul.Young@dcu.ie
+This project is to improve control on the central conveyor system, display the current status on an online
+dashboard and develop record keeping for statistical analysis of the performance of the whole system. It
+emphasises on establishing a networked connection between PLC’s implementing the system to industry 4.0.
+Project Area Automation, Sensor Technology, Software Development, Wireless Technology
+Project Technology Siemens step 7
+191
+Project Title Music Retrieval System
+Name Martin Finnegan
+Email martin.finnegan9@mail.dcu.ie
+Programme Computer Applications
+Supervisor Gareth.Jones@dcu.ie
+This project is an information retrieval system designed to search music scores for musical phrases, either in
+the form of a textual representation of the phrase or as an input from a MIDI Keyboard, and to return a ranked
+list of pieces (represented by MusicXML files) that contain all or part of the phrase and so be of interest to the
+user. The key objective of this project is to investigate representation and indexing music for effective searching.
+Project Area Information Retrieval
+Project Technology Java, Eclipse
+192
+Project Title Infection Prevention and Control Report System
+Name Leo Fitzpatrick
+Email leo.fitzpatrick27@mail.dcu.ie
+Programme Computer Applications
+Supervisor Donal.Fitzpatrick@dcu.ie
+A web application to allow infection control staff to replace the current paper form and Excel system to a
+database-driven system for recording and analysing patient data. Patient information entered onto the database
+via a series of forms, one per infection type. Retention of patient data allowing identification of patients with
+recurrent drug resistant infections. Data accessed via a simple query builder system allowing reports to be
+run and exported to Excel.
+Project Area Web Application
+Project Technology AngularJS, HTML5, JavaScript, JQuery, PHP, SQL
+98 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+193
+Project Title Development of a Lean/Six Sigma Toolbox for Energy Conservation in a Manufacturing
+Process
+Name John Lindsay
+Email John.lindsay6@mail.dcu.ie
+Programme Manufacturing Engineering with Business
+Supervisor Lorna.Fitzsimons@dcu.ie
+This project investigates the appropriateness of lean/six sigma approaches for energy conservation in a
+manufacturing environment. The main objective is to assess suitable methods and to combine these into
+a holistic toolkit which can be used to drive energy efficiency and reduce cost in a manufacturing process.
+The results were analysed and applied to case studies with ABP Foods Ireland and Cadbury Ireland.
+Project Area Lean Manufacturing
+Project Technology Excel/VB
+194
+Project Title Development of a blister test for small adhesive samples
+Name Michael Patrick Coyle
+Email michael.coyle6@mail.dcu.ie
+Programme Biomedical Engineering
+Supervisor Garrett.McGuinness@dcu.ie
+The project aims to develop a blister test capable of comparing the adhesion characteristics of a number
+of medical tapes. The project will be carried out using custom parts to work in conjunction with the Zwick
+mechanical testing machine.
+Project Area Biomedical Engineering
+Project Technology Zwick
+195
+Project Title The Musical Notepad
+Name Darragh Connaughton
+Email darragh.connaughton5@mail.dcu.ie
+Programme Computer Applications
+Supervisor Donal.Fitzpatrick@dcu.ie
+The Musical Notepad is an application for converting recorded music into sheet music for Android devices.
+Processed sheet music is stored neatly away in a database, in JSON format, for retrieval at a later date.
+It is a documentation tool for capturing fleeting musical ideas, whenever they may arise.
+Project Area Android
+Project Technology JavaScript, Java, HTML5
+99 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+196
+Project Title Prison Run3D
+Name Robert O’Connor
+Email robert.oconnor47@mail.dcu.ie
+Programme Computer Applications
+Supervisor David.Sinclair@dcu.ie
+For my Final year project I created a game for PC, Mac and Linux Standalone. It is a 3D escape game, where you
+play a prisoner who has escaped from jail. The object of the game is to avoid all enemy objects (land mines,
+watch towers, guards and sniffer dogs). The game was developed using the Unity Game Engine.
+Project Area Gaming
+Project Technology JavaScript
+197
+Project Title SMS Teleprinter Demostration
+Name Gary Mullen
+Email gary.mullen4@mail.dcu.ie
+Programme Mechatronic Engineering
+Supervisor Ronan.Scaife@dcu.ie
+This project demonstrates how it is possible to interface between two forms of telecommunications, SMS and
+Telex. The project uses an Arduino microcontroller to interface a Teleprinter with SMS text messaging. It allows
+for the Teleprinter to both send and receive text messages. The project uses a microcontroller, GSM module,
+C-based programming, AT Commands and an interface circuit between the microcontroller and the Teleprinter.
+Project Area Arduino, SMS, Telecommunications
+Project Technology C/C++
+198
+Project Title Evaluation of the System Dynamics Modeling Methodology
+Name Luke Briody
+Email luke.briody2@mail.dcu.ie
+Programme Manufacturing Engineering with Business
+Supervisor John.Geraghty@dcu.ie
+System dynamics is an approach to understanding the non-linear behaviour of complex systems over time using
+stocks and flows, internal feedback loops and time delays. This project has developed an online training tool to
+help students learn the fundamental principles of system dynamics modeling. This project has created several
+simulation models using the system dynamics approach, and has evaluated existing system dynamics education
+online. The proposed training tool looks to address several fundamental problems identified in existing system
+dynamics education.
+Project Area Educational
+Project Technology STELLA Computer Modeling Software
+100 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+199
+Project Title Audio Mood-based 3D Music Visualisation
+Name Michal Hryciuk
+Email michal.hryciuk2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Geoff.Hamilton@dcu.ie
+VisualMood is an application designed with web technologies. Using Three.js it generates real-time threedimensional scenes consisting of objects, particles and other visuals that animate according to properties
+extracted from playing audio. Web Audio API analyses playback audio to determine emotion and mood of music
+and uses it to shape, color and transform the visualisation. It features a music player with a functional playlist
+for playing audio files and streams.
+Project Area 3D Modelling, DSP, Graphics, Intelligence Pattern Matching, Model View Controller,
+Web Application
+Project Technology AngularJS, DSP, Fast Fourier Transform, HTML5, JavaScript, Node.js
+200
+Project Title CNC control panel
+Name Ammar Al Badi
+Email ammar.albadi2@mail.dcu.ie
+Programme Mechatronic Engineering
+Supervisor Tamas.Szecsi@dcu.ie
+The project involves the design and manufacture of a control panel for controlling a virtual CNC machine tool.
+The panel consists of a pulse generator and switches. It will be linked to a PC (laptop) through a USB connection
+and will be accessible from a C/C++ program. The control elements of the panel will be used to operate a virtual
+machine tool which will be another 4th year project.
+Project Area Mechatronic Systems
+Project Technology C/C++
+201
+Project Title FlightMode
+Name Siobhain Brady
+Email siobhain.brady47@mail.dcu.ie
+Name Katie Pringle
+Email katie.pringle2@mail.dcu.ie
+Programme Enterprise Computing
+Supervisor Markus.Helfert@dcu.ie
+FlightMode is a mobile application designed to improve a passenger’s experience in the airport by providing
+real-time flight information and exclusive offers. The user scans the QR code on their boarding pass and
+receives their personalised flight details, including gate number, and opening time via push notifications, saving
+them time and effort checking airport screens. Airport businesses can use the app as a platform to promote
+their products to customers, creating sales opportunities and allowing passengers to shop efficiently.
+Project Area Android, Mobile App
+Project Technology Java, SQL, XML
+101 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+202
+Project Title Performance analysis and improvement of an FMS Rig station
+Name Lorcan Murphy
+Email lorcan.murphy89@mail.dcu.ie
+Programme Mechatronic Engineering
+Supervisor Paul.Young@dcu.ie
+This project will require the development of new raw material feed, interlocks and control to enable the station
+on the FMS rig perform the required assembly task more efficiently. The performance improvement will be
+determined on the basis of analysis of the design of the current system, new operation specification and
+implementation under control of a Siemens PLC. This will then communicate KPI’s to the central PLC
+over the network to provide information on system performance.
+Project Area Lean Manufacturing, Mechanical Design and Manufacture
+Project Technology PLC Programming
+203
+Project Title ActiGO
+Name Sean Anglim
+Email sean.anglim4@mail.dcu.ie
+Programme Computer Applications
+Supervisor Monica.Ward@dcu.ie
+ActiGO is an intermediary booking service between independent activity organisations and customers. From
+mountain biking to windsurfing, ActiGO allows customers to locate an organisation that suits their needs, easily
+place bookings and pay securely through the Stripe payments platform. ActiGO provides each organisation with
+an online presence without the prohibiting cost and/or technical knowledge required to develop and maintain a
+dynamic e-commerce website. Visit www.actigo.ie and check it out!
+Project Area Web Application
+Project Technology CSS, HTML5, JavaScript, Node.js, REST, SQL, Angular 2
+204
+Project Title Bookezi – The Music Lessons Marketplace
+Name Sean McGrath
+Email mpsmcgrath@gmail.com
+Name Philip O’Driscol
+Email philip.odricoll4@mail.dcu.ie
+Programme Enterprise Computing
+Supervisor Cathal.Gurrin@dcu.ie
+Bookezi is a music lessons marketplace that empowers teachers to become entrepreneurs. It offers a platform
+that manages a teacher's business through an innovative Business Management Dashboard, with a booking
+system that frees teachers from antiquated booking methods and allows instant lesson booking. For students
+and parents it offers easy access to a wealth of qualified, background-checked musical talent. The multiplatform Bootstrap/Node.js web-application uses several web technologies to bring the gig-economy model
+to private music teaching.
+Project Area Educational, Web Application
+Project Technology HTML5, JavaScript, JQuery, Node.js, REST, NoSQL
+102 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+205
+Project Title Orb Search
+Name Arsen Kovalchuk
+Email arsen.kovalchuk2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Gareth.Jones@dcu.ie
+This project consists of a unique search engine system which assists users in finding information that they are
+looking for more efficiently. It seeks to assist users in searching for this information without having to iterate
+through numerous documents when they cannot clearly describe what they are searching for. The key innovation
+in this project is the inclusion a unique graphical approach and keyword recommendation feature using 3D
+graphics within the web browser to support user navigation of retrieved content.
+Project Area 3D Modelling, Databases, Data Analytics, Data Mining, Graphics, Information
+Retrieval, Software Development, Statistical Analysis, Web Application
+Project Technology AngularJS, CSS, Eclipse, HTML5, Java, JavaScript, JQuery, XML, Lucene,
+Threejs(WebGL)
+206
+Project Title Schoolable
+Name Tríona Barrow
+Email triona.barrow2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Donal.Fitzpatrick@dcu.ie
+The website was developed for special education schools to act as an online management system for students,
+parents and staff. This system will act as a replacement for the communication copy and hold student details
+including basic details as well as medical needs. The system is intended to act as an online record for parents
+and teachers in order to ensure the best for the student.
+Project Area Content Management System, Educational, Model View Controller, Software
+Development, Web Application
+Project Technology Java, SpringMVC, SQL
+207
+Project Title Performance Managment
+Name Cliona Kehoe
+Email cliona.kehoe23@mail.dcu.ie
+Programme Computer Applications
+Supervisor Markus.Helfert@dcu.ie
+Performance Management is a web-based management system for GAA clubs. The platform aims to engage
+with members and enable them to keep informed of upcoming matches as well as keep track of their
+performance in games and training sessions, with the use of wearable technology.
+Project Area Motion Analysis, Web Application
+Project Technology AngularJS, Java
+103 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+208
+Project Title Electroluminescence in Photovoltaic Cells
+Name Bríd O’Neill
+Email brid.oneill34@mail.dcu.ie
+Programme Mechatronic Engineering
+Supervisor Patrick.McNally@dcu.ie
+This project investigates the electroluminescent behaviour of photovoltaic cells through the use of simple
+webcams and electronic apparatus. Through this, the dependence of open-circuit voltage and open-circuit
+current as a function of cell temperature will be explored. The resulting images from the webcams are then
+explored using the ImageJ software platform.
+Project Area Energy Conservation
+Project Technology ImageJ
+209
+Project Title Ultrasonic thermometer
+Name David Courtney
+Email david.courtney5@mail.dccu.ie
+Programme Mechatronic Engineering
+Supervisor Conor.McArdle@dcu.ie
+This aim of this project was to design and build an ultrasonic thermometer for accurately measuring the
+average temperature over large spaces. The project consists of an ultrasonic transmitter and receiver. The
+system calculates the time taken for an ultrasonic signal to leave the transmitter and be received by the receiver.
+This time difference is used to calculate the speed of sound and therefore temperature.
+Project Area Arduino, Device Design
+Project Technology C/C++
+210
+Project Title VOX – Natural Language Interface
+Name Brendan Harlin
+Email brendan.harlin2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Gareth.Jones@dcu.ie
+VOX is a mobile interface that allows a user to get answers to their data query questions instantly using natural
+language against a business intelligence backend system. When the user’s question is sent to VOX, it converts
+the question to a data query and then returns the matching data. VOX enables users to look at their frequently
+asked questions and interact with an intuitive chart if it’s returned with their answer to give them a better
+understanding of their data.
+Project Area Mobile Business Intelligence
+Project Technology C#, HTML5, JavaScript, JQuery, SQL
+104 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+211
+Project Title Designing and building a test rig for the study of valves and pumping chambers
+of a reciprocating pump
+Name Martin Deane
+Email Martin.deane2@mail.dcu.ie
+Programme Mechanical and Manufacturing Engineering
+Supervisor Yan.Delaure@dcu.ie
+This project involves designing and building the hydraulic part of a reciprocating pump prototype to study the
+behaviour of an outlet valve in response to fluid induced pressure. The design of the valve and chamber were
+completed using Solidworks with the chamber made out of plexiglas to allow visual inspection of internal parts.
+Computational Fluid Dynamics has been used to inform the spring selection, sensor location and to help
+interpret the experimental results.
+Project Area Fluid Mechanics, 3D Modelling
+Project Technology CFD, Solidworks
+212
+Project Title Sentiment Analysis of Twitter Data
+Name Aine Boyle
+Email aine.boyle22@mail.dcu.ie
+Programme Computer Applications
+Supervisor Ray.Walshe@dcu.ie
+A website was developed which allows a user to enter a keyword or list of keywords. Twitter is then
+searched to find tweets related to these keywords. Each tweet is then analysed in order to determine its
+sentiment classification. Information is then returned to the user summarising how many positive, negative
+and neutral tweets were found, along with the top n positive and top n negative tweets found.
+Project Area Natural Language Processing
+Project Technology Python
+213
+Project Title Castsender
+Name Lonneke Schutte
+Email lonneke.schutte2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Renaat.Verbruggen@dcu.ie
+Castsender is an Android weather tracking application making use of an open weather API to access and display
+up-to-date weather and storm data. Emphasises simple selection of desired regions for tracking and offers a
+customisable notification system with alerts through several channels.
+Project Area Mobile App
+Project Technology Java
+105 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+214
+Project Title BeatBlox
+Name Cormac Sugrue
+Email cormac.sugrue4@mail.dcu.ie
+Programme Computer Applications
+Supervisor Donal.Fitzpatrick@dcu.ie
+BeatBlox is an audio production and performance app for iOS. The app allows users to record, import and edit a
+collection of audio samples. These sound bites can be either triggered live or carefully arranged into rhythmic
+patterns from the app’s sequencer. Furthermore, the arranged sounds can then be manipulated using the set of
+audio processing effects. The parameters of these effects can be mapped to the device’s accelerometer allowing
+for creative and dynamic live performances.
+Project Area Mobile App, Audio Processing
+Project Technology Swift
+215
+Project Title Fitness Tracker
+Name Steven Kinsella
+Email Steven.kinsella35@mail.dcu.ie
+Programme Electronic and Computer Engineering
+Supervisor Martin.Collier@dcu.ie
+The project is based around the EZ430 Chronos, a reprogrammable smartwatch. The on-board sensors are
+programmed to detect the user’s physical activity to determine physical parameters such as distance travelled,
+calories burned, etc. These parameters are then sent via the watches RF protocol, simpliciTI, to a Raspberry Pi.
+The Raspberry Pi acts as storage for the data and runs an Apache web server to display the user’s parameters.
+Project Area Device Design, Internet of Things, Wireless Technology
+Project Technology HTML5
+216
+Project Title Design and implement a fully automated mixed powder production line.
+Name Ronan Byrne
+Email ronan.byrne49@mail.dcu.ie
+Programme Manufacturing Engineering with Business
+Supervisor Paul.Young@dcu.ie
+The goal of this project was to design an automated bagging by weight system for a production line. The project
+included plant layout, filling/sealing system procurement, and design of feed elements such as augers, hoppers,
+sieves, scales, etc. All elements were designed to suit required production rate demands and ensure the weight
+of each bag was within the required tolerance, with the output of the project being an evaluation of performance
+as implemented, against the specified KPI at design stage.
+Project Area Automation
+Project Technology PLC Programming, Solidworks
+106 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+217
+Project Title Development of a custom multi-touch interface for manipulating 3D content
+Name Karl Dwyer
+Email karl.dwyer3@mail.dcu.ie
+Programme Electronic and Computer Engineering
+Supervisor Robert.Sadleir@dcu.ie
+Touch screens are becoming more common in everyday life while also being used for more diverse applications.
+This increased use has led to improvements in touch screen features and functionality. There is also a
+movement towards larger touch screens supporting far more synchronous touches. This project involves
+exploiting the advancements in multi-touch support to develop a CAD application that facilitates 3D graphic
+interaction through a set of custom multi-touch gestures devised for specifically for use with 3D content.
+Project Area Touchscreen Gesture Recognition, 3D Modelling
+Project Technology OSGJS, JavaScript, Java, HTML5
+218
+Project Title Construction and Test of a Hall Effect System
+Name Darragh Nolan
+Email darragh.nolan43@mail.dcu.ie
+Programme Electronic and Computer Engineering
+Supervisor Patrick.McNally@dcu.ie
+The Nanomaterials Processing Laboratory in DCU possess a Hall Effect System. The Hall Effect is an important
+tool in the characterisation of semiconductors. This system was tested, debugged and modified to perform Hall
+Effect measurements. A number of semiconductor samples were tested to check that accuracy of the system
+and results were compared with known information. The system is to be used as a teaching aid in solid-state
+modules in DCU.
+Project Area Automation, Solid-State Materials, Instrumentation
+Project Technology Electronic Instrumentation, Solid-State physics
+219
+Project Title Wireless Mesh Network of Raspberry Pis
+Name William Corrigan
+Email william.corrigan2@mail.dcu.ie
+Programme Electronic and Computer Engineering
+Supervisor Martin.Collier@dcu.ie
+This project investigates the formation of an efficient, wireless mesh network between a number of single board
+computers (SBC). The chosen SBCs for this project were Raspberry Pis, but the concepts explored are general
+and can be adapted to any device running embedded Linux.
+Project Area Internet of Things, Network Applications, Wireless Technology
+Project Technology IEEE 802.15.4 ZigBee, Python, Embedded Linux
+107 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+220
+Project Title Letter Writing Checker
+Name Daragh Lawlor
+Email daragh.lawlor27@mail.dcu.ie
+Programme Computer Applications
+Supervisor Monica.Ward@dcu.ie
+The application was developed to help young learners learn the letters of the alphabet. The app checks if the
+letters have been written correctly. It also stores statistics on the learner’s letter writing development that can
+be reviewed by a parent or a teacher. The app is designed for young learners with no prior knowledge of letters.
+Project Area Android
+Project Technology Java
+221
+Project Title Gamification Of Learning
+Name Andrew Bone
+Email andrew.bone2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Monica.Ward@dcu.ie
+This project is a language independent teaching application which aims to teach the language through
+compelling interactive video games. The application comes equipped with a database containing different
+aspects of the language. This database provides the tests and challenges the user must face in the game. Each
+game features original graphical and audio assets. The application is built in C# and uses the Unity Engine. This
+application is for Android devices.
+Project Area Gaming
+Project Technology C#, SQL
+222
+Project Title Development of a value stream mapping library for extendsim
+Name Givens Maku
+Email givens.maku2@mail.dcu.ie
+Programme Manufacturing Engineering with Business
+Supervisor John.Geraghty@dcu.ie
+Value stream mapping is a basic pen and paper Lean tool that follows a product’s production path from
+customer demand to supplier and draws a visual representation of every process in the material and information
+flow. This project aims to create a value stream mapping (VSM) using simulation. ExtendSim9 is employed as the
+simulation software of choice used to create a VSM library. Through literature-based case study, models are
+developed and the library is tested.
+Project Area Lean Manufacturing
+Project Technology ExtendSIM
+108 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+223
+roject Title Development of Lean Manufacturing in the Aughinish Alumina Workshop
+Name Claire Lowes
+Email claire.lowes2@mail.dcu.ie
+Programme Mechanical and Manufacturing Engineering
+Supervisor John.Geraghty@dcu.ie
+This project aims to develop a more lean system of work in the main workshop of Aughinish Alumina, an
+alumina refinery based in Limerick. The key issues to be addressed and resolved are the unnecessary amount
+of movement of parts in the workshop, the amount of time each part has to wait before it is worked on, and the
+number of parts in the workshop at any given time that are not currently being worked on.
+Project Area Lean Manufacturing
+Project Technology N/A
+224
+Project Title Simulating Systems of Governance
+Name Aaron Edgeworth
+Email aaron.edgeworth3@mail.dcu.ie
+Programme Computer Applications
+Supervisor Alistair.Sutherland@dcu.ie
+This project is a simulator that allows the user to generate a simple, modeled society that is run under different
+forms of governance. As the environment changes, so too may the governmental needs of the population. The
+context of a society and its environment will alter the requirements of its governing body.
+Project Area AI/Simulation
+Project Technology C#
+225
+Project Title Colourising greyscale images using deep learning
+Name Eoin Magner
+Email eoin.magner3@mail.dcu.ie
+Programme Computer Applications
+Supervisor Suzanne.Little@dcu.ie
+The aim of this project is to utilise a convolutional neural network (CNN) to colourise greyscale images. The
+network was trained by taking images with colour and converting them to black and white. This provided the
+input and output for training. The CNN is written in Python using the TensorFlow framework.
+Project Area Artificial Intelligence, Automation, Data Analytics, Image Video Processing
+Project Technology Python
+109 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+226
+Project Title Upgrade of a Pharmaceutical Compressed Air System
+Name Adam Matthews
+Email adam.matthews25@mail.dcu.ie
+Programme Manufacturing Engineering with Business
+Supervisor Brian.Corcoran@dcu.ie
+This project is focused on applying theory and knowledge of project management techniques and approaches
+to an industry-based project. The aim of this project was to conduct a complete upgrade of the compressed air
+system for IPSEN Manufacturing Ireland. This involved increasing capacity, improving reliability and introducing
+quality measures to develop a robust and reliable system. This project examines the complete project life cycle
+from initiation right through to project closure.
+Project Area Industry Based Utility Upgrade
+Project Technology N/A
+227
+Project Title Pick King
+Name Jack Curtis
+Email jack.curtis5@mail.dcu.ie
+Name Martin Kelly
+Email martin.kelly246@mail.dcu.ie
+Name Brendan Mc Quaid
+Email brendan.mcquaid3@mail.dcu.ie
+Programme Enterprise Computing
+Supervisor Andrew.McCarren@dcu.ie
+Pick King is a web-based gambling application that facilitates group orientated gambling in various different
+forms. The main purpose is to allow users to create and partake in unique and specified gambling events varying
+in sports, stakes and event sizes. Not only for the individual, the application can also be used to raise vital funds
+for all types of organisations, including local sports clubs and charities.
+Project Area Web Application
+Project Technology CSS, HTML5, JavaScript, PHP, SQL
+228
+Project Title Simulation of reflective semiconductor optical amplifier
+Name Maadh Alnaabi
+Email maadh.alnaabi2@mail.dcu.ie
+Programme Electronic Engineering
+Supervisor Pascal.Landais@dcu.ie
+In this project my roles are to
+1. adapt a model already developed to determine the carrier distribution in SOA to the RSOA.
+2. study how the power saturation in this device can be controlled by the carrier distribution.
+Project Area Reflective Semiconductor Optical Amplifier
+Project Technology MATLAB
+110 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+229
+Project Title Simulation of Tm3+-doped LiNbO3 laser
+Name Basim Humaid
+Email basim.walddhawi2@mail.dcu.ie
+Programme Electronic and Computer Engineering
+Supervisor Pascal.Landais@dcu.ie
+The project goal is to simulate a Tm3+-doped LiNbO3 laser. The wavelength should be 2um so that it can be
+used in in the arena of spectroscopy or medical care applications. There are some calculations applied in
+designing a suitable wavguide and they are used to develop a simulation tool to design a Tm3+-doped LiNbO3
+laser.
+Project Area Laser waveguide
+Project Technology MATLAB
+230
+Project Title Design and Build of a Ball Balancing Robot
+Name Chigozie Anyanwu
+Email chigozie.anyanwu3@mail.dcu.ie
+Programme Mechatronic Engineering
+Supervisor Noel.Murphy@dcu.ie
+A ball-bot is a mobile robot designed to balance on a single spherical ball. This is achieved through the use of
+sensors with and appropriate control system that drives three actuator wheels that support the ball-bot on its
+ball. The aim of this project is to design and build a ball-bot that is capable maintaining its balance against
+disturbances. This is a follow-on project that will build on the achievements made and lessons learned in a
+previous final year project.
+Project Area Robotics, Motion Analysis, Mechatronic Systems, Mechanical Design and Manufacture,
+Embedded Systems, Control Systems, Circuit Modeling, Automation, Arduino, 3D
+Modelling
+Project Technology Solidworks, MATLAB, Excel/VB, C/C++
+231
+Project Title Mileage
+Name Brian O’Meara
+Email brian.omeara3@mail.dcu.ie
+Name Bobby Clarke
+Email bobby.clarke24@mail.dcu.ie
+Programme Enterprise Computing
+Supervisor Qun.Liu@dcu.ie
+This project follows the development of an application aimed at helping users find transport solutions. Its focus
+is on enabling group bookings for bus operators and coaches, a process which is currently slow and laborious
+for the users seeking the best value possible. Mileage will bring this process into the 21st century, giving users
+the ability to easily compare prices and options, and book their transport. Available on Mobile and Web.
+Project Area Mobile App, Web Application
+Project Technology CSS, HTML5, JavaScript, JQuery, PHP, SQL
+111 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+232
+Project Title The development of a test rig to assess the functional properties of tissue
+engineered heart valves
+Name Cathal Costello
+Email cathal.costello38@mail.dcu.ie
+Programme Biomedical Engineering
+Supervisor Tanya.Levingstone@dcu.ie
+For this project a test rig was developed which allows for the basic testing of tissue engineered heart valves
+in order to investigate their durability under physiological flow conditions. Tissue engineered heart valves are
+seen as the future for cardiac treatment and the ability to validate their performance is important to medical
+manufacturers.The design demonstrates the possible versatility and efficiency that can be implemented when
+developing test apparatuses for medical treatment investigations.
+Project Area Tissue Engineering
+Project Technology LabVIEW
+233
+Project Title Modelling of a nyquist wavelength division multiplexed transmission system
+Name David Stack
+Email david.stack3@mail.dcu.ie
+Programme Electronic and Computer Engineering
+Supervisor Liam.Barry@dcu.ie
+Due to the huge increase in demand for bandwidth, there is an urgency to increase the date rate and capacity
+of installed optical fibre systems.The project investigates one solution of this problem by increasing the number
+of data bits per transmission symbol by the use of a Nyquist Wavelength Division Multiplexed superchannel
+communication system. The test involves using a Quadrature Phase Shift Keying and a 16-Quadrature Amplitude
+Modulation signal to be inputted into the communication system.
+Project Area Telecommunications
+Project Technology MATLAB
+234
+Project Title Nutrition and health
+Name Kvetoslava Sliacanova
+Email kvetoslava.sliacanova2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Renaat.Verbruggen@dcu.ie
+This webapp is designed to enable people to manage their diet more efficiently and easily. They can achieve the
+goals they desire by creating their own individual set of formulae. These would in return give them their own
+personal specific results from which then they’d be offered sets of recipes for foods beneficial to them.
+Project Area Web Application
+Project Technology Ruby on rails
+112 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+235
+Project Title Convolutional Neural Network that Classifies Images
+Name Matthew Hagan
+Email matthew.hagan4@mail.dcu.ie
+Programme Computer Applications
+Supervisor Andrew.McCarren@dcu.ie
+An image recognition system that recognises images and identifies what they are. The main component of the
+system is a convolutional neural network which has been trained with a dataset of leafs. When given a leaf
+image the neural network identifies what species the leaf is from. The neural network is written in Tensor Flow.
+Project Area Computer Vision, Image Video Processing
+Project Technology Python
+236
+Project Title GAA Team Stat Tracker
+Name James Hackett
+Email james.hackett3@mail.dcu.ie
+Programme Computer Applications
+Supervisor Paul.M.Clarke@dcu.ie
+This project is a proof of concept for a new method of sports stat retrieval. Instead of using traditional pen and
+paper or a touch screen-based app this project will use voice recognition and a fit for purpose spoken language
+which is processed to gather the statistics. The end result should be the ability to record game stats in a
+commentary like fashion without having to look away from the game to record the data.
+Project Area Information Retrieval
+Project Technology Java
+237
+Project Title Leaving Cert Phyiscs Simulator
+Name Colm Curtis
+Email colm.curtis2@mail.dcu.ie
+Programme Computer Applications
+Supervisor Liam.Tuohey@dcu.ie
+This project is a simulator for the experiments currently on the Leaving Certificate Physics curriculum. Users
+are allowed to choose their desired experiment and the project will provide a visual simulation of the chosen
+experiment.Upon completion of the experiment, results will then be generated and displayed to the users. The
+users can then use these results to validate what the experiment is trying to prove. The project is aimed at both
+teachers and students of Leaving Certificate Physics.
+Project Area Educational, Simulation
+Project Technology C#, Unity
+113 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+238
+Project Title Photonic Gas Sensor
+Name Munashe Terence Manzanga
+Email munashe.manzanga4@mail.dcu.ie
+Programme Electronic and Computer Engineering
+Supervisor Prince.Anandarajah@dcu.ie
+This project uses optical frequency combs in the detection of C02 and other spectrally adjacent species. By
+implementing a dual comb structure it is possible to achieve high detection sensitivity and spectral resolution
+in the radio frequency domain using a common photodiode. This ability to interrogate data using a photodiode
+rather than a spectral analyser has obvious benefits in terms of cost and the real-time analysis of data.
+Project Area Circuit Modeling, DSP, Sensor Data, Sensor Technology
+Project Technology DSP, Fast Fourier Transform, VPI photonics
+239
+Project Title Pocket Quiz
+Name Declan Kearney
+Email declan.kearney22@mail.dcu.ie
+Name John Seagrave
+Email john.seagrave2@mail.dcu.ie
+Programme Enterprise Computing
+Supervisor Monica.Ward@dcu.ie
+Pocket Quiz is a multiple choice quiz (MCQ) app for secondary school and third-level students. Student users
+can create, rate and share quizzes with fellow students within study groups or class groups. Teachers and
+lecturers can also create, rate and share quizzes. Teachers and lecturers are able to assign quizzes and
+continuous assessments assignments to their students or share them with other educational professionals.
+Quizzes will also be provided by publishers – these quizzes will be promoted.
+Project Area Mobile App
+Project Technology SQL
+240
+Project Title TicketBook
+Name John Farrell
+Email john.farrell53@mail.dcu.ie
+Name Ryan McElhinney
+Email ryan.mcelhinney2@mail.dcu.ie
+Programme Enterprise Computing
+Supervisor Andy.Way@dcu.ie
+This project was started with the aim of launching a competitive service for online ticket sales. A prototype
+application was developed to showcase the vision for the service as well as a comprehensive and thorough
+business plan. The prototype demonstrates overall app functionality, Facebook integration and event
+suggestions as well as looking at using NFC-enabled devices as the ‘ticket’ to enter events.
+Project Area Mobile App
+Project Technology Prototype
+114 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
+241
+Project Title HE18 – Android Controlled Vehicle
+Name Aodhán Ó Gabhann
+Email aodhan.ogabhann2@mail.dcu.ie
+Programme Mechatronic Engineering
+Supervisor Harold.Esmonde@dcu.ie
+This project deals with the design, building and testing of a two-wheeled self-balancing vehicle using an
+Android-based smartphone. This vehicle incorporates two stepper motors which provide the vehicle’s motion
+and relies solely on the phone's onboard sensors to keep the device upright and balanced.
+Project Area Android, Control Systems, Mechatronic Systems, Mobile App, Vehicle Control
+Project Technology Java
+242
+Project Title Two sided rental marketplace
+Name Kevin Mulligan
+Email kevin.mulligan23@mail.dcu.ie
+Name Cianan Simpson
+Email cianan.simpson5@mail.dcu.ie
+Name Gavin Drumm
+Email gavin.drumm2@mail.dcu.ie
+Programme Enterprise Computing
+Supervisor Monica.Ward@dcu.ie
+Our project creates an online peer to peer marketplace for the rental of personal possessions such as music
+equipment, tools, bikes, etc. Users will be presented with a geographical map of nearby listed items, allowing
+fast access to items they need for a fraction of the price of buying it and provides a new way for people to make
+money from underutilised items they own. The website will allow users to list items for rent to their verified
+public profile.
+Project Area Web Application
+Project Technology Ruby
+243
+Project Title Parametric Finite Element Modelling of Stress Concentrators
+Name Dylan Cunningham
+Email dylan.cunningham23@mail.dcu.ie
+Programme Mechanical and Manufacturing Engineering
+Supervisor Bryan.MacDonald@dcu.ie
+Parametric finite element analysis of several common stress concentrating features. Building of a finite element
+model of each feature using ANSYS software. Validation of these models by comparison with existing analytical
+solutions. Subsequent sensitivity analysis using the model to determine the effect of the various parameters
+contributing to the stresses in the structure. Comparison of results to existing design data with the intent to
+improve or supplement design data and validate the use of finite element modelling in design.
+Project Area Mechanical Design and Manufacture
+Project Technology ANSYS
+115 Faculty of Engineering and Computing
+Final Year Projects Expo 2017
