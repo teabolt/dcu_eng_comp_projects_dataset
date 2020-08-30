@@ -4,6 +4,7 @@ import os.path
 import json
 import re
 
+from utils import pick_keys
 
 def anomaly_warning(anomaly, *args):
     """Print a warning for anomaly, with optional strings to print"""
@@ -49,6 +50,9 @@ def split_supervisor_and_description(project, supervisor_descr_separator='\n'):
     Split the combined supervisor and description field into separate fields.
     Use the separator to differentiate supervisor from description.
     """
+    if 'supervisor_and_description' not in project:
+        anomaly_warning('SUPERVISOR AND DESCRIPTION SPLIT', '"supervisor_and_description" key is missing', project)
+        return project
     supervisor_and_description = project['supervisor_and_description']
     idx = supervisor_and_description.find(supervisor_descr_separator)
     if idx == -1:
@@ -63,14 +67,21 @@ def split_supervisor_and_description(project, supervisor_descr_separator='\n'):
         del project['supervisor_and_description']
         return {**project, 'supervisor': supervisor, 'description': description}
 
-def parse_student_details(project):
+def parse_student_details(project, name_sep='Name', email_sep='Email'):
     """
     Parse unstructured student data into a structured data.
     """
+    if 'students' not in project:
+        anomaly_warning('STUDENT PARSING', '"students" key is missing', project)
+        return project
     students = project['students']
     parsed_students = []
-    for stud in students.split('Name'):
-        s = stud.split('Email')
+    if not isinstance(students, str):
+        anomaly_warning('STUDENT PARSING', 'students is not a string field', project, students)
+        return project
+
+    for stud in students.split(name_sep):
+        s = stud.split(email_sep)
         if len(s) != 2:
             anomaly_warning('STUDENT PARSING', students, stud, s)
             continue
@@ -93,8 +104,8 @@ def canonicalize_projects(projects, **kwargs):
     """
     canonical_projects = []
     for project in projects:
-        canon = split_supervisor_and_description(project, **kwargs)
-        canon = parse_student_details(canon)
+        canon = split_supervisor_and_description(project, **pick_keys(kwargs, ['supervisor_descr_separator']))
+        canon = parse_student_details(canon, **pick_keys(kwargs, ['name_sep', 'email_sep']))
         canon = remove_newlines(canon)
         canonical_projects.append(canon)
     return canonical_projects
