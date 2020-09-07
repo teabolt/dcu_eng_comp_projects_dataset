@@ -518,6 +518,7 @@ The final tool is called maK_it and was created on the CentOS linux distribution
 maintain root access to a Linux host computer in a stealthy way once installed. It can be used for
 information reconnaissance and remote hidden access to a compromised machine. It employs
 multiple techniques to avoid detection.
+Project Area
 Project Title: Whereable
 Name: Yevgeny Abramov
 Email: yevgeny.abramov2@mail.dcu.ie
@@ -681,6 +682,7 @@ can create a new account, log in with authorisation and send information to each
 a ‘message’.
 The project is a proof of concept to prove that the underline technologies are there for an application
 to be implemented in the real world with off the shelf technology.
+Project Area: 
 Project Technology: Objective-C, Ruby
 Project Platform: iOS
 Project Title: Hockey 1v1 Shootout Analysis and Application
@@ -3648,6 +3650,7 @@ In this project, a phase lead compensation approach was adopted to implement the
 the ball on the physical beam. Simulation studies give encouraging results regarding the applicability
 of the developed controller design whilst the documented experimental results highlight the
 constraints and limitations of the approach with respect to the actual physical rig.
+Project Area: 
 Project Technology: C/C++, Matlab, Simulink
 Project Platform: Arduino
 Project Title: GrandJob.ie
@@ -4171,6 +4174,7 @@ has caused a number of competitors to start work on their own virtual reality de
 Sony. Virtual Reality has been around for a long time, but with the rapid development in the
 technology available, it will finally become a more fully realised aspect of the modern entertainment
 experience.
+Project Area: 
 Project Technology: C#
 Project Platform: Windows
 Project Title: “Go Out” Event Application for Android

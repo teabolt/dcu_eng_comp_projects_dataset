@@ -36,7 +36,7 @@ def parse_project(project_string, compiled, idx=''):
     for detail, pattern in compiled.items():
         match = pattern.findall(project_string)
         if len(match) != 1:
-            anomaly_warning(detail, idx, project_string)
+            anomaly_warning(detail, idx, project_string, match)
             if len(match) == 0:
                 # assign None as "not found" value
                 match = None
