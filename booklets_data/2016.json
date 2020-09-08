@@ -1,0 +1,2962 @@
+[
+    {
+        "area": "Computer Vision, Image Video Processing, RaspberryPi, Web Application, Databases",
+        "description": "Crowd Control is a people-counting and attendance management system. The system consists of a raspberry pi, camera module, cloud backend and a web application. On the pi, using computer vision algorithms, people entering/leaving the building are detected. The amount of people that have entered/left and the time stamp is then sent to the server. The Crowd Control web application uses this data to display how many people are in a venue in real time and represents trends graphically over time.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "harry.quigley2@mail.dcu.ie",
+                "name": "Harry Quigley"
+            }
+        ],
+        "supervisor": "Suzanne Little",
+        "technology": "HTML5, Java, JavaScript, Python, REST, SpringMVC, SQL 2",
+        "title": "Crowd Control"
+    },
+    {
+        "area": "Android, Gaming, GPS GIS",
+        "description": "Assassin is an Android multiplayer game that is played in the real world (preferably a busy pedestrian area) that uses GPS to determine players’ locations. Players (hunters) must chase after other players (targets) to win the game. There are different combinations of hunters/targets depending on the game mode e.g. sometimes all players are both a target and a hunter. The aim of the game is to be sneaky/blend into the crowd so other players don’t see you from far away.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "sean.kelly224@mail.dcu.ie",
+                "name": "Sean Kelly"
+            }
+        ],
+        "supervisor": "Geoff Hamilton",
+        "technology": "Java 3",
+        "title": "Assassin"
+    },
+    {
+        "area": "Advanced Material Engineering",
+        "description": "In industry it has been observed that some mould blocks can be warped due to internal stresses. This can cost a company an exorbitant amount of money with replacement or cost of production allowances. This study is to investigate the effect of milling and other factors like composition and material properties on the mould block and warpage.",
+        "programme": "Biomedical Engineering",
+        "students": [
+            {
+                "email": "liam.halpin7@mail.dcu.ie",
+                "name": "Liam Halpin"
+            }
+        ],
+        "supervisor": "Dermot Brabazon",
+        "technology": "Excel/VB 24 Faculty of Engineering and Computing Final Year Projects Expo 2016 4",
+        "title": "Investigation of metal die warpage for high dimensional accuracy requirements in polymer moulding"
+    },
+    {
+        "area": "Model View Controller, Network Applications, Security, Web Application",
+        "description": "The System is a centralized platform with the ability to provision and manage any network switch or router that has an open-source API for device management. Devices from several vendors including Cisco, Juniper and VMware are accessible from a single system. The system provides the user with a GUI where they configure and provision switches, a GUI to view and download device logs and a web console where users logon to specific devices to use commands to perform changes.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "ashley.deane5@mail.dcu.ie",
+                "name": "Ashley Deane"
+            }
+        ],
+        "supervisor": "Stephen Blott",
+        "technology": "JenkinsCI, MongoDB, Cisco, Juniper, SpringMVC, CSS, HTML5, REST, JQuery, JavaScript, Java, AngularJS 5",
+        "title": "Software Defined Network Platform"
+    },
+    {
+        "area": "Mobile App",
+        "description": "My Own Reports (MOR) is a real world business solution aimed at clients of Insolvency Practitioners (IPs) based in the U.K. This cross platform mobile application allows users to manage repayments and submit necessary paper work via their phone camera. Built using HTML5 and JavaScript, MOR integrates with already existing databases allowing data transfer between MOR and numerous IPs. While MOR will make life easier for users, it also makes IPs more efficient, reducing costs and their carbon footprint.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "bryan.walsh37@mail.dcu.ie",
+                "name": "Bryan Walsh"
+            }
+        ],
+        "supervisor": "Renaat Verbruggen",
+        "technology": "JavaScript, HTML5 6",
+        "title": "My Own Reports"
+    },
+    {
+        "area": "Web Application, Mobile App, Data Analytics",
+        "description": "Trak is a revolutionary new service that aims to eradicate the need for paper receipts, replacing them with electronic ones. Saving trees, people’s time and their money. The idea revolves around NFC (Near Field Communication), a technology that has grown in popularity in recent years. NFC allows for close proximity wireless communication and is now integrated into a lot of smartphones. Trak will utilise this proven technology to make life easier for everyone who interacts with the retail industry.",
+        "programme": "Enterprise Computing",
+        "students": [
+            {
+                "email": "daniel.farrell39@mail.dcu.ie",
+                "name": "Daniel Farrell"
+            },
+            {
+                "email": "ian.daly5@mail.dcu.ie",
+                "name": "Ian Daly"
+            }
+        ],
+        "supervisor": "Cathal Gurrin",
+        "technology": "Swift, Bootstrap, JQuery 25 Faculty of Engineering and Computing Final Year Projects Expo 2016 7",
+        "title": "Trak Receipts"
+    },
+    {
+        "area": "Android",
+        "description": "Pro Pt is an android application designed to enhance the relationship between a Personal Trainer and their clients. The product aims to allow the client to maintain a consistently high level of motivation as they go about their day-to-day life and not just while in the company of their trainer. By providing an interface for communication, progress monitoring and information regarding nutrition and exercise, this application aims to maximise results for both parties.",
+        "programme": "Enterprise Computing",
+        "students": [
+            {
+                "email": "gerard.dempsey6@mail.dcu.ie",
+                "name": "Gerard Dempsey"
+            },
+            {
+                "email": "john.lindsay5@mail.dcu.ie",
+                "name": "John Lindsay"
+            }
+        ],
+        "supervisor": "Monica Ward",
+        "technology": "Java 8",
+        "title": "Pro PT"
+    },
+    {
+        "area": "Gaming",
+        "description": "For my Final year project I created a game for IOS. It is a Strategic God type game, where you play as a God to win the love of the inhabitants of the world you control. “The Olympic Battle for Cake” is an interactive and responsive game. I created this game as I wanted to create something that makes you want to pick it up and not want to put down.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "jennifer.dolan22@mail.dcu.ie",
+                "name": "Jennifer Dolan"
+            }
+        ],
+        "supervisor": "Mark Humphrys",
+        "technology": "Swift 9",
+        "title": "The Olympic Battle for Cake"
+    },
+    {
+        "area": "Android, Computer Vision, Information Retrieval, Mobile App, Optical Character Recognition, Web Application",
+        "description": "An expense logging system comprising of an Android App and a REST web service which allows the user to document and track expenses while on the go, thus simplifying filing expenses in the workplace. The Android App can scan a receipt image then obtain expense information and allocate the data to relevant fields. Via the web service REST interface, current company systems will interact with the expense data submitted by the user.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "aran.smith47@mail.dcu.ie",
+                "name": "Aran Bleakley Smith"
+            }
+        ],
+        "supervisor": "Alistair Sutherland",
+        "technology": "Eclipse, Java, REST, SpringMVC, SQL 26 Faculty of Engineering and Computing Final Year Projects Expo 2016 10",
+        "title": "Expense Logger"
+    },
+    {
+        "area": "Web Application, Data Mining, Data Analytics",
+        "description": "The Car Deal Spotter is a web application allowing users to find a good valued car. It gathers car data from ads on the web and from that data trains a model to predict car prices. A car’s predicted value is compared to the advertised asking price where large differences mean good deals. To predict a price the model looks at various car attributes such as make, model, mileage, age, owners, etc.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "nicholas.ruiter2@mail.dcu.ie",
+                "name": "Nicholas Ruiter"
+            }
+        ],
+        "supervisor": "Darragh OBrien",
+        "technology": "SQL, PHP, Java, HTML5 11",
+        "title": "Car Deal Spotter"
+    },
+    {
+        "area": "Android",
+        "description": "An Android application that facilitates contactless payment of public transport. The app is used like a smart card (such as Leap card) with which the user swipes against a terminal to pay for their journey/ticket.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "conor.sheppard2@mail.dcu.ie",
+                "name": "Conor Sheppard"
+            }
+        ],
+        "supervisor": "Geoff Hamilton",
+        "technology": "Java, PHP, SQL, XML 12",
+        "title": "Android SmartTravel Application"
+    },
+    {
+        "area": "Web Application, Data Analytics",
+        "description": "There is a need within Universities to identify struggling students as early in the academic year as possible. The earlier a struggling student is identified the better chance the University has of helping the student get the attention they need. The purpose of this project is to provide a web application which aids in identifying struggling students. The application extracts data from DCU Loop and, using data analysis, identifies and highlights struggling students based on their engagement levels.",
+        "programme": "Digital Media Engineering",
+        "students": [
+            {
+                "email": "alan.maher32@mail.dcu.ie",
+                "name": "Alan Maher"
+            }
+        ],
+        "supervisor": "David Molloy",
+        "technology": "AngularJS, Groovy, HTML5, REST, SQL 27 Faculty of Engineering and Computing Final Year Projects Expo 2016 13",
+        "title": "Student Retention Metrics and Analysis"
+    },
+    {
+        "area": "Speech Recognition, Web Development",
+        "description": "The project is a NetBeans plugin that can be used to create HTML and CSS documents using voice recognition. The plugin provides two main functions: a voice recognition engine which (using a dictionary) the user can create simple webpages and a text to speech tool which will read back the current line of tags in order to improve accessibility and correctness.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "joseph.omeara3@mail.dcu.ie",
+                "name": "Joseph O’Meara"
+            }
+        ],
+        "supervisor": "Donal Fitzpatrick",
+        "technology": "CSS, HTML5, Java 14",
+        "title": "NetBeans voice plugin"
+    },
+    {
+        "area": "Mobile App, Sensor Data",
+        "description": "Patrol is an android application that allows users to automatically report problems with a road such as potholes in the background while they are driving. This is achieved by using an android device’s internal gyroscope to measure how level a road is and send the results to a server for each user journey. This server will then issue warnings on roads onto the application until the problem is fixed by a city council.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "killian.mills2@mail.dcu.ie",
+                "name": "Killian Mills"
+            }
+        ],
+        "supervisor": "Stephen Blott",
+        "technology": "AngularJS, Java 15",
+        "title": "Patrol"
+    },
+    {
+        "area": "Lean Manufacturing",
+        "description": "An identification and analysis of bottlenecks in Henkel Ireland’s production plant was undertaken using both the Theory of Constraints and the DMAIC (Define, Measure, Analyse, Improve, Control) technique. While Lean and six sigma tools, including SMED (Single Minute Exchange of Die), were used to decrease the changeover time on chosen packaging lines W01 and L06. The results were analysed further and improvement ideas were given to the operating management of Henkel Ireland.",
+        "programme": "Manufacturing Engineering with Business",
+        "students": [
+            {
+                "email": "kate.odea4@mail.dcu.ie",
+                "name": "Kate O Dea"
+            }
+        ],
+        "supervisor": "John Geraghty",
+        "technology": "Excel/VB 28 Faculty of Engineering and Computing Final Year Projects Expo 2016 16",
+        "title": "Bottleneck analysis using TOC Lean Six Sigma, an industrial case srudy"
+    },
+    {
+        "area": "Mobile App",
+        "description": "BEEP! is a mobile application which provides alerts to users, based on the predefined location of another user. iOS comes with a built in function where users can set alerts based on the location of themselves. So for example, “remind me to turn off the immersion when I get home”. This type of function has been widely replicated. Our concept differs in that the alerts are not triggered by your own location, but by the location of another predefined user.",
+        "programme": "Enterprise Computing",
+        "students": [
+            {
+                "email": "adam.browne26@mail.dcu.ie",
+                "name": "Adam Browne"
+            },
+            {
+                "email": "gavin.moore24@mail.dcu.ie",
+                "name": "Gavin Moore"
+            }
+        ],
+        "supervisor": "Ray Walshe",
+        "technology": "Prototype Developed For Cross Platform Use 17",
+        "title": "BEEP! The Location Based Alarm"
+    },
+    {
+        "area": "Web Application",
+        "description": "Notifyin is a web application designed to produce users with with real-time notifications on updated information. Focusing on universities for our FYP. NotifyIn provides the students the opportunity to receive instant notifications on their phones about canceled lectures, uploaded assignments, accessing the content of the modules and instant messaging with other students.It will offer the lecturers the ability to share information directly to students in real-time.",
+        "programme": "Enterprise Computing",
+        "students": [
+            {
+                "email": "oluwatobi.nabena2@mail.dcu.ie",
+                "name": "Oluwatobi Nabena"
+            },
+            {
+                "email": "vilmantas.adamonis2@mail.dcu.ie",
+                "name": "Vilmantas Adamonis"
+            }
+        ],
+        "supervisor": "Brian Stone",
+        "technology": "JavaScript, JQuery, PHP, SQL 18",
+        "title": "NotifyIn"
+    },
+    {
+        "area": "Information Retrieval, Web Application",
+        "description": "This project is a smart document store. It is a web application where users can create documents for study or professional use. It handles creation, storage, searching and summarisation of these documents. This project encapsulates the idea of document creation and searching. Users quickly have access to vast amounts of information across multiple documents while still having the normal document creation capabilities. It turns the normal flat file store approach for document creation into a multi-dimensional architecture.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "luke.stowe2@mail.dcu.ie",
+                "name": "Luke Stowe"
+            }
+        ],
+        "supervisor": "Gareth Jones",
+        "technology": "AngularJS, CSS, HTML5, Java, REST, SpringMVC, Elasticsearch 29 Faculty of Engineering and Computing Final Year Projects Expo 2016 19",
+        "title": "Smart Document Store"
+    },
+    {
+        "area": "Control Systems",
+        "description": "The aim of this fourth-year project is to design an inventory management system for the equipment in the engineering faculty of Dublin City University. Moreover, to help in improving the inventory system that has been implemented to the chemicals in the engineering laboratories.",
+        "programme": "Mechanical and Manufacturing Engineering",
+        "students": [
+            {
+                "email": "mohammed.almazyad2@mail.dcu.ie",
+                "name": "Mohammed Almazyad"
+            }
+        ],
+        "supervisor": "Lorna Fitzsimons",
+        "technology": "LabCub and Quartzy 20",
+        "title": "Engineering Inventory Management System"
+    },
+    {
+        "area": "Android",
+        "description": "This project is to help users track nutritional intake from their diet using guideline daily amounts. The user will be able to easily input the information and track their intake over different values.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "shane.oconnor85@mail.dcu.ie",
+                "name": "Shane O’Connor"
+            }
+        ],
+        "supervisor": "Charlie Daly",
+        "technology": "Java 21",
+        "title": "Nutrition tracker application"
+    },
+    {
+        "area": "Android, Arduino, Mobile App, Telecommunications",
+        "description": "I designed an Android application, which allows video streaming using different mobile interfaces: WiFi and LTE. The energy consumption of each mobile interface is measured, Energy vs. Quality performance is assessed for diverse video content, frames per second and resolutions. The application records the streaming video information, example: Packets received, throughput and delay between server and client communication.",
+        "programme": "Electronic Engineering",
+        "students": [
+            {
+                "email": "ali.javed2@mail.dcu.ie",
+                "name": "Ali javed"
+            }
+        ],
+        "supervisor": "Gabriel Miro Muntean",
+        "technology": "Java 30 Faculty of Engineering and Computing Final Year Projects Expo 2016 22",
+        "title": "Android Application which Compares Energy Consumption of Video Streaming over different mobile interfaces"
+    },
+    {
+        "area": "Education, Computer Assisted Language Learning, Computational Linguistics, Signal Processing, Natural Language Processing, Speech Recognition, Web Application",
+        "description": "FoghlaimFocail is an Irish vocabulary learning tool for children. It is directed at improving a child’s way of learning a language through a combination of parental interaction and technical feedback on pronunciation. It’s a web application that uses JQuery and PHP to interact with a speech recognition system – developed using MatLab – that evaluates test utterances against stored templates using Dynamic Time Warping. JavaScript acts as an aid to the interactivity of the site, including the recording functionality.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "aoife.debuitlear2@mail.dcu.ie",
+                "name": "Aoife De Buitléar"
+            }
+        ],
+        "supervisor": "John McKenna",
+        "technology": "SQL, PHP, Matlab, JQuery, JavaScript 23",
+        "title": "Foghlaim Focail (Learn Words)"
+    },
+    {
+        "area": "Web Application, Optical Character Recognition, Information Retrieval",
+        "description": "Sonrasc is a web application which businesses can use to upload invoices and extract relevant information concerning companies they are dealing with by optical character recognition. It utilises microservices that communicate via REST APIs. Invoice information can be visualised in a number of different views displaying details of purchased items and the tracking of expenditure over time.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "john.brennan55@mail.dcu.ie",
+                "name": "John Brennan"
+            }
+        ],
+        "supervisor": "Alexander OConnor",
+        "technology": "JavaScript, Node.js, Docker, React, REST 24",
+        "title": "Sonrasc – Invoice processing and visualisation"
+    },
+    {
+        "area": "Arduino",
+        "description": "A bicycle helmet was created with in built GPS. The helmet also has an accelerometer and LED lights. The lights on the helmet light up to show when the cyclist is braking and when they are turning left or right. The lights signal to the wearer when they need to turn based on their desired location.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "diarmuid.kinahan2@mail.dcu.ie",
+                "name": "Diarmuid Kinahan"
+            }
+        ],
+        "supervisor": "Ray Walshe",
+        "technology": "C/C++ 31 Faculty of Engineering and Computing Final Year Projects Expo 2016 25",
+        "title": "GPS Bicycle Helmet"
+    },
+    {
+        "area": "Code Analysis, Object-Oriented Analysis, Software Development",
+        "description": "This project builds on the existing Pylint and Astroid frameworks to provide a suite of object-oriented static analysis metrics for Python. The metrics can be run against a user’s Python code and they will receive a score and analysis based on their code. This suite of metrics includes some of the industry accepted object-oriented checks that can have an impact on code maintenance and re-use.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "ryan.dalton5@mail.dcu.ie",
+                "name": "Ryan Dalton"
+            }
+        ],
+        "supervisor": "Renaat Verbruggen",
+        "technology": "Python 26",
+        "title": "A program analysis tool to check for object-oriented errors in Python code"
+    },
+    {
+        "area": "Mobile App",
+        "description": "HotBox(Hotspot Jukebox) is an idea for a mobile application that acts as personal jukebox interface for people in a public premises. Using this application, users can select the music playing in pubs, cafes, restaurants, bars etc. using their phone or mobile device by selecting from a music collection provided by the proprietor. It gives control to both the host and the user to select what music is being played on the premises.",
+        "programme": "Enterprise Computing",
+        "students": [
+            {
+                "email": "conor.kiernan9@mail.dcu.ie",
+                "name": "Conor Kiernan"
+            },
+            {
+                "email": "david.murphy98@mail.dcu.ie",
+                "name": "David Murphy"
+            }
+        ],
+        "supervisor": "Markus Helfert",
+        "technology": "Java 27",
+        "title": "HotBox"
+    },
+    {
+        "area": "Web Application",
+        "description": "Offloaded, a web based application, is a delivery management system that facilitates pre-booking and reporting for large firms who process vast numbers of deliveries daily i.e. airports and distribution centers. The main purpose is to allow logistics companies delivering to these firms to book a time slot to “offload” products in the most efficient way thus eliminating queues and saving time for both parties. The reporting tool allows the organisation to view and analyse past deliveries and make future predictions.",
+        "programme": "Enterprise Computing",
+        "students": [
+            {
+                "email": "aimee.kirk2@mail.dcu.ie",
+                "name": "Aimee Kirk"
+            },
+            {
+                "email": "amy.roe3@mail.dcu.ie",
+                "name": "Amy Roe"
+            }
+        ],
+        "supervisor": "Brian Stone",
+        "technology": "CSS, HTML5, JavaScript, PHP, SQL 32 Faculty of Engineering and Computing Final Year Projects Expo 2016 28",
+        "title": "OffLoaded"
+    },
+    {
+        "area": "Data Analytics, Web Application",
+        "description": "This project is a web application that helps users, either singularly or in a group, to pick a film to watch based off their past watch histories. The result returned is a film they’re all interested in but one which no one present has already seen. It’s written in Python using the Flask framework and communicating with the trakt.tv database for users watch histories and ratings. It is accessible through a browser or android application.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "philip.brennan36@mail.dcu.ie",
+                "name": "Philip Brennan"
+            }
+        ],
+        "supervisor": "Mark Roantree",
+        "technology": "Flask Framework 29",
+        "title": "Film Recommendation App"
+    },
+    {
+        "area": "Data Analytics, Internet of Things, Model View Controller, RaspberryPi, Web Application",
+        "description": "Logix is an Agile Business Intelligence Solution that brings information from many systems together in one intuitive centralised solution. With Logix you get built-in Data Governance features to provide people with controlled access to the information only they should see, track key metrics in configurable dashboards, investigate issues as they arise and make better and faster decisions. This project brings all the functionality of Logix to the Universal Windows Platform. Incorporating Cortana, push notifications etc. One platform, Many devices.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "andrew.whitney5@mail.dcu.ie",
+                "name": "Andrew Whitney"
+            }
+        ],
+        "supervisor": "Renaat Verbruggen",
+        "technology": "REST, C#, JavaScript, JQuery 30",
+        "title": "Logix Eco UWP"
+    },
+    {
+        "area": "Gaming",
+        "description": "Dungeons of Azemrath is a 2D sidescrolling game which incorporates elements of traditional “Rogue-like” games. The objective of the game is to progress as far into the game’s stages as possible before dying, which will afford you an opportunity to power up your character before attempting to clear the game’s stages again. The game’s stages will be randomly generated on each attempt, offering increased replayability for the game. This game is being developed with the Unity Engine.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "mark.gorman8@mail.dcu.ie",
+                "name": "Mark Gorman"
+            }
+        ],
+        "supervisor": "Paul Clarke",
+        "technology": "C# 33 Faculty of Engineering and Computing Final Year Projects Expo 2016 31",
+        "title": "Dungeons Of Azemrath"
+    },
+    {
+        "area": "Software Development, Web Application",
+        "description": "Trendi-News is a web-application designed for users who want easy access to real-time news headlines on the go. The motive for this project was to investigate three different news-ranking algorithms with the aid of crowd-souring. The wisdom of the crowd will help compute a human supported ranking score for news stories according to data flow on the social network (Twitter).",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "andrew.clancy9@mail.dcu.ie",
+                "name": "Andrew Clancy"
+            }
+        ],
+        "supervisor": "Mark Humphrys",
+        "technology": "AngularJS, HTML5, Java, Neo4j 32",
+        "title": "Ranking News Headlines by social media"
+    },
+    {
+        "area": "Web Application",
+        "description": "SpeakTogether is a web based application developed to assist leaving certificate students while preparing for their oral examination in their chosen language. Irish and German will be the languages used for the purpose of the prototype. The web application will consist of picture sequences from the leaving certificate. The purpose of the application is to provide descriptions, translations and audio in the selected dialect of the corresponding picture sequences when students are revising for the leaving certificate oral examination.",
+        "programme": "Enterprise Computing",
+        "students": [
+            {
+                "email": "mark.pollitt2@mail.dcu.ie",
+                "name": "Mark Pollitt"
+            },
+            {
+                "email": "megan.walsh83@mail.dcu.ie",
+                "name": "Megan Walsh"
+            },
+            {
+                "email": "grace.owabumuwa2@mail.dcu.ie",
+                "name": "Grace Owabumuwa"
+            }
+        ],
+        "supervisor": "Monica Ward",
+        "technology": "CSS, HTML5, JavaScript, PHP, SQL 33",
+        "title": "SpeakTogether"
+    },
+    {
+        "area": "Mobile App",
+        "description": "ThinkFit is a health and fitness app, aiming to change the mental habit of people towards health and fitness. • Constant Beacon monitoring will catch people taking lifts over stairs. • A track keeper allows users see their speed/time during laps. • A gym journal is available to keep track of ones workout. • Users can see their fitness journey through multiple graphs. • Users’ Profile, displays personal and health details. • A messaging service within the app allows users send messages/ pictures to each other",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "sonia.machesney2@mail.dcu.ie",
+                "name": "Sonia Machesney"
+            }
+        ],
+        "supervisor": "David Gray",
+        "technology": "Objective-C 34 Faculty of Engineering and Computing Final Year Projects Expo 2016 35",
+        "title": "ThinkFit"
+    },
+    {
+        "area": "Mobile App, Web Application, Wireless Technology",
+        "description": "My system is called NFCVT. It stands for “NFC Virtual Tickets. The system consists of dynamic web application along with mobile app. The users can browse through events and obtain tickets for events. The tickets are utilised using NFC. User simply selects the virtual ticket and tags in at the entry. Users can also create their own events and track them dynamically. No additional hardware is required as a mobile phone acts as a ticker scanner and ticket writer.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "daniel.rejniak2@mail.dcu.ie",
+                "name": "Daniel Rejniak"
+            }
+        ],
+        "supervisor": "Mark Roantree",
+        "technology": "NoSQL, REST, AngularJS, Node.js 36",
+        "title": "NFC Ticketing System"
+    },
+    {
+        "area": "Gaming",
+        "description": "My project is a 2d sidescrolling game called “Wick”. The game is about the main character who is a candle that is lit at the start of the level and needs to run through gathering wax so they don’t melt too quickly and the eventually extinguish the flame at the end of the level, avoiding enemies that will melt him faster along the way. It is made using the Unity game engine.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "cormac.clare2@mail.dcu.ie",
+                "name": "Cormac Clare"
+            }
+        ],
+        "supervisor": "Darragh OBrien",
+        "technology": "C# 37",
+        "title": "Wick -2D Sidescrolling Game"
+    },
+    {
+        "area": "Mobile App, Educational, Android",
+        "description": "This application is one that takes input from a user – in this case a young learner. The learner has to input a shape or a letter. The application checks the accuracy of that input. A message is displayed which shows whether the input was good or if the learner needs to try again. This will work for letters, shapes and numbers. There will also be an alphabet feature where the learner can point out different letters.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "sean.corcoran23@mail.dcu.ie",
+                "name": "Sean Corcoran"
+            }
+        ],
+        "supervisor": "Monica Ward",
+        "technology": "XML, SQL, Java 35 Faculty of Engineering and Computing Final Year Projects Expo 2016 38",
+        "title": "Letter, Shape and Number checker for preschool children"
+    },
+    {
+        "area": "Mobile App",
+        "description": "The idea for Pints Nearby was to create a user driven based application for locating nearby pubs/nightclubs using the user’s location. The user can set the radius they want to scan for pubs/nightclubs within a particular area, and letting them then select the pub or night club they wish to visit, once the user selects the pub/ nightclub Pints Nearby then directs them to the location. Other features included are filtered searching, live updates, reviews, booking and available discounts.",
+        "programme": "Enterprise Computing",
+        "students": [
+            {
+                "email": "ciaran.denihan2@mail.dcu.ie",
+                "name": "Ciaran Denihan"
+            },
+            {
+                "email": "ciaran.rose2@mail.dcu.ie",
+                "name": "Ciaran Rose"
+            }
+        ],
+        "supervisor": "Jane Kernan",
+        "technology": "Android Studio 39",
+        "title": "Pints Nearby"
+    },
+    {
+        "area": "Mobile App, Android",
+        "description": "Late & Ready is mobile application that allows users, who want to travel on short notice, bid for lower priced airline seats. Late & Ready aims to make “standby” flights more accessible to the general public. This mobile application will increase an airline’s load factor while offering its users a new form of last minute travel.",
+        "programme": "Enterprise Computing",
+        "students": [
+            {
+                "email": "mark.finnerty5@mail.dcu.ie",
+                "name": "Mark Finnerty"
+            },
+            {
+                "email": "conor.meehan7@mail.dcu.ie",
+                "name": "Conor Meehan"
+            }
+        ],
+        "supervisor": "Paul Clarke",
+        "technology": "XML, Java 40",
+        "title": "Late & Ready"
+    },
+    {
+        "area": "Software Development",
+        "description": "This project is a net negative bet detector for PaddyPower. This project investigates the functional programming paradigm, which aims to eliminate side effects and have immutable state. Also investigating the actor concurrency model. The system identifies betters who are deemed to be shrewd betters. When these customers bet, their bet is displayed to the traders. Traders can then act on this information. A net negative bet is one that is placed at a higher price than the starting price.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "ciaran.oconnor76@mail.dcu.ie",
+                "name": "Ciaran O’Connor"
+            }
+        ],
+        "supervisor": "Geoff Hamilton",
+        "technology": "AngularJS, Docker, JavaScript, REST, NoSQL, Scala 36 Faculty of Engineering and Computing Final Year Projects Expo 2016 41",
+        "title": "Net Negative Bet Detector"
+    },
+    {
+        "area": "Speech Recognition, RaspberryPi",
+        "description": "The goal of this project is to build a remote control car which can be moved using speech recognition. PACSR will be an educational tool that will have 3 main aspects; the RaspberryPi, the speech recognition and the programmable interface. The car will have a set of pre-programmed movements that it can make. There will also be the ability to program additional functions that the car will be able to do which will all be controlled by voice commands.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "ciara.mcauley4@mail.dcu.ie",
+                "name": "Ciara McAuley"
+            }
+        ],
+        "supervisor": "Gareth Jones",
+        "technology": "CMUSphinx, Java, Jython 42",
+        "title": "Programmable Autonomous Car with Speech Recognition"
+    },
+    {
+        "area": "Android",
+        "description": "DCU Garden App is a management tool for the facilitation and maintenance of DCU’s communal garden. The App allows users to register with DCU garden, to sign in using geo-location and monitors how long they have spent in the garden. The App will record how long each user has spent in the garden and will generate credits for their time, so that they can take produce from the garden responsibly, without feeling the need to pay.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "kevin.mcmahon8@mail.dcu.ie",
+                "name": "Kevin Mc Mahon"
+            }
+        ],
+        "supervisor": "Paul Clarke",
+        "technology": "Java 43",
+        "title": "DCU Garden"
+    },
+    {
+        "area": "Educational, Web Application",
+        "description": "A web-based Django application for use by teachers and students in a second-level school setting. This application should help teachers fulfil their goals by aiding them in the creation of classroom study material, revision materials and monitoring students’ progress through quizzes and tests. It should also help students achieve their goals by giving them access to additional notes from their teachers and feedback on their progress in each part of a subject through the completion of quizzes.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "jessica.mcgowan4@mail.dcu.ie",
+                "name": "Jessica Anne McGowan"
+            }
+        ],
+        "supervisor": "Gareth Jones",
+        "technology": "Python, SQL 37 Faculty of Engineering and Computing Final Year Projects Expo 2016 44",
+        "title": "E-Learning Tool for Second Level"
+    },
+    {
+        "area": "DSP",
+        "description": "My project is an audio multi-effects processor, which can take an audio source and apply various audio effects. I’m programming effects commonly used for microphone & guitar but will work with any electric instrument. I’m programming effects such as distortion, compression, echo, loop, modulation etc. (depending on what I can deliver in the final version). I will be using an AVID audio interface to connect these instruments to a PC and supply an audio source to my program.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "diarmaid.farrell42@mail.dcu.ie",
+                "name": "Diarmaid Farrell"
+            }
+        ],
+        "supervisor": "Alistair Sutherland",
+        "technology": "C/C++ 45",
+        "title": "Audio Multi-effects processor"
+    },
+    {
+        "area": "Android",
+        "description": "DCU Navigate is an Android App designed to aid new students and visitors to the DCU Glasnevin campus. Users get quick access to timetable information for selected courses, as well as an interactive map of campus which displays facilities and building information (including room locations). The App is built on the MEAN stack consisting of MongoDB, Express.js, AngularJS and Node.js.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "chee.kong2@mail.dcu.ie",
+                "name": "Chee Kang Kong"
+            }
+        ],
+        "supervisor": "Paul Clarke",
+        "technology": "XML, REST, Node.js, JQuery, JavaScript, Java 46",
+        "title": "DCU Navigate"
+    },
+    {
+        "area": "Mobile App",
+        "description": "HyperDrive is a cross platform mobile and web application for holiday makers. The app uses GPS technology to record information about the journeys a user makes, this data is then sent to the HyperDrive API. A user can then log into the web application to view the trips they have made, annotate the trips with additional information and view a hyper-lapse video of the trip built using google street view. The user can then also share these journeys with friends.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "danny.walsh57@mail.dcu.ie",
+                "name": "Danny Walsh"
+            }
+        ],
+        "supervisor": "Marija Bezbradica",
+        "technology": "AngularJS, CSS, HTML5, Java, JavaScript, REST, SpringMVC, SQL 38 Faculty of Engineering and Computing Final Year Projects Expo 2016 47",
+        "title": "HyperDrive"
+    },
+    {
+        "area": "Android",
+        "description": "The aim of this project was to develop an app that caters specifically towards self-directed learning in Engineering Maths. The Android app quizzes students on various topics, giving them feedback in each area and directs them to relevant study material. It was developed in such a way that allows another student to continue building on it afterwards.",
+        "programme": "Mechatronic Engineering",
+        "students": [
+            {
+                "email": "ciaran.martin38@mail.dcu.ie",
+                "name": "Ciarán Martin"
+            }
+        ],
+        "supervisor": "Bryan MacDonald",
+        "technology": "Java 48",
+        "title": "Development of an Android App For Self-Directed Learning in Engineering Maths"
+    },
+    {
+        "area": "Social Networking, Natural Language Processing, Mobile App",
+        "description": "IHearU is a reliable smartphone application for everyone allowing real-time communication with social networks using only voice commands. This project delivers two new functions to IHearU. First is the recommendation feature that will recommend local ‘hot’ tweets and read them out in natural voice to the user based on their location, profile and history on Twitter. The second feature delivers a fine tuned French-to-English translation engine, whereby French tweets are automatically translated into English for the user.",
+        "programme": "Enterprise Computing",
+        "students": [
+            {
+                "email": "indre.jastramskaite2@mail.dcu.ie",
+                "name": "Indre Jastramskaite"
+            },
+            {
+                "email": "conor.oregan23@mail.dcu.ie",
+                "name": "Conor O’Regan"
+            }
+        ],
+        "supervisor": "Andy Way",
+        "technology": "MySQL, Shell script, Moses, Python, PHP 49",
+        "title": "Recommendation Feature and Machine Translation Engine for IHearU"
+    },
+    {
+        "area": "Mobile App",
+        "description": "OPIA is a hybrid mobile application, which enables users to locate educational and re-creational lessons across the globe. The idea behind this concept, is that anyone, anywhere can locate or provide a lesson in any specific subject they wish. OPIA breaks down a communication barrier, helping to further an individuals access to education and learning. OPIA provides our users with a revolutionary tool that assits them in their day-to-day life and provides opportuinities for individuals that once dident exist.",
+        "programme": "Enterprise Computing",
+        "students": [
+            {
+                "email": "robert.fitzgetald26@mail.dcu.ie",
+                "name": "Robert Fitzgerald"
+            },
+            {
+                "email": "mark.hughes29@mail.dcu.ie",
+                "name": "Mark Hughes"
+            }
+        ],
+        "supervisor": "Cathal Gurrin",
+        "technology": "AngularJS 39 Faculty of Engineering and Computing Final Year Projects Expo 2016 50",
+        "title": "OPIA"
+    },
+    {
+        "area": "Data Analytics, Software Development, Web Application, Data Visualisation",
+        "description": "New York CitiBike Data Visualization is a web application to give users a visual representation of data obtained from www.citibikenyc.com going back to July 2013. Users will be able to view heatmaps of stations over time and to view graphs and charts of data of their choice. The application is built using Python on the Flask microframework using Bokeh for the visualization.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "stephen.obeirne3@mail.dcu.ie",
+                "name": "Stephen M. O’Beirne"
+            }
+        ],
+        "supervisor": "Markus Helfert",
+        "technology": "JavaScript, Python, REST 51",
+        "title": "New York CitiBike Data Visualisation"
+    },
+    {
+        "area": "Web Application, Software Development, Databases, Data Analytics",
+        "description": "Smart Bainisteoir is a RESTful web application designed for sport managers/coaching staff aimed to assist them in the management of their team. It captures players’ performance; helps developing training plans; generates/ organises the annual calendar; avoids over-training of players when they are involved in multiple teams. The back end is written in java, tested with JUnit. Hibernate is used to communicate with the database along with the RESTful Service built using JAX-RS and Jersey(GET/POST methods). Front-end design is built with AngularJs/Bootstrap.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "sean.carey22@mail.dcu.ie",
+                "name": "Sean Carey"
+            }
+        ],
+        "supervisor": "Renaat Verbruggen",
+        "technology": "SQL, SpringMVC, REST, JQuery, JavaScript, Java, AngularJS 52",
+        "title": "Smart Bainisteoir"
+    },
+    {
+        "area": "Graphics, Artificial Intelligence",
+        "description": "A 3D simulated 17th century world teeming with towns that produce and consume resources according to their citizens’ needs. AI ships roam the waters, each one deciding what actions to take to improve its state based on its own interpretation of the world. Ships have roles such as traders and pirates, which dictate how they should act.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "sebastian.bacanu2@mail.dcu.ie",
+                "name": "Sebastian Bacanu"
+            }
+        ],
+        "supervisor": "Alistair Sutherland",
+        "technology": "Unity, C#,.NET 40 Faculty of Engineering and Computing Final Year Projects Expo 2016 53",
+        "title": "Intelligent-agent populated world"
+    },
+    {
+        "area": "Security, Educational, Cryptography",
+        "description": "FACSP is a desktop application for analysing and verifying cryptographic security protocols with respect to given security properties. The project idea originated from the Dependable Systems research group in DCU. The application provides tools to create new, or edit existing, security protocols. During analysis, a protocol is subjected to an attacker based on the Dolev-Yao model.For clarity, a visualisation of the protocol is generated for the user. After the analysis, the user is presented with the protocol’s verifications / vulnerabilities.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "conor.oneill63@mail.dcu.ie",
+                "name": "Conor O’Neill"
+            }
+        ],
+        "supervisor": "Geoff Hamilton",
+        "technology": "Java 54",
+        "title": "Formal Analysis of Cryptographic Security Protocols (FACSP)"
+    },
+    {
+        "area": "Android, Mobile App, Motion Analysis, Sensor Data",
+        "description": "DynAlarm is a mobile application for Android. It uses the built-in accelerometer on the phone to read motion during sleep which is then used to wake the user up in adequate time so they are not late for work. The application tries to wake the users up when they are most awake during a specified time-frame. DynAlarm also uses live traffic data to wake up the user when if they are going to be late due to delays.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "adam.oflynn7@mail.dcu.ie",
+                "name": "Adam O’Flynn"
+            }
+        ],
+        "supervisor": "Marija Bezbradica",
+        "technology": "Java, REST, SQL, XML 55",
+        "title": "DynAlarm"
+    },
+    {
+        "area": "Model View Controller, Web Application",
+        "description": "TaskTackler.ie is a RESTful web application built using the Spring framework. It provides a medium for freelancers to portray their skill sets and expertise. It also creates a platform for users to advertise available work. This application will locate and suggest assignments to freelancers based on the specifics of the job in conjunction with their individual profile. This will ensure that only the most relevant freelancers receive notice for each specific project thus creating a competitive marketplace to operate within.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "blygh.mccormack7@mail.dcu.ie",
+                "name": "Blygh McCormack"
+            }
+        ],
+        "supervisor": "Monica Ward",
+        "technology": "Hibernate/ Apache Lucene/ AJAX, SQL, SpringMVC, REST, JQuery, JavaScript, Java, HTML5 41 Faculty of Engineering and Computing Final Year Projects Expo 2016 56",
+        "title": "TaskTackler"
+    },
+    {
+        "area": "Android, Educational, Mobile App",
+        "description": "WhichPrep is an educational application developed in android. It aims to aid the user, typically a non-native English speaker, in their use of prepositional words in sentences. This is the main area that people learning the English language have difficulty with. The app tests the user by presenting them with sentences missing the prepositional word and the user must pick the correct word. The app will provide feedback and identify weaknesses so the user can develop their skills further.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "conor.mcgovern9@mail.dcu.ie",
+                "name": "Conor McGovern"
+            }
+        ],
+        "supervisor": "John McKenna",
+        "technology": "Java, SQL, XML 57",
+        "title": "WhichPrep!"
+    },
+    {
+        "area": "Android, Educational, Mobile App, Natural Language Processing, Software Development",
+        "description": "Bag Of Words is an Android mobile application game which allows the user to reconstruct a grammatically correct English sentence from an unordered bag of words. The application is primarily intended to be used by non-native English speakers. A natural language processing evaluation metric is used to give the best achievable reconstruction and compare it with users input to give a suitable score. The difficultly will increase by increasing the volume and complexity of the sentence, as the user progresses.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "alex.conroy8@mail.dcu.ie",
+                "name": "Alex Conroy"
+            }
+        ],
+        "supervisor": "Qun Liu",
+        "technology": "Eclipse, Java, PHP, SQL, XML, Android Studio IDE 58",
+        "title": "Bag Of Words"
+    },
+    {
+        "area": "Mobile App",
+        "description": "This project’s aim is to build a mobile App that provides tourists with services they may need while abroad. Users gain rewards from using the App and these rewards can be spent on some of the many services that may be offered on the App.",
+        "programme": "Enterprise Computing",
+        "students": [
+            {
+                "email": "daragh.kennedy29@mail.dcu.ie",
+                "name": "Daragh Kennedy"
+            },
+            {
+                "email": "alan.gibbons7@mail.dcu.ie",
+                "name": "Alan Gibbons"
+            }
+        ],
+        "supervisor": "Paul Clarke",
+        "technology": "Java 42 Faculty of Engineering and Computing Final Year Projects Expo 2016 59",
+        "title": "MyCity App"
+    },
+    {
+        "area": "Android, Image Video Processing, Mobile App",
+        "description": "WhatsThat is a mobile application that involves an image recognition system which allows a user to take a picture and be able to find where the item/service is available to buy. The application is able to display various sources where people will be able to buy the product/service and results can be filtered so that the results represent what the users want e.g. location/price etc.",
+        "programme": "Enterprise Computing",
+        "students": [
+            {
+                "email": "richard.phelan6@mail.dcu.ie",
+                "name": "Richard Phelan"
+            },
+            {
+                "email": "joseph.corr6@mail.dcu.ie",
+                "name": "Joseph Corr"
+            },
+            {
+                "email": "Tolulope.odunuga2@mail.dcu.ie",
+                "name": "Tolulope Odunuga"
+            }
+        ],
+        "supervisor": "Cathal Gurrin",
+        "technology": "Java 60",
+        "title": "WhatsThat"
+    },
+    {
+        "area": "Data Analytics",
+        "description": "One area of data analytics that is becoming increasingly important is customer segmentation. This project is a web application with a customer segmentation engine to provide its users the tools to establish the underlying values of clusters as identified by the customer segmentation engine. The project provides automated production and presentation of segmentation results to a business user, without the costly analytics consultant. This in turn enables a company to understand the needs of their customers hassle-free.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "emma.duffy36@mail.dcu.ie",
+                "name": "Emma Duffy"
+            }
+        ],
+        "supervisor": "Gareth Jones",
+        "technology": "C# 61",
+        "title": "Customer Segmentation Modelling Application"
+    },
+    {
+        "area": "Natural Language Processing",
+        "description": "This project is an Irish language predictive text tool. Taking on a statistical language technology-based approach, it makes use of word-level prediction and machine-learning techniques. The project aims to act as a source of provision for Irish language development through efforts at reducing difficulties in the language such as diacritics and lenition. Autocorrect vs. algorithms of models for predictive text were investigated during project development and Irish word corpora used for training of the model.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "aislinn.moorhouse2@mail.dcu.ie",
+                "name": "Aislinn Moorhouse"
+            }
+        ],
+        "supervisor": "Andy Way",
+        "technology": "Java 43 Faculty of Engineering and Computing Final Year Projects Expo 2016 62",
+        "title": "Predictitéacs"
+    },
+    {
+        "area": "Web Application, Natural Language Processing, Information Retrieval",
+        "description": "This project is a question answering system using the IBM Watson cognitive computing platform. The system is trained on a corpus of information from te StackOverflow.com online forum in the form of existing questions and answers. Taking advantage of the user ratings and voting, Watson is trained on a topic within StackOverflow and the application answers user queries related to that domain.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "leemurta@gmail.com",
+                "name": "Lee Murtagh"
+            }
+        ],
+        "supervisor": "Alan Smeaton",
+        "technology": "REST, Python, PHP, JavaScript 63",
+        "title": "Question Answering System with StackOverflow and IBM Watson."
+    },
+    {
+        "area": "Data Analytics, Web Application, Statistical Analysis",
+        "description": "This project makes analysing the census data more accessible to everyone. No expert knowledge is required. Using a simple dashboard, users can select the type of graph and attributes to analyse. The graph is then displayed on-screen. The data is based around the cultural section of the Irish census. With this data, the user has the potential to correlate cultural aspects of Ireland, with other attributes such as profession or just display the trend of the aspects over time.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "jessica.mcgrath27@mail.dcu.ie",
+                "name": "Jessica McGrath"
+            }
+        ],
+        "supervisor": "Mark Roantree",
+        "technology": "Eclipse, Java, JavaScript, SQL, AngularJS 64",
+        "title": "A dashboard for analysis of Ireland’s cultural growth"
+    },
+    {
+        "area": "Sensor Technology",
+        "description": "The task for this project was to design, construct and calibrate a cost-effective current sensor which is capable of measuring the current flowing in a multi-core mains cable, non-intrusively through its cable jacket. This is challenging as equal but opposite currents in the cable result in almost complete magnetic field cancellation. The sensor developed consists of a series of enhanced inductive sensors arranged in an optimized geometry that can measure the magnetic field produced.",
+        "programme": "Electronic Engineering",
+        "students": [
+            {
+                "email": "ianc929@gmail.com",
+                "name": "Ian Corbally"
+            }
+        ],
+        "supervisor": "Conor McArdle",
+        "technology": "FEMM (Finite Element Method Magnetics) 44 Faculty of Engineering and Computing Final Year Projects Expo 2016 65",
+        "title": "A Non-intrusive and Cost Effective Current Sensor"
+    },
+    {
+        "area": "Energy Conservation",
+        "description": "The energy used to control the particle concentrations and maintain the required environment conditions represents a large amount of operating costs for cleanrooms. This project aims to reduce the energy consumption of the cleanroom without modifying the environmental conditions and the classification. This includes analysing the energy data of the HVAC and chiller and particle counts in the cleanroom; as well as identifies the possible energy saving opportunities.",
+        "programme": "Mechanical and Manufacturing Engineering",
+        "students": [
+            {
+                "email": "careen.lee23@mail.dcu.ie",
+                "name": "Careen Lee"
+            }
+        ],
+        "supervisor": "Lorna Fitzsimons",
+        "technology": "Amprobe Energy Meter, NuWave Particle Sensor 66",
+        "title": "Cleanroom Energy Efficiency 1"
+    },
+    {
+        "area": "Mechanical Design and Manufacture, Biomedical Engineering",
+        "description": "This project investigates the impact of gamma irradiation on the components of the novel hydrogel, EnduraGel, when cooled using dry ice. Along with the execution of analysis of the setting kinetics, mechanical properties and the rheology of the sterilised hydrogel, the project involves design of a washout resistance experiment.",
+        "programme": "Biomedical Engineering",
+        "students": [
+            {
+                "email": "james.cox7@mail.dcu.ie",
+                "name": "James Cox"
+            }
+        ],
+        "supervisor": "Owen Clarkin",
+        "technology": "Solidworks 67",
+        "title": "Examination of the Effect of Extreme Cooling on the Terminal Sterilisation of a Sensitive Biomedical Hydrogel Components"
+    },
+    {
+        "area": "Biomedical Engineering",
+        "description": "Braided, Twisted, and Knitted fibre structures of polyvinyl alcohol were generated and the mechanical properties tested. Braided, Twisted, and Knitted fibre structures of polyvinyl alcohol were then reinforced with a knitted Polyethylene terephthalate and mechanical testing conducted. A fibre twisting rig was designed and fabricated in order to generate the twisted fibre structures for this project.",
+        "programme": "Biomedical Engineering",
+        "students": [
+            {
+                "email": "Peter.gaffney5@mail.dcu.ie",
+                "name": "Peter Gaffney"
+            }
+        ],
+        "supervisor": "Garrett McGuinness",
+        "technology": "Solidworks 45 Faculty of Engineering and Computing Final Year Projects Expo 2016 68",
+        "title": "The Investigation of polyvinyl alcohol fibre structures for artificial ligament replacement."
+    },
+    {
+        "area": "Sensor Data, Information Retrieval",
+        "description": "CALOR LPG Storage Vessels undergo relatively little stress and strain throughout their service compared to design parameters, due to pressure and temperature changes during filling and emptying. The aim of this project is to implement strain gauges onto a vessel and record data during filling and emptying. This data is compared against theoretical calculations to show the tank is still within design parameters.",
+        "programme": "Mechanical and Manufacturing Engineering",
+        "students": [
+            {
+                "email": "ciaran.king22@mail.dcu.ie",
+                "name": "Ciarán King"
+            }
+        ],
+        "supervisor": "Lorna Fitzsimons",
+        "technology": "Excel/VB, InstruNet Data Acquisition 69",
+        "title": "Implementing, and Analysing, Safety Features onto CALOR LPG Storage Tanks"
+    },
+    {
+        "area": "Tissue Engineering",
+        "description": "The aim of this project is to design and manufacture a high speed rotating collector system to produce aligned nanofibres, and to investigate the morphology and alignment of nanofibrous scaffolds, which have applications in tissue engineering and possibly also chromatography.",
+        "programme": "Mechanical and Manufacturing Engineering",
+        "students": [
+            {
+                "email": "andre.mussatto2@mail.dcu.ie",
+                "name": "Andre Mussatto"
+            }
+        ],
+        "supervisor": "Garrett McGuinness",
+        "technology": "Solidworks 70",
+        "title": "Design of High Speed Rotating Mandrel for Electrospinning of Aligned Nanofibres"
+    },
+    {
+        "area": "Energy Conservation",
+        "description": "The aim of this project is to investigate the energy use of a cleanroom and to reduce this energy consumption by varying a number of parameters in the room, whilst maintaining the cleanliness level appropriate for the cleanroom classification, looking in particular at the effects of varying temperature and humidity, fan speed and human interactions.",
+        "programme": "Biomedical Engineering",
+        "students": [
+            {
+                "email": "emma.daly29@mail.dcu.ie",
+                "name": "Emma Daly"
+            }
+        ],
+        "supervisor": "Lorna Fitzsimons",
+        "technology": "NuWave Particle Sensors, Amprobe Energy Meters, Cylon Active Energy 46 Faculty of Engineering and Computing Final Year Projects Expo 2016 71",
+        "title": "Cleanroom Energy Efficiency 2"
+    },
+    {
+        "area": "3-D Modelling, Gaming, Graphics, Virtual Reality",
+        "description": "This project explores new design possibilities for Virtual Reality games. The goal of this project was to develop a 3D Puzzle game, against which, multiple control schemes would be evaluated. While the player wears a VR headset, motion capture technology is used to render and control the player’s in-game avatar. This project uses the Oculus Rift (DK2) and Microsoft’s Kinect 2.0 for these purposes. The game was developed using the Unity engine (C# scripts) and runs on Windows 8.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "denis.kealy2@mail.dcu.ie",
+                "name": "Denis Kealy"
+            }
+        ],
+        "supervisor": "Suzanne Little",
+        "technology": "C# 72",
+        "title": "Escaping (Virtual) Reality"
+    },
+    {
+        "area": "Fluid Mechanics",
+        "description": "The Greenpower concept aims to advance education in sustainable engineering and technology in second level students, through the designing, building and racing of a an electric car. This project evaluates the aerodynamics of a Siemens Greenpower car using Computational Fluid Dynamics (CFD). The project focuses on a bolt-on nose cone for the front of the Siemens car.",
+        "programme": "Mechanical and Manufacturing Engineering",
+        "students": [
+            {
+                "email": "paul.coleman7@mail.dcu.ie",
+                "name": "Paul Coleman"
+            }
+        ],
+        "supervisor": "Brian Corcoran",
+        "technology": "Solidworks, ANSYS Workbench, ANSYS FLUENT 73",
+        "title": "CFD analysis of the Siemens Greenpower Car"
+    },
+    {
+        "area": "Automation",
+        "description": "The aim of this project is to improve the efficiency and reduce the waste produced by the Xtratherm thermal insulation plant located in Navan. This will be achieved by automating the Multi-Saw and Hopper area’s height adjustment system through the use of a PLC and controlled motors.",
+        "programme": "Manufacturing Engineering with Business",
+        "students": [
+            {
+                "email": "niall.mccabe8@mai.dcu.ie",
+                "name": "Niall McCabe"
+            }
+        ],
+        "supervisor": "Paul Young",
+        "technology": "Solidworks 47 Faculty of Engineering and Computing Final Year Projects Expo 2016 74",
+        "title": "Design, installation and automation of heights at the Multi saw & Hopper area."
+    },
+    {
+        "area": "Robotics",
+        "description": "Soft Robotics is a fast growing research field. Taking inspiration from the movement of natures non-skeletal creatures, soft robotics focuses on the use of deformable soft material to design highly flexible and versatile robotic components. Made from elastomeric materials, these robots manipulate the flow of pressurised fluid within chambers to achieve remarkably complex patterns of movement. The goal of this project was to build a fibre-reinforced soft actuator in conjunction with the Soft Robotics Toolkit and analyse its performance.",
+        "programme": "Biomedical Engineering",
+        "students": [
+            {
+                "email": "beka.okromchedlidze2@mail.dcu.ie",
+                "name": "Beka Okromchedlidze"
+            }
+        ],
+        "supervisor": "Jeremiah Murphy",
+        "technology": "Solidworks 75",
+        "title": "Build a Fibre-Reinforced Soft Actuator"
+    },
+    {
+        "area": "3-D Modelling, Additive Manufacturing, Biomedical Engineering, Device Design, Mechanical Design and Manufacture",
+        "description": "Overall this project is a detailed investigation into how rapid prototyping, with specific emphasis to poly-jet printing is becoming more and more prevalent in its uses in chromatography. The project will highlight how rapid prototyping has been proven to be a more dimensionally suitable and less financially restraining method of producing micro-fluidic modules which can perform to the same level as older solid phase extraction columns in the chromatography industry.",
+        "programme": "Biomedical Engineering",
+        "students": [
+            {
+                "email": "conor.caulfield7@mail.dcu.ie",
+                "name": "Conor Caulfield"
+            }
+        ],
+        "supervisor": "Dermot Brabazon",
+        "technology": "Excel/VB, Solidworks 76",
+        "title": "Implementation of additively manufactured (3DP) click modules for chromatographic separations."
+    },
+    {
+        "area": "Finite Element Analysis and Design of Experiments",
+        "description": "The objective of this project is to build a parametric finite element model of a femur and generic hip prosthesis. The model will then be validated against available experimental results. Geometric and material parameters will be varied using a design of experiments approach to determine which parameters have the greatest effect on the resultant performance of the hip implant.",
+        "programme": "Biomedical Engineering",
+        "students": [
+            {
+                "email": "claire.smyth42@mail.dcu.ie",
+                "name": "Claire Smyth"
+            }
+        ],
+        "supervisor": "Bryan MacDonald",
+        "technology": "ANSYS Parametric Design Language and Design Expert Software 48 Faculty of Engineering and Computing Final Year Projects Expo 2016 77",
+        "title": "Parametric Finite Element Analysis of a Hip Prosthesis"
+    },
+    {
+        "area": "Mobile App",
+        "description": "ParkKing is a smartphone application which implements modern computing and mobile phone technologies. The application provides real time information on the availability of disabled parking bays across Ireland. Through the use of webcams, images of the parking bays are sent to a server. An automated image processing tool focuses on the parking bays and monitors if they are occupied or not. The results are captured in our database and queried to display whether or not the parking bay is available.",
+        "programme": "Enterprise Computing",
+        "students": [
+            {
+                "email": "shane.mcguinness23@mail.dcu.ie",
+                "name": "Shane McGuinness"
+            },
+            {
+                "email": "kevin.farrelly32@mail.dcu.ie",
+                "name": "Kevin Farrelly"
+            }
+        ],
+        "supervisor": "Stephen Blott",
+        "technology": "SQL, OpenCV, PHP, HTML5 78",
+        "title": "ParkKing – Mobile Phone Application"
+    },
+    {
+        "area": "Biomedical Engineering",
+        "description": "Electrospun mats and yarns have a wide variety of applications in many industries such as biomaterials and textiles. Due to relatively low mechanical properties and random orientation of the mats and yarns their applications are limited. Using double conjugate electrospinning overcomes these limitations by creating highly twisted and highly aligned nano fibre yarns. This project aims to investigate the feasibility of double conjugate electrospinning.",
+        "programme": "Biomedical Engineering",
+        "students": [
+            {
+                "email": "gareth.lacour2@mail.dcu.ie",
+                "name": "Gareth Lacour"
+            }
+        ],
+        "supervisor": "Garrett McGuinness",
+        "technology": "Solidworks 79",
+        "title": "Conjugate Electrospinning of Biomaterials"
+    },
+    {
+        "area": "Tissue Engineering, Biomedical Engineering, Additive Manufacturing",
+        "description": "Large peripheral neural injuries require a nerve graft harvested in vivo, with the satisfactory clinical outcome being < 50%. Studies have shown that nitric oxide encourages nerve regeneration at the site of an injury. The aim of this study was to create a nerve regeneration scaffold formed from the selective laser sintering of bioactive powders, whilst inducing a nitrogen rich surface. This scaffold is to be used as a nerve graft alternative to improve a patient’s quality of life.",
+        "programme": "Biomedical Engineering",
+        "students": [
+            {
+                "email": "kevin.ashton2@mail.dcu.ie",
+                "name": "Kevin Ashton"
+            }
+        ],
+        "supervisor": "Dermot Brabazon",
+        "technology": "Solidworks 49 Faculty of Engineering and Computing Final Year Projects Expo 2016 80",
+        "title": "Laser Melting of Glass Monolith Tissue Scaffolds From Bioactive Powders for Nerve Regeneration"
+    },
+    {
+        "area": "3-D Modelling, Additive Manufacturing, Fluid Mechanics, Renewable Energy Technology",
+        "description": "This project aims to develop an augmented wind turbine design incorporating intake devices upstream and a brimmed diffuser aft of the turbine. The augmentation device will be designed to optimize the fluid stream velocity entering the turbine blades. Initial designing of the augmentation devices will be based on the principles of fluid dynamics and the use of CFD models. A prototype augmented wind turbine will be tested to evaluate the velocity.",
+        "programme": "Mechanical and Manufacturing Engineering",
+        "students": [
+            {
+                "email": "philip.daly24@mail.dcu.ie",
+                "name": "Philip Daly"
+            }
+        ],
+        "supervisor": "Brian Corcoran",
+        "technology": "Solidworks, ANSYS Workbench, ANSYS meshing, Fluent 81",
+        "title": "Augmented wind turbine design development and prototyping."
+    },
+    {
+        "area": "3-D Modelling, Advanced Material Engineering, Automotive Technology",
+        "description": "The Greenpower race is a competition where young people of different ages design, build and race their own electric driven vehicles. This project is based around the design of a crash structure which provides drivers with full frontal protection upon impact in a head on collision.",
+        "programme": "Manufacturing Engineering with Business",
+        "students": [
+            {
+                "email": "Colin.french4@mail.dcu.ie",
+                "name": "Colin French"
+            }
+        ],
+        "supervisor": "Paul Young",
+        "technology": "Ansys, LS Dyna, Solidworks 82",
+        "title": "Green Power Vehicle Crash Structure"
+    },
+    {
+        "area": "Additive Manufacturing",
+        "description": "In this final year project the aim is to develop a 3D Printing Business Strategy for the School of Mechanical and Manufacturing Engineering through introducing 3D printing technology, examining its principles, manufacturing applications and material used in the market. Followed by an estimation of the project cost including software, equipment, utilities and operating cost.",
+        "programme": "Manufacturing Engineering with Business",
+        "students": [
+            {
+                "email": "alnasser.abdullah2@mail.dcu.ie",
+                "name": "Abdullah AlNassar"
+            }
+        ],
+        "supervisor": "Joseph Stokes",
+        "technology": "Solidworks 50 Faculty of Engineering and Computing Final Year Projects Expo 2016 83",
+        "title": "Development of 3D Printing Business Strategy for the School of Mechanical and Manufacturing Engineering"
+    },
+    {
+        "area": "Mechanical Design and Manufacture",
+        "description": "This project is within the energy innovation manufacturing component sector through the implementation of nickel foam cathodes in fuel cells and the manufacturing processes to aid its complete build. This project focuses solely on a manufacturing process associated with the making of punched holes on the Nickel Foam cathode within the PEM (proton exchange membrane) hydrogen fuel cell.",
+        "programme": "Manufacturing Engineering with Business",
+        "students": [
+            {
+                "email": "rumbidzai.sigauke2@mail.dcu.ie",
+                "name": "Rumbidzai Joy Sigauke"
+            }
+        ],
+        "supervisor": "Joseph Stokes",
+        "technology": "Solidworks 84",
+        "title": "Design and Manufacture of punch tool for Nickel foam cathode flow plate for a PEM fuel cell."
+    },
+    {
+        "area": "Lean Manufacturing",
+        "description": "The Value Stream Map provides an informative illustration of business and production systems and if combined with compatible discrete event simulation software, holds the potential to streamlining complex business and engineering decisions. This project demonstrates the construction of such maps, the implementation of improvements and evaluation of the simulation method.",
+        "programme": "Manufacturing Engineering with Business",
+        "students": [
+            {
+                "email": "david.kane5@mail.dcu.ie",
+                "name": "David Kane"
+            }
+        ],
+        "supervisor": "Paul Young",
+        "technology": "eVSM 85",
+        "title": "Lean Manufacturing: Value Stream Mapping & Simulation for a Manufacturing System"
+    },
+    {
+        "area": "Biomedical Engineering",
+        "description": "The project aim was to develop/prototype a medical device capable of redirecting blood flow away from a cerebral aneurysm (i.e. flow diversion). In particular for large and wide necked aneurysms. The proposed solution must restrict blood flow into and out of the aneurysm, while allowing blood to pass unrestricted into the smaller distal arteries, preventing down-stream ischemia. Stringent testing based on the set design criteria were carried out to analyse the effectiveness of the design.",
+        "programme": "Biomedical Engineering",
+        "students": [
+            {
+                "email": "sam.duggan7@mail.dcu.ie",
+                "name": "Sam Duggan"
+            }
+        ],
+        "supervisor": "Owen Clarkin",
+        "technology": "Solidworks 51 Faculty of Engineering and Computing Final Year Projects Expo 2016 86",
+        "title": "Development of a Novel Medical Device for the Delivery of Enduragel into a Cerebral Aneurysm"
+    },
+    {
+        "area": "plant safety",
+        "description": "There are safety procedures and devices in companies all over the world. They aim to ensure that workers are safe while performing their duties. This project aims to improve the safety within a manufacturing environment by examining and analyzing the current safety procedures and devices, and implementing improvements to current systems.",
+        "programme": "Mechatronic Engineering",
+        "students": [
+            {
+                "email": "shane.mcmahon33@mail.dcu.ie",
+                "name": "shane mcmahon"
+            }
+        ],
+        "supervisor": "Lorna Fitzsimons",
+        "technology": "lean six sigma 87",
+        "title": "Lean six sigma analysis of safety in a manufacturing environment"
+    },
+    {
+        "area": "Natural Language Processing",
+        "description": "The idea behind our final year project is to harness the cognitive computing power of IBM Watson to ingest a subset of PubMed articles relating to inflammatory markers in ageing adolescents and allow the user to question our application regarding those articles and return precise answers that understand the context of the users question.",
+        "programme": "Enterprise Computing",
+        "students": [
+            {
+                "email": "rori.hegarty6@mail.dcu.ie",
+                "name": "Rori Hegarty"
+            },
+            {
+                "email": "sandeep.gautam2@mail.dcu.ie",
+                "name": "Sandeep Gautam"
+            }
+        ],
+        "supervisor": "Alan Smeaton",
+        "technology": "REST 88",
+        "title": "Dr.Watson"
+    },
+    {
+        "area": "Fluid Mechanics",
+        "description": "This project investigates the flow of water around column bundles. A test rig was designed and constructed with two separate bundle inserts. These inserts were tested by injecting dye into the water that passed through the rig. The rig aims to represent heat exchange under development, therefore the Reynolds number was varied, by altering the velocity, to represent temperature ranges (20⁰ to 80⁰). Images of the flow were captured and analysed with the aid of image processing techniques.",
+        "programme": "Mechanical and Manufacturing Engineering",
+        "students": [
+            {
+                "email": "liam.mcbrierty3@mail.dcu.ie",
+                "name": "Liam McBrierty"
+            }
+        ],
+        "supervisor": "Yan Delaure",
+        "technology": "Solidworks, Matlab, Excel/VB 52 Faculty of Engineering and Computing Final Year Projects Expo 2016 89",
+        "title": "Design a test rig for the study of an innovative heat engine (2D Study)"
+    },
+    {
+        "area": "Mechanical Design and Manufacture",
+        "description": "This project aims to improve the design of an external door system by developing a device that provides a greater extent of control of the motion of a door. Magneto-rheological fluid is a fundamental element in the design. The project is modelling and analysis based and is within the universal design category as it accommodates for all types of potential users.",
+        "programme": "Mechatronic Engineering",
+        "students": [
+            {
+                "email": "brian.regan3@mail.dcu.ie",
+                "name": "Brian Regan"
+            }
+        ],
+        "supervisor": "Alan Kennedy",
+        "technology": "Matlab 90",
+        "title": "Improved Design of an External Door System"
+    },
+    {
+        "area": "Mobile App",
+        "description": "LitirEile is an android application which aims to provide a platform for young children who are learning how to write letters. Individual sessions teach each child how the letter should be written and then allows the child to attempt to draw the letter shape themselves, through various levels of difficulty. Each attempt is saved and the progress made in every session is tracked so that the teacher may review the child’s progress.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "etain.niruairc2@mail.dcu.ie",
+                "name": "Etain Ní Ruairc"
+            }
+        ],
+        "supervisor": "Monica Ward",
+        "technology": "Java, SQL, XML 91",
+        "title": "LitirEile"
+    },
+    {
+        "area": "Automotive Technology",
+        "description": "An extensive number of exhaust manifold design characteristics have a fundamental effect on four-stroke engine performance. Using 3-D modelling, mathematical formulae, engine specifications and dynamometer test data, this project aims to analyse each aspect of exhaust manifold design, to develop and manufacture a system which improves engine torque and brake horsepower, increases efficiency and optimizes overall engine performance.",
+        "programme": "Manufacturing Engineering with Business",
+        "students": [
+            {
+                "email": "matthew.walsh79@mail.dcu.ie",
+                "name": "Matthew Walsh"
+            }
+        ],
+        "supervisor": "Tamas Szecsi",
+        "technology": "Excel/VB, Solidworks 53 Faculty of Engineering and Computing Final Year Projects Expo 2016 92",
+        "title": "Analysis of Exhaust Manifold Design to Optimize Performance of a Four-Stroke Engine."
+    },
+    {
+        "area": "Fluid Mechanics, Mechanical Design and Manufacture",
+        "description": "This project involved improving an existing water tunnel for hydrodynamic testing by designing and building a new section of water tunnel to incorporate a dye injection system for testing of the characteristic velocity profiles and assess the uniformity within the water tunnel. Further developments such as reducing turbulence and mass flow rate where looked at to improve the flow distribution.",
+        "programme": "Mechanical and Manufacturing Engineering",
+        "students": [
+            {
+                "email": "kieran.yeow2@mail.dcu.ie",
+                "name": "Kieran Yeow"
+            }
+        ],
+        "supervisor": "Yan Delaure",
+        "technology": "Solidworks 93",
+        "title": "Experimental fluid flow characterisation in a water tunnel"
+    },
+    {
+        "area": "3-D Modelling, Additive Manufacturing",
+        "description": "The aim of this project is to produce thin layer chromatography plates using a rapid prototyping technique, in this case PolyJet was used. The plates are varied by changing the channel dimensions and shape. Once printed on the Connex 1 the plates are tested and characterised on their selectivity, sensitivity and speed.",
+        "programme": "Biomedical Engineering",
+        "students": [
+            {
+                "email": "tashka.skrobisz2@mail.dcu.ie",
+                "name": "Tashka Skrobisz"
+            }
+        ],
+        "supervisor": "Dermot Brabazon",
+        "technology": "Solidworks 94",
+        "title": "Development additively manufactured (3DP) thin film plates for separation of protein mixtures"
+    },
+    {
+        "area": "Android",
+        "description": "Agenda is an application that allows groups of people to communicate and collaborate easily. Users sign up to the application and have the capability to create a group for other people to join. A group consists of a shared calendar, to-do list and messaging system. The calendar and to-do list allows the group members to add entries. The messaging system will allow real time chat functionality so users can communicate.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "conor.smyth39@mail.dcu.ie",
+                "name": "Conor Smyth"
+            }
+        ],
+        "supervisor": "Geoff Hamilton",
+        "technology": "Java, REST, SpringMVC, SQL 54 Faculty of Engineering and Computing Final Year Projects Expo 2016 95",
+        "title": "Agenda"
+    },
+    {
+        "area": "Automotive Technology",
+        "description": "The project titled Comparative Analysis of Car Steering Mechanisms involves investigation into several different steering linkages which have been previously used and also the designing of new linkages. Simulation of the different steering mechanisms is carried out using SolidWorks as well as theoretical calculations using Excel. Theoretical calculations can then be used to compare to the ideal Ackerman’s condition. The Ackerman’s condition is the ideal turning ratio between the inner and outer turning wheels of a car.",
+        "programme": "Mechanical and Manufacturing Engineering",
+        "students": [
+            {
+                "email": "alex.reilly45@mail.dcu.ie",
+                "name": "Alex Reilly"
+            }
+        ],
+        "supervisor": "Tamas Szecsi",
+        "technology": "Excel/VB, Solidworks 96",
+        "title": "Comparative Analysis of Car Steering Mechanisms"
+    },
+    {
+        "area": "Finite Element Analysis",
+        "description": "The objective of this project is build and test a parametric 2D model of a safety syringe holder using ANSYS Mechanical. This model is then used to estimate the force required to assemble the safety syringe and the force required to cause failure of the syringe holder. These results are then compared to a previous 3D model to determine if a 2D model is an accurate representation.",
+        "programme": "Biomedical Engineering",
+        "students": [
+            {
+                "email": "matthew.wickham3@mail.dcu.ie",
+                "name": "Matthew Wickham"
+            }
+        ],
+        "supervisor": "Bryan MacDonald",
+        "technology": "ANSYS 97",
+        "title": "Finite Element Analysis (FEA) of a Safety Syringe."
+    },
+    {
+        "area": "Data Analytics, Data Mining, Software Development, Web Application",
+        "description": "The system developed is a music genre classifier that categorizes or identifies songs based on their genre. The genres it can identify are Irish traditional, pop and classical music. MP3 and WAV audio formats are accepted by the application. A supervised learning algorithm, k-nearest neighbour along with multiple other techniques are used in order to identify a song’s genre. The system is developed as both a web application and desktop application to allow for quicker and easier access for users.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "sara.lyons24@mail.dcu.ie",
+                "name": "Sara Lyons"
+            }
+        ],
+        "supervisor": "Donal Fitzpatrick",
+        "technology": "AngularJS, CSS, Eclipse, HTML5, Java, JavaScript, JQuery, REST, XML, JavaFX, openSMILE 55 Faculty of Engineering and Computing Final Year Projects Expo 2016 98",
+        "title": "Music Genre Classifier"
+    },
+    {
+        "area": "Web Application",
+        "description": "Manage IT is designed to help IT Managers monitor their department’s service desk performance. The IT manager can input data related to service desk incidents that is then visually represented on graphs and charts. Each logged incident is assigned a RAG score based on completion success rate. This gives the IT Manager a simple way of tracking performance and identifying areas that need improvement.",
+        "programme": "Enterprise Computing",
+        "students": [
+            {
+                "email": "aleksandar.stancevic2@mail.dcu.ie",
+                "name": "Aleksandar Stancevic"
+            },
+            {
+                "email": "ciaran.smith45@mail.dcu.ie",
+                "name": "Ciaran Smith"
+            },
+            {
+                "email": "mark.bowe6@mail.dcu.ie",
+                "name": "Mark Bowe"
+            }
+        ],
+        "supervisor": "Markus Helfert",
+        "technology": "SQL, SpringMVC, JavaScript, Java, AngularJS 99",
+        "title": "Manage IT"
+    },
+    {
+        "area": "Advanced Material Engineering",
+        "description": "The aim of this project is to design and construct a series of experiments for which thin films of semiconducting copper halides (CuHa) are printed onto flexible substrates. The structural, optical and electronic properties of the grown CuHa crystalline semiconductors are examined.",
+        "programme": "Mechatronic Engineering",
+        "students": [
+            {
+                "email": "david.faulkner4@mail.dcu.ie",
+                "name": "David Faulkner"
+            }
+        ],
+        "supervisor": "Patrick McNally",
+        "technology": "Excel/VB 100",
+        "title": "Inkjet Printing of UV emitting nanodots on flexible substrates"
+    },
+    {
+        "area": "Android, Arduino, Cloud Computing, Mobile App, Motion Analysis, Sensor Data, Social Networking",
+        "description": "The Virtual Business Card Bracelet is a wearable social networking device which enables its wearers to exchange contact information with just a handshake. The project consists of an Arduino bracelet that detects handshakes, an Android application that creates, saves and sends business cards, a server written in Go that distributes business cards to the phones using Google Cloud Messaging and a Redis database for the temporary storage of the business cards on the server.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "andrew.burke58@mail.dcu.ie",
+                "name": "Andrew Burke"
+            }
+        ],
+        "supervisor": "David Gray",
+        "technology": "NoSQL, REST, Java, C/C++, Go 56 Faculty of Engineering and Computing Final Year Projects Expo 2016 101",
+        "title": "Virtual Business Card Bracelet"
+    },
+    {
+        "area": "Device Design",
+        "description": "EnduraGel™ is a novel hydrogel which is injected into patients through a micro-catheter for the treatment of cerebral aneurysms, this hydrogel would have to be sterilised before being injected to remove the risk of micro-organisms and viruses entering the patient. Electron beam and autoclave sterilisation will be tested on all of the components of this hydrogel in order to see if this method of sterilisation affects the mechanical properties and the working and setting time of the hydrogel.",
+        "programme": "Biomedical Engineering",
+        "students": [
+            {
+                "email": "shane.kelly226@mail.dcu.ie",
+                "name": "Shane Kelly"
+            }
+        ],
+        "supervisor": "Owen Clarkin",
+        "technology": "Solidworks 102",
+        "title": "Examination of the Effect of various Terminal Sterilisation Techniques on the Setting and Mechanical Properties of a Novel Hydrogel for the Treatment"
+    },
+    {
+        "area": "Android",
+        "description": "This project is an Android mobile application. It allows a user to track statistics and events during a rugby match. A simple interface allows for the recording and analysis of the data that is entered. In game action areas can be reviewed and feedback on team and players performances is provided. Information entered by a user can be saved and exported in order to review the data and carry out further analysis.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "darren.moore35@mail.dcu.ie",
+                "name": "Darren Moore"
+            }
+        ],
+        "supervisor": "Mark Roantree",
+        "technology": "Java, SQL, XML 103",
+        "title": "Rugby Match Statistics Tracker"
+    },
+    {
+        "area": "Automation",
+        "description": "The aim of this project is to design and analyse a new automated system for a mass calibration process used in the National Metrology Laboratory (NML). The requirements include the assurance of the centre positioning of the weights, smooth changing between varies of weights and the use of ANSYS 15.0 in stress and strain analysis of the designated system in order to speed up the process and achieve an accurate result.",
+        "programme": "Mechanical and Manufacturing Engineering",
+        "students": [
+            {
+                "email": "xinling.huang4@mail.dcu.ie",
+                "name": "Xinling Huang"
+            }
+        ],
+        "supervisor": "Harold Esmonde",
+        "technology": "Solidworks, ANSYS 15.0 57 Faculty of Engineering and Computing Final Year Projects Expo 2016 104",
+        "title": "Automation of a weighing process"
+    },
+    {
+        "area": "Biomedical Engineering & Manufacturing",
+        "description": "The objective of this project is to demonstrate the effects of laser cutting on the material properties of stainless steel orthopaedic bone saw surgical blades and to determine a solution to optimise the laser cutting process parameters using a Design of Experiments approach. This aims to reduce incidences of blade teeth breakages and improve product quality.",
+        "programme": "Biomedical Engineering",
+        "students": [
+            {
+                "email": "emma.woodhouse2@mail.dcu.ie",
+                "name": "Emma Woodhouse"
+            }
+        ],
+        "supervisor": "Joseph Stokes",
+        "technology": "Design Expert, Solidworks 105",
+        "title": "Investigate the Effects of Manufacturing on the Material Properties of Surgical Blades used in Bioengineering Applications"
+    },
+    {
+        "area": "3-D Modelling, Virtual Reality",
+        "description": "Over the last year, we’ve seen massive strides in the development of Virtual Reality with VR headsets such as the Oculus Rift, HTC Vive and Playstation VR in development. While Virtual Reality is being developed primarily with gaming in mind, it has huge potential in other areas. This project aims to prove that VR can be viable in the classroom, specifically in Inquiry-Based Learning.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "cillian.lambe9@mail.dcu.ie",
+                "name": "Cillian Lambe"
+            }
+        ],
+        "supervisor": "Cathal Gurrin",
+        "technology": "C# 106",
+        "title": "Virtual Reality Science Lesson"
+    },
+    {
+        "area": "Robotics, Mechatronic Systems, Image Video Processing, Computer Vision, Software Development",
+        "description": "A robotic arm acquires and presents euro coins individually to camera, and machine vision techniques determine their value. MATLAB and the VSG toolbox are used to identify and classify coins, and inverse kinematics is used in robotic control to place coins in specified locations based on classification results. This project incorporates design, modelling, system integration and quantitative testing.",
+        "programme": "Mechatronic Engineering",
+        "students": [
+            {
+                "email": "ciaran.macgabhann2@mail.dcu.ie",
+                "name": "Ciaran Mac Gabhann"
+            }
+        ],
+        "supervisor": "Paul Whelan",
+        "technology": "C/C++, Matlab, Solidworks 58 Faculty of Engineering and Computing Final Year Projects Expo 2016 107",
+        "title": "Image Processing Based Robotic Coin Sorter"
+    },
+    {
+        "area": "Android, Cloud Computing, Cryptography, Embedded Systems, Data Analytics, Model View Controller, Network Applications, RaspberryPi, Security, Sensor Data, Software Development, Telecommunications, Web Application, Wireless Technology",
+        "description": "The developed system is a Terrestrial and Aerial Intrusion Detection System for Wi-Fi networks deployed for enterprises or universities. It uses a Defensive Drone equipped with hardware that was custom designed for this project and RF sensors that are mounted fixed around the campus. Network traffic is monitored by the system and fed into a ground application that was written to perform packet-based analysis and alert network administrators on Wi-Fi attacks from other drones or terrestrial intruders.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "mihai.lasc2@mail.dcu.ie",
+                "name": "Mihai Lasc"
+            }
+        ],
+        "supervisor": "Geoff Hamilton",
+        "technology": "Eclipse, Groovy, Java, Python, SpringMVC, SQL, NoSQL, XML, Solr, Ubuntu & RaspberryPI Kernels, Wireshark. 108",
+        "title": "Drone Based Wireless Network Intrusion Detection System"
+    },
+    {
+        "area": "RaspberryPi",
+        "description": "A device to record and loop back a user’s own input via XLR or ¼” jack. The device can be used by musicians to create fully fledged songs using looped beats and melodies they themselves create i.e. self-accompaniment. The device uses embedded Linux on a Raspberry Pi, a USB audio interface, and a C audio library to implement the feature.",
+        "programme": "Digital Media Engineering",
+        "students": [
+            {
+                "email": "eoghan.mcginty3@mail.dcu.ie",
+                "name": "Eoghan McGinty"
+            }
+        ],
+        "supervisor": "Martin Collier",
+        "technology": "C/C++ 109",
+        "title": "Audio Looper"
+    },
+    {
+        "area": "Lean Manufacturing",
+        "description": "Remanufacturing adds complexity to supply chain, a reverse logistics is where customer becomes the supplier. This creates difficulties which are not found in traditional supply chains. This paper conducts experiments on a simulation model, to examine whether the uncertainty found in a Remanufacturing Supply Chain can be reduced with a certain types of lean production and inventory control strategy.",
+        "programme": "Manufacturing Engineering with Business",
+        "students": [
+            {
+                "email": "kunle.adeyemo2@mail.dcu.ie",
+                "name": "Kunle Adeyemo"
+            }
+        ],
+        "supervisor": "John Geraghty",
+        "technology": "ExtendSIM 59 Faculty of Engineering and Computing Final Year Projects Expo 2016 110",
+        "title": "Remanufacturing Supply Chain Management"
+    },
+    {
+        "area": "Educational",
+        "description": "Learning To Spell is a multi platform application using PhoneGap. It is designed to help primary school teachers keep track of their students spelling abilities and make it more fun for the students to practise their spellings with the use of games. The teachers register the students and assigns them a username, password and level of difficulty. The students will then login and play the games and be given scores. These scores will be kept for the teachers to view/assess.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "colm.obrien77@mail.dcu.ie",
+                "name": "Colm O’Brien"
+            }
+        ],
+        "supervisor": "Ray Walshe",
+        "technology": "AngularJS, CSS, HTML5, JavaScript, JQuery, Node.js, REST, PhoneGap, Bower, Firebase 111",
+        "title": "Learning To Spell"
+    },
+    {
+        "area": "Web Application, Information Retrieval, Mobile App",
+        "description": "The MyGroceryPal app will be a tool to aid consumers in their shopping activities. The app will allow users to collaboratively create a shopping list for a household, search for product information and will provide a store locator built on the mobile device’s geolocation service. The mobile app will be developed as a multi-platform app using the PhoneGap framework. The app will be coded using the latest web technologies including HTML5, CSS3 and JavaScript, specifically AngularJS.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "connel.mcgovern22@mail.dcu.ie",
+                "name": "Connel McGovern"
+            }
+        ],
+        "supervisor": "Darragh OBrien",
+        "technology": "Python, JavaScript, HTML5, CSS, AngularJS\\ 112",
+        "title": "MyGroceryPal"
+    },
+    {
+        "area": "Android",
+        "description": "The Autosync application allows a user to have their personal files automatically backed up to an external drive which is connected to a raspberyPi. The RaspberryPi acts as a wifiHotspot. The user uses the app to choose specific directories that will automatically be synced with the RaspberrPi. When the android device connects to the RaspberryPi the sync automatically begins. The user will have various options including manual sync and potentially internet access to the storage device via a web application.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "eoghan.mcmullen3@mail.dcu.ie",
+                "name": "Eoghan McMullen"
+            }
+        ],
+        "supervisor": "Monica Ward",
+        "technology": "Java, XML, Raspberry pi 60 Faculty of Engineering and Computing Final Year Projects Expo 2016 113",
+        "title": "AutoSync Android App"
+    },
+    {
+        "area": "GPS GIS, Mobile App, Web Application",
+        "description": "The DCU Campus Navigator App helps newcomers to familiarize themselves with the location of each building on campus and discover which buildings host all the commonly used amenities. The user can view the various DCU campuses from the online map hosted on the app and use GPS to move from one campus to another. Using an augmented GPS, the android app navigates the user from building to building on campus, making getting around easier.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "lorna.blake2@mail.dcu.ie",
+                "name": "Lorna Blake"
+            }
+        ],
+        "supervisor": "Suzanne Little",
+        "technology": "JavaScript, JQuery, Node.js 114",
+        "title": "DCU Campus Navigator"
+    },
+    {
+        "area": "Mechatronic Systems, Robotics, Control Systems",
+        "description": "A Ball-bot is a mobile robot that is capable of fluent, omni-directional movement. The Ball-bot robot balances itself on a spherical drive ‘wheel’ or ball by the use of sensors, motors and a microcontroller, along with a sophisticated control algorithm. A key component is the omni-directional wheels that can slide in one direction, while gripping in a perpendicular direction. This project aims to design and build such a Ball-bot that will balance dynamically, within a budget of €250.",
+        "programme": "Mechatronic Engineering",
+        "students": [
+            {
+                "email": "kevin.mcgee5@mail.dcu.ie",
+                "name": "Kevin McGee"
+            }
+        ],
+        "supervisor": "Noel Murphy",
+        "technology": "Embedded microcontroller; IMU sensor and motor interfacing, mechanical design, DSP, C/C++ 115",
+        "title": "Designing and Building a Self-balancing Ball-bot"
+    },
+    {
+        "area": "Mechanical Design and Manufacture",
+        "description": "Hydroforming is a metal forming process where pressure is used to form complex shapes. The aim of this project is to redesign and update a hydroforming rig to be capable of bulging copper tubes. Expansion testing will then be carried out, and a design of experiments methodology will be used to identify the critical process parameters and their effect on the final product. A finite element model of this process will then be developed, and validated against obtained experimental results.",
+        "programme": "Mechanical and Manufacturing Engineering",
+        "students": [
+            {
+                "email": "eamonn.brennan37@mail.dcu.ie",
+                "name": "Eamonn Brennan"
+            }
+        ],
+        "supervisor": "Bryan MacDonald",
+        "technology": "ANSYS Mechanical, SolidWorks 61 Faculty of Engineering and Computing Final Year Projects Expo 2016 116",
+        "title": "Hydroforming of Tubes"
+    },
+    {
+        "area": "Mechanical Design and Manufacture",
+        "description": "This project incorporates the design, build and analysis of a Variable Trapezoidal Linkage Steering Mechanism with the aim of finding the linkage parameters that optimise the mechanism’s steering output. The optimal steering effect produced using Variable Trapezoidal Steering is based on the steering curve most similar to that of Ackerman – the ideal theoretical steering condition. These curves are created from the relationship between angles produced at both front wheels during turning under the different linkage parameters.",
+        "programme": "Mechanical and Manufacturing Engineering",
+        "students": [
+            {
+                "email": "cathal.curran24@mail.dcu.ie",
+                "name": "Mr Cathal Curran"
+            }
+        ],
+        "supervisor": "Tamas Szecsi",
+        "technology": "Solidworks 117",
+        "title": "Design of a Variable Trapezoidal Linkage Steering Mechanism"
+    },
+    {
+        "area": "Facial Recognition, Security, Network Applications, Mobile App, Android, Databases, Image Video Processing",
+        "description": "‘Secure Mobile Video Conferencing’ is an Android application that provides a multi-layered authentication approach to video conferencing. Apart from credential verification, the application does facial recognition and palm scan before letting the user login. Registered data gets stored in an encrypted database on a centralized server, and once two parties successfully connect through the server the users can stream video with each other. Communication occurs over a WiFi connection using TCP and UDP.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "andrei.puflea2@mail.dcu.ie",
+                "name": "Andrei Puflea"
+            }
+        ],
+        "supervisor": "Renaat Verbruggen",
+        "technology": "openCV, Android, XML, SQL, Java, C#, C/C++, .NET 118",
+        "title": "SMVC – Secure Mobile Video Conferencing"
+    },
+    {
+        "area": "Automation, Computer Vision, Image Video Processing, Mechatronic Systems",
+        "description": "The low cost machine vision fruit sorter is a mechatronic system which primary objective is to sort apples on three different classes – red, green & damaged. It incorporates components like Basler industrial camera, single-phase motor, Handy Board micro-controller and sorting mechanism to put apples into appropriate bins. The system can be divided on the three main parts – apple sensing & external triggering of the camera, image analysis and apple sorting.",
+        "programme": "Mechatronic Engineering",
+        "students": [
+            {
+                "email": "anton.veselov2@mail.dcu.ie",
+                "name": "Anton Veselov"
+            }
+        ],
+        "supervisor": "Paul Whelan",
+        "technology": "HALCON & Interactive C 62 Faculty of Engineering and Computing Final Year Projects Expo 2016 119",
+        "title": "Low Cost Machine Vision Fruit Sorter"
+    },
+    {
+        "area": "Graphics, Web Application, Sound Processing",
+        "description": "This project aims to use the best of web technology to bring out the best in music within the modern browser. Using the Web Audio API, analysis is carried out on the music playing. This analysis determines the Three.js javascript generated graphics rendered in realtime. Using the Spotify API, the site provides music curation allowing users to stream snippets of their favourite artists as well as similar artists they have never heard before.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "david.campbell5@mail.dcu.ie",
+                "name": "David Campbell O’Connor"
+            }
+        ],
+        "supervisor": "Mark Humphrys",
+        "technology": "AngularJS, HTML5, JavaScript, Node.js, REST, Three.js, Web Audio API 120",
+        "title": "Music Visualiser Web App"
+    },
+    {
+        "area": "Robotics, Motion Analysis, Mechatronic Systems, Automotive Technology",
+        "description": "This project investigates the relationship between the type of wheel a mobile robot has and the effect the wheel has on the kinematics of the mobile robot.",
+        "programme": "Mechatronic Engineering",
+        "students": [
+            {
+                "email": "chigozie.anyanwu3@mail.dcu.ie",
+                "name": "Chigozie Anyanwu"
+            }
+        ],
+        "supervisor": "Jennifer Bruton",
+        "technology": "Matlab 121",
+        "title": "Kinematics of an Automated Robot"
+    },
+    {
+        "area": "Biomedical Engineering",
+        "description": "The aim of this project is to highlight the temperature distribution within a tumor which is exposed to high radiofrequency energy during ablation and attempt to alter it with design changes. This will be achieved by developing a simple geometry model at first and building it up to a more complex level.",
+        "programme": "Biomedical Engineering",
+        "students": [
+            {
+                "email": "karl.healy24@mail.dcu.ie",
+                "name": "Karl Healy"
+            }
+        ],
+        "supervisor": "Garrett McGuinness",
+        "technology": "Ansys 63 Faculty of Engineering and Computing Final Year Projects Expo 2016 122",
+        "title": "Finite Element Analysis and Design of a Radiofrequency Catheter for Tumor Ablation"
+    },
+    {
+        "area": "Web Application, Server Management",
+        "description": "Olympus was developed with the aim of simplifying the task of server management while bridging the gap between alert and response. Olympus achieves this by integrating both server monitoring and server control into one robust application which focuses on providing an effortless user experience through clean and intuitive design, while still providing powerful functionality under the hood. The web-based application boasts numerous features including near real-time server performance monitoring and metrics, email alerting and a cross platform server console.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "conor.hughes44@mail.dcu.ie",
+                "name": "Conor Hughes"
+            }
+        ],
+        "supervisor": "David Sinclair",
+        "technology": "AngularJS, CSS, HTML5, Java, JavaScript, JQuery, REST, SQL, NoSQL, DropWizard, Ruby On Rails, Elasticsearch, Logstash, FileBeat, Bash 123",
+        "title": "Olympus – Server Management"
+    },
+    {
+        "area": "Natural Language Processing, Web Application",
+        "description": "Every day, people talk about brands, products, and events using Twitter. For companies, it’s important to be aware of what people are saying about them online and to catch and fix changes in customer sentiment before it becomes a problem. This project fetches all the Tweets related to certain topics, locations or accounts, and calculates the sentiment for each tweet. This sentiment is then stored and shared with the user. Providing real-time information about the sentiment of a brand.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "eoin.obrien63@mail.dcu.ie",
+                "name": "Eoin O’Brien"
+            }
+        ],
+        "supervisor": "Cathal Gurrin",
+        "technology": "AngularJS, HTML5, Java, NoSQL, Clojure, Storm 124",
+        "title": "Real Time Sentiment Analysis of Tweets"
+    },
+    {
+        "area": "Information Retrieval",
+        "description": "Currently there are no information retrieval systems specifically tailored for the Irish language. The aim of this project is to develop an effective Irish language information tool by combining state-of-the-art information retrieval methods with language preprocessing and indexing appropriately tuned for the Irish language.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "christopher.hurley25@mail.dcu.ie",
+                "name": "Christopher Hurley"
+            }
+        ],
+        "supervisor": "Gareth Jones",
+        "technology": "Java 64 Faculty of Engineering and Computing Final Year Projects Expo 2016 125",
+        "title": "Irish language Information Retrieval Tool"
+    },
+    {
+        "area": "Fluid Mechanics",
+        "description": "Heat engines have a wide variety of uses in today’s world being used in many industries. This project looks at an innovative heat engine design which holds similar characteristics to that of a heat exchanger. This rig will be tested against calculations to verify the accuracy of the mathematical model. This project will study the flow between the rods of the rig to allow for a computer based model to be compared against.",
+        "programme": "Mechanical and Manufacturing Engineering",
+        "students": [
+            {
+                "email": "chrostopher.english5@mail.dcu.ie",
+                "name": "Christopher English"
+            }
+        ],
+        "supervisor": "Yan Delaure",
+        "technology": "Solidworks, Excel/VB 126",
+        "title": "Design a Test-rig for study of an innovative heat engine"
+    },
+    {
+        "area": "Fluid Mechanics, Mechanical Design and Manufacture",
+        "description": "Microbubble generation has been a hot topic in modern world because of its properties which differs to normal sized bubbles. It can be used in a medical industry as drug carriers and food industry for water treatment. Researchers have suggested that it can be easy to generate microbubbles but finding their effectiveness can be difficult. Software such as Solidworks and ANSYS were used to analyse the mechanism of the fluid and to investigate the efficiency of a design.",
+        "programme": "Mechanical and Manufacturing Engineering",
+        "students": [
+            {
+                "email": "mariane.galpo2@mail.dcu.ie",
+                "name": "Mariane Galpo"
+            }
+        ],
+        "supervisor": "Yan Delaure",
+        "technology": "Solidworks, ANSYS 15.0 127",
+        "title": "Microbubble Generation for Waste Water Processing"
+    },
+    {
+        "area": "Thermo Fluids",
+        "description": "The overall aim of this project is to investigate ways to improve grease trap systems. Testing will be carried out on an experimental rig. Problem areas such as flow control, flow rate and temperature were all observed. A heat exchanger was designed and used to help improve the temperature loss. The PICO technology thermocouple was the system software used to monitor the temperature change.",
+        "programme": "Manufacturing Engineering with Business",
+        "students": [
+            {
+                "email": "jason.welby2@mail.dcu.ie",
+                "name": "Jason Welby"
+            }
+        ],
+        "supervisor": "Brian Corcoran",
+        "technology": "PICO technology thermocouple 65 Faculty of Engineering and Computing Final Year Projects Expo 2016 128",
+        "title": "Grease Trap Evaluation"
+    },
+    {
+        "area": "Wireless Technology",
+        "description": "This project is concerned with the design of a 2x2 circular polarized microstrip antenna array operating at 2.4 GHz (Wi-Fi) using CST (Computer Simulation Technology). The design focuses on achieving a number of goals to make the antenna commercially appealable. These goals include, circular polarization, 50Ω input impedance, directivity, a high gain and high efficiency. Antenna prototypes will then be fabricated and fully tested using a vector network analyser and an anechoic chamber before being compared to the simulation results.",
+        "programme": "Electronic Engineering",
+        "students": [
+            {
+                "email": "steafan.sherlock3@mail.dcu.ie",
+                "name": "Steafan Sherlock"
+            }
+        ],
+        "supervisor": "Marissa Condon",
+        "technology": "Matlab, Computer Simulation Technology (CST) 129",
+        "title": "Design and Fabrication of a Circularly Polarized Microstrip Antenna Array"
+    },
+    {
+        "area": "Embedded Systems, Environmental Mapping",
+        "description": "This project investigates the viability of developing a low-cost system that can capture and display highresolution spatial mapping data from a surrounding physical environment. This is achieved in the project by utilizing a low-cost I2C laser-based LIDAR distance sensor, stepper motors and other sensors in conjunction with a real-time microcontroller to build a full-sweep mapping system. The system is targeted at real-time robotic navigation applications, but the recorded data can also be viewed in real time on a desktop display.",
+        "programme": "Electronic Engineering",
+        "students": [
+            {
+                "email": "mark.ohara9@mail.dcu.ie",
+                "name": "Mark O’Hara"
+            }
+        ],
+        "supervisor": "Derek Molloy",
+        "technology": "Matlab, C/C++ 130",
+        "title": "A Low-Cost and High-Resolution Environment Mapping System"
+    },
+    {
+        "area": "Biomaterials",
+        "description": "The objective of this project is to develop a degradable alginate-glass based hydrogel for the temporary embolization of the hepatic artery to treat liver tumours. Borate based glass compositions are being developed for this purpose. The project also aims to develop the most appropriate mechanical testing technique, which examines the fundamental mechanical properties of the material requiring designing and building an appropriate jig for such testing. Mode I fracture toughness technique is chosen and an appropriate mould is being designed.",
+        "programme": "Biomedical Engineering",
+        "students": [
+            {
+                "email": "sruthy.lanilkumar2@mail.dcu.ie",
+                "name": "Sruthy Kumar"
+            }
+        ],
+        "supervisor": "Owen Clarkin",
+        "technology": "Solidworks, Excel/VB 66 Faculty of Engineering and Computing Final Year Projects Expo 2016 131",
+        "title": "Development of a Degradable Alginate-Glass based Hydrogel for the Temporary Embolisation of the Hepatic Artery to Treat Liver Tumours"
+    },
+    {
+        "area": "Mechanical Design and Manufacture",
+        "description": "The objective of this project is to display the relationship between the wheelbase and track while using a rectangular steering mechanism. Altering these variables individually will provide an array of turning paths and the most desirable path can be found. Therefore the exhibition car can display the turning curves of an infinite number of track to wheelbase ratios, making it easier for inexperienced engineers to choose the ideal ratio when designing a four wheeled vehicle where steering may be essential.",
+        "programme": "Mechanical and Manufacturing Engineering",
+        "students": [
+            {
+                "email": "darren.greene9@mail.dcu.ie",
+                "name": "Darren Greene"
+            }
+        ],
+        "supervisor": "Tamas Szecsi",
+        "technology": "Excel/VB, Solidworks 132",
+        "title": "Variable Parameter Rectangular Steering Mechanism Design and Manufacture"
+    },
+    {
+        "area": "3-D Modelling, Additive Manufacturing, Arduino, Educational, Mechatronic Systems",
+        "description": "This mechatronic project involves researching 3D printing techniques and theory followed by the building, calibration, improvement and control of two 3D printer kits and the control of a third fully assembled 3D printer. The project determines the advantages and disadvantages of building and setting up a printer from sourced components against buying a ready-to-print device.",
+        "programme": "Mechatronic Engineering",
+        "students": [
+            {
+                "email": "david.mcglynn4@mail.dcu.ie",
+                "name": "David Mc Glynn"
+            }
+        ],
+        "supervisor": "Joseph Stokes",
+        "technology": "C/C++, Solidworks 133",
+        "title": "Design, build and control of a 3D printer"
+    },
+    {
+        "area": "Cloud Computing, Mobile App, Web Application",
+        "description": "The aim of this project is to provide a web and mobile application platform which seeks to promote interactive learning with the aid of the Google Chromecast. The application features allow for a mirrored classroom environment where ‘lessons’ are treated as sessions. A single session will have one session owner and multiple session clients who may interact within that session. Interactive Learning with Google Chromecast is available on Chrome and on iOS and Android as a native application.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "cian.burke33@mail.dcu.ie",
+                "name": "Cian Burke"
+            }
+        ],
+        "supervisor": "John McKenna",
+        "technology": ".NET, C#, CSS, HTML5, JavaScript, SQL 67 Faculty of Engineering and Computing Final Year Projects Expo 2016 134",
+        "title": "Interactive Learning with Google Chromecast"
+    },
+    {
+        "area": "Sensor Data",
+        "description": "The aim of this project is to develop a low cost thermal imaging camera that can be used to identify variations of heat loss from a domestic residence. A thermal image will be created by acquiring multiple spot temperatures by scanning a point IR sensor over the desired area. A microcontroller is used to retrieve the data and control the scanning procedure. The data will be interpreted and an image will be generated using Java.",
+        "programme": "Electronic Engineering",
+        "students": [
+            {
+                "email": "liam.savage2@mail.dcu.ie",
+                "name": "Liam Savage"
+            }
+        ],
+        "supervisor": "Noel Murphy",
+        "technology": "Java 135",
+        "title": "Low-Cost Scanning Thermal Imaging Device"
+    },
+    {
+        "area": "Mechanical Design and Manufacture",
+        "description": "Current glass crushers on the market are too big to be neatly stored under a bar counter and simply pulverize the glass.Pulverised glass produces cullet that is too small to be recycled and too large to be used in other applications such as water filtration.By producing an under-the-counter glass crusher that crushes glass in a controlled and somewhat predictable manner, the majority of the cullet can be recycled without the need for additional processing.",
+        "programme": "Mechanical and Manufacturing Engineering",
+        "students": [
+            {
+                "email": "james.doyle65@mail.dcu.ie",
+                "name": "James Doyle"
+            }
+        ],
+        "supervisor": "Paul Young",
+        "technology": "Solidworks 136",
+        "title": "Design of a Glass Crushing Machine"
+    },
+    {
+        "area": "Robot navigation, embedded systems, sensor fusion",
+        "description": "This project concerns an investigation into sensors applicable to mobile robotic navigation. This project examines ultrasonic sensors and their uses for navigation, a comparison on low quality vs. high quality sensors and the assessment of their viability for use. Another aspect of this project examines the MS Kinect sensor and its use with sensor fusion in order to improve the accuracy/reliability of the environment data.",
+        "programme": "Electronic Engineering",
+        "students": [
+            {
+                "email": "conal.tormey5@mail.dcu.ie",
+                "name": "Conal Tormey"
+            }
+        ],
+        "supervisor": "Jennifer Bruton",
+        "technology": "Raspberry Pi, MS kinect, Raspbian, MATLAB 68 Faculty of Engineering and Computing Final Year Projects Expo 2016 137",
+        "title": "Path Planning Sensors"
+    },
+    {
+        "area": "Automation",
+        "description": "This project concentrates on the final commissioning of the existing Citroen and Volkswagen Car Engines plus a Motorcycle Engine for marketing display to attract potential future engineering students. Some required objectives are a literature search and methodology in regards to the combustion cycle/thermodynamics, and the area of manufacturing in terms of fabrication/assembly.",
+        "programme": "Manufacturing Engineering with Business",
+        "students": [
+            {
+                "email": "fatima.calli2@mail.dcu.ie",
+                "name": "fatima abdalla"
+            }
+        ],
+        "supervisor": "Joseph Stokes",
+        "technology": "Solidworks 138",
+        "title": "Final Commissioning of a Sectioned Car/Motorcycle Engine for Engineering Display Applications"
+    },
+    {
+        "area": "Benchmarking Solution",
+        "description": "The purpose of the distributed benchmarking system is to assess the performance characteristics of a log management system. It contains a set of conditions against which a potential log management system could be benchmarked. The core aspects are: • Monitor and compare data ingestion cycles performance. • Compare ingestion performance with various factors ( Ram, processor power, running processes). • Benchmarks product performance in general. • Provides a graphical representation for the above information.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "sebastian.jankowski2@mail.dcu.ie",
+                "name": "Sebastian Jankowski"
+            }
+        ],
+        "supervisor": "Martin Crane",
+        "technology": "Java, Python 139",
+        "title": "Distributed Benchmarking System"
+    },
+    {
+        "area": "Natural Language Processing, Web Application",
+        "description": "StyleMe Web Application searches through clothing websites to find clothes for a user based on a selected style and additional attributes including clothing type, colour and price. The selected clothing items are displayed to the user where they can find more information or access the website selling the item. Styles are determined by performing NLP with Word2Vec and GloVe on a document corpus of fashion blogs and associating terms with the style terms they are semantically related to.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "eibhlin.mcgeady2@mail.dcu.ie",
+                "name": "Eibhlín McGeady"
+            }
+        ],
+        "supervisor": "Alexander OConnor",
+        "technology": "Java, JavaScript, REST, NoSQL, AngularJS, CSS, HTML5 69 Faculty of Engineering and Computing Final Year Projects Expo 2016 140",
+        "title": "StyleMe Web Application – Online Clothing Style Search Platform"
+    },
+    {
+        "area": "Web Application",
+        "description": "The idea was to give users the experience a website where they can all see a whiteboard. If any given user was to write on the whiteboard every other user who is viewing the same “board” would see the changes. Discussing business strategies, complex learning questions or even designing different ideas would no longer be an issue as every user would have access to the same changes happening in real time. This all being achieved by accessing a given URL.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "eoin.ffrench2@mail.dcu.ie",
+                "name": "Eoin Ffrench"
+            }
+        ],
+        "supervisor": "David Gray",
+        "technology": "JavaScript 141",
+        "title": "Real Time Interactive Whiteboard"
+    },
+    {
+        "area": "GPS GIS, Software Development, Wireless Technology",
+        "description": "The aim of this project was to create, test and implement a cost effective system that will accurately locate and track a person through a building using the Wi-Fi network in the building. Using software such as Vistumbler, Matlab and Excel to create a program that compares the strength of Wi-Fi signals surrounding a user and after comparing them to a database, determines their location.",
+        "programme": "Electronic Engineering",
+        "students": [
+            {
+                "email": "samuel.skelton2@mail.dcu.ie",
+                "name": "Sam Skelton"
+            }
+        ],
+        "supervisor": "Conor Brennan",
+        "technology": "Matlab 142",
+        "title": "Location and Tracking of Indoor Wi-Fi Users"
+    },
+    {
+        "area": "Closed Loop Supply Chains",
+        "description": "This report is compiled to explore the extensive meanings of Closed Loop Supply Chain Management and the technical elements that emerge with exploration of this topic, mostly concentrating on Reusable Articles. A simulation will be compiled to probe the issues that may arise with Reusable Articles, to eventually come to aid of reaching a plausible solution for such issues.",
+        "programme": "Manufacturing Engineering with Business",
+        "students": [
+            {
+                "email": "justinas.pankinas2@mail.dcu.ie",
+                "name": "Justinas Pankinas"
+            }
+        ],
+        "supervisor": "John Geraghty",
+        "technology": "Excel, ExtendSim, Design Expert 70 Faculty of Engineering and Computing Final Year Projects Expo 2016 143",
+        "title": "Modelling and Analysis of Closed Loop Supply Chain Management for Reusable Articles"
+    },
+    {
+        "area": "Home Entertainment",
+        "description": "This project concerns the design of a low cost personal video recorder system for home entertainment purposes. The design is based on a single board computer acting as a set top box that allows viewing and recording of TV shows from satellite and terrestrial sources as well as streaming recordings to other devices. It incorporates a very user-friendly experience complete with a remote control.",
+        "programme": "Digital Media Engineering",
+        "students": [
+            {
+                "email": "pauric.mcconnell3@mail.dcu.ie",
+                "name": "Pauric McConnell"
+            }
+        ],
+        "supervisor": "Martin Collier",
+        "technology": "Raspbian, OpenELEC, Kodi, XML 144",
+        "title": "Low Cost PVR"
+    },
+    {
+        "area": "Security, Web Application, RaspberryPi, Model View Controller, Image Video Processing, Databases",
+        "description": "Raspberry CCTV is a web application which allows the user to view and control a webcam connected to a Raspberry Pi device. The user will be able to view a live stream from the webcam, take photos, and record video from the device. The web application will analyse the webcam feed for facial recognition and has been designed and implemented to work on multiple device such as tablets and mobile phones as well as laptops.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "ian.dowling3@mail.dcu.ie",
+                "name": "Ian Dowling"
+            }
+        ],
+        "supervisor": "Suzanne Little",
+        "technology": "CSS, HTML5, JavaScript, JQuery, SpringMVC, SQL, OpenCV 145",
+        "title": "Raspberry CCTV"
+    },
+    {
+        "area": "Arduino",
+        "description": "This project is a tool to measure and improve people’s hand strength. It is aimed at people who have suffered any sort of injury which has affected their hand movement. The tool will improve these peoples’ grip strength by asking them to place a glove on their hand and then instructing them to grip their hand. I will then compare their readings against the average grip strength for healthy people with the same age, gender and weight.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "ciara.edwards5@mail.dcu.ie",
+                "name": "Ciara Edwards"
+            }
+        ],
+        "supervisor": "David Sinclair",
+        "technology": "Java, OpenGL, SQL, Eclipse 71 Faculty of Engineering and Computing Final Year Projects Expo 2016 146",
+        "title": "Helping Hand"
+    },
+    {
+        "area": "Android",
+        "description": "This android application allows its users to create training drills, customize team formations to display player movement during a match, and also record statistical information on players such as their goals and assists for the season. All this data, collected and stored using a SQLite database, can then be used by the manager or the user for their pre-match or in-game tactics.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "darragh.mccarthy42@mail.dcu.ie",
+                "name": "Darragh McCarthy"
+            }
+        ],
+        "supervisor": "Mark Roantree",
+        "technology": "XML, SQLite, Java 147",
+        "title": "Interactive Tactics Board"
+    },
+    {
+        "area": "Android, Databases, Educational, Mobile App, RaspberryPi",
+        "description": "SmartBoard is a system that records, documents and index’s multiple forms of media in an educational environment. SmartBoard is capable of interacting with its users by both written commands and android devices. Educators have the ability to request previously saved content from SmartBoard’s database. This content can be projected to the board, removing the need for its users to carry equipment to lectures. SmartBoard also provides study aid by allowing students view recorded lectures and notes from their android devices.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "rossmcbride93@gmail.com",
+                "name": "Ross McBride"
+            }
+        ],
+        "supervisor": "David Sinclair",
+        "technology": "Java, Python, SQL 148",
+        "title": "SmartBoard"
+    },
+    {
+        "area": "Biomedical Engineering, Tissue Engineering",
+        "description": "The project involves design of a system to mimic the internal body condition for a liver. It also involves formulation of a hydrogel to be injected into porcine liver in order to test for embolization efficiency. The purpose of the project is to develop Embostasis P, a transarterial chemoembolization (TACE) treatment for liver cancer.",
+        "programme": "Biomedical Engineering",
+        "students": [
+            {
+                "email": "sumayya.mukhtar2@mail.dcu.ie",
+                "name": "Sumayya Mukhtar"
+            }
+        ],
+        "supervisor": "Owen Clarkin",
+        "technology": "Solidworks 72 Faculty of Engineering and Computing Final Year Projects Expo 2016 149",
+        "title": "Embolization Efficiency of a Decellularized Liver"
+    },
+    {
+        "area": "Mobile App, Arduino",
+        "description": "This project combines android application development, embedded systems, and electronic circuit design to implement the functionality of a Digital Multimeter on an Android device. Electronic circuits are sampled using an Arduino Microcontroller connected over Bluetooth to an application running on an Android device. The application measures and interprets voltage, current and resistance, accurately presenting them to the user just like a traditional Multimeter.",
+        "programme": "Digital Media Engineering",
+        "students": [
+            {
+                "email": "conor.dempsey24@mail.dcu.ie",
+                "name": "Conor Dempsey"
+            }
+        ],
+        "supervisor": "Robert Sadlier",
+        "technology": "C/C++, Java 150",
+        "title": "Development of an Android based digital Multimeter"
+    },
+    {
+        "area": "Data Analytics, Educational, Software Development, Statistical Analysis, Web Application, Development Environment",
+        "description": "A super friendly development environment, that allows users to learn, develop, store, compile, run, analyse and compare programming projects. This and much more is what pro1oh1 offers it’s users. The project consists of two main components: 1 A website with a text editor, terminal and file manager. 2\b \bDjango(Python) server, used to interact with the DB(SQLite), run user applications(Using Docker) and collect performance data. The main components communicate through Django’s Rest Framework. The application is hosted in AWS.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "ruben.vasconcelos2@mail.dcu.ie",
+                "name": "Ruben Vasconcelos"
+            }
+        ],
+        "supervisor": "Geoff Hamilton",
+        "technology": "AngularJS, CSS, Docker, HTML5, JavaScript, Python, REST, SQL, Celery, Protractor, AWS, Elastic Beanstalk, Django 151",
+        "title": "Pro1oh1"
+    },
+    {
+        "area": "Telecommunications, Optoelectronics",
+        "description": "Reflective Semiconductor Optical Amplifier (RSOA), a component used in Passive Optical Networks (PON) avoiding the need of an Optical Source (Laser) at the user end (Optical Network Terminal). It is a Semiconductor Optical Amplifier which has one of its facets altered to be a mirror. Continuous Wave Signals modulated, amplified and reflected instead of using a laser. They are small, low cost, secure & with large Bandwidth. Their structure, internal processes, carrier distribution and power saturation are studied with simulation.",
+        "programme": "Information and Communications Engineering",
+        "students": [
+            {
+                "email": "fady.abdelmalek2@mail.dcu.ie",
+                "name": "Fady Makram Max Abdelmalek"
+            }
+        ],
+        "supervisor": "Pascal Landais",
+        "technology": "Matlab 73 Faculty of Engineering and Computing Final Year Projects Expo 2016 152",
+        "title": "Study of Reflective Semiconductor Optical Amplifier"
+    },
+    {
+        "area": "Android, Computer Vision, Image Video Processing, Mobile App, Software Development",
+        "description": "The aim of this project is to develop a mobile application for continuous and non-invasive glucose level monitoring in the ocular fluid through the use of smart contact lenses. The application allows the user to capture/upload an image of the eye. With the help of computer vision, the colour of the contact lens is extracted and analysed then correlated to a glucose level. The application also provides a trend analysis tool to indicate the change on the glucose level.",
+        "programme": "Electronic Engineering",
+        "students": [
+            {
+                "email": "mamadou.barry29@mail.dcu.ie",
+                "name": "Mamadou Alpha Barry"
+            }
+        ],
+        "supervisor": "Noel OConnor",
+        "technology": "C/C++, Java, PHP, SQL 153",
+        "title": "Smart Contact Lenses for Monitoring Glucose Levels"
+    },
+    {
+        "area": "Device Design",
+        "description": "In recent years, Software Defined Radio (SDR) has emerged as an exciting new technology for radio astronomers. By enabling the replacement of previously required hardware with adjustable software, small personal use radio telescopes are now cheaper than ever to design and build. This project details the electronic design, development and testing of such an SDR-based radio telescope. An emphasis is placed on testing the device on the astronomically important spectral region known as the 21cm wavelength hydrogen line.",
+        "programme": "Mechatronic Engineering",
+        "students": [
+            {
+                "email": "eoin.mythen2@mail.dcu.ie",
+                "name": "Eoin Mythen"
+            }
+        ],
+        "supervisor": "Patrick McNally",
+        "technology": "Software Defined Radio (SDR#) 154",
+        "title": "Design and development of a Simple Software Defined Radio for 21cm Wavelength Radio Astronomy"
+    },
+    {
+        "area": "Machine Learning, Web Application, Data Mining, Data Analytics",
+        "description": "BidBot brings machine learning to eBay. By leveraging data mining and analysis tools, BidBot makes intelligent decisions about the value of laptops sold on eBay. Users can find deals and save money on a new laptop while sellers can buy and resell for a profit. BidBot handles the market research so you don’t have to, letting you get on with the business of making money.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "david.okeeffe25@mail.dcu.ie",
+                "name": "David O’Keeffe"
+            }
+        ],
+        "supervisor": "Darragh OBrien",
+        "technology": "Clojure, Scikit-Learn, NoSQL, REST, Python, JavaScript, HTML5, CSS 74 Faculty of Engineering and Computing Final Year Projects Expo 2016 155",
+        "title": "BidBot"
+    },
+    {
+        "area": "Android, Databases, Data Mining, Mobile App, Network Applications, RaspberryPi, Web Application",
+        "description": "This project is an NFC lock system running off a server on a Raspberry Pi wired to 3 RFID scanners and 6 LEDS which simulate an electronic lock. Locking and unlocking of the doors is controlled by an android app and an NFC tag found on most phones. The system has both home and industry appliances, and different features apply to each. Opening or attempted openings create an entry in a log file and these are mined for accessm patterns.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "david.oreilly35@mail.dcu.ie",
+                "name": "David O’Reilly"
+            }
+        ],
+        "supervisor": "Alan Smeaton",
+        "technology": "SQL, Python, PHP, Java 156",
+        "title": "NFC Lock System"
+    },
+    {
+        "area": "Additive Manufacturing, Automation, Control Systems, Mechatronic Systems, Web Application",
+        "description": "The objective of this project is to successfully replace and reprogramme the pre-existing PLCs in a Flexible Manufacturing System alongside establishing a new network medium which they can communicate. This upgrade also contains the implementation of an additional data output system. This data output will allow for the performance of the system to be monitored in greater detail. Overall this new control will allow a more complex and flexible manufacturing process to be performed throughout the entire Flexible Manufacturing System.",
+        "programme": "Mechatronic Engineering",
+        "students": [
+            {
+                "email": "cairns.micheal2@mail.dcu.ie",
+                "name": "Mícheál Cairns"
+            }
+        ],
+        "supervisor": "Paul Young",
+        "technology": "PLC Programming 157",
+        "title": "Upgrading of Control System for FMS stations"
+    },
+    {
+        "area": "Gaming",
+        "description": "With game development being more accessible than ever with engines such as Unity, Lumberyard, and Unreal becoming freely available, this project aims to take a different look at game development. The project consists of a Roguelike game developed through Python, using a Python wrapper for Simple DirectMedia Layer (SDL) called PyGame in order to provide graphics.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "niall.gaffney4@mail.dcu.ie",
+                "name": "Niall Gaffney"
+            }
+        ],
+        "supervisor": "Alistair Sutherland",
+        "technology": "Python 75 Faculty of Engineering and Computing Final Year Projects Expo 2016 158",
+        "title": "Python Roguelike"
+    },
+    {
+        "area": "Web Application",
+        "description": "Apartment Search is a web application that provides users with a more convenient method of finding a new home. It takes the criteria specified by the user, such as the number of bedrooms, location and price range, and returns matching listings from the top real estate services.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "justinas.ulevicius2@mail.dcu.ie",
+                "name": "Justinas Ulevicius"
+            }
+        ],
+        "supervisor": "Mark Roantree",
+        "technology": "Python 159",
+        "title": "Apartment Search"
+    },
+    {
+        "area": "Data Mining, Mobile App",
+        "description": "App that will allow users to see current river speed and level. It will also send an alert when there is a large change in the water level or a blockage. There will also be a location aspect to find rivers that are nearby the user. This will be helpful for safety of anyone useing the water.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "damian.downes3@mail.dcu.ie",
+                "name": "Damian Downes"
+            }
+        ],
+        "supervisor": "Ray Walshe",
+        "technology": "Java, Python 160",
+        "title": "Irish Kayaking Companion"
+    },
+    {
+        "area": "Renewable Energy Technology, Arduino",
+        "description": "This aim of this project is to design and develop a cost-effective apparatus to automate temperature based efficiency measurements in photovoltaic (PV) cells and to map the location of defects in PV cells via electroluminescence imaging. This is achieved by interfacing software with an MCU (arduino uno) and we show how data can be measured and analysed automatically.",
+        "programme": "Electronic Engineering",
+        "students": [
+            {
+                "email": "peter.monahan4@mail.dcu.ie",
+                "name": "Peter Monahan"
+            }
+        ],
+        "supervisor": "Patrick McNally",
+        "technology": "Java 76 Faculty of Engineering and Computing Final Year Projects Expo 2016 161",
+        "title": "Electroluminescence Imagaing and Temperature efficiency measurements in photovoltaics cells"
+    },
+    {
+        "area": "Android, Arduino, Cloud Computing, Mobile App",
+        "description": "A mobile app with a RESTful server behind it that connects to a wearable Arduino device(FLORA) that allows the user to navigate to a chosen place or to a chosen friend. The FLORA contains an LED ring where a chosen LED will light up indicating the direction for you to follow.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "sean.gibbons4@mail.dcu.ie",
+                "name": "Sean Gibbons"
+            }
+        ],
+        "supervisor": "David Sinclair",
+        "technology": "C/C++, Java, REST, Cassandra 162",
+        "title": "Friend Finder"
+    },
+    {
+        "area": "Mobile App",
+        "description": "healthSim is an application that presents keeping fit and healthy eating in a gaming way. Everyone knows from personal experience that if you don’t have a partner to keep fit with it, it’s very hard to motivate yourself so that’s where healthSim comes in. It’s role is to keep track of various stats such as hours slept, calorie intake, exercise, etc so you can have a good idea to whether you’re keeping yourself on track with your health plan.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "michael.coughlan23@mail.dcu.ie",
+                "name": "Michael Liam Coughlan"
+            }
+        ],
+        "supervisor": "Brian Stone",
+        "technology": "Java 163",
+        "title": "healthSim"
+    },
+    {
+        "area": "Sensor Technology, Software Development",
+        "description": "This project details the utilisation of a wearable inertial sensor to monitor a runner’s performance. Using a Shimmer3 wearable sensor and a companion application developed in python, the system will provide information on irregularities in stride and hence recommendations to avoid injury through repetitive stress. Particular attention has been given to the signal processing aspect of this project to ensure an accurate and robust application",
+        "programme": "Electronic Engineering",
+        "students": [
+            {
+                "email": "david.swan5@mail.dcu.ie",
+                "name": "David Swan"
+            }
+        ],
+        "supervisor": "Noel OConnor",
+        "technology": "DSP, Python 77 Faculty of Engineering and Computing Final Year Projects Expo 2016 164",
+        "title": "Monitoring Running Performance using Wearable Inertial Sensors"
+    },
+    {
+        "area": "Wireless Sensor Networks",
+        "description": "This project develops a wireless sensor network using low-cost embedded technologies to create a monitoring system, which can provide information to be used for the assistive care of a user. The Node.js-based system utilizes wireless communication based on the ZigBee mesh network to allow for data collection and aggregation in combination with the Raspberry Pi platform, which is running embedded Linux. The Node.js-based system monitors the user and generates alerts if irregular behaviour is observed.",
+        "programme": "Electronic Engineering",
+        "students": [
+            {
+                "email": "Nicole.Jinks2@mail.dcu.ie",
+                "name": "Nicole Jinks"
+            }
+        ],
+        "supervisor": "Derek Molloy",
+        "technology": "Embedded Systems, Node.js 165",
+        "title": "A Low-cost Assistive Monitoring System"
+    },
+    {
+        "area": "Android, Web Application, Life logging",
+        "description": "Brain vault functions as a mobile application to access your memories on the go. A user can actively log moments in their life or log interests categorically as they occur. These memories and interests can be reflected on at any time. Memory recall is made easier with the ability to view logged interests through This application. The API will be accessible for third parties to make use of public user account interest logs while defaulted private accounts will not.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "aaron.woods22@mail.dcu.ie",
+                "name": "Aaron Woods"
+            }
+        ],
+        "supervisor": "Brian Stone",
+        "technology": "Java, REST, NoSQL 166",
+        "title": "Brain Vault"
+    },
+    {
+        "area": "Robotics",
+        "description": "This project covers the design and construction of a Pneumatic Artificial Muscle (PAM) actuator using sourced material and reports on the experiments conducted to explore the mechanical properties of its operation – such as how changes in length, radial expansion, pressure & tensile forces are related.",
+        "programme": "Mechatronic Engineering",
+        "students": [
+            {
+                "email": "andrew.kavanagh42@mail.dcu.ie",
+                "name": "Andrew Kavanagh"
+            }
+        ],
+        "supervisor": "Jeremiah Murphy",
+        "technology": "Excel/VB 78 Faculty of Engineering and Computing Final Year Projects Expo 2016 167",
+        "title": "Design, Build and Testing of a Pneumatic Artificial Muscle"
+    },
+    {
+        "area": "Android, Arduino",
+        "description": "This project involves the design and manufacture of a wearable Arduino device called Flora which will be able to detect if the user wearing the device is having a seizure. Along with this device an Android application will also be developed which will connect with the Arduino via Bluetooth and will be able to notify friends/family of the user where the seizure is taking place along with other necessary details.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "paul.sugrue3@mail.dcu.ie",
+                "name": "Paul Sugrue"
+            }
+        ],
+        "supervisor": "Mark Roantree",
+        "technology": "C/C++, Java, PHP, SQL 168",
+        "title": "Seizure Alert"
+    },
+    {
+        "area": "Web Application",
+        "description": "Game Statistic Recorder is a web application which allows users to organise and create tournaments where they are able to define the rules of the game and then record the results of each game of the tournament. Users can search and join tournaments that they wish to participate in.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "artur.vorobjov2@mail.dcu.ie",
+                "name": "Artur Vorobjov"
+            }
+        ],
+        "supervisor": "Jane Kernan",
+        "technology": "AngularJS, CSS, HTML5, Node.js, NoSQL, MongoDB 169",
+        "title": "Game Statistic Recorder"
+    },
+    {
+        "area": "Android",
+        "description": "CarPool is an Android application which enables lift sharing among users. The application has two user groups; those looking for a lift and those offering a lift. People seeking lifts can input their desired journey by pinning the pick-up and drop-off locations using Google Maps. Drivers can view the map and offer lifts at their discretion. The logic behind the application is to minimise the number of empty cars on the road while giving commuters another option to public transport.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "paul.donoghue4@mail.dcu.ie",
+                "name": "Paul Donoghue"
+            }
+        ],
+        "supervisor": "Charlie Daly",
+        "technology": "Java, PHP, SQL 79 Faculty of Engineering and Computing Final Year Projects Expo 2016 170",
+        "title": "CarPool Application"
+    },
+    {
+        "area": "Gaming",
+        "description": "This project’s goal is to allow anyone to create their own 2D video game through an intuitive, gamer-friendly interface. No coding experience required; just a love of video games.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "conor.debuitlear2@mail.dcu.ie",
+                "name": "Conor de Buitléar"
+            }
+        ],
+        "supervisor": "Charlie Daly",
+        "technology": "Java 171",
+        "title": "Video Game Maker"
+    },
+    {
+        "area": "Web Application",
+        "description": "JukeBox Plus is a social entertainment platform where users can enjoy Youtube content together. Users join or create a room for them and their friends and, using the queue system, chose what to watch and what not to watch. JukeBox Plus uses cutting edge web technologies to deliver a clean user-friendly experience.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "conor.keating5@mail.dcu.ie",
+                "name": "Conor Keating"
+            }
+        ],
+        "supervisor": "John McKenna",
+        "technology": "Eclipse, HTML5, JavaScript, Node.js, NoSQL 172",
+        "title": "JukeBox Plus"
+    },
+    {
+        "area": "Android, Mobile App",
+        "description": "TravelBudgie is an Android application which provides an easy way of keeping track of travel budgets and expenditure. It enables users to project holiday spending with simple budgets and to keep track of actual expenditure whilst travelling. The app notifies users when they are either above or below projected spending in specific categories and enables them to split shared costs between connected users. TravelBudgie also draws from Numbeo.com to provide information about countries the user is interested in.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "eoin.power27@mail.dcu.ie",
+                "name": "Eoin Power"
+            }
+        ],
+        "supervisor": "Gareth Jones",
+        "technology": "Java, SQL, XML 80 Faculty of Engineering and Computing Final Year Projects Expo 2016 173",
+        "title": "TravelBudgie for Android"
+    },
+    {
+        "area": "Android",
+        "description": "The Dyslexia testing app is an android tablet application which presents the user with a series of several exercises designed to develop phonological awareness (Auditory discrimination, Rhyme recognition, Rhyme recognition oddity, Rhyme generation, Timed rhyme generation) in the user. By gathering and storing this information in a database an assessment can be made and presented to the user.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "paul.tierney7@mail.dcu.ie",
+                "name": "Paul Tierney"
+            }
+        ],
+        "supervisor": "Cathal Gurrin",
+        "technology": "Java 174",
+        "title": "Dyslexia Testing App"
+    },
+    {
+        "area": "Data Analytics",
+        "description": "City Explorer is an android based application which guides users along alternate paths, through an area and to their destinations, while on foot. The focus is to generate short but interesting routes, to give a user a path to follow for exploring an area in more detail. Using data gathered from OpenStreetMap, generated routes hopefully lead away from main streets and closer to unexplored and unique locations.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "cian.coady4@mail.dcu.ie",
+                "name": "Cian Coady"
+            }
+        ],
+        "supervisor": "Suzanne Little",
+        "technology": "Java, Android studio 175",
+        "title": "City Explorer"
+    },
+    {
+        "area": "Mobile App",
+        "description": "GiveBack is a mobile application for volunteers. The app is a location-based service that notifies users about current and future volunteering opportunities within their area at any given time, to encourage last minute volunteering. Users can apply for these opportunities within the application, with their volunteering contributions being recorded and stored on a cloud database, which can be accessed securely through user accounts and shared on social network sites. The application is written using Java and utilizes a MySQL database.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "cathy.devere4@mail.dcu.ie",
+                "name": "Cathy de Vere"
+            }
+        ],
+        "supervisor": "Marija Bezbradica",
+        "technology": "Java, SQL 81 Faculty of Engineering and Computing Final Year Projects Expo 2016 176",
+        "title": "GiveBack"
+    },
+    {
+        "area": "Android",
+        "description": "This is an android travel App where users can read and write reviews and receive recommendations based on the type of holiday they desire. Users can ask for a destination recommendation or they can be recommended one based on previous ratings they gave other destinations.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "brian.lynch39@mail.dcu.ie",
+                "name": "Brian Lynch"
+            }
+        ],
+        "supervisor": "Paul Clarke",
+        "technology": "Java 177",
+        "title": "Vibe"
+    },
+    {
+        "area": "Renewable Energy Technology",
+        "description": "The aim of this project is to design, build, and programme a solar powered electrical system that will charge a battery using photovoltaic cells and in turn power multiple outputs. The design must simulate as if it were a larger scale version in an off-grid location.",
+        "programme": "Electronic Engineering",
+        "students": [
+            {
+                "email": "alex.conlon23@mail.dcu.ie",
+                "name": "Alex Conlon"
+            }
+        ],
+        "supervisor": "Stephen Daniels",
+        "technology": "C/C++ 178",
+        "title": "Solar Energy System in Off-Grid Locations"
+    },
+    {
+        "area": "Artificial Intelligence",
+        "description": "A Neural Network trained to play the video game Super Mario Bro’s using two different machine learning techniques. A Network is trained via supervised learning using recorded human game-play and another Network is trained using Reinforcement learning. Data is passed in real-time, read from the video games RAM to the networks. The system is designed to make configuring, training and experimenting with the Neural Networks as simple as possible.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "eoin.murphy74@mail.dcu.ie",
+                "name": "Eoin Murphy"
+            }
+        ],
+        "supervisor": "Mark Humphrys",
+        "technology": "Lua 82 Faculty of Engineering and Computing Final Year Projects Expo 2016 179",
+        "title": "Machine Learning and Super Mario"
+    },
+    {
+        "area": "Web Application, Project Planning",
+        "description": "Planning Tool is a web application built using the spring framework. It is an application that allows users to plan their projects and liaise with others whilst doing this. Users have the ability to rapidly plan and replan in a quick and fluid matter, whilst also ensuring efficiency. Autoplanning and collaborative work contribute to making this application suitable for businesses.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "cillian.reid7@mail.dcu.ie",
+                "name": "Cillian Reid"
+            }
+        ],
+        "supervisor": "John McKenna",
+        "technology": "Java, JQuery, SpringMVC, SQL, Hibernate, Ajax, Apache Tiles 180",
+        "title": "Planning Tool"
+    },
+    {
+        "area": "Advanced Material Engineering, Biomedical Engineering, Control Systems, DSP, Fluid Mechanics, Mechanical Design and Manufacture, Rheology",
+        "description": "The project is conducted to determine the viscoelastic shear modulus of glycerol-gelatine jelly and hence validate the oscillatory squeeze film testing method when analysing solid materials. Of particular concern is the boundary layer condition at the plates where a no-slip condition is assumed and assessed during tests. Results show that at lower amplitudes the no-slip condition holds with viscoelastic shear modulus quantified between 0.88 kPa and 1.07 kPa.",
+        "programme": "Biomedical Engineering",
+        "students": [
+            {
+                "email": "ashton.dsouza2@mail.dcu.ie",
+                "name": "Ashton Paul D’Souza"
+            }
+        ],
+        "supervisor": "Harold Esmonde",
+        "technology": "DSP, Fast Fourier Transform, Solidworks, Micro Fourier Rheometer 181",
+        "title": "Squeeze Film Testing of Solid Materials"
+    },
+    {
+        "area": "Gaming",
+        "description": "Cosmos is a 3D simulated universe offering an interactive and informative game-like environment, developed for Android. The application will generate an approximation of our relative universe from a data-set of celestial objects. There will be a navigation feature in which users can explore the universe and an educational query tool which will present information about each object encountered. With these features the user will be able explore the universe and learn the science of astronomy.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "mark.mccluskey4@mail.dcu.ie",
+                "name": "Mark McCluskey"
+            }
+        ],
+        "supervisor": "Darragh OBrien",
+        "technology": "C# 83 Faculty of Engineering and Computing Final Year Projects Expo 2016 182",
+        "title": "Cosmos"
+    },
+    {
+        "area": "Artificial Intelligence",
+        "description": "The aim of this project is to simulate a set of animals in the wild. This animals will have different strategies, which will evolve over time. The animals will evolve so they can feed themselves and to survive dangerous encounters with deadly enemies. This Simulator will allow people to see animals interact with each other in multiple distinct ways and will display the progress and results of evolution.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "david.monteiro2@mail.dcu.ie",
+                "name": "David Furtado Monteiro"
+            }
+        ],
+        "supervisor": "Jane Kernan",
+        "technology": "C#, Unity engine 183",
+        "title": "The Wild"
+    },
+    {
+        "area": "Gaming",
+        "description": "A 2D video game created with the UNITY game engine for the android mobile operating system. The game follows a character “Benjii” as he jumps along a series of procedurally generated rotating planets collecting points laid out in an arc. The player is tested and rewarded for continuous accuracy matching the arc that is generated to match a potential flight path.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "jack.tilley2@mail.dcu.ie",
+                "name": "Jack Tilley"
+            }
+        ],
+        "supervisor": "Rory OConnor",
+        "technology": "C# 184",
+        "title": "Benjii"
+    },
+    {
+        "area": "Device Design, Thermal Finite Element Analysis",
+        "description": "Cardiac cryoablation is a minimally invasive catheter-based technique which involves the application of cryo-thermal energy to ablate sections of tissue causing cardiac arrhythmias. This project involved the development of a thermal finite element model that emulates the propagation of freezing in cardiac tissue during cryoablation. A prototype medical device, which could potentially be manufactured for research use, has been designed based on the results of the model.",
+        "programme": "Biomedical Engineering",
+        "students": [
+            {
+                "email": "cathal.finn23@mail.dcu.ie",
+                "name": "Cathal Finn"
+            }
+        ],
+        "supervisor": "Garrett McGuinness",
+        "technology": "Solidworks, ANSYS 84 Faculty of Engineering and Computing Final Year Projects Expo 2016 185",
+        "title": "Design of a Cryoablation Medical Device for the Treatment of Atrial Flutter and Fibrillation"
+    },
+    {
+        "area": "Android",
+        "description": "1916 Today is a location based Q&A android application. Users interact with the system using natural language, asking questions regarding the events that transpired during the 1916 Easter Rising. This is achieved through the utilisation of Watson, IBMs cognitive computing system. The application also grants users the ability to find historical landmarks in the proximity of their current location, providing information relating to the sites alongside directions to the landmark.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "Ethan.McTiernan2@mail.dcu.ie",
+                "name": "Ethan McTiernan"
+            }
+        ],
+        "supervisor": "Alan Smeaton",
+        "technology": "Java, Spring, Watson 186",
+        "title": "1916 Today"
+    },
+    {
+        "area": "Software Development, Artificial Intelligence",
+        "description": "Asal is a chess engine based on deep reinforcement learning. Deep neural networks are used to train an evaluation function for informed decision making and move ordering. Written in Lua and using the Torch framework, the project aims to validate results achieved by similar projects, while exploring a new approach to chess programming",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "colm.gallagher48@mail.dcu.ie",
+                "name": "Colm Gallagher"
+            }
+        ],
+        "supervisor": "Alexander OConnor",
+        "technology": "Lua, Torch 187",
+        "title": "Asal – Chess engine development using Deep Reinforcement Learning"
+    },
+    {
+        "area": "Artificial Intelligence",
+        "description": "The goal of this project is to implement neural network Artificial Intelligence in a 2D game using unity game engine. There are different difficulties with the hardest using neural networks, the AI consists of a number of simple and highly connected neurons to provide the user with a thrilling experience different to the normal AI encountered in games.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "sean.carroll44@mail.dcu.ie",
+                "name": "Sean Carroll"
+            }
+        ],
+        "supervisor": "Rory OConnor",
+        "technology": "C# 85 Faculty of Engineering and Computing Final Year Projects Expo 2016 188",
+        "title": "Neural Network Artificial Intelligence"
+    },
+    {
+        "area": "Web Application",
+        "description": "The project is a web based user interface for controlling and retrieving information from an Octiv unit, owned and developed by Impedans Ltd. The idea behind this project is to allow remote control / data gathering from the unit, regardless of the device size or operating system. By using technologies such as JavaScript, JSON, HTML, CSS, Foundation framework, the website provides intuitive, responsive and impressively looking interface for the Octiv unit.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "krystian.dobkowski2@mail.dcu.ie",
+                "name": "Krystian Dobkowski"
+            }
+        ],
+        "supervisor": "Markus Helfert",
+        "technology": "CSS, HTML5, JavaScript 189",
+        "title": "Web Based Octiv User Interface"
+    },
+    {
+        "area": "Device Design",
+        "description": "This project is the development of a robust, low cost system for monitoring the quality of freshwater resources. Particular emphasis was placed on the fabrication of the microfluidics, by investigating the suitable materials and fabrication & bonding techniques. Incorporation of microfluidic device within the sensing platform to detect the concentration level of both pH and Phosphate in freshwater.",
+        "programme": "Mechanical and Manufacturing Engineering",
+        "students": [
+            {
+                "email": "rufai.smith23@mail.dcu.ie",
+                "name": "Rufai Smith"
+            }
+        ],
+        "supervisor": "Brian Corcoran",
+        "technology": "CAD, Micro-milling, Laser machining and chemicals 190",
+        "title": "Development of novel method of fluidic control for a sensing system for environmental water quality monitoring"
+    },
+    {
+        "area": "Android",
+        "description": "This project aims to address the problem of expensive and inaccessible oscilloscope devices by developing a cost-effective and functional oscilloscope using the Android platform. The solution that was developed is capable of visualising a variety of electrical signals and achieves this by combining an OpenGL ES Android application with hardware that presents voltage information to the audio input of the phone.",
+        "programme": "Digital Media Engineering",
+        "students": [
+            {
+                "email": "alex.tasker2@mail.dcu.ie",
+                "name": "Alex Tasker"
+            }
+        ],
+        "supervisor": "Robert Sadlier",
+        "technology": "OpenGL, Java 86 Faculty of Engineering and Computing Final Year Projects Expo 2016 191",
+        "title": "Development of an Android based digital oscilloscope"
+    },
+    {
+        "area": "Artificial Intelligence & Machine Learning",
+        "description": "All life started out small. Those who could adapt survived and passed on their genetics to the next generation. This project models simple life forms and tracks the emergent behaviours of an ecosystem of these organisms. The organisms start off behaving randomly, both in terms of their interactions with each other and their search for food. As the simulation progresses successful organisms reproduce, unsuccessful organism die off. Successful behaviours are passed on to successive generations.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "david.cordial2@mail.dcu.ie",
+                "name": "David Cordial"
+            }
+        ],
+        "supervisor": "Martin Crane",
+        "technology": "Java 192",
+        "title": "Artificial Life Simulator"
+    },
+    {
+        "area": "Lean Manufacturing",
+        "description": "The project investigates the implementation of an electronic database to record downtime in a manufacturing process at a major pharmaceutical site in Dublin. The successful implementation of a downtime tracker will replace the paper based system to improve the efficiency of the process. The use of lean and six sigma methodologies to reduce variances and increase throughput levels within the process will be demonstrated throughout.",
+        "programme": "Biomedical Engineering",
+        "students": [
+            {
+                "email": "jonathan.bealin2@mail.dcu.ie",
+                "name": "Jonathan Bealin"
+            }
+        ],
+        "supervisor": "John Geraghty",
+        "technology": "Excel/VB 193",
+        "title": "The design and implementation of an electronic database to record downtime in a manufacturing process"
+    },
+    {
+        "area": "Mechatronic Systems",
+        "description": "This project was a development of a prototype rehabilitation device that has been designed to give corrective rehabilitation to the upper limbs of a stroke victim. Using two magnetorheological clutches and a custom built transducer the device will be adaptable to various levels of disability in the upper limbs. Improvements were made with the sensors, wiring and instrumentation of the device while some debugging of the software was also required.",
+        "programme": "Mechatronic Engineering",
+        "students": [
+            {
+                "email": "edward.byrne55@mail.dcu.ie",
+                "name": "Edward Byrne"
+            }
+        ],
+        "supervisor": "Harold Esmonde",
+        "technology": "LabVIEW 87 Faculty of Engineering and Computing Final Year Projects Expo 2016 194",
+        "title": "Development of a Rehabilitation Device"
+    },
+    {
+        "area": "3-D Modelling",
+        "description": "The project is about looking at how perishability can affect the effectiveness and efficiency of modern production and inventory control strategies used for lean manufacturing. After carrying out the literature review a model on Extendsim was required. A Hybrid CONWIP/Kanban model and a CONWIP model were developed and compared, they were compared on the occurrence of bottlenecks and the service level provided to the customer. Perishability was brought into the project via the renaging feature in Extendsim.",
+        "programme": "Manufacturing Engineering with Business",
+        "students": [
+            {
+                "email": "Ian.curley2@mail.dcu.ie",
+                "name": "Ian Curley"
+            }
+        ],
+        "supervisor": "John Geraghty",
+        "technology": "ExtendSIM 195",
+        "title": "Production and Inventory Control Strategies for systems manufacturing perishable goods"
+    },
+    {
+        "area": "Web Application",
+        "description": "CodePair is a mobile Pair-Programming Web Application. It serves to provide co-workers / college assignment partners, that use the agile software development technique of Pair-Programming, who are unable to be in each others presence in the same location. Pair-Programming consists of two programmers, one Driver(who writes the code) and one Navigator(who critiques the code while being written), working together to develop code with a high design quality. to avoid bugs being found later in the SDLC.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "andrew.oneill65@mail.dcu.ie",
+                "name": "Andrew O’Neill"
+            }
+        ],
+        "supervisor": "Alexander OConnor",
+        "technology": "CSS, HTML5, JavaScript, Node.js, Socket.io 196",
+        "title": "CodePair"
+    },
+    {
+        "area": "Arduino, RaspberryPi",
+        "description": "This project intends to use a raspberry pi and a phone app, to simplify an interaction with a lecture room’s projector. The phone app would send, and control, a presentation to a raspberry pi, that would connected to the projector in a lecture hall. The central idea for this project is to make life easier for anyone using projectors, trying to avoid the need for laptops, cables, chargers or otherwise.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "martin.doherty33@mail.dcu.ie",
+                "name": "Martin Doherty"
+            }
+        ],
+        "supervisor": "Geoff Hamilton",
+        "technology": "Python 88 Faculty of Engineering and Computing Final Year Projects Expo 2016 197",
+        "title": "LecturePi"
+    },
+    {
+        "area": "Databases, Software Development, Web Application",
+        "description": "This project consists of a prototype website and planned app providing petrol and diesel prices from all stations around Dublin City and planned methods of scaling the software to other areas around Ireland. The software also consists of integrating the application of gamification to entice users in engaging with the product.",
+        "programme": "Enterprise Computing",
+        "students": [
+            {
+                "email": "patrick.bracken3@mail.dcu.ie",
+                "name": "Patrick Bracken"
+            }
+        ],
+        "supervisor": "Cathal Gurrin",
+        "technology": "HTML5, JavaScript, JQuery, PHP, SQL 198",
+        "title": "Petrol and Diesel Price Checker"
+    },
+    {
+        "area": "Experiment development",
+        "description": "The project involved investigating the possibility of using inexpensive everyday materials outside the Laboratory environment to carry out experiments, normally done with carefully selected and calibrated equipment, by researching existing experiments, developing new ones and assessing their performance and viability.",
+        "programme": "Manufacturing Engineering with Business",
+        "students": [
+            {
+                "email": "peter.opio3@mail.dcu.ie",
+                "name": "Peter Kenneth Opio"
+            }
+        ],
+        "supervisor": "Alan Kennedy",
+        "technology": "Lego 199",
+        "title": "The development of String and Sticky Tape Experiments for mechanical/applied mathematics students"
+    },
+    {
+        "area": "Wireless Technology",
+        "description": "The project investigates the accuracy of simple indoor propagation models commonly used in wireless system planning. A series of indoor path loss measurements were performed, using a scalar network analyser. These measurements were carried out in both line of sight and non line of sight environments. The measured path loss was then compared to that obtained using simple power law models, Motley Keenan model, etc.",
+        "programme": "Information and Communications Engineering",
+        "students": [
+            {
+                "email": "karl.somers2@mail.dcu.ie",
+                "name": "Karl Somers"
+            }
+        ],
+        "supervisor": "Pascal Landais",
+        "technology": "Matlab 89 Faculty of Engineering and Computing Final Year Projects Expo 2016 200",
+        "title": "Indoor path loss measurement and comparison to simple propagation models"
+    },
+    {
+        "area": "Web Application",
+        "description": "Unotes is a web application developed for the older generation of student with the aim of providing a more fluid, enjoyable and easier user experience for the student. It allows the user to access their course module materials and gives them the ability to view them in multiple ways in the form of Videos, Pdf’s, Slideshows and through Audio. Lecturers can upload their course materials which are synchronized to the application. It’s designed to be accessible on all devices.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "david.monahan5@mail.dcu.ie",
+                "name": "David Monahan"
+            }
+        ],
+        "supervisor": "Donal Fitzpatrick",
+        "technology": "CSS, HTML5, Java, JavaScript, JQuery, REST, SpringMVC, MongoDB, Bootstrap 201",
+        "title": "Unotes"
+    },
+    {
+        "area": "Information Retrieval, Web Application",
+        "description": "Search DCU is an enterprise search engine featuring a web crawler, open source search platform and a front-end user interface. The project will enable the exploration of features to maximise the effectiveness of search over the DCU domain. Scheduled web crawls parse and index content into Apache Solr. An index of these documents is then built in Solr. Each document contains various fields that can be queried. The user can then search for documents via a REST API.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "david.cawley5@mail.dcu.ie",
+                "name": "David Cawley"
+            }
+        ],
+        "supervisor": "Gareth Jones",
+        "technology": "AngularJS, CSS, HTML5, Java, JavaScript, REST 202",
+        "title": "Search DCU – An Enterprise Search Engine"
+    },
+    {
+        "area": "Image Video Processing, Motion Analysis",
+        "description": "The Webcam Navigator is a hand motion detecting software designed to read predefined hand movements. These hand movements will be interpreted as input commands and will cause compatible programs to react as if receiving normal use. The software’s aim is to streamline usage of laptops when they are out of reach e.g when connected to a big screen for video playback or for presentations and changing slides.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "james.hackett3@mail.dcu.ie",
+                "name": "James Hackett"
+            }
+        ],
+        "supervisor": "Cathal Gurrin",
+        "technology": "C/C++ 90 Faculty of Engineering and Computing Final Year Projects Expo 2016 203",
+        "title": "Webcam Navigator"
+    },
+    {
+        "area": "Distributed Systems, Natural Language Processing",
+        "description": "This project aims to enhance the user experience on the Twitter website by detecting and filtering abusive or inappropriate text. The project will investigate different statistical and natural language processing techniques to achieve this. The core components of the project are a browser extension, REST server, and distributed processing cluster.",
+        "programme": "Computer Applications",
+        "students": [
+            {
+                "email": "joshua.kelly87@mail.dcu.ie",
+                "name": "Joshua Kelly"
+            }
+        ],
+        "supervisor": "Stephen Blott",
+        "technology": "Java, JavaScript, REST, NoSQL 204",
+        "title": "Abusive Tweet Filter"
+    },
+    {
+        "area": "BeagleBone, Wireless Technology",
+        "description": "This projects investigates the use of embedded Linux devices in the deployment of wireless microphone technology. The project seeks to use the Beaglebone Black to facilitate the transmission of live audio, wirelessly via WiFi, for recording and play back on a local computer. The project seeks to offer users an alternative to the traditional radio microphone, while still offering mobility while recording.",
+        "programme": "Digital Media Engineering",
+        "students": [
+            {
+                "email": "ronan.maher8@mail.dcu.ie",
+                "name": "Ronan Jeremiah Maher"
+            }
+        ],
+        "supervisor": "Martin Collier",
+        "technology": "Eclipse, Java 205",
+        "title": "Wireless Microphones using Embedded Linux"
+    },
+    {
+        "area": "Wireless Technology, Mechatronic Systems, Image Video Processing, Computer Vision, BeagleBone",
+        "description": "This project develops a scalable embedded robotic swarm test platform that consists of multiple nodes under the watch of a master controller. The ZigBee protocol and XBee devices enable wireless communication between the devices over a mesh network. Embedded Linux, OpenCV image processing, C/C++, and XBee frame programming allow the master controller to monitor each individual robot’s location. The master controller constantly monitors the robotic swarm devices as they reposition themselves, and can command them to assemble into defined patterns.",
+        "programme": "Mechatronic Engineering",
+        "students": [
+            {
+                "email": "bryan.lavin3@mail.dcu.ie",
+                "name": "Bryan Lavin"
+            }
+        ],
+        "supervisor": "Derek Molloy",
+        "technology": "C/C++ 206",
+        "title": "A Scalable Wireless Mesh-Networking Platform for Self-Organising Robotic Swarms"
+    },
+    {
+        "area": "Image Processing, Machine Learning, Neural Networks",
+        "description": "This work explores the adaptation of visual memorability prediction for photos intentionally captured by handheld cameras, to images passively captured from an egocentric point of view by wearable cameras. It also seeks to find a correlation between this memorability score and physiological signals related to images.",
+        "programme": "Study Abroad (Engineering & Computing)",
+        "students": [
+            {
+                "email": "marc.carneherrera2@mail.dcu.ie",
+                "name": "Marc Carné Herrera"
+            }
+        ],
+        "supervisor": "Cathal Gurrin",
+        "technology": "MemNet 207",
+        "title": "Detect Snap Points in Egocentric Images with Physiological Signals"
+    },
+    {
+        "area": "Image Processing, Machine Learning, Neural Networks",
+        "description": "A saliency map is a model that predicts the visual attention in an image or scene. There are many different trained Convolutional Neural Networks (CNN) that can predict the saliency map of one image. In this project one of these was used, this CNN was trained for normal images that can be taken with a camera or can be downloaded on internet. The strong point is to prove the validation of this convnet with a different dataset, an egocentric one.",
+        "programme": "Study Abroad (Engineering & Computing)",
+        "students": [
+            {
+                "email": "monica.chertosarret2@mail.dcu.ie",
+                "name": "Mònica Chertó Sarret"
+            }
+        ],
+        "supervisor": "Cathal Gurrin",
+        "technology": "SalNet, Caffe Library, Tobii-eye tacker glasses, ffmpeg",
+        "title": "Egocentric Saliency Prediction with Convolutional Neural Networks"
+    }
+]
