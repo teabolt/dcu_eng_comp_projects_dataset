@@ -55,7 +55,8 @@ def split_supervisor_and_description(project, supervisor_descr_separator='\n'):
         return project
     supervisor_and_description = project['supervisor_and_description']
     if not supervisor_and_description:
-        anomaly_warning('SUPERVISOR AND DESCRIPTION SPLIT', '"supervisor_and_description" valie is empty', supervisor_and_description)
+        anomaly_warning('SUPERVISOR AND DESCRIPTION SPLIT', '"supervisor_and_description" value is empty', supervisor_and_description)
+        return projects
     idx = supervisor_and_description.find(supervisor_descr_separator)
     if idx == -1:
         anomaly_warning('SUPERVISOR AND DESCRIPTION SPLIT', supervisor_and_description, idx)
