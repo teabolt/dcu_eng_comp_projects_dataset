@@ -1795,13 +1795,13 @@ Primary Technology: Java
 Secondary Technology: XML
 Project Title: WOWit
 Name: Criostóir O'Codlatáin Lachtna
-Email: criostoir.ocodlatainlachtna2@
-mail.dcu.ie
+Email: criostoir.ocodlatainlachtna2@mail.dcu.ie
 Name: Pete Maguire
 Email: peter.maguire22@mail.dcu.ie
 Name: Desmond Brodie
+Email: 
 Programme: Enterprise Computing
-Supervisors: Cathal Gurrin & Alan Smeaton
+Supervisor: Cathal Gurrin & Alan Smeaton
 WOWit is a new mobile app that allows users to browse, socially discover and purchase admission to any
 event/night-club/gig they want, all in a few easy taps using their smartphone. WOWit allows promoters to sell
 tickets/admission to their events as well as promoting those events in the app using user-targeted
@@ -2315,9 +2315,9 @@ Project Title: GetToKnowMe
 Name: Danil Rusakov
 Email: danil.rusakov2@mail.dcu.ie
 Name: Alexandra Moldovan
-Email: alexandramonica.
-moldovan2@mail.dcu.ie
+Email: alexandramonica.moldovan2@mail.dcu.ie
 Name: Radoslav Kissiov
+Email: 
 Programme: Enterprise Computing
 Supervisor: Cathal Gurrin
 The idea of the project is to develop a simple Social Networking Application for Android-based mobile

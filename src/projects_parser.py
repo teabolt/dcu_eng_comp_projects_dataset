@@ -110,6 +110,37 @@ def canonicalize_projects(projects, **kwargs):
         canonical_projects.append(canon)
     return canonical_projects
 
+def combine_fields(project, new_field, field1, field2, deletes=None):
+    # TODO: Accept any number of fields
+    # Don't modify the original project
+    project_copy = {**project}
+    primary = project_copy[field1]
+    secondary = project_copy[field2]
+    if primary and secondary:
+        new = '{}, {}'.format(primary, secondary)
+    elif primary:
+        new = primary
+    elif secondary:
+        new = secondary
+    else:
+        new = None
+
+    if deletes:
+        for field_for_delete in deletes:
+            del project_copy[field_for_delete]
+    else:
+        del project_copy[field1]
+        del project_copy[field2]
+
+    return {**project_copy, new_field: new}
+
+def rename_field(project, new_field, old_field):
+    project_copy = {**project}
+    value = project_copy[old_field]
+    project_copy[new_field] = value
+    del project_copy[old_field]
+    return project_copy
+
 def apply_transformation(projects, fn, *args, **kwargs):
     """
     Utility function to apply the function fn to every project in projects.
