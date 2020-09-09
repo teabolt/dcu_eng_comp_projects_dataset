@@ -1,0 +1,1412 @@
+[
+    {
+        "description": "In the field of engineering, there is a constant need for higher standards of quality. In measurement, accuracy and precision must continuously improve to provide these higher standards for various applications. This project aimed to manufacture line scales with micro-meter accuracy, using a laser. Line scales are blocks of material, usually glass, which are marked with lines at set intervals. Line scales are primarily used for the calibration of optical devices. Calibrated optical devices are used for quality control; in industries such as biomedical devices, ICT chips and foodstuffs. A laser system, which was originally built for the manufacture of microfluidics, was used to manufacture the line scales. The laser is an Nd:YAG 1064nm laser with a maximum output power of 3.2 Watt. The materials tested in the experiments were Polycarbonate (PC), Polymethyl Methacrylate (PMMA) and Glass slides (Soda-Lime). A full characterisation and analysis of the laser was carried out prior to manufacture. This allowed for a full understanding of the capabilities of the system as well as indicating parameters for processing. The optical alignment of the setup, with periscope and galvanometer, was investigated and optimised for minimum spot size and correct system alignment. The smallest possible spot size allowed for the highest processing accuracy and minimal Heat Affected Zone (HAZ). A selection of materials was used in the experiments to analyse which material best suits the capability, of the 1064nm wavelength and power output, of the Nd:YAG laser system. Dimensions were measured in NSAI to assess, the accuracy and precision of, the laser system for line scale production feasibility.",
+        "primary_area": "Quality Standards",
+        "primary_os": "",
+        "primary_tech": "Nd:YAG 3.2W Laser",
+        "programme": "Mechatronic Engineering",
+        "secondary_area": "Statistial Analysis",
+        "secondary_tech": "NSAI Metrology Primary OS:",
+        "students": [
+            {
+                "email": "eoghan.mcmanus5@mail.dcu.ie",
+                "name": "Eoghan McManus"
+            }
+        ],
+        "supervisor": "Dr. Dermot Brabazon",
+        "title": "Manufacture and Calibration of Line Scales for Quality Control"
+    },
+    {
+        "description": "This project is designed to give the users 3D represented system where they can learn to create A.I programs to progress through the world for the highest score. The system itself is made into the likeness of a video game with the visual output in first person. This project is aimed to give users a more interesting and fun way of learning to make A.I programs. The program & 3D engine is built into the World Wide Mind server (http://w2mind.computing.dcu.ie) where users can create their own A.I programs or ‘minds’ and plug them into the project system or ‘world’. To use the system users can download a basic mind for the world and following a simple tutorial can begin creating the mind to take actions in the world. Once the minds complete they can run it offline to check how it performs by downloading the world and running it with a mind program. It’ll output the score it obtains and images of each action that their mind took. It also compiles a video of the minds run though the game.If they’re happy with their mind they can then put it online where it can be run and its score marked on a scoreboard amongst other minds on the server.",
+        "primary_area": "Artificial Intelligence",
+        "primary_os": "Windows",
+        "primary_tech": "Java",
+        "programme": "Software Engineering",
+        "secondary_area": "Graphics",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "st.oisinkelly2@mail.dcu.ie",
+                "name": "Oisin St John Kelly"
+            }
+        ],
+        "supervisor": "Dr. Mark Humphrys",
+        "title": "3D Shooter A.I. World"
+    },
+    {
+        "description": "Home energy monitoring and subsequent reduction in energy usage has become an important area for research here in Ireland. In the 12-month period starting October 2010 the price of electricity rose by 17% according to a study by Sustainable Energy Authority of Ireland. Clarity have been using sensing platforms in over 20 homes to collect data on their energy usage. The aim of this project was to provide a method to control the energy usage in the home using the smart actuation of electrical devices, thus closing the loop between the measuring and the control. Home automation is one of the buzzwords of the technology sector at the moment. There are many demonstrations of the advantages of this technology to be seen from a simple Google search. By using the wifi network already established in the home much of the extra infrastructure can be eliminated. The project uses a wifi connected Arduino with a switching circuit to control the power, combined with a Dreamplug computer to perform the decision on when to actuate. By using these low cost, low power devices the project aims to ensure that actuation element required in smart energy control can be cheap, and thus become profitable to the user in the long run. By smartly switching electrical devices so as to reduce waste and residual power the system can reduce the energy bill for the end user. My contribution to the project was to design and build the hardware required to actuate mains voltage power, and interface it with a prototype wifi connected Arduino. The signal for the control of the device is provided over the wifi network from the Dreamplug computer. The project was then extended to provide an example of the smart actuation that can be done with the system. The system can sense your arrival at home by means of your smartphone and actuate some predetermined action, such as turning on lights. Potentially this system can then be expanded to provide much more complex decision- making or to design artificial intelligence systems that could provide the whole home automation experience, while also reducing your carbon footprint.",
+        "primary_area": "Home Automation",
+        "primary_os": "Unix/Linux",
+        "primary_tech": "Arduino",
+        "programme": "Electronic Engineering",
+        "secondary_area": "Energy Consumption Reduction",
+        "secondary_tech": "Java, Pspice, Python",
+        "students": [
+            {
+                "email": "eoin.muldowney2@mail.dcu.ie",
+                "name": "Eoin Muldowney"
+            }
+        ],
+        "supervisor": "Prof. Noel O’Connor",
+        "title": "Wifi Enabled Energy Monitoring and Control in the Home"
+    },
+    {
+        "description": "As the catastrophic affects that our current lifestyles have on the earth becomes more obvious we move away from traditional energy sources such as fossil fuels and nuclear power and look to cleaner, renewable energy. Over the last few decades the popularity of wind energy as a renewable energy source has grown in leaps and bounds and it shows no signs of decline. Wind energy is, however, still viewed for the most part as an energy saver rather than the sole source. As the popularity of wind energy has escalated so too has the capital placed in researching new and innovative methods in harnessing this inexhaustible power source. This has led to a number of discoveries and developments which have helped to simplify the methods in developing wind turbines. These discoveries have allowed individuals such as Hugh Piggott to design their own wind turbines using simplified development techniques. The development of smaller, simpler turbines (such as Hugh Piggott’s) while not immediately useful for the large scale power as required in Europe and the United States has found its own audience. It has been found that electrical generation through the use of smaller wind turbines in rural areas has been met with great success. Today there are a number of projects where self-build wind turbines have been employed in bringing electrical independence to rural communities. This project has reviewed the electrical potential of one such wind turbine. A computational simulation of one of Hugh Piggott’s wind turbine designs was reviewed for a number of different cases. This allowed for comparisons to be made with respect to the overall performance of the design with more advanced large scale turbines. The results were also compared with experimental results obtained from physical testing carried out on a smaller example of Hugh Piggott’s design [24]. This investigation reviews the various challenges which were faced in the development of the simulation and the solutions which were obtained. The report also describes the stringent control settings which are required in simulating a rotating model and delves into the limitations of the software used as a result of these controls.",
+        "primary_area": "3-D Modelling",
+        "primary_os": "",
+        "primary_tech": "",
+        "programme": "Mechanical and Manufacturing Engineering",
+        "secondary_area": "",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "aidan.wessels2@mail.dcu.ie",
+                "name": "Aidan Wessels"
+            }
+        ],
+        "supervisor": "Dr. Yan Delaure",
+        "title": "Design of low cost, self-build wind turbine prototype"
+    },
+    {
+        "description": "With an increasing number of wind turbine installations, the accurate computation of their interference to modern wireless communication systems is more important than ever. This project develops software to estimate the interference impact the presence of wind turbines have on analogue television reception. The software solution facilitates the identification and quantification of radio frequency (RF), interference in a given area. Standard electromagnetic wave propagation models are used in conjunction with a turbine scattering model to compute the signal power occurring in the vicinity of the installation. A comparison of the signal strength from the transmitter with the scattered signal strength from the turbine provides the RF interference information. This data is colour coded and overlaid onto the original terrain map for easy user interpretation. The regions of the map with high interference levels and thus poor television reception can be identified. The availability of such software has a use in commercial instances of both residential and wind farm planning. It is a simple, accurate tool to aid a practical planning challenge.",
+        "primary_area": "Radio Frequency Interference",
+        "primary_os": "Windows",
+        "primary_tech": "Matlab",
+        "programme": "Electronic Engineering",
+        "secondary_area": "Electromagnetic Wave Propagation",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "briandavid.mckiernan2@mail.dcu.ie",
+                "name": "Brian McKiernan"
+            }
+        ],
+        "supervisor": "Dr. Conor Brennan",
+        "title": "Wind Farm Radio Frequency Wave Interference Simulator"
+    },
+    {
+        "description": "The aim of this project was to develop a program that can automatically detect what notes are being played on an electric guitar in real-time. The program was developed in MATLAB and can be used as a visual aid in guitar tuition or as a MIDI interface for studio recording and in live performance. The program runs on a standard 32-bit Windows operating system and uses the built- in microphone of its host computer to detect a real-time music signal coming from an electric guitar. It reads this signal and stores it as a WAVE file (.wav). It then uses a pitch detection algorithm to process this signal and calculate its fundamental frequency or ‘pitch’. Following this the program consults a lookup table to determine what music note corresponds to the frequency value it has calculated and outputs the name of the music note to the MATLAB command line. The project allowed me to become proficient in the use of MATLAB and in the use of its signal processing toolbox. It allowed me develop skills in technical research and project management, software development, data analysis and algorithm coding. It also allowed me to apply my theoretical knowledge of mathematics and signal processing to solve real world problems.",
+        "primary_area": "Software Development",
+        "primary_os": "Windows",
+        "primary_tech": "Matlab",
+        "programme": "Electronic Engineering",
+        "secondary_area": "Digital Signal Processing",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "anthony.blake4@mail.dcu.ie",
+                "name": "Tony Blake"
+            }
+        ],
+        "supervisor": "Dr. Ronan Scaife",
+        "title": "Automatic Real-Time Transcription of Electric Guitar Music"
+    },
+    {
+        "description": "ThisIsDublinCity is a project that grew from an idea that the CLARITY group had with regards to mapping travels times. This project uses data that has been collected from environmental sensors and virtual world sensors to identify and visualize a pattern in a set of different datasets across a set period of time. With data visualization, we can explore relationships between datasets and also determine the sentiment around events that took place in the city and outskirts. For this project, Twitter data was gathered from the 6 Nations Ireland v Scotland Rugby game on the 10th March 2012 and St. Patricks Weekend, 16th March-18th March in the city centre and this data was correlated with Traffic and Noise Data from Dublin City Council. The interactive map will assist the end user in decisions they may have on choosing an area of the city to live in or visit whilst gaining an insight to crowd sentiment on events that take place in and around the city centre.",
+        "primary_area": "Data Mining & Sentiment Analysis",
+        "primary_os": "Unix/Linux",
+        "primary_tech": "Google Maps Javascript API v3 & Twitter Streaming API",
+        "programme": "Enterprise Computing",
+        "secondary_area": "Web Application",
+        "secondary_tech": "MySQL, PHP",
+        "students": [
+            {
+                "email": "julieanne.fleming22@mail.dcu.ie",
+                "name": "Julieanne Fleming"
+            },
+            {
+                "email": "matthew.quinlan2@mail.dcu.ie",
+                "name": "Matthew Quinlan"
+            }
+        ],
+        "supervisor": "Prof. Alan Smeaton",
+        "title": "ThisIsDublinCity: Data Visualisation"
+    },
+    {
+        "description": "Know Your Fitness is an application for Google’s Android Operating System. The application makes use of the GPS on the Google Android handset to record the distance, route and to calculate the speed the user is travelling at. This is all used in conjunction with a timer to allow the user to keep track of their fitness regime. After starting the application the user chooses their desired exercise type and the app will begin to record data. When the exercise is on-going the application will show the user their current speed, distance and estimated calories burnt. When the user is done they press stop. The user can check statistics on their past exercises and compare exercises from the application. The user can also export exercise data to a file that can be used on Google Earth. Smart phones are growing in popularity, more and more people are carrying smart phones and with 850,000 new Android devices being activated everyday this seemed like the logical platform to develop my application for. Most if not all new Android handsets that are on sale today have GPS built in. I bared this in mind when deciding on an application to make that would have the biggest potential market. Everybody understands the need to keep fit and when exercising outdoors it is hard to keep a precise record of the exercises you’ve done. That’s why I hope that this application will be useful and also attractive to people that use it. The mindset I had for this application when designing and building it was that it had to be a useful tool that I would use myself.",
+        "primary_area": "Mobile App",
+        "primary_os": "Android",
+        "primary_tech": "Java",
+        "programme": "Software Engineering",
+        "secondary_area": "Fitness",
+        "secondary_tech": "XML",
+        "students": [
+            {
+                "email": "downest3@mail.dcu.ie",
+                "name": "Thomas Downes"
+            }
+        ],
+        "supervisor": "Dr. Darragh O’Brien",
+        "title": "KnowYourFitness – Android App"
+    },
+    {
+        "description": "The title of my Fourth Year Project is ‘Go Music Streaming’. It will be a music streaming site built with Google’s Go programming language. Users will be able to search for, queue, listen to and upload audio files within a web browser. The idea came about from a suggestion that a web application in Go would be a good project idea and a strong personal passion for music. The project will be a site that is essentially a music player and library in the web browser. Audio files can be searched for, played back, paused and stopped. They may also be queued, so they play one after another. Users can also change the order of files in the queue. This project will provide a convenient and portable service to those who enjoy listening to music. This will allow users to upload, listen to and share music with others without having to bring it with them. As long as they have access to a web browser, users will never be without music. The end product will be similar to http://www.grooveshark.com.",
+        "primary_area": "Web Application",
+        "primary_os": "Unix/Linux",
+        "primary_tech": "Go",
+        "programme": "Software Engineering",
+        "secondary_area": "Multimedia",
+        "secondary_tech": "JavaScript",
+        "students": [],
+        "supervisor": "Mr. Brian Stone",
+        "title": "Go Music Streaming"
+    },
+    {
+        "description": "The ‘Saorview Set-top box and media streamer’ is a device which is designed to receive, decode and stream live Saorview television broadcast signals to, primarily, computer systems. Communication between the set-top box and the end user may be done through wired or wireless networks allowing users to record and play live TV for use within a local area network. The backend (receiving) component consists of a DVB-T signal tuner and a BeagleBoard Xm. The tuner is connected to a UHF antenna and converts broadcast signals into a computer readable format (MPEG-2). With this information the BeagleBoard then relays this content to multiple frontend systems. These frontend systems may be anything which can process video at reasonable rates. Such systems may be laptops, tablets, televisions or smartphones which act as a user interface and can play the desired media. With the Saorview television set to come into full service in May 2012, and Irish analogue television broadcasting set to cease in October, the development of systems such as this will become increasingly relevant to the general public’s interests in the coming months.",
+        "primary_area": "Multimedia",
+        "primary_os": "Unix/Linux",
+        "primary_tech": "C/C++ Secondary Area:",
+        "programme": "Electronic Engineering",
+        "secondary_area": "",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "conor.forde6@mail.dcu.ie",
+                "name": "Conor Forde"
+            }
+        ],
+        "supervisor": "Dr. Martin Collier",
+        "title": "Saorview Set-top Box/Media Steamer"
+    },
+    {
+        "description": "To develop and improve manufacturing systems it is essential that comprehensive accurate documentation regarding the operation and performance of the system is available. In the Hydraulics and Pneumatics Lab in the DCU Engineering building there is a Flexible Manufacturing System. This Flexible Manufacturing System allows the user to practice and develop the skills needed by today’s automated industry. This Flexible Manufacturing System is controlled by using seven programmable logic controllers (PLC’s). The aims of this project were to analyse and create documentation concerning the operation of the Flexible Manufacturing System which was then followed by designing and implementing a system to capture information from the PLC’s automatically. The execution of the system was then recorded and analysed. This data and analysis was then used to drive models which improved the performance of the system.",
+        "primary_area": "Automation",
+        "primary_os": "Windows",
+        "primary_tech": "Ladder Logic Secondary Area:",
+        "programme": "Mechatronic Engineering",
+        "secondary_area": "",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "kevin.doyle2@mail.dcu.ie",
+                "name": "Kevin Doyle"
+            }
+        ],
+        "supervisor": "Dr. Paul Young",
+        "title": "Development of an Automated Data Collection System for a FMS"
+    },
+    {
+        "description": "LSP provides an api that allows for hardware and system information to be queried and confirmed remotely. It also provides a user friendly way of determining the network setup and health status of a machine while reporting some basic security info relating to important files/processes and ports. Primarily written in python the api is based on a RESTful design and can be easily adapted with additional functions if needed for more complex setups or to integrate with an existing application that would benefit from LSP’s features. The project was written to provide a way for novice users to get an overview for a system while also being usable for any administrators needing to quickly get hardware/software details on 1 or many machines. The code is being released under the GPLv2 license and although design for Debian based systems should be compatible with most modern linux distributions with minor alterations to the source code.",
+        "primary_area": "Network Applications",
+        "primary_os": "Unix/Linux",
+        "primary_tech": "Python",
+        "programme": "Software Engineering",
+        "secondary_area": "Web Application",
+        "secondary_tech": "JavaScript",
+        "students": [],
+        "supervisor": "Mr. Charlie Daly",
+        "title": "Linux System Profiler"
+    },
+    {
+        "description": "For our Final year project we decided to use sensor technology such as go-pros (helmet mounted camera) and mobile phone software to gather data such as GPS, Bluetooth and Photographs. The project deals with taking all of this data that is gathered by the sensors and defining an interface for how the images and information will be displayed back for the user’s to view and interact with. We achieved a complete specification for an application that allows users to upload their data and have it displayed back to them in different forms. We focused on a very specific target market for our project as we thought that if we started with a small target market we could be more focused with the end product. The target market that we focused on is a mountain rescue group and people that would be very involved in mountain climbing and technology to give them a greater experience. Our main idea is to create a complete specification of a site that would collect sensor data from different sources e.g. GPS and Bluetooth data and use this data to enable mountain rescue teams to be able to understand the routes that people take and enable them to be able to allocate their resources to better serve their community. Our project uses data segmentation techniques developed by the Clarity group within DCU to break up each individual data type and then combining data types into specific events. For mountain climbers we see our site as being able to enhance their experience of climbing by being able to track their whereabouts and collect data about their climbing that can be used by them later.",
+        "primary_area": "Sensor Technology",
+        "primary_os": "Multi-platform",
+        "primary_tech": "None Secondary Area:",
+        "programme": "Enterprise Computing",
+        "secondary_area": "",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "jennifer.hoey23@mail.dcu.ie",
+                "name": "Jennifer Hoey"
+            },
+            {
+                "email": "sile.mcsweeney3@mail.dcu.ie",
+                "name": "Sile McSweeny"
+            }
+        ],
+        "supervisor": "Dr. Cathal Gurrin",
+        "title": "Adventure Trail"
+    },
+    {
+        "description": "Automated lip reading systems have applications in a number areas including Audio- Visual Speech Recognition, Sign Language Recognition Systems and communication systems for people with hearing difficulties. This project aims to identify certain phonemes (basic elements of speech) using only visual information. The process involves first identifying the lip region and then processing the information contained in the area. A colour transform is used to exploit the difference between lip and skin pixels and thus identify the lip region. Principal Component Analysis is to generate a feature space for a given training set. Speech sequences are mapped into this feature space and classification is carried out.",
+        "primary_area": "Image/Video Processing",
+        "primary_os": "Windows",
+        "primary_tech": "Matlab",
+        "programme": "Electronic Engineering",
+        "secondary_area": "Digital Signal Processing",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "luke.gahan2@mail.dcu.ie",
+                "name": "Luke Gahan"
+            }
+        ],
+        "supervisor": "Prof. Paul Whelan",
+        "title": "Automated Lip Segmentation for Computer Control"
+    },
+    {
+        "description": "This project builds upon open source technologies combined with the Microsoft Kinect hardware controller to create a low-cost 3 dimensional scanning tool. The project was developed on OS X Lion using XCode 4.2 and is built using the libfreenect drivers. It uses the ofXKinect project as a template and imports the PCL (Point Cloud Library) for triangulation, data analysis and file output. The application outputs a PLY (Polygon File Format) file depicting a 3D Scanned Scene.",
+        "primary_area": "3-D Modelling",
+        "primary_os": "Mac_OSX",
+        "primary_tech": "C/C++",
+        "programme": "Digital Media Engineering",
+        "secondary_area": "Sensor Technology",
+        "secondary_tech": "XCode",
+        "students": [
+            {
+                "email": "christopher.henry2@mail.dcu.ie",
+                "name": "Chris Henry"
+            }
+        ],
+        "supervisor": "Prof. Noel O’Connor",
+        "title": "3D Scene and Human Modelling Using The MS Kinect"
+    },
+    {
+        "description": "The product allows a user to keep track of their health information (blood sugar level, insulin intake, insulin type, diabetes type) via an easy to use web and windows phone 7 application. The web application contains the user’s blood sugar level and insulin intake level. It also records the nutritional value of the food the user eats. With each input option the user can also include a note to describe it. A user is able to view their health information in a number of different formats. The web application allows for two types of users, standard and a medical professional user. A medical professional user will be a doctor, nurse or a dietician. The medical professional user will be able to view other users’ health information. To get access to another user’s health information the other user will be required to give permission to the medical professional user. This medical professional user will be provided with extra capabilities when viewing health information belonging to other users’ (their patients) e.g. by individual users, in small groups (e.g. males, age 18-24) or all together in the same formats as a regular user. Both medical professional and regular users will have the ability to send private messages to one another. The windows phone 7 application is linked with a user’s online account and it also works offline. It takes in all the same health information as the web application and can display the users’ health information. The health information will be stored on the phone and the user will have the option to upload the health information on their phone to the web applications database whenever possible. This keeps the user’s health information up to date on the web applications database.",
+        "primary_area": "Web Application",
+        "primary_os": "Windows",
+        "primary_tech": "C#",
+        "programme": "Software Engineering",
+        "secondary_area": "Mobile App",
+        "secondary_tech": "Silverlight",
+        "students": [
+            {
+                "email": "kevin.ohagan2@mail.dcu.ie",
+                "name": "Kevin O’Hagan"
+            }
+        ],
+        "supervisor": "Dr. Monica Ward",
+        "title": "Blood glucose and insulin intake log"
+    },
+    {
+        "description": "This project has been designed to make criminal history data remotely available to probation officers through the use of portable devices, in the field and in courts around Ireland (where it is not readily available). The data is made available through a cloud computing environment. A unique identifier (pulse number) has been introduced in order to link data from the courts database, the criminal database and the Probation Service database. The medium proposed to make the mobile solution possible are iPads (3G capability) in both the field and the courts. The issue of data security will be addressed by providing point-to- point data separation (CESG approved) between the cloud and the devices and will provide access through a remote access gateway solution and point to point encryption hardware. A key focus for this project was increasing the efficiency of the probation service and its relations with the courts of Ireland. The project eradicates delayed justice by facilitating same day prosecution. A probation officer has access to the database in courts around Ireland (via their iPad, with remote access), allowing them to compile same day reports about offenders which are printed and examined by the judge. Finally the solution eradicates paper records from the field which could lead to serious legal implications for the Probation Service if lost.",
+        "primary_area": "Security",
+        "primary_os": "Mac_iOS",
+        "primary_tech": "Objective-C",
+        "programme": "Enterprise Computing",
+        "secondary_area": "Mobile App",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "gavinanthony.farrell27@mail.dcu.ie",
+                "name": "Gavin Farrell"
+            },
+            {
+                "email": "callum.donnellan23@mail.dcu.ie",
+                "name": "Callum Donnellan"
+            }
+        ],
+        "supervisor": "Dr. Rory O’Connor",
+        "title": "Secure and remote access for Probation Service through portable devices"
+    },
+    {
+        "description": "This project is a proof of concept carried out within the CLARITY centre, that shows that a UAV can be automated to perform a multitude of tasks with little or no input from a user. A UAV is an Unmanned Aerial Vehicle, this project demonstrates the advantages and disadvantages of using a UAV to perform automated tasks. As a proof of concept it also provides an idea of what hardware improvements can be used to improve the UAV sensing abilities. The project’s base idea is to allow the UAV to identify and react to objects appropriately. The project utilises multiple search patterns to locate specified objects. The UAV also has the ability to track objects and relay information of its location to a server it is connected to. The ability to track and find objects means the UAV can have several different uses in CLARITY including are player tracking in sport, search and rescue support for disaster, aerial analysis and mapping of an area and birds eye view recording for sports or activities.",
+        "primary_area": "Sensor Technology",
+        "primary_os": "Unix/Linux",
+        "primary_tech": "Urbi",
+        "programme": "Software Engineering",
+        "secondary_area": "Image/Video Processing",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "Mike.Clarke25@mail.dcu.ie",
+                "name": "Mike Clarke"
+            }
+        ],
+        "supervisor": "Prof. Alan Smeaton",
+        "title": "Video Analysis with a UAV Drone"
+    },
+    {
+        "description": "The aim of this project was to analyse the effects of fibre orientation and laminate sequence on the response of a carbon/epoxy lower-limb prosthetic to functional loads. The results for stresses in the longitudinal and transverse directions within the prosthetic during the gait cycle have been analysed for a number of different models. The testing method was to take two stages from the gait cycle and use them in a static analysis as point forces. Reaction forces at the Heel Strike and Toe Off stages were taken from a normal gait analysis study and implemented in a finite element analysis in ANSYS. The best designs had outer plies of 90’and the worst designs had orientations of ‘45’ within the stacking sequence. For Heel Strike, the optimal model has a maximum stress of 13.6 MPa in the transverse direction and 12.9MPa in the longitudinal direction compared to 27.1MPa and 12MPa for the isotropic model. For Toe Off, the optimal model has a maximum stress of 14 MPa in the transverse direction and 11.2MPa in the longitudinal direction compared to 30.5MPa and 12.2MPa for the isotropic model. From this data it can be concluded that the optimal model is sufficient.",
+        "primary_area": "Prosthetics",
+        "primary_os": "Windows",
+        "primary_tech": "ANSYS Secondary Area:",
+        "programme": "Biomedical Engineering",
+        "secondary_area": "",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "lucy.corrigan2@mail.dcu.ie",
+                "name": "Lucy Corrigan"
+            }
+        ],
+        "supervisor": "Dr. Garrett McGuinness",
+        "title": "Design of a Composite Leaf Spring Prostheses using Finite Element Analysis"
+    },
+    {
+        "description": "Sharing Experiences aims to change the way people share content online. It offers a completely new way for individuals to upload, share, display, and view their photographs and videos online. Using NFC (Near Field Communication) technology, people are able to upload photographs and videos from their smartphone or any other NFC-enabled device by simply tapping it against a specially created ‘Share Station’. NFC allows for the communication and transfer of information between devices at very close range. The close proximity required between the devices ensures that the connection is secure from interception. For people who do not have NFC-enabled devices other options are available for uploading and sharing content, such as browser upload, Bluetooth, and mobile upload via WiFi. Wherever a ‘Share Station’ is installed people are able to upload and share content. These ‘Share Stations’ offer a number of options, including a ‘Print’ option, and ‘Display’ option for sharing content on high definition monitors integrated into the ‘Share Station’. This web-based system enables people with similar interests or people who have attended the same events to share and view each other’s content. Content uploaded from specific locations or events can also be viewed as a timeline, allowing people to re-live the experience from beginning to end. Users are able to ‘follow’ the activity of other users and the system makes recommendations of content to view based on a user’s own uploads and their interactions with the system. The aim is to have ‘Share Stations’ installed at locations such as sporting venues, concert venues, music festivals, and major tourist attractions and landmarks. Integration with social media websites, e.g. Facebook, and YouTube, also enables users to share their content with a wider audience. With Sharing Experiences you can re-live the past, explore the present, and create the future.",
+        "primary_area": "Web Application",
+        "primary_os": "Multi-platform",
+        "primary_tech": "PHP",
+        "programme": "Enterprise Computing",
+        "secondary_area": "User-Generated Content Sharing",
+        "secondary_tech": "NFC Technology",
+        "students": [
+            {
+                "email": "kevin.hanton2@mail.dcu.ie",
+                "name": "Kevin Hanton"
+            },
+            {
+                "email": "michael.hanton2@mail.dcu.ie",
+                "name": "Michael Hanton"
+            }
+        ],
+        "supervisor": "Dr. Cathal Gurrin",
+        "title": "Sharing Experiences"
+    },
+    {
+        "description": "The project that we created and developed as a team involves the development of a portable TV guide application which includes many useful features that enhances the users experience with their TV. After researching in the area of T.V. guide applications, it became clear that there is a gap in the market for our product The Telly Port. This application is one that users could log in regularly to organise and view their own personal TV preferences. Users can view the T.V. guide of many of the major satellite providers. They have a variety of options available to them. These include: Reminders feature: This provides the ability to set program reminders from a weekly T.V. guide stored within the App. Recommendations feature: provides users with recommendations of programmes to watch based on the programmes that they have indicated that they like. Record feature: provides the ability to record programmes remotely via an Internet connection or SMS. Favourites feature: enables users to set their favourite channels. Users are presented with a list in ascending order of all of their chosen favourite channels and what is on at the time of them viewing this list, on each of these channels. Forum Feature: gives users the ability to access an online forum via an Internet connection. Here users can share and discuss their opinions on the T.V. programmes that they watch with other users. Timeline feature: this feature enables users to select the times that they are available to watch T.V. This provides the users with the T.V. guide listings applicable to their chosen time-frame only, i.e. only shows what can be viewed within the selected time-frame. This can also be used to see which if any of their favourite programmes are on during this time and on what channel.",
+        "primary_area": "Information Retrieval",
+        "primary_os": "Multi-platform",
+        "primary_tech": "None",
+        "programme": "Enterprise Computing",
+        "secondary_area": "Mobile App",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "shane.harper2@mail.dcu.ie",
+                "name": "Shane Harper"
+            }
+        ],
+        "supervisor": "Prof. Alan Smeaton",
+        "title": "The Telly Port"
+    },
+    {
+        "description": "This Project developed a HTML5 interface to a personal digital collection of images captured on a SenseCam. The system consists of a web interface which provides a user login. Each user has their own account and once logged in they can view and search their collection, in this case the collection of images. They can search by date, location or event. While looking at a location or event there will be an option to view data from nearby locations or similar events. There is the possibility to add in further search parameters such as people, activities and if there is a larger collection of images, month and year summary views. The images are all stored in a database with the associated metadata which allows them to be searched using MySQL and PHP. The system was developed using HML5, CSS, MySQL, PHP, JavaScript and jQuery. The HTML5, CSS, JavaScript and jQuery were used for the front end. PHP was used to connect to the database and construct the queries from user inputs and for outputting the results. MySQL was used for the actual search queries and for managing the database. All of this was set up on an apache web server. This web interface is intended to be part of an overall architecture which would include data capture and automatic data processing.",
+        "primary_area": "Web Application",
+        "primary_os": "Windows",
+        "primary_tech": "HTML5",
+        "programme": "Enterprise Computing",
+        "secondary_area": "",
+        "secondary_tech": "PHP Secondary Area:",
+        "students": [
+            {
+                "email": "luke.curran4@mail.dcu.ie",
+                "name": "Luke Curran"
+            }
+        ],
+        "supervisor": "Dr. Cathal Gurrin",
+        "title": "Novel Interfaces to Digital Memories"
+    },
+    {
+        "description": "This project is a proof of concept. It’s goal is to show how robotics can effectively replace humans in certain dangerous or delicate roles in the world. The robots goal is to navigate objects in real time and react to colour as a simulation of dangerous or advantageous situations. This project is to be autonomous but can also be controlled manually by a keyboard. The technology used in this project will be the Lego Mindstorm and is programmed in a version of objective C called URBI, specifically designed for robotics.",
+        "primary_area": "Wireless Technology",
+        "primary_os": "Multi-platform",
+        "primary_tech": "URBI",
+        "programme": "Software Engineering",
+        "secondary_area": "Sensor Technology",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "damodarko@gmail.com",
+                "name": "Damien Rhatigan"
+            }
+        ],
+        "supervisor": "Dr. Alistair Sutherland",
+        "title": "Autonomous Robot Control"
+    },
+    {
+        "description": "The tilting pad is a thrust bearing originally invented by Dr. Albert Kingsbury in 1912. This invention has since led to much advancement in the world of engineering. As important as journal bearings are in engineering, thrust bearings and more so the hydrodynamic thrust bearing have become equally important. They are being used in many different applications including turbines, electric motors and hydroelectric generators. The focus of this report is to redesign and commission a thrust pad characterisation rig which will display the capability of a hydrodynamic thrust bearing to support axial load and allow relative motion between two surfaces. The purpose of this rig is primarily to demonstrate to visitors of the School of Mechanical and Manufacturing Engineering at Dublin City University some of the work that is done in the school. On a secondary note, the project allows the author to gain greater insight into the theory of the thrust bearing and the influence this has on its design. The author will also test the rig to observe the behaviour of the thrust bearing while varying different factors such as the convergence ratio and the viscosity of the lubricant used in the bearing. The tests will show that the greater the area allocated to each thrust pad, the greater load carrying capability of the bearing. Using a lubricant with high viscosity also benefits the bearing as it allows the bearing to work under high velocities.",
+        "primary_area": "Mechanical Engineering",
+        "primary_os": "n/a",
+        "primary_tech": "n/a",
+        "programme": "Mechanical and Manufacturing Engineering",
+        "secondary_area": "Tribology",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "oyatero2@mail.dcu.ie",
+                "name": "Kunle Oyateru"
+            }
+        ],
+        "supervisor": "Dr. Joseph Stokes",
+        "title": "Design and Commission of a Thrust Pad Characterisation Rig"
+    },
+    {
+        "description": "The idea for this project came from a comment made by a member of Redbrick, DCU’s Networking Society, about never knowing whether or not he had a variety of both physical and digital media and constantly purchasing duplicates. The primary function of this framework is to eradicate this problem and to provide an easy way for a user to organise music and other various types of media. The framework is implemented in Python using MusicBrainz ‘ an open encyclopaedia of music, MongoDB ‘ A NoSQL Database and wxPython ‘ the C++ library; WxWidgets implemented for use with Python. The framework is primarily a desktop based application. The main aim of this framework is to provide a means of managing media. A sample plug-in implemented for this framework allows a user to manage their CD collection. It allows a user to quickly make a database of their CDs on their computer. This in turn will allow the user to easily browse their media library and extend it further. The information retrieval for a CD requires internet to function correctly. As this system is a framework, it is easily extendable by users to work with more than just CDs. The API provides full details on how the framework is expecting to handle the various data to be returned to the framework from a plug-in. Combined with the open-source licensing, future development of the project will be painless, allowing users to easily create python plug-ins to personalise their experience.",
+        "primary_area": "Software Development",
+        "primary_os": "Unix/Linux",
+        "primary_tech": "Python",
+        "programme": "Software Engineering",
+        "secondary_area": "Desktop Application",
+        "secondary_tech": "MongoDB",
+        "students": [
+            {
+                "email": "carolinelouise.fuery2@mail.dcu.ie",
+                "name": "Caroline Louise Fuery"
+            }
+        ],
+        "supervisor": "Dr. Donal Fitzpatrick",
+        "title": "Media Management Framework"
+    },
+    {
+        "description": "FriendlyWager is a web-based application that will allow users to create, host, manage and place wagers on any upcoming events with the emphasis on the social interactions that carrying out a wager with a friend affords. The application will consist of two main types of events; Public and Private. Private Events: Private events are wagers that a group of friends/known acquaintances can create and participate in on any upcoming events that their social group have an interest in; from the personal to the public occasions such as an election or sporting event. Private events are restricted to invite/referral only. Public Events: Public events are wagers open to anyone in the general public and are not restricted as to who can participate. In this case users can search for ongoing events and participate in them should they wish to do so. The application shall be integrated into social medias such as Facebook and Twitter, where users can ‘share’ their wager choices with their friends and followers in order to increase awareness for an event and encourage user participation. This project is currently only a Proof of Concept, however we are very interested in developing this Proof of Concept into a fully functioning website and mobile application in the future as we feel it has potential to succeed and our market research has led us to believe this.",
+        "primary_area": "Web Application",
+        "primary_os": "Multi-platform",
+        "primary_tech": "PHP",
+        "programme": "Enterprise Computing",
+        "secondary_area": "Social Networking",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "ronan.campbell2@mail.dcu.ie",
+                "name": "Ronan Campbell"
+            },
+            {
+                "email": "tysonesah@gmail.com",
+                "name": "Tyson Thangaraj"
+            }
+        ],
+        "supervisor": "Dr. Stephen Blott",
+        "title": "FriendlyWager"
+    },
+    {
+        "description": "Renewable energies are going to have a major role to play in the future of the earth. Not only are they a way of gathering cheap and sustain able energy but they are also very important in the fight against global warming. This project focuses on two different types of renewable energies used in conjunction with one another in order to portray a reliable energy source. This project builds on work which was undertaken for a previous project. The objective is to build and test a system that uses both wind and hydro energy together in one system. A pump powered by the wind turbine will pump water to a high level reservoir, this water can then be released through a water turbine that’s output will power a small LED display. The wind turbine is to be powered by fans so that the system can be used inside. This system must be contained on a portable rig so that it can be used on open days in order to attract attention to DCU and renewable energies. Different types of wind and water turbines are examined and the most suitable ones for this project selected. These turbines are then tested to find their outputs which are then optimized. The generators used for these turbines are also investigated to ensure that the best ones are used. The overall system comprising of wind turbine, pump and water turbine is then tested and adjusted to ensure that the objectives are met. The system operates capably while the output of the hydroelectric generator proves to be poor and insufficient for most displays. Finally recommendations are made for further improvements and how the system should be operated.",
+        "primary_area": "Renewable Energies",
+        "primary_os": "",
+        "primary_tech": "",
+        "programme": "Mechatronic Engineering",
+        "secondary_area": "",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "padraig.deegan2@mail.dcu.ie",
+                "name": "Padraig Deegan"
+            }
+        ],
+        "supervisor": "Dr. Sean Marlow",
+        "title": "Build and Test a Wind and Pumped Hydro Demonstrator"
+    },
+    {
+        "description": "The aim of this project is to develop a website that can be used as a study aid for Irish leaving certificate students while educating them on the importance of maths outside of the classroom. The website will introduce each topic by explaining in non-technical terms what the topic is about and where it can be used in everyday life. Questions provided in each topic will be solved in a step-by- step style to help students learn how to break down problems in order to solve them. These solutions will primarily take the form of short videos. The reasoning for this is that this allows for the person creating the solutions to explain to students why certain steps are being carried out and highlight areas where common mistakes occur. Research carried out at the beginning of the project indicated that the majority of students were unaware of mathematical education based websites so the website will direct students to other useful resources. The aim of this project is not to cover the entire leaving certificate course by the end but instead to create a website, templates and guides so that people with non-technical backgrounds, such as teachers, can get involved in the future development of the site. The reasoning for this is that getting teachers involved will ensure that the site is kept up to date with curriculum changes and important mathematical events.",
+        "primary_area": "Educational",
+        "primary_os": "Multi-platform",
+        "primary_tech": "Web Development Tools Secondary Area:",
+        "programme": "Info and Communications Engineering",
+        "secondary_area": "",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "jane.finegan2@mail.dcu.ie",
+                "name": "Jane Finegan"
+            }
+        ],
+        "supervisor": "Dr. Conor Brennan",
+        "title": "Development of an Interactive Maths Tutor"
+    },
+    {
+        "description": "This project consists of a game in the style of ‘Tower Defence’, developed for Windows Phone. In this genre, a player defends a point against waves of enemies with towers and other defences placed strategically around a path. The goal is to clear each level with the player’s base intact, through eliminating enemies before they reach the base.",
+        "primary_area": "Gaming",
+        "primary_os": "Windows Phone",
+        "primary_tech": ".NET",
+        "programme": "Software Engineering",
+        "secondary_area": "",
+        "secondary_tech": "C# Secondary Area:",
+        "students": [
+            {
+                "email": "cian.scolard3@mail.dcu.ie",
+                "name": "Cian Scolard"
+            }
+        ],
+        "supervisor": "Dr. Donal Fitzpatrick",
+        "title": "Void Defence"
+    },
+    {
+        "description": "Web-based XQuery Editor and Debugger is a web application that allows the user to edit XQuery expressions and execute them. It returns an XML result as well as various results to help the user debug/develop the XQuery expression. <br><br> XQuery is a query and functional programming language that is designed to query collections of XML data. The application provides the user with an editor built in JavaScript that has various features such as syntax highlighting, indention and line numbering. The editor allows the user to submit the XQuery expression currently in the editor and the result is processed using the Saxon XSLT and XQuery engine. This result is returned to the web application for the user to view. <br><br> The application also allows for the analysis of the script and requested data. The user can view things such as the stack trace of the expression as it executed, any variables initialized by the expression, the trace history of the XQuery as well as the XML result itself. The debugger allows the user to pause the execution of the expression by setting breakpoints on a line in the editor. This helps show the user what the expression is doing allowing them to fix or develop further the XQuery they have just ran.",
+        "primary_area": "Web Application",
+        "primary_os": "Windows",
+        "primary_tech": "Java",
+        "programme": "Software Engineering",
+        "secondary_area": "Software Development",
+        "secondary_tech": "JavaScript, XQuery, XML",
+        "students": [
+            {
+                "email": "daniel.jack2@mail.dcu.ie",
+                "name": "Daniel Jack"
+            }
+        ],
+        "supervisor": "Dr. Martin Crane",
+        "title": "Web-based XQuery Debugger and Editor"
+    },
+    {
+        "description": "The main aim of this project was to commission a sectioned car engine for an Educational Engineering Display. The project concentrated on the commissioning of an existing Citreon Saxo car engine, and fixing it to a display cabinet for Educational display purposes. The idea behind the project was to provide visitors to the DCU Engineering Building with basic knowledge of everyday Engineering products and machines by means of a ‘hand-on’ display model. This project is the first of its type as a Final Year Project and after a successful completion Dr. Joseph Stokes hopes to have similar Projects to this one in the future. This Final Year Project is a carry on from the authors INTRA project which consisted of negotiating a free internal combustion engine, disassembling the engine piece by piece, cleaning the engine and finally, sectioning the engine in half for internal viewing purposes. A mechanical lever is attached to this display engine to allow visitors to manually turn the engine’s cylinders to see the Four Stroke Cycle for themselves. With background posters and an educational DVD this display is ideal for attracting Open Day visitors towards Engineering in DCU.",
+        "primary_area": "Educational Display",
+        "primary_os": "Multi-platform",
+        "primary_tech": "DVD",
+        "programme": "Manufacturing Engineering and Business",
+        "secondary_area": "Mechanics & Thermodynamics",
+        "secondary_tech": "TV",
+        "students": [
+            {
+                "email": "ruairiparsons@gmail.com",
+                "name": "Ruairi Parsons"
+            }
+        ],
+        "supervisor": "Dr. Joseph Stokes",
+        "title": "Commissioning of a Sectioned Car Engine for Engineering Display Applications"
+    },
+    {
+        "description": "Our project idea, Interactive Entertainment Advertising (IEA) Sync, is to create a system that has the ability to purchase goods seen or heard through various media outlets using an application in real time. The basis of this will be through product placement/commercial advertising where instead of losing the viewers’ attention, the viewer will be encouraged to engage with the advertisement and will be given the opportunity to purchase the product directly through our online marketplace. The customer will be able to use various devices such as a laptop, tablet, computer, smartphone, or TV set to purchase goods and services that are preloaded into the media sources advertisements. The advertisement/product will trigger an alert to the device the customer is using and links them to an online marketplace where the goods or services can be purchased (further information about the goods or services can also be found here). The concept behind this is that the media devices will be preloaded with the appropriate software and hardware which will enable the user to interact with the products/ services, also the application will allow for the user to connect directly with the products displayed through their media source and then make a purchase if they wish directly through our website. The platform can also be downloaded to legacy devices that pre-date the release of the software. Use of the software will be incentive based by offering discounts or value adding incentives to the purchasing of the products through our service. An additional feature of this system that will be beneficial to the media producers is that we will be able to collect and mine information on how exactly the viewer interacted with the advert. This can be used in the future to create targeted ad campaigns that will lead to increased revenue to the advertiser and media providers.",
+        "primary_area": "E-Commerce",
+        "primary_os": "Multi-platform",
+        "primary_tech": "Multiple Technology’s Used (HTML5, PHP, Javascript, XML, Java and more) Secondary Area:",
+        "programme": "Enterprise Computing",
+        "secondary_area": "",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "gary.homan2@mail.dcu.ie",
+                "name": "Gary Homan"
+            },
+            {
+                "email": "gavin.torpey2@mail.dcu.ie",
+                "name": "Gavin Torpey"
+            }
+        ],
+        "supervisor": "Dr. Cathal Gurrin",
+        "title": "IEA Sync"
+    },
+    {
+        "description": "The aim of this project was to investigate whether an iPhone can be used to test for hearing loss at a range of varying frequencies with each ear being tested independently of the other. MatLab is used to test a number of different approaches and algorithms that expand the standard test before they are incorporated into the iPhone application. The iPhone application when run starts by playing each tone in turn at a very low volume which steadily increases over time until the user taps a button on the screen to indicate at what level the tone is heard at. This information is stored to be later displayed on a graph to help the user determine should they consider taking action by undergoing a professional test for a more accurate results and address any problems that they may have. The results for each ear are displayed on the same graph to allow the user to easily compare any deterioration between the two. While iOS may not be the most widely used mobile operating system on the market, I chose to develop for the iPhone because there is a greater level of consistency between the different models in terms of their hardware than with the numerous different brands that use Google’s Android operating system. This hardware consistency means that every device, whether it is an iPhone or an iPod touch will use the same interface but not only that, their is an increased likelihood of reproducing the same results on two separate devices for the same person.",
+        "primary_area": "Mobile App",
+        "primary_os": "Multi-platform",
+        "primary_tech": "XCode",
+        "programme": "Info and Communications Engineering",
+        "secondary_area": "Software Development",
+        "secondary_tech": "Matlab",
+        "students": [
+            {
+                "email": "conor.howard2@mail.dcu.ie",
+                "name": "Conor Howard"
+            }
+        ],
+        "supervisor": "Dr. Noel Murphy",
+        "title": "Hearing Loss Measurement"
+    },
+    {
+        "description": "The Cache-Box project targets people who browse the web on multiple devices and who want that browsing experience to remain consistent across those platforms. Cache-Box consists of a browser plugin which captures browsing data and builds a cache of the persons browsing history on the Cache-Box servers. The user can then access their browsing history on-line via the Cache-Box website or on their mobile device via the Cache-Box Android application. This allows a user the ability to use their browsing history across multiple browsers and devices.",
+        "primary_area": "Web Application",
+        "primary_os": "Multi-platform",
+        "primary_tech": "JavaScript",
+        "programme": "Enterprise Computing",
+        "secondary_area": "",
+        "secondary_tech": "SQL Secondary Area:",
+        "students": [
+            {
+                "email": "robert.oreilly2@mail.dcu.ie",
+                "name": "Robert O’Reilly"
+            },
+            {
+                "email": "stephen.callaghan5@mail.dcu.ie",
+                "name": "Stephen Callaghan"
+            }
+        ],
+        "supervisor": "Dr. Monica Ward",
+        "title": "Cache-Box"
+    },
+    {
+        "description": "3D modelling has been part of machine design for a long time now. The aim of this project wasto design and automate a pick and place machine to sort toothbrushes of different colours on a conveyor belt. A range of off the shelf parts were used. A 3D model of the machine was built using Solidworks. Behavioural modelling was then applied to automate the machine in Solidworks and test it underreal environmental conditions. The control of the machine was designed using theTriLogiprogrammable logic control software, off the shelf sensors and an Omron PLC. The cost of the machine was evaluated and compared to the robotic alternatives. It wasfound that automated machines for simple tasks are often cheaper than theirrobotic alternatives. Behavioural Modelling also helped to minimise the cost ofdesign by testing the model in a virtual environment.",
+        "primary_area": "Design for Automation",
+        "primary_os": "TriLogi PLC, Windows",
+        "primary_tech": "Solidworks 3D and Behavioural",
+        "programme": "Mechanical and Manufacturing Engineering",
+        "secondary_area": "Behavioural Modelling",
+        "secondary_tech": "Ladder Logic",
+        "students": [
+            {
+                "email": "darragh.woods5@mail.dcu.ie",
+                "name": "Darragh Woods"
+            }
+        ],
+        "supervisor": "Dr. Brian Corcoran",
+        "title": "Toothbrush Colour Sorter, Design and Automation"
+    },
+    {
+        "description": "Paper-based records have been the basis of medical care for years and their gradual replacement by computer-based records has been slowly underway for over twenty years in western healthcare systems. Electronic medical record (EMR) systems lie at the centre of any computerized health information system. Very few medical care providers in Ireland such as GP’s have some kind of in house EMR system. This project investigates an internet-based solution for EMR. This solution creates a centralized location for storage of medical records which are accessible from anywhere across the country and in the world. It eliminates the need for each provider to have one or more systems of their own. All that is needed is a computer, a web browser and authorization for access. Medical care providers can update patient records and patients can view their records but, only directly from the link on the Health Service Executive (HSE) website for security reasons. This solution eliminates the reliance on paper based communication of records between health care providers, ensures that a patient’s medical history can be ascertained in an emergency without having to rely completely on the patient and improves overall efficiency of the provision of health care services to the public.",
+        "primary_area": "Cloud Computing",
+        "primary_os": "Multi-platform",
+        "primary_tech": "Java",
+        "programme": "Enterprise Computing",
+        "secondary_area": "Web Application",
+        "secondary_tech": "SQL",
+        "students": [
+            {
+                "email": "chitolorraine.nwike2@mail.dcu.ie",
+                "name": "Chito Nwike"
+            },
+            {
+                "email": "robert.obrein25@hotmail.com",
+                "name": "Rob O’Brien"
+            }
+        ],
+        "supervisor": "Dr. Monica Ward",
+        "title": "Irish Health Cloud (IHC)"
+    },
+    {
+        "description": "The project developed is a schedule generator for sports tournaments mainly focusing on Ultimate Frisbee. These tournaments are generally one or two day events that take place on weekends. My program allows the user to input details such as the number or teams, seedings, tournament format and time constraints and is then presented with the schedule in the form of an .xls document. Currently there is no software available for scheduling Ultimate tournaments and all schedules are produced entirely manually. The aim of this project is to provide tournament schedulers a much faster alternative.",
+        "primary_area": "Sports Scheduling",
+        "primary_os": "Multi-platform",
+        "primary_tech": "Java Secondary Area:",
+        "programme": "Software Engineering",
+        "secondary_area": "",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "ross.andreucetti2@mail.dcu.ie",
+                "name": "Ross Andreucetti"
+            }
+        ],
+        "supervisor": "Dr. Monica Ward",
+        "title": "Ultimate Frisbee Schedule Generator"
+    },
+    {
+        "description": "This dissertation develops a low-cost Arduino mobile security robot which can be controlled by web interface. Adurino Romeo board which is used in robot is written in C. Infrared distance and ultrasonic sensors are installed in two wheels robot platform. These sensors can help people to control robot more accurately. There are server and client programs used to connect robot with client. The ‘server and client’ applications are written in JAVA language. The programs are based on the socket function in the JAVA. People can use the client to control the robot through internet. They can also through the client program to receive feedback information from robot. The client has buttons to control the robot. Client sends message to server first. Then the server sends serial data to the robot with Xbee. Xbees are able to connect computer with robot wirelessly. Feedback information from robot can be sent to client via server. In other hand, this project also tests the each part of sensors to see the advantages and disadvantages. This is a useful security robot to guard.",
+        "primary_area": "C,Java,",
+        "primary_os": "Windows",
+        "primary_tech": "Java",
+        "programme": "Electronic Engineering",
+        "secondary_area": "Arduino",
+        "secondary_tech": "C/C++",
+        "students": [
+            {
+                "email": "da.liu5@mail.dcu.ie",
+                "name": "Da Liu"
+            }
+        ],
+        "supervisor": "Dr. Derek Molloy",
+        "title": "An Internet Controlled Security Robot"
+    },
+    {
+        "description": "Cloud Dial is a web application that allows users to store, manage, retrieve and share their bookmarks anywhere, any time, straight from their browser. This system aims to be central to a users’ web browsing. It should be the first thing they see when they open their browser, a new tab, or new window. Doing so they can seamlessly access their favourite sites and collected bookmarks, greatly improving productivity. In Cloud Dial each bookmark will be identifiable by an image. This will make it visually appealing and extremely practical to use in this way, especially on mobile devices. <br /> <br /> Identifying bookmarks further will be made possible by means of textual tags, content summarisation, and categorisation into groups and sub-groups; all of which will be suggested by Cloud Dial. This rich variety of information will ensure efficient browsing, and effective bookmark retrieval. <br /> <br /> It is hoped this system will be used by all web browser users, but more specifically, by those who bookmark regularly. An ideal user bookmarks on several different devices, bookmarking pages of various topics. For people who bookmark a lot, and need to retrieve specific bookmarks on many devices, Cloud Dial is the perfect solution.",
+        "primary_area": "Web Application",
+        "primary_os": "Multi-platform",
+        "primary_tech": "JavaScript",
+        "programme": "Software Engineering",
+        "secondary_area": "Cloud Computing",
+        "secondary_tech": "HTML",
+        "students": [
+            {
+                "email": "shane.mcquillan2@mail.dcu.ie",
+                "name": "Shane McQuillan"
+            }
+        ],
+        "supervisor": "Dr. Gareth Jones",
+        "title": "Cloud Dial – A Cloud Based Visual Bookmarking Service"
+    },
+    {
+        "description": "The aim of this project was to develop code for convection-diffusion modelling. Convection-diffusion problems arise in a range of important areas in science and engineering. A simple example of convection-diffusion is when dye in dropped in a stream; the dye will spread by diffusion and will be convected (i.e. transported) by the stream. This project looked at developing a simple Monte-Carlo method to model the convection-diffusion process. Diffusion is a random process related to Brownian motion of molecules. The method involves tracking a finite number of “particles” (each particle represents an amount of the diffusing substance) that are moved randomly over time. MATLAB code was developed for 2D diffusion modelling and 2D convection-diffusion modelling.",
+        "primary_area": "Numerical Modelling and Simulation",
+        "primary_os": "Windows",
+        "primary_tech": "Matlab Secondary Area:",
+        "programme": "Mechanical and Manufacturing Engineering",
+        "secondary_area": "",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "victor.olabanji2@mail.dcu.ie",
+                "name": "Victor Olabanji"
+            }
+        ],
+        "supervisor": "Dr. Alan Kennedy",
+        "title": "Monte-Carlo Convection Diffusion Modelling"
+    },
+    {
+        "description": "This thesis presents analysis and optimization of the performance of a PID controlled heating system for biomedical applications. Fusing dies are used to bond biomedical catheter components using conduction,convection and radiation of heat to complete the fusing process. Control of this fusing system is not a trivial matter. A system analysis wasundertaken entailing a range of experiments and mathematical modelling. The overall analysis lead to an improvement of both the system running costs and product yield rate. Thermal mapping of the system using a PICO temperature mapping system was the main experimental tool used for evaluations. Proportional, integral and derivative control parameters were used to optimize the system. Power requirements and power consumption within the systems cycle were also analysed. This study also incorporates an extensivemathematical evaluation of the power and heat losses coupled with a material studyof the component configurations and their related power requirements. Finally the original 200watt heater element was replaced by a 140 watt element resulting in increased stability and reduced running costs and a reduction in standard deviation from 2.19 to 0.93.",
+        "primary_area": "Analysis/Process improvement",
+        "primary_os": "Windows",
+        "primary_tech": "PICO Temperataure Mapping Secondary Area:",
+        "programme": "Biomedical Engineering",
+        "secondary_area": "",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "thomas.sinnott2@mail.dcu.ie",
+                "name": "Thomas Sinnott"
+            }
+        ],
+        "supervisor": "Dr. Brian Corcran",
+        "title": "Thermodynamic Evaluation of a Biomedical Fusing Die System"
+    },
+    {
+        "description": "This Android application, ‘Pin Point’, is a GPS based application for children. The idea for this app came from witnessing children of all ages using their parent’s phones to play games, with no physical activity. Pin Point feeds children’s interest and understanding of mobile apps while also being active and learning. The app incorporates the idea of both the word game, Hangman, along with the idea of a treasure hunt. The objective of the game is to find letters of a word, at different locations, according to pin pointed coordinates. Pin Point uses GPS and compass technology to direct the children to different locations within predefined parks. The game can be used by a sole child or a small group of children as a team effort. The app is child friendly, with easy navigation and clear instructions; it is colourful and animated to accommodate the target audience. This app encourages outdoor activity for children from the ages of 6-13, while enjoying the challenge of the hunt; children can not only learn new words but also the technology of GPS, coordinates, and the concept of the compass, in a more modern light.",
+        "primary_area": "Mobile App",
+        "primary_os": "Android",
+        "primary_tech": "Java",
+        "programme": "Software Engineering",
+        "secondary_area": "GPS/GIS",
+        "secondary_tech": "Eclipse",
+        "students": [
+            {
+                "email": "aisling.friel4@mail.dcu.ie",
+                "name": "Aisling Friel"
+            }
+        ],
+        "supervisor": "Dr. Liam Tuohey",
+        "title": "PinPoint"
+    },
+    {
+        "description": "Path Breakers, a Tower Defense game is a 2D game that is based on a popular subgenre of a real-timestrategy game genre. Main goal of this game is to prevent enemy waves from destroying the base. Player has to purchase and place protective units on the battlefield so that they could attack enemies preventing them from reaching the base. By destroying the enemy waves player receives currency to purchase more protective units and to upgrade the existing ones. With each level it gets harder to defend the base, as various enemy waves will have various abilities, so player would have to adapt his strategy to incoming waves of enemies.",
+        "primary_area": "Gaming",
+        "primary_os": "Mac_iOS",
+        "primary_tech": "XCode",
+        "programme": "Software Engineering",
+        "secondary_area": "Artificial Intelligence",
+        "secondary_tech": "Objective-C",
+        "students": [
+            {
+                "email": "evgeny.carwood2@mail.dcu.ie",
+                "name": "Evgeny Carwood"
+            }
+        ],
+        "supervisor": "Dr. David Sinclair",
+        "title": "Path Breakers, a Tower Defense Game"
+    },
+    {
+        "description": "This project is a custom alert management system which manages how a phone running the Android OS alerts the user to incoming comms (i.e. Phone calls, SMS messages, MMS messages & emails). The alert triggered by each incoming comm is be based on a number of factors, in particular: The current location of the user, The identity of the message sender, The time of day, The day of the week, and the content of the message. (This feature will be exclusive to SMS and email) The project has an Android interface to allow the user to add, edit or remove their settings on the move. This project allows the user to tailor their phone’s alert settings taking into account the factors mentioned above. For example, the user can set the phone to set off the alarm if it receives a text from a certain number based on the content of the comm. The application will handle this automatically and the user need not remember to change their alert settings during their day to day activities.",
+        "primary_area": "Mobile App",
+        "primary_os": "Android",
+        "primary_tech": "Java Secondary Area:",
+        "programme": "Software Engineering",
+        "secondary_area": "",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "austin.halpin@redbrick.dcu.ie",
+                "name": "Austin Halpin"
+            }
+        ],
+        "supervisor": "Prof. Joseph Morris",
+        "title": "Android Alert Management System"
+    },
+    {
+        "description": "This application provides a tool which can be used to monitor core system resources and provide reports based on the collected system data. The reports provide the reader with CPU, Memory and Network statistics which have been collected over a user defined time frame. The statistics from these core area’s have been processed to determine whether any issues have been detected over the monitored time frame. For each data set, a report subsection is provided which contains a short description of the results, any recommendations, and a graph of the data where applicable. If a problem is detected, a brief explanation of the possible causes is given. This explanation often includes possible solutions for common problems. In serious cases, it is advised to contact a professional. This application is aimed at small and medium sized enterprises who do not have on-site technical personnel. The reports are aimed at providing non-technical personnel with clear explanations as to the performance of the system, while providing equally clear advice on any actions which could be taken to rectify detected issues. Furthermore, the reports aim to provide enough information on any issues so that technical personnel can benefit from consultation of these reports to assist in determining the cause of any issues which are under investigation.",
+        "primary_area": "System Monitoring",
+        "primary_os": "Unix/Linux",
+        "primary_tech": "Java",
+        "programme": "Software Engineering",
+        "secondary_area": "Statistial Analysis",
+        "secondary_tech": "Sysstat",
+        "students": [
+            {
+                "email": "aislingmulholland@gmail.com",
+                "name": "Aisling Mulholland"
+            }
+        ],
+        "supervisor": "Mr. Brian Stone",
+        "title": "SDR System Data Reporter"
+    },
+    {
+        "description": "There are many forms of pretreatment of biomass to produce biogas. The use of mechanical milling as a pretreatment method has lessened time for enzymatic responses and given a higher yield of biogas though it has very large energy consumption. Techniques devised to lower the energy expenditure are utilized so that this can meet industrial requirements. Due to the rising cost of fossil fuels and their decreasing volume, it is imperative to find alternative means of producing fuel in a fast and reliable rate such as biogas. Decreasing run time, operator safety, and examining possible system flaws have been carried out in this pretreatment device study. These tasks were carried out by designing a new cover, attempting to procure sensors to test the beater, processing a finite element analysis to determine if the beater will collapse under loading, and creating techniques to remove blockages from the system. The new cover designed prevents spillage of water, allows the operator to identify blockages and reduces the risk of harm to people. Sensors were identified for inspecting the system but mostly a single flaw that administered inaccuracies in testing or costs too much. It was resolved that, for the section modelled, the beater would not distort due to the loading applied. However it should be noted that this analysis was performed on a single section of the beater with estimated values. Finally, run time is reduced by applying propellers to the flow path. These propellers removed obstacles created by the organic material when placed within the flow which eliminated the need for an operator to complete this task. Only one propeller can be used at a time, therefore a system should be designed to rotate multiple propellers simultaneously.",
+        "primary_area": "Optimization of Existing Processes",
+        "primary_os": "",
+        "primary_tech": "CAD",
+        "programme": "Mechanical and Manufacturing Engineering",
+        "secondary_area": "",
+        "secondary_tech": "Ansys Secondary Area: Primary OS:",
+        "students": [
+            {
+                "email": "mark.bannon3@mail.dcu.ie",
+                "name": "Mark Bannon"
+            }
+        ],
+        "supervisor": "Dr. Abdul Olabi",
+        "title": "Design of Pretreatment Techniques for Increasing Biogas Production from Biomass"
+    },
+    {
+        "description": "The relative motion of metal parts in a humid environment is the ideal factor which contributes to the ingression of wear and corrosion on aircraft. They are mechanisms that cause significant changes to the structural integrity of metal components which can alarmingly go unnoticed until sudden failure occurs. The development and application of specific coatings have aided in minimising the effects of these mechanisms on aircraft but none provide the sufficient resistance to completely eradicate their initiation. The aims of this study were to design and manufacture an experimental rig in order to investigate sulphuric acid anodising as a method of providing corrosion and wear resistance to aluminium and its alloys, and subsequent to this determine whether this electrochemical process could be used as a protective treatment for aircraft components without compromising the underlying properties of the substrate aluminium alloy. In this study, hardness and tensile tests were conducted on anodised and unanodised aluminium using the Leitz Miniload hardness tester and the Zwick tensile machine respectively. The results from these tests were presented in a way that allowed for a conclusive determination to be made on the suitability of sulphuric acid anodising for various aeronautical applications.",
+        "primary_area": "Engineering Coatings",
+        "primary_os": "Windows",
+        "primary_tech": "SolidWorks",
+        "programme": "Mechanical and Manufacturing Engineering",
+        "secondary_area": "Design And Manufacture",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "simon.hageman2@mail.dcu.ie",
+                "name": "Simon Hageman"
+            }
+        ],
+        "supervisor": "Dr. Joseph Stokes",
+        "title": "Anodising Aluminium for Aeronautical Application"
+    },
+    {
+        "description": "This project is mainly aimed at musicians who have to learn a piece of music by ear, because they cannot find the correct sheet music. This project was designed to figure out the notes for them. The user loads in an audio file (.wav, .mp3) of a piano piece being played, and selects what section of the file to transcribe. When ran, the application will recognise the notes played in the song and can display the sheet music. The application uses Matlab for the main note recognition and Java for the GUI and other minor functions. Users are not required to know how to use Matlab or about the note’s frequencies. Instead the user works with the user interface, which has a basic design and requires little input from the user, so it can be used by anyone. After the user provides the file as input, it is loaded into Matlab and using the signal, the program spots when notes are played in the song. Then using the Fast Fourier Transform, the frequencies of the notes found are examined, with any frequencies considered to be actual notes played being stored for display. These functions are built into a jar file using the Matlab JA Builder, so the signal processing functions can be integrated with the Java Swing GUI and abc4j library, which is used to convert the notes into the image of the sheet music.",
+        "primary_area": "Digital Signal Processing",
+        "primary_os": "Windows",
+        "primary_tech": "Matlab",
+        "programme": "Software Engineering",
+        "secondary_area": "",
+        "secondary_tech": "Java Secondary Area:",
+        "students": [
+            {
+                "email": "stephen.smith2@mail.dcu.ie",
+                "name": "Stephen Smith"
+            }
+        ],
+        "supervisor": "Dr. Alistair Sutherland",
+        "title": "Music Transcription Tool"
+    },
+    {
+        "description": "This project is an audio analyser which gives the user a variety of functionality to edit, mix, and produce an audio track to a high standard. Each user can import tracks already on their computer or use the tools provided to produce a synthetic sound through the integrated virtual piano. The virtual piano provides basic functionality and automatically integrates it into the workspace. The interface allows for easy manipulation of multiple tracks with multi-track playback and integrates with together when mixing is complete for exporting onto the computer. The functionality provided are background noise removal, trimming, reversal, tempo changing, echo, invert and fading. On top of this there are tutorials for amateurs to learn about the different techniques that can be used when editing audio tracks and a lyrical search feature to find song lyrics to sing along with when recording your voice into the program. Their is also a direct link to a youtube channel designed for karaoke style playback of backing tracks with on- screen lyrics. Once editing is complete the user can either save the project to be continued at a later date or export the finished track as an mp3.",
+        "primary_area": "Digital Signal Processing",
+        "primary_os": "Windows",
+        "primary_tech": "Matlab",
+        "programme": "Software Engineering",
+        "secondary_area": "",
+        "secondary_tech": "Fast Fourier Transform Secondary Area:",
+        "students": [
+            {
+                "email": "james.kennedy2@mail.dcu.ie",
+                "name": "James Kennedy"
+            }
+        ],
+        "supervisor": "Dr. Alistair Sutherland",
+        "title": "Audio Analyser"
+    },
+    {
+        "description": "Matchmaking is a Web Application which allows users to organise their own computer gaming events. These events can range from online events, such as tournaments, to offline events such as LAN parties. Users can create their own accounts within the application, providing some details about their gaming interests. They then have the ability to create events, specifying the type of the event, the game being played, along with the times and date at which it is taking place. Users can search for events that they wish to take part in, with the details of the event being displayed, and in the case of LAN events, their locations are shown on a Google Map. Each user also has their own friends lists, providing quick access to the gamers they regularly play with. Alongside this, an invitation system allows users to invite their friends to any events they are participating in. In providing this functionality, Matchmaking’s social media styled approach gives gamers a place to go to seek out like-minded players who want to play the same computer games and game types, whether just for fun or highly competitively. It allows gamers to enjoy their hobby with people who share this passion. Matchmaking was developed exclusively using open source tools and technologies, including the Spring 3 MVC Framework, PostgreSQL Object-Relational Database Management System, and the Hibernate Object-Relational Mapping Library to name but a few. There are a number of individual elements of Matchmaking which can apply to various interests or activities, not just gaming. The ability to have friends, generate notifications, create events, and even have a login and registration system are all aspects of the base functionality of any social media application. This has led to the development of a Base API providing this functionality as part of this project.",
+        "primary_area": "Web Application",
+        "primary_os": "Multi-platform",
+        "primary_tech": "Java",
+        "programme": "Software Engineering",
+        "secondary_area": "Social Media",
+        "secondary_tech": "JSP/Servlets",
+        "students": [
+            {
+                "email": "david.flynn2@mail.dcu.ie",
+                "name": "David Flynn"
+            }
+        ],
+        "supervisor": "Dr. Monica Ward",
+        "title": "Matchmaking"
+    },
+    {
+        "description": "This application was developed to provide an accessible introduction to computer science concepts to secondary school students. The aim of this project is to inform students on these concepts in a visual way, allowing the user to view and interact with different modules of learning. The idea for this project came from my supervisor’s recommendation of the model curriculum for K-12 Computer Science, published by the Computer Science Teachers’ Association of the USA, which aims to tutor school children in computer science in an abstract way. The main concepts developed for this purpose are broken into different modules by topic. Among those topics are sorting and searching algorithms, presented in both straightforward and game formats; third-level course information; a visual study on computer hardware; and an introduction to looping and recursion concepts which are central to computer programming. In order to facilitate the application’s use in a more structured teaching environment, a course co- ordinator can select from the modules and add them to a course, thus allowing them to dictate the topics of learning for that class. Among the more challenging parts of this project were Sqlite, message and event- handling, webpagescraping and the deconstruction of algorithms. The idea for this project was validated with a sample of first and second year computing students from DCU, who provided a motivation for the creation of the application by the discovery that computer science is not taught in most secondary schools and those polled viewed that as a disadvantage. The working searching and sorting modules were validated with a Transition Year class in February.",
+        "primary_area": "Mobile App",
+        "primary_os": "Android",
+        "primary_tech": "Java",
+        "programme": "Software Engineering",
+        "secondary_area": "Educational",
+        "secondary_tech": "SQL",
+        "students": [
+            {
+                "email": "jenniferflynn89@gmail.com",
+                "name": "Jennifer Flynn"
+            }
+        ],
+        "supervisor": "Dr. Liam Tuohey",
+        "title": "Computer Science: Mobile Learning"
+    },
+    {
+        "description": "Poker Face is an application to detect the movement of certain features of a human face and generate statistics based on this data. Poker Face monitors the movement of the subject’s eye direction, mouth shape and eyebrows. Following this, it produces statistics based on this data allowing the user to see patterns in their facial movements. Poker Face is designed to cater for people who are interested in knowing their own facial movements including actors, people with an interest in body language, and poker players. For this reason the layout of Poker Face has been constructed to be very user friendly and can be operated by a single person. Running the Program: Ideally the subject would be asked a series of questions aimed at provoking specific emotional responses, allowing their facial features to be recorded and examined by the program. Poker Face is written in Python which provides very efficient memory management. It primarily uses the OpenCV libraries which utilize optimized algorithms for image processing.",
+        "primary_area": "Image/Video Processing",
+        "primary_os": "Unix/Linux",
+        "primary_tech": "Python Secondary Area:",
+        "programme": "Software Engineering",
+        "secondary_area": "",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "jonathan.lally3@mail.dcu.ie",
+                "name": "Jonathan Lally"
+            }
+        ],
+        "supervisor": "Dr. Alistair Sutherland",
+        "title": "Poker Face"
+    },
+    {
+        "description": "Environmental issue have come to the forefront in engineering research and methods in the past few years. As the world’s energy consumption grows, so dothe problems related to it like global warming, acid precipitation and ozonedepletion to name but a few. To address these devastating issues morework needs to be done in improving renewable energy, so it can someday soon takeover from the damaging fossil fuels which are at the root of these problems tocreate a greener, sustainable future for generations to come. This project aims to run a series ofexperiments on a flat plate and evacuated tube solar thermal panel, usinghalogen lamps as its artificial solar irradiance. The aim is to identify possible modifications that can be made to the solar thermal panel that have the potential to improve their heat transfer efficiency. The project also aims toprovided information for predicting the performanceof the flat plate collector in known meteorological conditions. The project also aims to prepare and analyse theoretical and lab based numerical data and wherepossible and to graphically represent and analyse the heat transfer capability of the panel relative to a standard double pipe heat exchanger rig. The efficiency of a solar collector was not found to be affected by the size ofthe collector.It was also determined that as the temperature increase in a collector so does the heat looses due to radiation,convection and conduction heat transfer.Detailed analysis of the results and further conclusions are available in the project report.",
+        "primary_area": "Renewable Energy",
+        "primary_os": "Windows, PICO software",
+        "primary_tech": "Research and devlopment of solar panels Primary OS: Windows, PICO software",
+        "programme": "Mechanical and Manufacturing Engineering",
+        "secondary_area": "Heat Transfer",
+        "secondary_tech": "Heat Exchangers, Heat Transfer",
+        "students": [
+            {
+                "email": "clodagh.evans2@mail.dcu.ie",
+                "name": "Clodagh Evans"
+            }
+        ],
+        "supervisor": "Dr. Brian Corcoran",
+        "title": "Renewable Energy Device Evaluation"
+    },
+    {
+        "description": "The ‘Find Your Way in DCU’ is an Android application that helps users finds the shortest way within the DCU campus. Using a nice and easy interface to help visitors finds the room that they are looking for and guide them to their destination. Also, this application has a web version, this version has the same functions as the Android application and the web version is so that other platform users, such as Mac’s IOS, Window’s Window Mobile, Nokia’s Symbian and all major browsers, can use the app. The user enters the destination and the current location into the application, then the program will calculate the shortest way to the destination and also it will display the map of how to get there and pictures of surrounding buildings. The Android application uses Java as the programming language. The web version uses PHP and HTML5.",
+        "primary_area": "Mobile App",
+        "primary_os": "Multi-platform",
+        "primary_tech": "Java",
+        "programme": "Software Engineering",
+        "secondary_area": "Web Application",
+        "secondary_tech": "PHP",
+        "students": [
+            {
+                "email": "lawa3@mail.dcu.ie",
+                "name": "Anthony Kei Ip Law"
+            }
+        ],
+        "supervisor": "Mr. Ray Walshe",
+        "title": "Find Your Way in DCU"
+    },
+    {
+        "description": "This project has been developed to provide rowing clubs/organisations with a convenient and simple way to organise and manage a regatta. Currently in Ireland, there is a simple online entry system for regattas. The regatta secretary must download the entry, manually perform a draw and then complete a full regatta schedule that includes every race for all the different events. This project modernises this process and allows all relevant steps to be completed in a matter of minutes. Regatta Manager allows the regatta secretary to simply type in a name for the regatta and upload the entry file. With the click of a button the crews will be drawn into the relevant heats semi-finals or finals and each race will be scheduled taking user constraints into account, such as a minimum duration of time between a semi-final and the final for each of the events. The system also provides spectators with an easy to access ‘event programme’ which can be viewed online. It also provides a central location for relevant regatta information to be published in the run up to the event.",
+        "primary_area": "Web Application",
+        "primary_os": "Multi-platform",
+        "primary_tech": "Grails",
+        "programme": "Software Engineering",
+        "secondary_area": "Model View Controller",
+        "secondary_tech": "Java",
+        "students": [
+            {
+                "email": "kenneth.ohara2@mail.dcu.ie",
+                "name": "Kenneth O’Hara"
+            }
+        ],
+        "supervisor": "Dr. Liam Tuohey",
+        "title": "Regatta Manager"
+    },
+    {
+        "description": "The number of users browsing the web from mobile devices has been increasing dramatically in the last quarters and is steadily becoming a significant share of the total number of Internet users. The vast array of mobile devices (and devices capable of browsing the web in general) nowadays makes it even harder for web designers and web programmers to optimize their web sites and web services. Having as much information as possible about the type of device, its capabilities, location and the way the HTTP connection was established is therefore crucial for delivering high-end interactive web content and well- targeted online advertisements. webdevlib is a web service that provides a broad set of information about any web device including its type (desktop, mobile phone, tablet, digital reader, game console or other), brand name, model name, OS name and version, browser name and version, a broad range of capabilities and location (with city-level accuracy). It also provides information about the way the connection was established (whether it is using an HTTP proxy, Internet traffic exit gateway or a mobile micro-browser of any kind). It does so by performing an elaborate sequence of analysing algorithms on the information in the HTTP headers left when a device sends an HTTP request. The web service provides the information in both XML and JSON format and can be easily configured to provide a specific subset of information matching a user’s needs. webdevlib is developed primarily in PHP and runs a MySQL database. It also makes use of JavaScript, the Wireless Universal Resource File (WURFL) as well as the MaxMind’s GeoLite City IP2Location database.",
+        "primary_area": "Web Application",
+        "primary_os": "Unix/Linux",
+        "primary_tech": "PHP, MySQL",
+        "programme": "Software Engineering",
+        "secondary_area": "",
+        "secondary_tech": "JavaScript, WURFL, XML, JSON Secondary Area:",
+        "students": [
+            {
+                "email": "kirilpetrov.nikolaev2@mail.dcu.ie",
+                "name": "Kiril Nikolaev"
+            }
+        ],
+        "supervisor": "Dr. David Gray",
+        "title": "webdevlib"
+    },
+    {
+        "description": "Coronary heart disease (CHD) accounts for 1 in 6 of all deaths in the western world. CHD arises when the coronary arteries of the heart become blocked due to the build up of fatty materials. These blockages prevent oxygen rich blood from reaching the cardiac muscle of the heart leading to medical conditions such as heart attacks. Coronary artery bypass surgery is a surgical technique used to treat CHD. The surgery utilises alternative vessels known as ‘grafts’ to bypass the blockages restoring a healthy flow of blood to the heart. Tissue engineering is a field of research that utilises 3D biodegradable scaffolds as platforms on which new tissue can be grown. The aim of this project is to develop a novel tissue engineering scaffold that will be used to grow coronary arteries. These coronary arteries can then be used as grafts in coronary artery bypass surgery. The scaffold being tested is constructed from a fibrous knitted tube, it is believed that their porous structure will allow cells to freely migrate through the structure, while the looped knitted structure will provide sufficient mechanical strength for use within the body. Tasks undertaken in this project included the production of the knitted scaffolds as well as characterising their mechanical and morphological properties. This included determining properties such as tensile strength, burst strength and their compliance (deformation with pressure change) profile. From preliminary studies completed it has been seen that the knitted tubes have sufficient mechanical properties for use with the body, both the tensile strength and burst strength of the vessel reached values higher than those experienced within the body.",
+        "primary_area": "Biomedical Engineering",
+        "primary_os": "Cardiovascular",
+        "primary_tech": "Coronary Artery Bypass Grafts",
+        "programme": "Biomedical Engineering",
+        "secondary_area": "Tissue Engineering",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "richard.oconnor2@mail.dcu.ie",
+                "name": "Richard O’Connor"
+            }
+        ],
+        "supervisor": "Dr. Garrett McGuinness",
+        "title": "Fabrication of Fibrous Vascular Tissue Engineering Scaffold"
+    },
+    {
+        "description": "The user access management system is a system which allows a company to easily manage which users have access to different servers. This system does not provision access but keeps track of which users have access to a server. The system will also periodically send e-mail reminders to the relevant managers/data owners asking them to review a user’s access. The timing of these emails is decided by the ‘criticality level’ associated with each server. Each of these ‘criticality levels’ have a time frame connected with them and after this time frame has passed the user’s access comes under review. <br /> This system can be used by companies to make sure that only users who require access to the server have access to it. Often a user will have temporary access to a server but when they no longer need access to the server they are not removed. This can lead to a weakening in the security of the server. <br /> This system will be used in a company’s intranet and have a database back end with a list of users who may need access to the servers registered in the database.",
+        "primary_area": "Web Application",
+        "primary_os": "Multi-platform",
+        "primary_tech": ".NET",
+        "programme": "Software Engineering",
+        "secondary_area": "",
+        "secondary_tech": "SQL Secondary Area:",
+        "students": [],
+        "supervisor": "Dr. Monica Ward",
+        "title": "User Access Management System"
+    },
+    {
+        "description": "Many vintage light aircraft do not have engine-mounted alternators to provide a source of power to the flight instruments in the cockpit and use battery packs or wind-driven generators instead. Some more modern small aircraft have wind- driven generators fitted to provide a backup source of power in the event of failure of the main electrical source. This project involves a comprehensive needs and constraints analysis, and a solid engineering analysis and testing of the main potential components for a wind-driven generator designed for use on a small aircraft. This is with a view to designing, implementing and testing a suitable wind-driven generator for this application. The main elements of the project are specification of the electrical generator component, the design and testing of regulator electronics to meet the electrical system requirements, testing a range of possible low-drag propeller/ fan configurations, and the integration of the overall combination into a small aircraft environment.",
+        "primary_area": "Mechanical",
+        "primary_os": "Windows",
+        "primary_tech": "Pspice",
+        "programme": "Mechatronic Engineering",
+        "secondary_area": "Electrical",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "brian.steemers2@mail.dcu.ie",
+                "name": "Brian Steemers"
+            }
+        ],
+        "supervisor": "Dr. Noel Murphy",
+        "title": "Design of a Wind Driven Generator for Light Aircraft Application"
+    },
+    {
+        "description": "The project incorporates Android OS functionality in order to provide the users with a variety of features which are aimed towards 4.0.3 platform compatible devices (also supports earlier releases). The idea behind the application is to simplify the needs of users who are active participants of a popular massively multiplayer online role-playing game (MMORPG) World of Warcraft (WoW). The game has a huge following and is widely recognised as one of the most successful online games of all time. The users are presented with an option of accessing certain parts of the application online or offline (depending on the accessibility of a valid Internet connection). News feed notifies the application users with the latest news gathered from multiple external sources. Server status allows players to check the functionality of relevant realms (servers which store player characters). The guide section of the application provides the user with numerous HTML tutorial pages which are accessed offline. A modified calculator allows players to perform a variety of numerous game related calculations. The application functionality is designed using JAVA programming language. External libraries are used to retrieve data while large portions of the UI are generated using XML.",
+        "primary_area": "Android Development",
+        "primary_os": "Android",
+        "primary_tech": "Java",
+        "programme": "Software Engineering",
+        "secondary_area": "Mobile App",
+        "secondary_tech": "XML",
+        "students": [
+            {
+                "email": "virginijus.kaminas2@mail.dcu.ie",
+                "name": "Virginijus Kaminas"
+            }
+        ],
+        "supervisor": "Dr. Liam Tuohey",
+        "title": "WoW Android Application"
+    },
+    {
+        "description": "The objective of this project is to allow insurance handlers to view and analyse where insurance policies are located. The system is presented as a web application and developed mainly using Google Maps API V3, JavaScript, ASP.NET with C# code behind, and styled to make a user friendly interface. This system is to be integrated with an existing insurance management system developed by DOCOsoft. The main mapping interface has two layers. The top layer will show data per country, displayed in the form of pie charts. As the user drills down into the map it will show the individual policies. Policies with currently active claims will also be highlighted. Users can view analysis of policies such as most popular locations, based overall or by policy type, or locations with most claims. The map can be filtered based on certain criteria. There are also tools available allowing the user to draw an area over the map that will select policies within that particular area. These policies will then be displayed to the user where they can analyse them. Clicking a policy marker will bring you to a policy page where you can view and edit information associated with that policy.",
+        "primary_area": "Web Application",
+        "primary_os": "Windows",
+        "primary_tech": "JavaScript, Google Maps API",
+        "programme": "Software Engineering",
+        "secondary_area": "",
+        "secondary_tech": "ASP.NET, C# Secondary Area:",
+        "students": [
+            {
+                "email": "paul.lynch23@gmail.com",
+                "name": "Paul Lynch"
+            }
+        ],
+        "supervisor": "Prof. Joseph Morris",
+        "title": "Geographical Mapping System for Insurance Policies"
+    },
+    {
+        "description": "This project is an Android application that performs pattern recognition. The application will allow the user to take a photo and compare it with previously taken images. the best result will then be displayed to the user. The name of the image will be the is used to identify them. This number will be presented after a successful match. The idea is to match cows by their black and white patterns. the user will be able to collect images themselves using the application and save them using each animal’s unique id number. The application will provide a quick and accurate animal identification in the event of lost or damaged id tags. I am using opencv on android to perform the pattern matching. Opencv provides a variety of algorithms with various speeds, strengths and weaknesses. finding the right balance and algorithm is part of the project. I intend for SURF or a similar algorithm that will be able to deal with the differences of size, angel and possibly rotation that will no doubt occur in the real world.",
+        "primary_area": "Image/Video Processing",
+        "primary_os": "Android",
+        "primary_tech": "Java",
+        "programme": "Software Engineering",
+        "secondary_area": "Mobile App",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "christopher.walsh2@mail.dcu.ie",
+                "name": "Chris Walsh"
+            }
+        ],
+        "supervisor": "Dr. Alistair Sutherland",
+        "title": "Cow Identifier"
+    },
+    {
+        "description": "MathsC is designed towards improving C as a language in use by Mathematic and Scientific programmers. The motivation that drove this project came from a small survey which highlighted some of the common problems associated with developing with certain languages. C is fast but hard to get right. Python is nice and easy for writing programs but slow when you need fast. Matlab and Mathematica are great for analysis programs but for other types it can be hard to use, as well as not being free software. Haskell requires learning a new paradigm. Most people used C so I chose it as my starting point. My language makes several changes to the base language of C while taking in nice features from other languages to improve usability such as the compiler will handle the need for pointers and memory management, dynamically sized arrays out of the box, strings, structs/types with methods, overloadable functions and operators, list comprehensions for quick array building from map and filter functions, anonymous functions and cleaner function pointers, and RAII for automatic releasing of resources (in the case of this project, local file objects close themselves at end of scope). The end result should be an easier to use language than C without sacrificing too much in the way of speed.",
+        "primary_area": "Language Development",
+        "primary_os": "Unix/Linux",
+        "primary_tech": "Java",
+        "programme": "Software Engineering",
+        "secondary_area": "Compiler Development",
+        "secondary_tech": "LLVM, GCC",
+        "students": [
+            {
+                "email": "paul.dunning2@mail.dcu.ie",
+                "name": "Paul Dunning"
+            }
+        ],
+        "supervisor": "Prof. Joseph Morris",
+        "title": "MathsC Programming Language"
+    },
+    {
+        "description": "Simulation modelling requires a certain degree of skill and knowledge, when undertaking a study of a particular system. With this in mind a study of a flexible assembly system was undertaken to produce a functional 2D and 3D model representation of the flexible assembly line. In producing these models a great deal of understanding was gained about model concepts, methodologies and the behaviour of the system in question. In particular system behaviour such as bottlenecks, setting optimization and downtime effects were determined. This was done through the use of simulation and observational analysis. In achieving these outcomes various verification and validation techniques were utilized in order to provide credibility of results and model design. Over the course of this project, errors in particular aspects of the software used were detected. An outlined approach to use, in creating a 3D model was purposed and the ethical considerations within simulation modelling were assessed with particular reference to aspects of model use.",
+        "primary_area": "Simulation Modelling",
+        "primary_os": "",
+        "primary_tech": "ExtendSim simulation software",
+        "programme": "Mechanical and Manufacturing Engineering",
+        "secondary_area": "Manufacturing Systems",
+        "secondary_tech": "Excel and StatFit (Data Analysis) Primary OS:",
+        "students": [
+            {
+                "email": "conor.casey22@mail.dcu.ie",
+                "name": "Conor Casey"
+            }
+        ],
+        "supervisor": "Dr. Paul Young",
+        "title": "Development of a Simulation model for a Flexible Assembly System"
+    },
+    {
+        "description": "The aim of this project was to use image processing techniques to find and classify airport structures from satellite imagery, as found on Google Maps. How we use mapping and navigation has been completely revolutionised in the digital era with millions of users now owning powerful smartphones and personal computers with incredible mapping capabilities. Augmented mapping is now starting to emerge, with overlays and real time information being applied to traditional maps. Within Matlab, a set of scripts were created to extract the information about potential runways in images. As they are a constant feature, containing defined characteristics, they are an excellent base from which to detect airports. The system was tested on a large group of images with diverse quality and zoom levels and a set of results obtained. The VSG (Vision Systems Group) provided toolbox was also used extensively in the making of this project.",
+        "primary_area": "Image/Video Processing",
+        "primary_os": "Windows",
+        "primary_tech": "Matlab Secondary Area:",
+        "programme": "Digital Media Engineering",
+        "secondary_area": "",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "glenn.sheridan4@mail.dcu.ie",
+                "name": "Glenn Sheridan"
+            }
+        ],
+        "supervisor": "Prof. Paul Whelan",
+        "title": "Automated detection and grading of airport structures from satellite images"
+    },
+    {
+        "description": "Since Theadore Maiman created the first functional laser in may 1960 at the Hughes Reseach Laboratory, laser processing has become one of the most rapidly expanding field in the world of engineering and Science. The significant potential of laser processing in the manufacturing industry has triggered an increase of investments in laser researches projects. Laser Polymer welding is one of the most investigated application in recent years. In this project, Polycarbonate samples were welded using a pulsed Nd:YAG diode pumped laser with a wavelength of 1064nm. The project was divided into three main steps; Characterisation of the laser system and optimisation of the optical setup, upgrading the control system of the assembly using LabVIEW programming and carrying out the Polycarbonate welding process. The first part consisted of the characterisation of the laser system: laser, galvanometer and motorised stage. The characterisation covered the laser parameters, power and frequency, beam quality and optical path of the laser beam. Subsequently, the optical setup of the system has been optimised. Second part consisted in developing a user interface for the laser and compiling it with control software of motorised stage and galvanometer using LabVIEW package. In the main and final part, Polycarbonate samples, 3mm thick, were welded. The experiments were planned and layout using the Design of experiments software. A two level factorial design with three repetition was used, the parameters were, the power of the laser, pulse frequency repetition PRF and the speed of motion of the beam. In total, over thirty polycarbonate samples (couple) were welded and tested. The characterisation consisted of tensile testing the weld. The welded samples were put through a Zwick tensile machine and the results (maximium force and Young’s modulus) were analyzed.",
+        "primary_area": "Laser processing",
+        "primary_os": "Windows",
+        "primary_tech": "LabVIEW",
+        "programme": "Mechanical and Manufacturing Engineering",
+        "secondary_area": "Software Development",
+        "secondary_tech": "WeldMark",
+        "students": [
+            {
+                "email": "patrickwilliam.lonergan7@yahoo.ie",
+                "name": "Patrick Lonergan"
+            }
+        ],
+        "supervisor": "Dr. Dermot Brabazon",
+        "title": "Automation of the new laser for laser welding"
+    },
+    {
+        "description": "Handball official is both a web application and smart phone application designed for handball referees, officials and enthusiasts. It will provide an intuitive interface for refereeing matches, creating tournaments, and keeping people informed about matches that are under way (via a news feed). As it stands today, Handball games are refereed on static pieces of paper (which can sometimes be as basic as the back of an old poster), and the creation of tournaments has not evolved beyond the ‘wonderful’ world of Excel. Just because Handball is the oldest of the GAA sports doesn’t mean that the game is incapable of incorporating new technologies. With Handball Official, I am dragging that said format into the 21st century, making it more expressive and engaging – both for the players who need to keep up-to-date with the latest news with regard the games, and for the officials who spend more and more time designing and refining tournaments. Handball Official enables the user to referee a game of handball, view player statistics and also create tournaments. Tournament creation will be easy, and afterwards become open for the public to view. However, a tournament can be password protected so that only selected people can update the scores of the games. A tournament graph will also be generated and available for download. Once a tournament is created a user can select a match to referee from the list of games. When the game is finished, the option to update the tournament with the latest results will become accessible. Handball official also preforms statistical analysis on all data across different tournaments. This allows it to build player profiles which can be searched for, and viewed by the public.",
+        "primary_area": "Web Application",
+        "primary_os": "Multi-platform",
+        "primary_tech": "JSP/Servlets",
+        "programme": "Software Engineering",
+        "secondary_area": "Mobile App",
+        "secondary_tech": "JavaScript",
+        "students": [
+            {
+                "email": "conor.ogorman2@mail.dcu.ie",
+                "name": "Conor O’Gorman"
+            }
+        ],
+        "supervisor": "Dr. Monica Ward",
+        "title": "Handball Official"
+    },
+    {
+        "description": "A big problem that a person can come to face when using internet browser bookmarks is that they can accumulate a large number of them and some important bookmarks can be lost or overlooked due to the number of bookmarks there are or the bookmark descriptions being unclear at times. Along with this problem the bookmarks set are only valid for the machine that is currently being used and transferring bookmarks to a different machine can be troublesome. This project seeks to reduce these problems by providing a bookmarking system that can be customized by the user allowing quick, easy and access to their bookmarks. The user can set a URL as a bookmark ‘www.google.ie’ and an abbreviation for that URL, such as using a ‘g’. Now when the user inputs the abbreviation ‘g’ into the get bookmark function the system retrieves the URL and redirects the user to that URL (i.e. ‘www,google.ie’).If the user provides an abbreviation that doesn’t appear as being used for a bookmark the system sends the users input to Google’s search engine. The user can set any abbreviation for their bookmarked URLs provided that they aren’t currently being used by the user to bookmark another URL. The system uses the Google App Engine and is running on Google’s servers so users only need a Google account to use the system. This system stores the bookmarks in a cloud on the Google server’s allowing a user to access their bookmarks from any desktop or laptop machine supporting http(Hyper Text Transfer Protocol) and the system can differentiate between users so two users can have the same abbreviation for different URLs. Creating and using bookmarks can also be done directly from the browser’s address line.",
+        "primary_area": "Web Application",
+        "primary_os": "Multi-platform",
+        "primary_tech": "JSP/Servlets",
+        "programme": "Software Engineering",
+        "secondary_area": "Cloud Computing",
+        "secondary_tech": "XML",
+        "students": [],
+        "supervisor": "Dr. Stephen Blott",
+        "title": "Cloud Bookmark System"
+    },
+    {
+        "description": "The aim of this project was to determine the Poisson’s ratio of polyurethane foam, to see if polyurethane foam, when saturated to different levels, could replace soft biological tissue in compression testing. The reason for this project is that soft biological tissues have a number of restrictions and regulations placed on the testing of them, therefore if an alternative material could be found that could replace soft biological tissue in compression testing it would be preferable. The use of open cell polyurethane foam instead of soft biological tissue would be beneficial on many levels including, cost, restrictions and regulations. In this project, open cell polyurethane foam was compressed with different compression levels and with varying degrees of saturated. The loading was either held for five minutes or was immediately lifted. The polyurethane foam was photographed and the photographs were run through an image processing program assembled in MATLAB using the VGA toolbox. Some images could not be read in MATLAB due to a change in the lighting conditions during the experiments. The remaining images were placed in AutoCAD and the strain in each direction was calculated using the measuring function included in AutoCAD. The Poisson’s ratio for open cell polyurethane foam was calculated to be approximately 0.0342 across all the thirty experiments performed. This result differs by a factor of approximately 1533% than the Poisson’s ratio of soft biological tissue. The MATLAB and AutoCAD methods were approximately 22% different. The reason for the large difference between biological tissue and polyurethane foam is polyurethane foam has a Poisson’s ratio of approximately zero. In conclusion, the Poisson’s ratio of open cell polyurethane has too much variance from the Poisson’s ratio of soft biological tissue for it to be used as a replacement for biological tissue in compression injury testing. However, there are more areas of research that needs to be explored before open cell polyurethane foam can be completely excluded as a replacement.",
+        "primary_area": "Biomedical",
+        "primary_os": "Windows",
+        "primary_tech": "Matlab",
+        "programme": "Biomedical Engineering",
+        "secondary_area": "Material Research",
+        "secondary_tech": "AutoCAD",
+        "students": [
+            {
+                "email": "jean.livingston2@mail.dcu.ie",
+                "name": "Jean Livingston"
+            }
+        ],
+        "supervisor": "Dr. Jerry Murphy",
+        "title": "Calculating the Poisson’s Ratio of Polyurethane Foam"
+    },
+    {
+        "description": "This project delivers a video conversion library exposed over both a web application and web service. It allows for the specification of the output format as well as the fine tuning of various audio and video properties. The web application allows users to quickly and easily convert videos with full control, over various video properties. It has simple to use interface, only displaying information relevant to each user. The web service allows developers to incorporate the functionality of the video library into their own projects regardless of platform. This means they do not need any extra libraries or dependencies for their applications. In particular this is aimed at mobile applications or anywhere that processing power or memory may be limited. Different users have different needs when it comes to video. Someone wanting to watch a video on their mobile device may be restricted to certain formats or just might want to keep the file size to a minimum. Using the web application, users can convert a video to their required format and also reduce the various quality settings to reduce the file size. A developer of a mobile application can use the web service to include its video manipulation features in their application without needing to worry about individual device capabilities. By using this web service an application would have much smaller memory and processing needs while delivering the same functionality to the user. Some of the core features available are: Converting videos to a number of popular video formats, Changing video and audio properties such as bitrate, sample-rate, timebase etc, Extracting the audio from videos, Adding timestamps or overlays.",
+        "primary_area": "Multimedia",
+        "primary_os": "Multi-platform",
+        "primary_tech": "Java",
+        "programme": "Software Engineering",
+        "secondary_area": "Web Application, Web Services",
+        "secondary_tech": "Spring mvc, jax-ws",
+        "students": [
+            {
+                "email": "killian.farrell23@mail.dcu.ie",
+                "name": "Killian Farrell"
+            }
+        ],
+        "supervisor": "Dr. Martin Crane",
+        "title": "Video Conversion Service"
+    },
+    {
+        "description": "An intramedullary (IM) nail is a device inserted into the marrow cavity of a bone to aid natural bone healing. The nail ensures that the fractured ends of a bone are aligned to allow effective callous growth. IM nails are used in the treatment of long bone diaphyseal (shaft) fractures. The purpose of this study is to demonstrate the feasablitiy of a dynamic compression intramedullary nail. In order to do this, three concepts were designed, a prototype manufactured and mechanical tests carried out comparing a standard design and the novel implant. The nail designed in this study is a dynamic compression IM nail suitable for the fixation of femoral shaft fractures. Dynamic compression allows the shaft of the bone to move axially by a number of millimetres. This movement is thought to promote better bone healing as the bone experiences a small amount of stress. This type of nail can be used where full weight bearing on the bone is not immediately required.",
+        "primary_area": "Medical Device Design",
+        "primary_os": "",
+        "primary_tech": "ProEngineer Primary OS:",
+        "programme": "Biomedical Engineering",
+        "secondary_area": "Orthopaedics",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "aisling.dowd2@mail.dcu.ie",
+                "name": "Aisling Dowd"
+            }
+        ],
+        "supervisor": "Dr. Bryan MacDonald",
+        "title": "Proof of Concept of a Dynamic Intramedullary Nail"
+    },
+    {
+        "description": "Mobile devices such as tablets and smart phones have been gaining traction within society in the past few years, and are at a stage where many people are now capable of using web services, either through public Wi-Fi or a mobile data connection, at almost any time, anywhere in the world. This opens a host of possibilities to these mobile devices that would not have been capable years ago, which may be harnessed by users or developers. Who Is That Student aims to bring new functionality to developers of Android applications, harnessing the powerful face.com face recognition platform in order to bring fast, web-scale and accurate face recognition technology to the mobile device, wrapped in a clear and precise framework that any developer can begin using in moments. This is accomplished by creating a facade of easy-to-use Java functions which handle communication with the face.com face recognition platform, parsing of the data into understandable, well-documented classes, and abstracting the accessing of available hardware.",
+        "primary_area": "Mobile App",
+        "primary_os": "Android",
+        "primary_tech": "Java",
+        "programme": "Software Engineering",
+        "secondary_area": "Image/Video Processing",
+        "secondary_tech": "PHP",
+        "students": [
+            {
+                "email": "diarmaid.mcmanus2@mail.dcu.ie",
+                "name": "Diarmaid McManus"
+            }
+        ],
+        "supervisor": "Prof. Alan Smeaton",
+        "title": "Who Is That Student?"
+    },
+    {
+        "description": "The desire to become energy independent in rural areas of developing countries not covered by a national grid has led to a large increase in the number of home build wind turbines being developed. These wind turbines are built using scavenged parts from scrap yards, homemade stators, and hand carved wooden blades. This has enabled rural communities to build affordable and functional power sources. An issue arises however due to the lack of a cheap form of electrical control for the turbine. Communities are left with little option other than to buy commercially available controllers such as Morningstar’s Tristar controller. This project investigates the possibility of designing a self-build electrical control system including a voltage regulator, a battery bank charge controller, and load dumping to divert power once the batteries have been fully charged. The proposed control system is based on the Arduino platform, and will ideally lead to an affordable yet reliable and functional DIY alternative to commercial controllers, freeing up resources for other community projects. Initially the regulation of the turbines output voltage is tackled by examining the benefits, pros and cons of linear and switching regulators using pSpice and mathematical models. The next step involves examining the frequency response of the elected dc-to-dc converter circuit, and designing a compensator network to ensure unconditional stability of the converter at a predictable bandwidth using Matlab. Finally load-dumping control is developed to to ensure a safe and sustainable charge controller for the bank of lead acid batteries. Control of the system is implemented using an Arduino microcontroller.",
+        "primary_area": "Renewable Energy",
+        "primary_os": "Arduino",
+        "primary_tech": "Matlab",
+        "programme": "Mechatronic Engineering",
+        "secondary_area": "",
+        "secondary_tech": "C/C++ Secondary Area:",
+        "students": [
+            {
+                "email": "tom.darcy2@mail.dcu.ie",
+                "name": "Tom Darcy"
+            }
+        ],
+        "supervisor": "Dr. Sean Marlow",
+        "title": "Design of low cost self-build wind turbine prototype [Electrical Part]"
+    },
+    {
+        "description": "In the modern era, social networking has become a part of everyday life from Facebook to Twitter people are always looking for the newest way to keep up with social media. From this came the idea of creating a Composite Image and a Composite Video that could be created easily using peoples own pictures and home videos. These could then be shown to friends and family via these social media websites. Using Matlab as the key software I created piece of code that would create an image, chosen by the user, out of many smaller images. When this idea was completed the next stage was to build upon this code to create a Composite Video, which worked on the same principle as the Composite Image. In this report I will detail how I came to use the resultant methods on each piece of code, as well as reviewing other possible methods for both. At the end of this report I will evaluate the results of this project and then establish what would be the most suitable way to proceed with these methods.",
+        "primary_area": "Image/Video Processing",
+        "primary_os": "Windows",
+        "primary_tech": "Matlab Secondary Area:",
+        "programme": "Digital Media Engineering",
+        "secondary_area": "",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "ian.buckley2@mail.dcu.ie",
+                "name": "Ian Buckley"
+            }
+        ],
+        "supervisor": "Dr. Conor Brennan",
+        "title": "Automated Composite Image Generation"
+    },
+    {
+        "description": "This project is a mobile application for iOS devices. It is being developed in conjunction with Bord Bia to help promote Irish food. It will provide mobile access to their database of recipes, allowing users to easily search for and select recipes, create menus, create shopping lists and add reminders for cooking times. Search options include the ability to take dietary restrictions and cooking methods into account so users can easily find recipes suitable for any occasion. The app is being developed in XCode using Objective-C. Core Data is used for storing the recipes. The recipe database is populated from a MySQL database located on Bord Bia’s servers using a JSON web service. The data has been designed to be stored in such a way that it is potentially transferable to the Windows Phone 7 and Android platforms in the future.",
+        "primary_area": "Mobile App",
+        "primary_os": "Mac_iOS",
+        "primary_tech": "Objective-C",
+        "programme": "Software Engineering",
+        "secondary_area": "Web Services",
+        "secondary_tech": "SQL, JSON",
+        "students": [
+            {
+                "email": "lotta@redbrick.dcu.ie",
+                "name": "Lotta Mikkonen"
+            }
+        ],
+        "supervisor": "Prof. Michael Ryan",
+        "title": "Bord Bia Mobile Application"
+    },
+    {
+        "description": "In recent times, there has been a large development of services that run ‘in the cloud’ bringing advantages like uncomplicated scalability of a service, and more efficient use of resources. Cloud storage and cloud computing resources have become popular, such as Dropbox (automatic free file syncing) and Google App Engine (highly scalable virtual computing environment). Often people work via their internet browsers (with Firefox holding a majority market share) for a significant proportion of their day, as well as working on different machines more regularly; however files can get forgotten or lost between locations. Wouldn’t it be useful if one could easily manage these files, while keeping them at their fingertips’ The browser presents a powerful tool to deal with this. Supposing they could open up Firefox, with the documents they were working on immediately available, even browse their working folders without having to leave the internet browser they’re working in’ The current file manager is slow to navigate and unintuitive; offering a navigational file manager will help the user browse files more easily. Firefox will keep preferences, history etc. synced, but not files of the user’s choice. This add-on intends to solve these problems. Packaging both file browsing and syncing functions together will allow a user to work more productively, access files needed with greater ease, and improve security by a constant presence of the files in the cloud.",
+        "primary_area": "Cloud Computing",
+        "primary_os": "Multi-platform",
+        "primary_tech": "JavaScript",
+        "programme": "Software Engineering",
+        "secondary_area": "Web Application",
+        "secondary_tech": "Python",
+        "students": [
+            {
+                "email": "michael.odowd2@mail.dcu.ie",
+                "name": "Michael O’Dowd"
+            }
+        ],
+        "supervisor": "Dr. Stephen Blott",
+        "title": "FiloFox"
+    },
+    {
+        "description": "The goal of this project was to create web based application was to allow users to create a visual representation capable of hierarchically representing an individual’s house/constituent rooms and possessions and linking important documents (receipts/manuals/insurance documents etc) to the items. Such an application can then act as a repository for the individual allowing them to search for and access important information in a quick and intuitive fashion. Split into three views, the first view allows them to create a representation of all the rooms in their home. The second allows them to create a representation of each of their rooms, populating them with items they might find in the rooms. The last is the item info view which allows users to add info specific to the item they have created. The tool also aims to have time reminder functionality for certain info that may have a time limit.",
+        "primary_area": "Web Application",
+        "primary_os": "Windows",
+        "primary_tech": "Combination of HTML, JavaScript, Java Servlets and SQL Secondary Area:",
+        "programme": "Digital Media Engineering",
+        "secondary_area": "",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "eoin.hughes2@mail.dcu.ie",
+                "name": "Eoin Hughes"
+            }
+        ],
+        "supervisor": "Dr. Conor Brennan",
+        "title": "A Web Based Home Organisation Tool"
+    },
+    {
+        "description": "This project involves the development of an online educational resource on the subject of climate change while trying to make the resource as accessible as possible multiple end devices.",
+        "primary_area": "Educational",
+        "primary_os": "Multi-platform",
+        "primary_tech": "HTML",
+        "programme": "Digital Media Engineering",
+        "secondary_area": "Web Application",
+        "secondary_tech": "Java",
+        "students": [
+            {
+                "email": "millsw2@mail.dcu.ie",
+                "name": "William Mills"
+            }
+        ],
+        "supervisor": "Prof. Barry McMullin",
+        "title": "Online Educational Resources on Climate Change"
+    },
+    {
+        "description": "Video2Comic is an application which allows a user to use their videos to create personalised comic books. The application will first let a user scan through their video and extract whatever frames they might like to use as part of their comic. Then the user will be able to create templates for comic book pages, add effects to and resize the images to then add to the pages, and finally output the comic as a PDF. The user will be able at any stage to return to the video to extract more images, and change pages of the comic previously created.",
+        "primary_area": "Desktop Application",
+        "primary_os": "Windows",
+        "primary_tech": "C/C++",
+        "programme": "Software Engineering",
+        "secondary_area": "Image/Video Processing",
+        "secondary_tech": "",
+        "students": [
+            {
+                "email": "peter.farrelly2@mail.dcu.ie",
+                "name": "Peter Farrelly"
+            }
+        ],
+        "supervisor": "Dr. Darragh O’Brien",
+        "title": "Video2Comic"
+    },
+    {
+        "description": "The Big Day is a web application that caters for the needs of couples planning their upcoming weddings. With applications that make day-to-day tasks easier being developed on a daily basis, we found that as of yet, no specific applications existed for the Irish market to help Brides and Grooms to-be in planning their wedding. As a result, we set out to build an application that allowed for the planning and managing of a wedding from start to finish and even allowed for interaction after the big day was over. With functionality developed using PHP and MySQL and templates developed using HTML, HTML5, CSS and CSS3, we leveraged some of the newest emerging and most powerful open-source technologies to build an application to meet all the requirements of such a system at the lowest possible costs. The application allows persons planning a wedding to manage and control every aspect of their wedding such as invitations and RSVPs, thanks you cards, task checklists and gifts. As well as this, it allows them to publish information about their wedding on their own personal profiles for guests to log in and view and allows for the publishing of a wedding album after the wedding. A service directory also exists, listing service providers across all service categories to help make the user’s big day as great as can be.",
+        "primary_area": "Web Application",
+        "primary_os": "Unix/Linux",
+        "primary_tech": "PHP, MySQL",
+        "programme": "Enterprise Computing",
+        "secondary_area": "",
+        "secondary_tech": "HTML, HTML5, CSS, CSS3 Secondary Area:",
+        "students": [
+            {
+                "email": "cian.leonard2@mail.dcu.ie",
+                "name": "Cian Leonard"
+            },
+            {
+                "email": "andrew.cassidy9@mail.dcu.ie",
+                "name": "Andrew Cassidy"
+            }
+        ],
+        "supervisor": "Dr. Rory O’Connor",
+        "title": "The Big Day – Wedding Management Web Application"
+    },
+    {
+        "description": "In November 2010 Microsoft launched the Kinect for the Xboox360. This motion sensing controller marked a new era of affordable, consumer level technology that makes possible natural user interfaces, using a person’s physical movement to control a computer without the need for any handheld input device. The subsequent release of Kinect for Windows Software Development Kit (SDK) from Microsoft Research in June 2011 was designed to further incite innovation and to create new experiences that include depth sensing, human motion tracking, and voice recognition using Kinect technology on Windows 7. This project aims to investigate the potential of using the Kinect sensor to allow a player to interact with a screen being projected onto a floor surface. This novel set up has the potential to create a more immersive gaming experience for the player by physically placing them within the action and thereby also encouraging physical activity in gaming. To demonstrate the set up a simple game was developed, loosely based and the classic 1979 Asteroids game, where the player controls a ship and must move around the screen to avoid getting hit by incoming asteroids. The player is marked on the screen by a coloured disc which moves as they move around the screen. They must move themselves, and therefore their disc, so as to avoid coming into contact with randomly generated asteroids. Voice commands have been added to allow game management i.e. starting, pausing, and resetting, and to further facilitate player independence from the PC running the game.",
+        "primary_area": "Sensor Technology",
+        "primary_os": "Windows",
+        "primary_tech": "Kinect",
+        "programme": "Digital Media Engineering",
+        "secondary_area": "Gaming",
+        "secondary_tech": "C#",
+        "students": [
+            {
+                "email": "conor.gallagher2@mail.dcu.ie",
+                "name": "Conor Gallagher"
+            }
+        ],
+        "supervisor": "Prof. Noel O’Connor",
+        "title": "Interactive Floor Projected Gaming Using the Kinect Sensor"
+    },
+    {
+        "description": "This is an internet web educational application. The purpose of the project was to develop a programme that will encourage learning of maths and make it more appealing to children studying Junior Certificate maths. This entailed writing a program in Java which will follows the Junior certificate Ordinary and Higher level Syllabus. The learning is attained in an interactive procedure where each topic is selected, description of the purpose of the topic is given and the expected learning outcome outlined. Step by step examples will be demonstrated for each topic with interactive questions presented for the student to input the solution. The student may register on the website and questions attempted are graded and saved for future progress analysis. The attractiveness of the site will be in the use of graphic imagery, colour, sporting activities and the equipment and surfaces that are played are used to create interest in Geometry. For example graphics and images of football pitches or tennis courts and their markings will be used to create geometrical shapes and angles, and areas could then be calculated.",
+        "primary_area": "Java, JSP\\Servlets, MySQL, JavaScript, DHTML, CSS",
+        "primary_os": "",
+        "primary_tech": "JDK 1.91, NetBeans IDE and GlassFish",
+        "programme": "",
+        "secondary_area": "",
+        "secondary_tech": "Server and Eclipse 3.7.1, Paint Shop Pro Secondary Area: Primary OS:",
+        "students": [
+            {
+                "email": "martin.donnelly4@mail.dcu.ie",
+                "name": "Martin Donnelly"
+            }
+        ],
+        "supervisor": "",
+        "title": "Math_Interactive"
+    }
+]
