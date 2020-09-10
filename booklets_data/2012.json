@@ -147,7 +147,12 @@
         "programme": "Software Engineering",
         "secondary_area": "Multimedia",
         "secondary_tech": "JavaScript",
-        "students": [],
+        "students": [
+            {
+                "email": "",
+                "name": "Gautam Wadhwa"
+            }
+        ],
         "supervisor": "Mr. Brian Stone",
         "title": "Go Music Streaming"
     },
@@ -193,7 +198,12 @@
         "programme": "Software Engineering",
         "secondary_area": "Web Application",
         "secondary_tech": "JavaScript",
-        "students": [],
+        "students": [
+            {
+                "email": "",
+                "name": "Alan Walsh"
+            }
+        ],
         "supervisor": "Mr. Charlie Daly",
         "title": "Linux System Profiler"
     },
@@ -998,7 +1008,12 @@
         "programme": "Software Engineering",
         "secondary_area": "",
         "secondary_tech": "SQL Secondary Area:",
-        "students": [],
+        "students": [
+            {
+                "email": "",
+                "name": "Ricahrd Eyres"
+            }
+        ],
         "supervisor": "Dr. Monica Ward",
         "title": "User Access Management System"
     },
@@ -1163,7 +1178,12 @@
         "programme": "Software Engineering",
         "secondary_area": "Cloud Computing",
         "secondary_tech": "XML",
-        "students": [],
+        "students": [
+            {
+                "email": "",
+                "name": "Darren Melia"
+            }
+        ],
         "supervisor": "Dr. Stephen Blott",
         "title": "Cloud Bookmark System"
     },
