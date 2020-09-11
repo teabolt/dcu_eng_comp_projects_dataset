@@ -36,7 +36,7 @@ def parse_project(project_string, compiled, idx=''):
     for detail, pattern in compiled.items():
         match = pattern.findall(project_string)
         if len(match) != 1:
-            anomaly_warning(detail, idx, project_string)
+            anomaly_warning(detail, idx, project_string, match)
             if len(match) == 0:
                 # assign None as "not found" value
                 match = None
@@ -54,6 +54,9 @@ def split_supervisor_and_description(project, supervisor_descr_separator='\n'):
         anomaly_warning('SUPERVISOR AND DESCRIPTION SPLIT', '"supervisor_and_description" key is missing', project)
         return project
     supervisor_and_description = project['supervisor_and_description']
+    if not supervisor_and_description:
+        anomaly_warning('SUPERVISOR AND DESCRIPTION SPLIT', '"supervisor_and_description" value is empty', supervisor_and_description)
+        return project
     idx = supervisor_and_description.find(supervisor_descr_separator)
     if idx == -1:
         anomaly_warning('SUPERVISOR AND DESCRIPTION SPLIT', supervisor_and_description, idx)
@@ -109,6 +112,37 @@ def canonicalize_projects(projects, **kwargs):
         canon = remove_newlines(canon)
         canonical_projects.append(canon)
     return canonical_projects
+
+def combine_fields(project, new_field, field1, field2, deletes=None):
+    # TODO: Accept any number of fields
+    # Don't modify the original project
+    project_copy = {**project}
+    primary = project_copy[field1]
+    secondary = project_copy[field2]
+    if primary and secondary:
+        new = '{}, {}'.format(primary, secondary)
+    elif primary:
+        new = primary
+    elif secondary:
+        new = secondary
+    else:
+        new = None
+
+    if deletes:
+        for field_for_delete in deletes:
+            del project_copy[field_for_delete]
+    else:
+        del project_copy[field1]
+        del project_copy[field2]
+
+    return {**project_copy, new_field: new}
+
+def rename_field(project, new_field, old_field):
+    project_copy = {**project}
+    value = project_copy[old_field]
+    project_copy[new_field] = value
+    del project_copy[old_field]
+    return project_copy
 
 def apply_transformation(projects, fn, *args, **kwargs):
     """

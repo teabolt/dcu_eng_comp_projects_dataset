@@ -1,0 +1,2594 @@
+Project Title: PyPlay
+Name: Gautam Wadhwa
+Email: gautam.wadhwa2@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: Brian Stone
+The title of this project is ‘PyPlay’. It is an MP3 player that can both play local MP3, OGG and FLAC
+files and MP3s streamed from a server. Additional features of the project include MP3 metadata
+display and support for opening and creating music playlists. The project will also include a server to
+stream the MP3s. This project comes from passion for music and recognising that streaming MP3
+files from a server would be both convenient and useful. Many people like to listen to music but do not
+want to keep separate copies of the same music library on different machines. Other people like to
+listen to music, but they travel a lot and cannot be near their music library all the time. This project
+aims to solve both of these problems by letting users stream their music collections from a server.
+Primary Area: Multimedia
+Primary OS: Unix/Linux
+Primary Technology: Python
+Project Title: Network Texas Hold'Em Poker
+Name: Brian Murphy
+Email: brianmartinmurphy@gmail.com
+Programme: Software Engineering
+Supervisor: Dr. David Gray
+This final year project is a Networked Texas Hold’Em poker game for Android tablets. The game is
+played across a network and can be played by up to 6 players, each on their own separate android
+device. The game was designed so that it implements client-server networking. The android devices
+behave as the clients while the server is running on a computer, both are written in Java. The server
+acts as a dealer and the overall game handler. The game tries to recreate the feel of a real life Texas
+Hold’Em poker game as best it can. To play, all the users must be on the same network and the
+server must be run on a computer that is connected to that network as well.
+Primary Area: Mobile App
+Secondary Area: Gaming
+Primary OS: Android
+Primary Technology: Java
+Project Title: Modelling of Plant Configuration for Optimisation of MultiProduct Flexible Manufacturing Facilities
+Name: Ken Bourke
+Email: ken.bourke4@mail.dcu.ie
+Programme: Manufacturing Engineering and Business
+Supervisor: Paul Young
+Within the current economic climate and due to the increasingly competitive environments in all
+manufacturing industries it is increasingly important to make manufacturing operations as efficient
+and cost effective as possible in order for manufacturing firms to remain profitable and competitive
+while still satisfying customer demand.
+The aim of this project is to determine the effect of machine-product dedication policies within a
+manufacturing facility that is constrained by product changeover times when switching between the
+manufacturing of different product types. This is accomplished by comparing three possible layouts of
+a manufacturing facility with each layout having a unique machine-product dedication policy. The
+layouts are compared on two performance indices; process queuing times in each line and cycle
+times of both production lines and of individual products. Comparison of the individual layouts is
+achieved through the development of a simulation model of the three facility layouts which is then
+used to perform a simulation study of the facilities’ behaviour over 10,000 hours. The data collected
+from this simulation model is then used to calculate the performance indices of each layout.
+Following the conclusion regarding the most optimal machine-product dedication policy for this
+layout, the production volume level is varied in order to find the optimal level for this layout and
+comment on its relationship with the machine-product dedication policy and processing times of the
+stations. The manufacturing facility studied in this report is a facility with three processing lines, each
+line having three processing operations. The facility produces three individual product types at a
+defined ratio of 6:2:1 of Product 1, Product 2 and Product 3 respectively. The manufacturing facility
+examined is constrained by unscheduled down times of processing stations and by processing
+changeover times when switching between manufacturing products of different types.
+Primary Area: Modelling of Production Systems
+Secondary Area: Discrete-Event Simulation
+Primary OS: Windows
+Primary Technology: ExtendSIM 8
+Project Title: A Thermoeconomics Approach to Water Treatment
+Optimisation
+Name: Ross Norman
+Email: ross.norman2@mail.dcu.ie
+Programme: Mechanical and Manufacturing Engineering
+Supervisor: Dr. Lorna Fitzsimons
+This project involves the use of a thermodynamic concept called exergy analysis to analyse and
+optimise a Multi-Stage Flash Desalination plant. Two different exergy models are used as a
+comparison; one that uses recently updated thermodynamic properties of seawater and another that
+models seawater as an electrolytic solution. The contents of this project are deemed important as the
+exergy analysis assesses the efficiency of a system, and is a tool that will be used in future
+sustainable development projects where the aim is to minimise our carbon footprint by creating more
+efficient systems. During the analysis of the desalination plant the point of highest exergy destruction
+(lowest efficiency) was located in the MSF unit by both models, with a near identical percentage
+fraction of 76%. Knowing that decisions within industry will still be based on economic factors,
+thermoeconomics it is seen as an important tool that combines both the thermodynamic and
+economic factors, which is seen as a tool that will be used for basing future environmental decisions
+by policy makers. This concept is introduced with an application of the theory used on results obtained
+in the exergy analysis. Through the analysis it was found that the preferred model for the exergy
+analysis would be the model that bases seawater as an electrolytic solution opposed to an ideal
+solution.
+Primary Area: Optimisation of Thermodynamic Systems
+Project Title: Control of a novel three wheeled electric vehicle
+Name: Andrew Merrigan
+Email: andrew.merrigan3@mail.dcu.ie
+Programme: Mechatronic Engineering
+Supervisor: Dr. Paul Young
+The aim of this project was to derive relationships for the mechanics of a novel three wheeled electric
+vehicle. The project vehicle has a high centre of gravity and narrow wheel base. As such, the need for
+analysis of the vehicles mechanics is an important step in ensuring the vehicles overall stability and
+safety. Using the derived relationships safe operating limits for the vehicle were established which
+were then compared to empirically set operating parameters. Finally a controller function was
+designed in MATLAB to control the vehicles three drive motors ensuring the vehicle handled correctly,
+maintained stability and protected the operator from excessive acceleration. Through the completion
+of the project the conclusion was reached that the vehicles empirically set operating parameters
+ensured the vehicles stability. However these parameters exerted excessive acceleration on the user.
+A controller function was designed in MATLAB to control the vehicle in the desired manner whilst
+limiting excessive operator acceleration. The designed controller was then tested in Simulink using
+appropriate motor models. The designed controller correctly adjusted the rpm of the vehicle’s three
+drive motors ensuring operator safety under various circumstances.
+Primary Area: Vehicle Control
+Primary Technology: Matlab
+Project Title: Erosion-Corrosion Testing Rig
+Name: Abdul Ali Hassan
+Email: abdul.hassan2@mail.dcu.ie
+Programme: Mechanical and Manufacturing Engineering
+Supervisor: Dr. Joseph Stokes
+This Project looks at the behaviour of the combined effect of erosion and corrosion wear on a material
+sample over an hour. The main aims of this project are; -Design and develop an Erosion-Corrosion
+Testing Rig. -Test the erosion- corrosion behaviour of mild carbon steel with no protective coating.
+-Monitor the effect of salt Concentration (corrosive solution), high/low, on the erosion- corrosion
+process.
+A sandblaster in the R&D building lab was used as part of the test rig design to provide the abrasive
+material required for the erosion wear part and another unit was designed to provide the corrosive
+solution required to cause the corrosion wear effect with a use of a centrifugal water pump (stainless
+steel pump). The test rig designs and concepts were closely monitored by a skilled experienced team
+of people (the supervisor, lab technician and a workshop technician). The team assisted the author
+where necessary during the development stage of the project and finally after the approval of the final
+concept, the author provided the technical drawings and instructed the workshop technician to go
+ahead with the manufacturing of the test rig and the lab technician made the purchase of the order
+list made by the author.
+The report goes into detail on the literature of the types of wear, the parameters that accelerate the
+wear rate, some of the preventions and the combined effect of erosion-corrosion wear on a material.
+Then the project content shows step by step all the stages, design concept and final design and
+explaining into detail the function of each part of the assembly.
+In the results and discussion section, shows how the test rig operated and the conclusion drawn is
+test rig functions accordingly and recommendation are highlighted in order to improve the accuracy
+and better precession results of overall wear of erosion-corrosion effect.
+Primary Area: Advance Material Engineering
+Primary OS: Windows
+Primary Technology: SolidWorks2012
+Project Title: Implementation of a 532nm Laser for the
+creation of carbon nanoparticles
+Name: Brendan Flanagan
+Email: brendanmflanagan@gmail.com
+Programme: Mechanical and Manufacturing Engineering
+Supervisor: Dr. Dermot Brabazon
+Programme: Enterprise Computing
+Supervisor: Prof. Alan Smeaton
+There has been increasing demand for the development of nanomaterials among a variety of industries
+such as semiconductor, medical devices, pharmaceutical and solar energy. Laser Ablation in Liquid
+requires less energy, has lower capital costs and higher rate of precision which combined makes it an
+attractive process for the creation of carbon nanoparticles compared with other techniques such as
+sputtering or chemical processing. An Nd:YAG laser uses short pulsed laser wavelengths to create
+nanoparticles. There is an existing 1064nm Laser in the Advanced Processing Technology research
+centre in DCU. This report seeks to incorporate and expand on the research previously carried out on
+the 1064nm laser in the design and development of a 532nm laser. The 532nm laser, when complete,
+should enable the creation of finer nanoparticles, which will allow for a more detailed analysis of the
+nanostructures created. Some of the measurement techniques used to characterise the carbon
+nanoparticles created were by Atomic force microscope (AFM) and Scanning Electron Microscope (SEM).
+Analysis of the AFM data was then completed using design of experiments software.
+Primary Area: Mechanical Design
+Secondary Area: Statistical Analysis
+Primary OS: Windows
+Primary Technology: Solidworks
+Project Title: Sensor and Actuator System Design for a Light-Aircraft
+Avionics and Autopilot System
+Name: Robert Walsh
+Email: Robert.Walsh29@mail.dcu.ie
+Programme: Mechatronic Engineering
+Supervisor: Dr. Noel Murphy
+Aerospace Engineers develop future technology with a view to optimising aircraft fuel efficiency, safety
+and performance. Engineers in this field are responsible for many technological breakthroughs e.g.
+structural carbon fibre, advances in jet engine design, GPS navigation and Doppler radar. Aircraft
+technology has spread to all areas of modern life and has changed the world for the better. This
+project investigates one such technological advance ‘Autopilot Systems’ which owes its development
+to the aviation industry.
+Aircraft autopilot systems use sensors, actuators and computers to achieve autonomous control of an
+aircraft’s heading, altitude and orientation in space. The aim of this project was to design, build and
+test an autopilot demonstration rig using a sensor, microcontroller and actuator control system. The
+rig’s intended purpose was to act as an educational tool for explaining the principles of autopilot
+operation to students of AMPS-Aviation Management with pilot studies B.Sc. course at DCU.
+This project uses the Arduino platform to demonstrate the operation of roll and pitch control of a two
+axis autopilot system. The orientation of the rig’s platform to the horizon is measured using a MEMS
+gyro based sensor and the rig is actuated using servo motors connected by mechanical linkages to
+the platform. During operation, an instructor can move the rig and the control system will correct the
+orientation of the rig’s platform, maintaining an orientation parallel to the horizon. This allows the
+instructor to use the rig as a visual aid when explaining an autopilot’s operation to students.
+Primary Area: Design and Manufacture
+Secondary Area: Aviation
+Primary OS: Arduino
+Primary Technology: C/C++
+Secondary Technology: Target 3001 / PSpice
+Project Title: Motion Analysis of a Three-Wheeled Vehicle
+Name: Kevin Tynan
+Email: Kevin.tynan3@mail.dcu.ie
+Programme: Mechanical and Manufacturing Engineering
+Supervisor: Dr. Paul Young
+The origin of the project was the design of a prototype electrically powered small industrial threewheeled site vehicle. The vehicle was designed to be an environmentally friendly alternative to the
+common fossil fuel burning industrial site vehicles. The project was centred the motion analysis
+software in the SolidWorks CAD package. The project had three main aims: research the software
+motion analysis capabilities, design the loader mechanism for the existing three-wheeled vehicle
+chassis, and conduct a motion analysis on the mechanism design. Software was researched by
+analysing both a simplified single cylinder and a more complex two cylinder system. The findings from
+this research were then recorded into a step by step instruction manual for future reference. The
+design of the loader mechanism was separated into three sections including; bucket design, lift and
+stabilising arm design and tilt mechanism design. Three concepts were then designed and
+comparisons and assessments made to select the most effective design. This concept design was
+then improved to a final concept stage where additional features were added to produce the final
+design. A motion analysis was then carried on to the final design. Results in the form of forces,
+velocities and accelerations were then gathered, analysed and discussed. It was concluded that the
+software was capable of producing accurate responses for simplified systems that can simulate
+forces such as gravity, and contact between solid bodies. The design was also concluded to have been
+within all the design constraints and to meet all the necessary performance criteria. The design
+would function as required and perform all the necessary tasks, however the materials used could
+have been optimised more. The motion analysis of the final design was not perfect as the response
+did produce anomalies and errors. However it still provided an excellent approximation how the
+vehicle would operate when manufactured.
+Primary Area: Motion Analysis
+Secondary Area: 3-D Modelling
+Primary OS: Windows
+Primary Technology: SolidWorks
+Project Title: Cloud-4-Camera
+Name: Steven Grendon
+Email: steven.grendon2@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: Monica Ward
+Cloud-4-Camera is application that is easy to use and has both social and business aspects to it. The
+application has 2 components.
+The first component is an Android application that allows users to safely sync all their photos on their
+smart-phone to their desktop computer. All photos are saved directly to a server. So even if the user
+loses their phone, their photos will be safe on their desktop. The application allows the user the take
+a photo and send it straight to their desktop, it also allows you to take a photo and sync it directly to a
+friends desktop. Users can create a friends circle where they can search, add and remove a friend.
+The second component to Cloud-4-Camera is a desktop application where the user can view all their
+photos that were synchronised to their computer. This side of the application was built using Window
+Builder and it was designed to give a nice user-friendly interface. The interface presents the user with
+a current list of their friends and it too provides the functionality to search, add and remove from your
+circle of friends. The interface also has a nice image viewer where the user can flick through their
+photo albums.
+Primary Area: Mobile App
+Secondary Area: Desktop Application
+Primary OS: Android
+Primary Technology: Java
+Secondary Technology: PHP
+Project Title: CloudSync
+Name: Brendan Gerard Kelly
+Email: brendan.kelly33@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: Dr. Monica Ward
+There are currently a lot of applications on the Android market that backup users phone data such as
+SMS messages and contacts, usually on an external SD card. However, they all have one fatal flaw:
+there is no way to restore the data if the user actually loses their phone, as the data is stored on the
+phone.
+The aim of CloudSync is to provide a cloud-based backup service to Android users, and to allow users
+to view and modify their information through a web application. It allows backup of important data, as
+XML, to a server, which stores the data under the users account. When a user loses/breaks their
+phone, they only have to login to CloudSync, and they can restore their data from the server easily.
+Because the application is laid out in such a way, the user can easily use CloudSync to move their
+information from one phone to another.
+CloudSync can backup 3 types of data: contacts, messages, and user files. Once backed up, users can
+view their data on the CloudSync web application. This shows them their contacts and messages, and
+a file manager lets them modify/rename/delete files from the server. Contacts can be edited, and
+messages deleted individually.
+CloudSync uses Android/Java on the mobile side of the application, PHP to process the web server
+data, and JavaScript to display the information on the web side.
+Primary Area: Mobile App
+Secondary Area: Web Application
+Primary OS: Android
+Primary Technology: Java
+Secondary Technology: PHP, JavaScript, XML
+Project Title: Commando - Keyword-based Web Navigation
+Name: Shane Maguire
+Email: shane.maguire2@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: Stephen Blott
+Commando is a social keyword-based navigation service on the cloud. It is a web- based service that
+allows users to use and define keyword mappings to their favourite websites, content searching
+services and to Commando specific functions. It is based solely around a ‘command line on the web’.
+A large library of pre-defined keywords for popular web content is bundled with the system. All of
+Commando’s functionality can be used and accessed from this command line. It aims to be the
+central activity for users searching for an alternative to search engines, as with keywords a user can
+navigate the web in significantly less keystrokes. Commando is social in a sense that a user can
+define keywords that can be used by anyone else. Keywords can be defined to be public, personal or
+even shared amongst groups of friends. Commando aims to appeal to users with its intuitive user
+interface and is mobile accessible. Commando is hosted on the cloud and is developed using
+emerging technologies such as Node.js, MongoDB and Twitter Bootstrap.
+Primary Area: Web Application
+Primary OS: Multi-platform
+Primary Technology: Node.js
+Secondary Technology: HTML, CSS, Javascript
+Project Title: Scheduling Application
+Name: Mary Dennehy
+Email: mary.dennehy4@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: Monica Ward
+This project is a web-based application, focused at managers and owners of a business, who are
+scheduling employees to work. The main aim of the project was to keep all schedules on a website so
+that employees and managers may access it easily.
+Employees are able to access the site at any time to see if their schedule has been changed since it
+was first added, while managers are able to access and change the schedule as needed.
+Managers are also be able to easily access a list of all their employees and what training they have
+had. This will ensure that when they are creating or editing schedules, they can identify employees
+with similar training, so that, if an employee cannot work on a particular day, they can be, quickly and
+easily, swapped out with another employee who has the same skill set.
+This project was written in Python using the Django framework.
+Primary Area: Web Application
+Primary OS: Multi-platform
+Primary Technology: Python
+Project Title: Virtual Dropbox
+Name: Daniel Grant
+Email: daniel.grant8@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: Darragh O'Brien
+Virtual Dropbox is a web application that allows users to manage files from multiple online storage
+providers. The web storage provider’s Virtual Dropbox supports are Google Drive, Microsoft Skydrive,
+Dropbox and Box.com. These services provide storage space for users to maintain files on the cloud.
+However all the providers have a different web application for the user to use and the aim of Virtual
+Dropbox is to act as a central hub for communication between the different accounts. A user will
+register with Virtual Dropbox and add a storage account. Their account will be authenticated through
+an OAuth system and access tokens will be stored in a Database for use in further transactions. The
+user can view their file-lists and navigate through their various folders. A user can upload a file,
+download a file, delete a file/folder, create a folder or rename a file. The user will be able to avail of 2
+file list views within the web application. A Standard View, which will separate storage accounts by
+type and a Virtual View, which will merge all user storage accounts and display the files in one
+‘Virtual’ file list.
+Primary Area: Web Application
+Secondary Area: Cloud Computing
+Primary OS: Multi-platform
+Primary Technology: Java
+Secondary Technology: REST, Javascript, JQuery
+Project Title: Learning2Write - An application to teach children how to write
+Name: James Darcy
+Email: james.darcy5@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: Dr. Monica Ward
+Learning2Write is an Android application which aims to teach children how to write letters of the
+alphabet and other characters, by following recommended teaching procedures used in today’s
+classrooms. It has been developed for an Android tablet, which will allow the children to learn the
+proper techniques and procedures for writing different characters on a touch screen, using their
+finger or a stylus. The application presents multiple templates/guidelines for each character, which
+allows the child to trace over. Learning2Write then examines the input to see if the child has drawn
+the character properly, and it gives appropriate feedback regarding this. The child has the opportunity
+to practice re-drawing the characters in order to increase his/her writing abilities. The application is
+geared towards a young demographic, therefore the user interface has been designed and
+constructed appropriately, to suit users of a young age. The application has been constructed using
+the Android SDK, Java and XML.
+Primary Area: Mobile App
+Primary OS: Android
+Primary Technology: Java
+Secondary Technology: XML
+Project Title: A Low-cost Low-power Visual Sensing Platform
+Name: Mark Marsden
+Email: mark.marsden2@mail.dcu.ie
+Programme: Digital Media Engineering
+Supervisor: Dr. Noel O'Connor
+This project is motivated by the ongoing work of the Clarity centre on environmental monitoring for
+both marine and coastal locations. The aim of the project is to develop an autonomous on-site visual
+sensing platform which can act as part of a larger network of monitoring technologies. The platform
+developed must be both affordable and energy efficient. The Raspberry Pi embedded system was
+chosen to act as this autonomous monitoring device. While being quite affordable this device is also
+capable of performing very computationally intensive tasks. It also has very low power requirements.
+As part of this project the Raspberry Pi can interface with an Axis IP camera as well as other
+non-visual sensors, collecting both images and sensor readings. This data is used to intelligently alter
+the Raspberry Pi’s behaviour, possibly capturing images at a higher frame rate or going into a low
+power state. Image processing techniques including background subtraction are employed to analyse
+the scene and detect objects. This data can be combined with data from non-visual sensors to provide
+multi-modal sensing which can improve the robustness of event detection systems through the fusing
+of complementary data sources. Using a 3G USB dongle the Raspberry Pi can relay any images and
+data recorded back to a server in the cloud. This data can be then be archived for further processing
+and analysis. The entire system can be monitored and configured through a J2EE web application,
+with changes propagated out to the raspberry Pi and implemented in real time. Within this web
+application users can observe the latest images and data sent back as well as configure how the
+Raspberry Pi will react to incoming sensor data.
+Primary Area: Image/Video Processing
+Secondary Area: Sensor Technology
+Primary OS: Unix/Linux
+Primary Technology: Raspberry Pi
+Secondary Technology: Java
+Project Title: NXT Ballbot: Self-Balancing Robot on a Ball
+Name: Andrew Kiernan
+Email: andrew.kiernan8@mail.dcu.ie
+Programme: Mechatronic Engineering
+Supervisor: Jennifer Bruton
+This report is an investigative report into the model, build and sensor selection of an NXT Lego Ballbot
+with the overall aim of controlling the motors of the Ballbot. This project was undertaken to better
+understand the function of the Lego NXT sensors and there control in terms of a Ballbot design
+towards the hopeful creation of a stable Ballbot either at the end of this report or at the end of further
+investigation into the project. Where this project’s Ballbot differs from previous NXT Ballbots is the
+use of a single accelerometer and gyroscope to relay the position and speed of the body in both planes
+of motion assuming the Ballbot does not move in its top plane. This project details the derivation of
+the equations of motion which will lead into the modelling, simulation and affective control of the
+Ballbot. A brief discussion on interfacing the NXT software with MATLAB is presented for explanatory
+purposes. The choices made towards the build of an NXT Ballbot and parameterising the Ballbot
+created plays a key role in the affective success of a Ballbot. The choices made as well as sensor
+selection and sensor testing are documented in the project report. Finally the effective control of the
+Lego Ballbot’s motors was carried out and is presented in this report. It presents two possible
+methods of creating the code for the controlled model and explains what can be done in to possibly
+obtain a better response from them.
+Primary Area: Mechatronic Systems
+Secondary Area: Control
+Primary OS: Windows
+Primary Technology: Matlab
+Project Title: Spillage Sensing Using a Video Camera
+Name: David Connaughton
+Email: david.connaughton2@mail.dcu.ie
+Programme: Mechanical and Manufacturing Engineering
+Supervisor: Tamas Szecsi
+The purpose of this project was to research and develop a program which can be used to detect
+spillages on the floor using image analysis and processing techniques. The project focused on the
+sensing of liquid spillages using a video camera. The image processing and analysis were performed
+using the OpenCV library.
+As part of another project a robot was developed that would be used for cleaning in hospitals.
+Currently the robot uses a procedure for spillage detection that requires human interaction. A nurse
+who identifies a spillage places a cone at its location. Using infra-red sensors the robot detects the
+cone and moves to the location that the cone was placed at. This project aimed at eliminating the
+need for the nurse in the spillage detection procedure. Instead the robot will use a webcam to
+automatically detect the spillage itself. This will improve the efficiency at which spillages are cleaned
+and therefore it will help improve the safety of the hospital.
+Image processing techniques were used to test different methods that could be used for spillage
+detection. Research and testing were carried out using a number of different image processing
+methods.
+Primary Area: Image/Video Processing
+Primary Technology: OpenCV
+Secondary Technology: C/C++
+Project Title: Development of an electrospun scaffold for
+Tissue Engineered Blood Vessels
+Name: Ken Lynch
+Email: kenneth.lynch2@mail.dcu.ie
+Programme: Biomedical Engineering
+Supervisor: Garrett McGuinness
+While the ‘gold standard’ treatment method for advanced atherosclerosis in coronary arteries remains
+bypass grafting, the need for an alternative technique is required now more than ever. The increased
+rate of occurrence of cardiovascular (CVD) worldwide, coupled with the limited supply of suitable
+vasculature replacement grafts have prompted studies into the development of tissue engineered
+blood vessels (TEBVs). This project investigates one such method, electrospinning, which can be used
+to create TEBV.
+A rotating collector, used for electrospinning, has been designed, manufactured and optimised to
+produce tubular scaffolds which could potentially be used in TEBV applications. PHBV was the
+polymer of choice for this project. A structured Design of Experiments was developed to examine the
+change in morphology of scaffolds, when subjected to parameter variance.
+Electrospun scaffolds were successfully created using this collector and scanning electron
+microscope (SEM) analysis of the resultant scaffolds was promising. Images obtained from the SEM
+show no apparent beading with fibre diameters of approximately 5.49+/-0.90 ìm. Fibre alignment, a
+feature which is imperative for TEBV applications, was also observed on the external surface of
+produced scaffolds. The process parameters for electrospinning were altered to observe their effect
+on fibre morphology, and an optimal setting for the collector was established. Although no conclusive
+results were obtained on porosity of the scaffolds, the experimentation conducted has provided the
+basis for further investigation into the area of TEBV development within the college. Additional
+features such as mechanical properties and cell seeding can be explored as a result of this project.
+Primary Area: Tissue Engineering
+Primary OS: Windows
+Primary Technology: Java
+Project Title: Ballbot control
+Name: Colm Bowden
+Email: colm.bowden4@mail.dcu.com
+Programme: Mechatronic Engineering
+Supervisor: Jennifer Bruton
+The Ballbot, a dynamically stable robotic platform has being the focus of much research in recent
+years. The unique characteristics of the platform, when sufficiently developed, allow high
+manoeuvrability and unobtrusive operation in peopled environments. For such operations a highly
+capable control system is required.
+This project examines the control issues associated with the control of a Ballbot by first developing a
+planar model of the system and then modelling and simulating this planar model using MATLAB and
+Simulink.
+Control schemes are designed to control the tilt angle and the position of the Ballbot. These control
+schemes are based on Linear Quadratic Regulator (LQR) and Proportional Integral Derivative (PID)
+methods and examined with respect to the problem of balancing and station keeping and then
+adapted to include position tracking.
+The LQR method is found to give the best response overall and requires the least amount of time to
+design. The Model of the system is verified by direct comparison with previous works.
+Primary Area: Control systems and system modelling
+Primary Technology: Matlab
+Secondary Technology: Simulink
+Project Title: An ARM'ed Inverted Pendulum
+Name: Ross Byrne
+Email: ross.byrne42@mail.dcu.ie
+Programme: Mechatronic Engineering
+Supervisor: Dr. Derek Molloy
+Current research is on-going in the field of ball balancing robots (ballbot). These robots are very
+flexible since they can any direction without first having to turn and then actuate. The simplified model
+of a ballbot constrained to one plane of motion resembles an inverted pendulum.
+This project required the design of the mechanical and electronic systems that will form an inverted
+pendulum test device. The main aim of this project is to quantify the use of a low power and low cost
+embedded system with MEMS (Micro Electro Mechanical Systems) accelerometers and gyroscopes to
+address the traditional inverted pendulum control problem. This project also required the design of
+the mechanical test apparatus using a CAD package called SolidWorks. This was used to design the
+framework that would be fabricated by the school’s workshop.
+Embedded systems or microcontrollers are used to target specific problems, whether it is
+measurement, computation or control. Microcontrollers have become so popular and accessible in
+recent times that many companies are providing hobbyists with accessible development or evaluation
+platforms. An ARM M4F processor from Texas Instruments was used as it is a low cost device with
+huge functionality. It achieves 100 Million Instructions per Second (MIPS) at 80 MHz. Code Composer
+Studio was used to develop the C code for the microcontroller.
+The accelerometers and gyroscope used were internal on a device called an ArduIMU. This Inertial
+Measurement Unit (IMU) is an Arduino based device; it was initially developed for an open source
+autopilot or drone application. It features 2 accelerometers (combined x-y direction accelerometer and
+an independent z direction accelerometer) and a three axis gyroscope to achieve 6 degrees of
+freedom. The ArduIMU also has a processor onboard (Atmega328 at 16 MHz) to do some signal
+processing such as ADC and sensor fusion before presenting a serial output to the Microcontroller.
+The IMU was tested against a rotary encoder to quantify its measurement.
+Primary Area: Embedded Systems
+Secondary Area: Software Development
+Primary OS: Windows
+Primary Technology: C/C++
+Secondary Technology: SolidWorks
+Project Title: MediFind: An online medical booking system
+Name: Seán Glennon
+Email: sean.glennon3@mail.dcu.ie
+Name: Thomas Whelehan
+Email: thomas.whelehan2@mail.dcu.ie
+Programme: Enterprise Computing
+Supervisor: Joe Morris
+This project is based on the concept of booking a medical service such as a doctor online and through a
+mobile app. We hope to prove that this is a feasible and potentially lucrative system.
+The system will allow you to search for a medical service (a doctor, a physiotherapist, a dentist etc.) that is
+located close to your location. You must also choose the medical service that you would like and also input
+your symptoms for the search. You will then be presented with a result list of chosen doctors or dentists
+etc. You can click on the chosen result and will be brought to their real-time calendar page. On this page
+you can then click an available time-slot and create a booking.
+While the main component of the system is the we application, there will also be an app available on the
+Android and iOS platforms. On the app you will be able to view your bookings, make bookings and also
+search for the closest medical services to your location just like on the web app. The app will be simple in
+features and what it can do as we want it to be a quick and efficient experience for the users. The system
+will be launched in the Irish market at first and then we will look at expanding into the English market and
+other European markets.
+The MediFind system will benefit practices that are very busy with bookings. It will also help practices that
+are struggling to get patient bookings for whatever reason. Having a presence online will help to advertise
+these practices and potentially create more business for them. The main objective of the MediFind system
+is to help make the medical services industry more profitable in Ireland and other markets.
+Primary Area: Web Application
+Secondary Area: Mobile App
+Primary Technology: SQL
+Secondary Technology: PHP
+Project Title: TouchSwarm
+Name: Killian Carroll
+Email: killian.carroll5@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: Kevin Casey
+TouchSwarm is a tool that allows mobile developers to generate a crowdsourced heatmap of their
+mobile applications based on where their users have been interacting. Developers are provided with
+an Android API which, once implemented with a deployed version of their application, tracks user
+gestures and sends them to a RESTful web server. This web server, hosted on an instance of the
+Google App Engine, aggregates the data and generates a heatmap based on user gestures and
+touches. From their browsers, developers can view this information and are given a vital insight into
+how their users are utilising their products. It provides an accurate guage on the usability of their
+product and assists them in tweaking GUI design to maximise limited mobile screen space. An
+Android API, designed to be implemented quickly and cleanly, posts data to RESTful web service at
+intervals configurable by the developer. The service then stores the data from any device with the
+TouchSwarm API active and updates the heatmap at regular intervals.
+Primary Area: Web Application
+Secondary Area: Mobile App
+Primary OS: Google App Engine, Android
+Primary Technology: Java
+Secondary Technology: REST
+Project Title: Streamy - Screen Capture & Broadcasting
+Name: Sam Halligan
+Email: sam.halligan2@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: Dr Donal Fitzpatrick
+Streamy is a desktop application capable of recording the contents of a users desktop, encoding them
+in the real time, and sending the output to a live streaming website like twitch.tv or justin.tv.
+Streamy can also capture video from any attached webcams, and it can capture system audio, as well
+as audio from attached microphones.
+While Streamy captures input, it muxes audio and video together, and encodes the output on the fly.
+The output can then either be written to a local video file, or broadcast to a live streaming server via
+RTMP.
+The motivation behind Streamy stems from the massive growth in livestreams over the past few years.
+A lot of this growth can be attributed to competitive gaming(e- sports). Games like Starcraft 2, League
+of Legends, Dota 2 and Counter-Strike have led the surge of interest and boom in viewer numbers.
+Thousands of people broadcast themselves playing these games every day, and even more tune in to
+watch them.
+Streamy allows users to capture and live stream their play.
+Primary Area: Image/Video Processing
+Secondary Area: Network Applications
+Primary OS: Windows
+Primary Technology: C/C++
+Project Title: Tweetone
+Name: Stephen Hynes
+Email: stephen.hynes8@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: Dr. David Gray
+Tweetone is a Windows 8 application designed to provided statistical analysis based on the sentiment
+of tweets from Twitter. Users can search for a hashtag to view what the current sentiment is towards
+that topic, whether it is positive or negative in tone. The user has a choice of graphical displays to view
+this information such as comparing lists of sorted by sentiment tweets, a chart displays and finally a
+world display.
+At its core Tweetone is concerned with establishing whether a tweet is positive or negative in tone,
+this is achieved by searching if a series of keywords are present in a tweet. User can add and remove
+to this set of keywords to customize their searches. Users also can be suggested a series of trending
+topics from the last 24 hours.
+Primary Area: Mobile App
+Secondary Area: Statistial Analysis
+Primary OS: Windows
+Primary Technology: C#
+Secondary Technology: XAML
+Project Title: Cloud Academy
+Name: Carl Nolan
+Email: carl.nolan44@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: David Gray
+Cloud Academy is an application aimed towards secondary schools. The system allows teachers,
+students and administration staff to carry out much of their day-to-day activities on an Android tablet
+and through a website
+The application allows schools to organise timetables, class groups, subjects, lessons, homework,
+attendance, exams, grades and student progress
+Administration staff first set up the system using a website where they can input pupil and staff
+details, photographs, permissions etc. They can then arrange timetables, class groups and subjects
+Teachers can upload their lesson material through the website and arrange their course into sections,
+lessons and exercises.
+Students use the Android application to access lesson content in-class or at home along with their
+timetable, exam results, homework and graphs of their progress over the school year.
+Teachers can use the Android application for accessing content and their timetable too, however they
+can also arrange their lesson plans, take attendance, assign homework, schedule exams, input exam
+grades and view class progress.
+The aim of the project was to develop an application which would be easy to use for students but also
+for teachers who might not be accustomed to the Android platform. It also attempts to incorporate
+many aspects of common school tasks so that using the system in the place of the normal paperbased approach would actually be realistic.
+Primary Area: Mobile App
+Secondary Area: Web Application
+Primary OS: Multi-platform
+Primary Technology: Java
+Secondary Technology: PHP
+Project Title: Hawkeye
+Name: Philip O'Reilly
+Email: philip.oreilly2@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: David Sinclair
+Hawkeye is a web application for monitoring large numbers of IP camera feeds from different sites. It
+addresses the bandwidth issues associated with multimedia streams. Hawkeye provide client side
+transcoding of the raw IP camera streams to minimise the load on the web application. This gives for
+a scalable service that could monitor hundreds of cameras simultaneously.
+It provides motion detection and alert generation. Each frame in the stream is compared to the
+previous one and if the change is over a certain threshold and alert is created. These alerts can be
+viewed in real time from the web application. The alert can then be dealt with by making an embedded
+Skype call to the site owner or police station.
+The cameras location can also be viewed on a map with police stations and other relevant data. This
+data is used for things like determining the nearest police station to a site where there is an intruder.
+The web application was developed using ASP.NET, JavaScript and Ajax. The transcoding, streaming
+and motion detection are done using the open-source VLC and AForge libraries. The client application
+is written in C# and the solution is deployed to the Microsoft Azure Cloud.
+Primary Area: Web Application
+Secondary Area: Image/Video Processing
+Primary OS: Multi-platform
+Primary Technology: C#
+Secondary Technology: JavaScript
+Project Title: Internet Controlled Security Robot
+Name: Ronan O'Driscoll
+Email: ronan.odriscoll2@mail.dcu.ie
+Programme: Electronic Engineering
+Supervisor: Derek Molloy
+A robot that can connect to a WiFi access point has beneficial implications for domestic and
+commercial security applications. There are three states to the internet controlled security robot that
+was developed in this project. The robot is autonomous: meaning that it can drive by itself, it can be
+manually driven: meaning that it can be driven online with a video games controller and it can be in a
+standby state, whereby the robot can be activated upon detecting motion in the area. When the robot
+is autonomous it uses an IR distance sensor mounted upon a servo motor to scan a number of
+distances from the robot to walls or objects. From this information it can make a decision of where to
+travel. When the robot is manually driven, a WiFly module is used to connect to the WiFi in the area
+and using a computer, the controls of a Playstation 3 controller can be mapped to send packets of
+data to the robot to drive it. The project uses an open source programming environment called
+Processing and a library called ProControls to map the PS3 buttons to code. The project uses a UDP
+library to send UDP packets to the robot. This is a connectionless protocol which means instant
+control of the robot with fast response from the controller. Also used was a PIR (Passive Infrared)
+sensor as a motion detector. When the robot is in standby as soon as there is movement it triggers the
+robot to connect to the WiFi and giving alert to a security guard to get on the controls. When the user
+is controlling the robot, packets of data are sent back from the robot based on the IR sensor’s
+distances. In Processing there is a drawing application that displays the orientation of the robot in a
+plan view.
+Primary Area: Security
+Secondary Area: Wireless Technology
+Primary Technology: C/C++
+Secondary Technology: Java
+Project Title: Inventory Management in Multi-Product Lean
+Manufacturing Environments
+Name: Josef Kunik
+Email: josef.kunik2@mail.dcu.ie
+Programme: Manufacturing Engineering and Business
+Supervisor: John Geraghty
+The aim of this project is to analyse and compare the performances of inventory management policies
+in multi-product lean manufacturing environments. The creation of hybrid Kanban - CONWIP models
+is extremely popular in the field of operations research. This project undertakes the analysis of newly
+created BK-CONWIP D-KAP and BK-CONWIP S-KAP models against the HK-CONWIP model and
+tests the influence of the decoupling of demand signals and production authorization.
+Comparative tests against previously tested models are done on a two product line with 3 stages in
+series. The lines are then increased to 3 products to test for flexibility and robustness of the models in
+question. In order to fully understand the behaviour of the hybrid models, an approach that uses a
+multi-objective genetic algorithm was then undertaken for the models’ retests.
+In a two product environment, initial tests suggested that the BK-CONWIP S-KAP and HK-CONWIP
+D-KAP were equal performers in terms of satisfying 95% satisfaction levels with the least amount of
+work-in-progress. Further analysis with the multi-objective genetic algorithm showed HK-CONWIP
+D-KAP to be the most efficient performer of the three. In a three product environment, with high
+demand variability, the BK-CONWIP models outperformed the HK-CONWIP. BK-CONWIP models are
+suitable for environments with a high number of variables and high amount of risk due to the
+decoupling of demand information from production authorization.
+It has also been found through sensitivity analysis that mutation rate affects the solution space
+searched and the accuracy and precision of the non-dominated solutions created by the Pareto
+Optimiser. The number of replications has an effect on the number of solutions produced, although it
+is at a cost of high simulation time. The right combination of mutation rate and number of replications
+is desirable for efficient and effective testing and analysis.
+Primary Area: Modelling of production systems
+Secondary Area: Discrete event simulation
+Primary Technology: ExtendSIM 8
+Project Title: Application of Air Injection in Solar Water Disinfection
+Name: Michael Nolan
+Email: michael.nolan27@mail.dcu.ie
+Programme: Biomedical Engineering
+Supervisor: Dr. Yann Delaure
+Solar Water Disinfection (SODIS) is a simple, low-cost method of disinfecting water. The SODIS
+method requires minimal supplies and uses solar energy that is free and abundant in many
+developing countries where there is a scarcity of safe potable water. There are several limitations to
+the traditional SODIS method however.
+This project investigates the viability of air injection in the traditional SODIS process. Potential benefits
+of air injection in the SODIS process include improved efficiency, reliability and applicability of the
+SODIS method for large and turbid volumes of water. Air injection and the proceeding formation of gas
+bubbles aids in increasing mixing in the water, increasing dissolved oxygen content in the water and
+increasing UV penetration in the water volume, all of which increase the efficiency of the SODIS
+process.
+In order to study the effects of air injection in SODIS a SODIS reactor with an incorporated air injection
+system was designed and manufactured. The reactor includes treatment vessels to carry 2L of water
+and a solar reflector to maximise levels of UV and thermal radiation reaching the treatment vessels.
+The reactor is ideal for hydrodynamic, thermodynamic and microbiological testing of SODIS with air
+injection. A wind turbine also developed through the course of this project can power the air injection
+system.
+The application of air injection in SODIS is an entirely new concept and this project successfully opens
+the doors to further research into this area.
+Primary Area:
+Secondary Area:
+Primary Technology:
+Project Title: Redesign of parts feed device at station C of the FMS Rig
+Name: Conor Lynn
+Email:
+Programme: Mechanical and Manufacturing Engineering
+Supervisor: Dr. Paul Young
+The aim of this project was to rectify a problem encountered with a parts feed device at station C of
+the Flexible Manufacturing System which is used by Dublin City University for teaching and
+demonstration purposes. Station C is the point of the process where the axis is placed into the
+assembly by an automated robot arm and the goal of the project was to provide a reliable and cost
+effective device for the supply of parts to the robot collection point. The project was broken down into
+sections to complete the aims of the project successfully. Planning and research into Flexible
+Manufacturing Systems was the starting point and this followed onto the concept design stage were
+possible solutions were generated. After many concept and design meetings with the project team it
+was decided that the most viable option would be to redesign the parts feed device at station C of the
+FMS Rig. A detailed design of the indexing table shown in the picture was then completed and the
+design was submitted to the workshop for the fabrication of the various components. Phase two of the
+project consisted of the build phase, programming, testing and the completion of the project. Stage
+two involved the successful completion of the project which aspired to its aims and provided an
+effective, reliable and low cost solution for the delivery of parts to station C of the FMS Rig. The
+Project was a complete design and build process with the concepts designed and modelled using
+Solidworks 2012. The project also included electrical design and implementation, the design and
+implementation of a program to control to control the device through the existing PLC Equipment and
+overall ethics of engineering.
+Primary Area: Mechanical Design and Build Project
+Secondary Area: 3-D Modelling
+Primary Technology: PLC Control/Programming
+Project Title: Documentary Heaven
+Name: Daniel Grimes
+Email: dannygrimes89@gmail.com
+Programme: Software Engineering
+Supervisor: Jane Kernan
+This project is in essence a website dedicated to the distribution of independent online documentary
+films.
+Documentary Heaven is a site that was created in the summer of 2009, currently it is simply just an
+index of freely available documentaries online and its workings are very minimalistic. A non-user
+based site that is manually updated regularly with fresh material, however this concept is becoming
+stale, as many new sites have popped up which simply copy this idea and post similar if not the exact
+same content. The goal of this project is to make Documentary Heaven into something more, a
+self-preserving online community.
+The site itself currently gets about 3 million pageviews a month and has quite an active community
+base. The goal of this project is to design a backend system based around the Wordpress CMS
+currently in place that allows for far more functionality such as, User memberships, automatic
+documentary submissions via a Portal that will allows user to upload their own documentaries on the
+fly, a voting system to ensure quality control, Broken link replacement system i.e web crawler to find
+replacements to documentaries that no longer work, website redesign, ability for users to post
+projects and seek funding.
+Primary Area: Web Application
+Secondary Area: Web Design
+Primary OS: Multi-platform
+Primary Technology: PHP
+Secondary Technology: HTML
+Project Title: Off-Grid Solar Inverter
+Name: Najib Malki
+Email: najib.malki2@mail.dcu.ie
+Programme: Electronic Engineering
+Supervisor: Dr. Stephen Daniels
+With the massive jump technology took in the past decade, energy became part of our everyday life,
+we depend on it to keep us going, it’s an essential for our everyday tasking, but with this humongous
+demand on energy there is a price to pay, starting with pollution, greenhouse gases and the list goes
+on, on top of that we are running out of the crude that powers our power plants, an alternative is
+needed. One of the solutions that have been presented is to use renewable energy to help supply the
+demand for energy; with this in mind this project proposes a way to convert the energy of the sun
+using solar panels to power our everyday applications at home. The idea is simple the power we get
+from the solar panels is DC and in order for us to use this harvested power we need to invert it to AC,
+that’s where the name ‘Solar Inverter’ came from. After a lot of research, design and effort put in this
+project it was able to take the 12 volts DC input from the solar panels and invert it to 230 volts AC
+output, this allows the output to act as a mains plug, although the power output is low, but for
+different solar panels the inverter can go up to 150 watts. This involved stepping up the voltage using
+a DC - DC converter circuit and then inverting it to AC using an DC to AC inverter, proving the concept
+of being able to use solar panels to power household electronics, and we can depend on this type of
+energy technology to partially power our houses, leading a start towards leaving the conventional
+energy production and moving to a clean energy.
+Primary Area: Renewable Energy
+Secondary Area: Industrial Electronics
+Primary Technology: Power Electronics
+Project Title: Exploring the benefits of Dynamic Value Stream Mapping
+Name: Eoin Carroll
+Email: eoin.carroll2@mail.dcu.ie
+Programme: Mechanical and Manufacturing Engineering
+Supervisor: John Geraghty
+This project was undertaken to determine the benefits of merging a traditional lean manufacturing
+technique called value stream mapping with dynamic computational software. To achieve this, a
+dynamic value stream map model was created in a software package. A case study was conducted on
+a traditional value stream map by using the dynamic model to experiment with dynamic simulation. A
+number of tests were performed on the case study model to assess any benefits that could be found.
+The model provided dynamic outputs representing inventory queue lengths and wait times. These
+outputs were graphed and examined in order to implement improvements on the production line.
+In addition to the case study, a market survey was circulated to obtain information on the current use
+of value stream mapping and the interest in a dynamic value stream mapping package. Value stream
+mapping was found to be a widely used tool in the organisations who responded and there was a
+largely positive response to the proposal of a dynamic value stream mapping tool.
+Overall there were a number of benefits found during the project such as increased value stream accuracy
+and dynamic output data. Implementation of dynamic value stream mapping was deemed to be limited by
+time, knowledge and cost constraints within organisations. This would create a large barrier especially for
+small businesses where a simple traditional value stream map would be more suited.
+Primary Area: Software Development
+Primary Technology: Extendsim8
+Project Title: Simulation of Memristor-based Circuits
+Name: Alan O'Connor
+Email: alan.oconnor73@dcu.ie
+Programme: Electronic Engineering
+Supervisor: Dr. Marissa Condon
+It is over forty years since the fourth fundamental component of electronic circuit theory, the
+memristor, was proposed in theory by Leon Chua. The device remained a theoretical item until
+recently when HP developed a physical device made from TiO2.
+The aim of this project is firstly to examine the physical properties, the operation and the I-V
+characteristics of the device that result in it having memory. Secondly, different models of the device,
+each with their own advantages and disadvantages, are examined and compared. Nonlinear
+exponential models are the most closely related to the real-world properties of the physical device.
+Finally, a memristor based ultra wide-band (UWB) receiver which utilises the memory properties of
+the devices is simulated showing a unique application of the device. This is advantageous as it avoids
+the problems with analogue to digital converters at very high operating rates.
+This project presents the reader with a solid introduction to memristors and provides evidence of how
+its unique behaviour can be utilised in solving problems that resistor, capacitor and inductor circuits
+have not been able to resolve.
+Primary Area: Circuit Modeling
+Secondary Area: Communications
+Primary OS: Windows
+Primary Technology: Matlab
+Project Title: Flights Capture
+Name: Kin Hang Tang
+Email: kin.tang2@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: Dr. Mark Roantree
+Airline Capture is a data mining application that allows the user to execute queries on the captured
+live flight information from airports. The harvested flight information is outputted into a structured
+XML format and stored in a native XML Database(Exist-db). While the harvested data is accessible, no
+system facilitates the use of mass storage of this information for public use. The public haven’t got
+the flexibility to ask statistical questions or to query facts about airlines, airports or certain flights.
+xQuery is a query and functional programming language designed to query collections of XML data.
+The application provides the submission of xQuery query expressions through the web interface. The
+submitted queries are evaluated before retrieving XML result- sets from the XML Database collection.
+Queries can be submitted to be used for making comparisons, predictions and end user data
+manipulation. The retrieved results is displayed on the web interface for the user to view and
+downloadable. Latest flight information retrieved from the application can be view via the web
+interface. Users will be able to make informed travel decisions based on results shown. Airline
+Capture was developed exclusively using open source frameworks and technologies, including
+Exist-db, Scrapy Framework and Django Framework.
+Primary Area: Data Mining
+Secondary Area: Databases
+Primary OS: Unix/Linux
+Primary Technology: Python
+Secondary Technology: XML
+Project Title: MyBalCheck
+Name: Luke Middleton
+Email: luke.middleton2@mail.dcu.ie
+Name: Louisa Mulholland
+Email: louisa.mulholland2@mail.dcu.ie
+Programme: Enterprise Computing
+Supervisor: Dr. Gareth Jones
+MyBalCheck is a mobile application which consolidates users online account balances to facilitate
+centralised account monitoring. MyBalCheck displays bank, bookmaker, mobile phone and utilities
+account balances in one single application.
+MyBalCheck was born from the frustration of managing multiple online accounts on the go. It became
+clear that this was a cumbersome process and mobile interface size was a distinct debilitator here.
+From this, the idea of a centralised login for accessing a user’s online accounts was born.
+MyBalCheck builds upon centred design guidelines to create an interactive and manageable interface.
+With over 71% of the Irish population owning a smartphone, there is a market for an application like
+MyBalCheck. MyBalCheck gives users what they want when they want it by making account balances
+available at the touch of a button on mobile devices. Through its simplistic design, MyBalCheck saves
+time for users on the go by allowing them to easily access their accounts, keeping them updated and
+informed on their current financial situation. This service is desired by users for many reasons,
+primarily their attitude in regard to their financial awareness in light of tough economic climates.
+MyBalCheck allows users to quickly analyse and use account information to make efficient and
+fiscally responsible choices when deciding to manage their funds in an immediate time frame.
+Primary Area: Mobile App
+Secondary Area: E-Commerce
+Primary OS: Android
+Primary Technology: Java
+Project Title: Automation of an Environmental Dust/Sampler
+Name: Conor O'Quigley
+Email: conor.oquigley2@mail.dcu.ie
+Programme: Mechatronic Engineering
+Supervisor: Dr. Lorna Fitzsimons
+This project began years ago from funding from the EPA. The project was developed successfully up to
+a point. Work on the project ceased for years. It re-emerged this year in an attempt to improve
+environmental monitoring. The continuation of this project integrates mechanical design elements
+and electronic control using a microcontroller to produce an automated sampler. The report discusses
+the importance for the constant need for environmental monitoring by research conducted into the
+existing methods. The existing method is time consuming and requires extensive preparation. An
+alternative method of analysis, XRF (X-Ray Fluorescence) is discussed with respect to accuracy and
+speed. This project’s aim is to develop a soil sampler that can, in future works, incorporate XRF
+analysis into a fully automated dust/soil sampler. The mechanical design aspect of this project was to
+improve on an existing design of a filter changer used for collecting dust samples. The new design’s
+intent is successful in holding an XRF analyser in a position suitable to analyse dust samples. To
+embrace the new design, modifications of the existing design are used to assist the integration of the
+new design and the old design. The electronic control of this project combines microcontroller
+programming along with power management. The microcontroller controls two stepper motors and a
+micro- pump. It controls each of these in a way to present samples onto a stage where an XRF
+analyser can sample.
+Primary Area: Mechanical Design and Microcontroller
+Primary Technology: C/C++
+Secondary Technology: Solidworks - 3D printing
+Project Title: Re-routing Food Waste
+Name: Louise Barry
+Email: louise.barry23@mail.dcu.ie
+Name: Niamh Gibbons
+Email: niamh.gibbons2@mail.dcu.ie
+Programme: Enterprise Computing
+Supervisor: Prof. Alan Smeaton
+The service provides a solution for rerouting of food waste through a web application. It allows
+restaurants to donate food that is of good quality and allows charities to avail of this food at no cost.
+Restaurants and charities have accounts on the web application and use these accounts to advertise
+(restaurants) and accept (charities) food. We want to take the stigma away from charities having to
+almost beg for food, by using our web application they are choosing from food that is being offered to
+them in a respectful manner.
+Primary Area: Re-routing Food Waste Service
+Primary Technology: None
+Project Title: Digital Guitar Tuner
+Name: Cillian Donlon
+Email: cillian.donlon2@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: Dr. Alistair Sutherland
+The goal of this application is to provide a portable and accurate instrument tuner to guitarists on the
+Android platform. The Tuner is designed to accurately calculate the frequency of a note using the
+inbuilt microphone in android smartphones and tablets. Using this frequency, the app will then
+compare this with the frequency of a correctly tuned guitar string and display the differences as either
+sharp or flat on a gauge.
+The application uses the Fast Fourier Transform (FFT) algorithm to calculate the given microphone
+sample into its frequency in Hz. The Graphic User Interface displays the peaks of the notes on an FFT
+graph in real time as well as calculate its relative proximity to a set note frequency. The app also
+displays the differences accurately on a gauge, giving the user a clear indication how in tune a given
+played note is.
+The tuner automatically detects the closest correct note to the played note and displays the
+difference. An option to tune a guitar against an exact note is also provided within the settings.
+Primary Area: Mobile App
+Primary OS: Android
+Primary Technology: Java
+Secondary Technology: Fast Fourier Transform
+Project Title: Electronic and Mechanical Control of a Horizontal
+Axis Wind Turbine
+Name: Maurice Nugent
+Email: maurice.nugent8@mail.dcu.ie
+Programme: Mechatronic Engineering
+Supervisor: Dr. Yann Delaure
+There is a need in isolated rural areas for small wind turbines that can generate a modest amount of
+energy for battery recharging etc. Online communities share their experience and expertise to help
+enthusiasts build their own prototype turbines. The common objective is continuous improvement as
+small turbines exist in the shadow of large commercial wind farms. Ideas from commercial turbines
+and aerospace are being redesigned for easy incorporation into the small homebuilt turbine and one
+of these ideas is variable pitch. Variable pitch promises lower cut-in wind speed, better aerodynamic
+performance, and good speed control to reduce noise, vibration and long term stress on the turbine.
+This project will investigate what problems variable pitch is trying to solve and how it solves those
+problems. During the course of this project the same problems encountered by small prototype
+builders when they tried to incorporate variable pitch were encountered. Judging by the lack of small
+wind turbines with variable pitch the same conclusions were arrived at as well.
+Primary Area: Renewable Energy Technology
+Primary OS: Arduino
+Primary Technology: 3D Modelling
+Secondary Technology: Motor Control
+Project Title: Commissioning of a Sectioned Petrol Engine for
+Engineering Display Purposes
+Name: Muhammad Shakeel Qamar
+Email: muhammed.qamar2@mail.dcu.ie
+Programme: Mechanical and Manufacturing Engineering
+Supervisor: Dr. Joseph Stokes
+This basic need for the engine display was to make it as easy to understand as possible. As the author
+had already worked on the engine display for INTRA, he was in a good position to set the needed
+goals. Some of the aims of the project included making the display safe by designing and installing a
+protective cover, making an information DVD with animations of the engine, making posters and
+installing an interactive real-time lighting system to help users distinguish between each stroke in
+each cylinder. The cover and the DVD were made very early on in the project and the lighting system
+was built by the use of a LabJack and LabVIEW software controlling switches and different coloured
+LEDs. The combustion chambers in the engine now house bright LED that circulate between red,
+blue, green and white colours according to what stroke is taking place in the particular cylinder. The
+information on what colour signifies which stroke is given on a poster on the display.
+Primary Area: Educational
+Secondary Area: Software Development
+Primary OS: Windows
+Primary Technology: LabVIEW
+Project Title: Who's There?
+Name: Michael Ryan
+Email: michael.ryan82@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: David Gray
+Have you ever wondered who has called to your house when you weren’t in? Using a simple fingerprint
+scanner, some Java, PHP and your mobile phone, you can! Making use of an open source fingerprint
+scanner API, this project has created a system which allows a User to receive a notification when
+somebody ‘rings’ their doorbell. When a caller scans their fingerprint, it is checked against a
+database. If it is present, the name of the owner and their picture is sent to any listening android
+devices over the web. If it isn’t present, the callers picture is taken and then sent to any connected
+devices.
+This project could be applied in several real scenarios such as employees clocking into work, hotel
+room doors or even at point of sale. The cost of the equipment would be cost effective and the design
+of the system allows fingerprints /images to be taken on embedded systems (A Raspberry Pi for
+example.). All the software is written in Java (utilizing Java Native Interface bridges to the fingerprint
+scanner and web-cam) and PHP. The project as a whole provides a demonstration of how some
+completely different technologies can be brought together to create an elegant, functional system.
+Primary Area: Software Development
+Secondary Area: Mobile App
+Primary OS: Multi-platform
+Primary Technology: Java
+Secondary Technology: PHP
+Project Title: TDE Game Engine
+Name: Neil Donnelly
+Email: neil.donnelly7@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: David Sinclair
+The TDE Game Engine is a framework designed to allow developers to quickly build 2D game
+prototypes. The engine was built using C++ with support from OpenGL and SDL. The aim of the project
+was for the engine to be versatile and robust enough for any type of 2D game to be created from
+top-down strategy to fluid side- scrollers. As an example of this, two games were built to demonstrate
+the versatility of the TDE Engine. The engine offers support for quickly adding textures, building
+animations, playing music and sounds, drawing texts from any provided font and offering easy to use
+input interfaces from mouse and keyboard.
+The graphics portion of the engine supports multiple image formats such as PNG, JPEG, BMP and
+others, using the SDL_image library and uses OpenGL to draw the images to the screen. The engine
+also supports the use of texture atlases utilizing a texture atlas packing tool provided with the engine
+developed using Python. Similarly, the fonts and animations are collected by SDL libraries and then
+drawn using OpenGL textures. The engine supports the use of any TrueType Font provided by the user.
+Animations can be created using images already stored by the engine, or breaking a single composite
+image into its individual frames. The audio supports formats such as WAV, MP3, Ogg Vorbis and MIDI.
+Primary Area: Gaming
+Secondary Area: Multimedia
+Primary OS: Windows
+Primary Technology: C/C++
+Secondary Technology: OpenGL, SDL
+Project Title: Accelerometer-Graph: A Smartphone Application
+to Capture Accelerometer Data
+Name: Brian Tyrrell
+Email: brian.tyrrell4@mail.dcu.ie
+Programme: Mechanical and Manufacturing Engineering
+Supervisor: Dr. Bryan MacDonald
+Accelerometer-Graph is an Android smart phone app that allows the user to access data from the
+on-board accelerometer sensor. Two interfaces were developed. The first interface shows the raw
+data from the accelerometer as series of three bars (one for each axis). The second interface is more
+complex and graphs the outputs from the accelerometer sensor against time in real-time. The second
+interface also allows for writing of the accelerometer output to a csv file for later analysis by the user.
+The developed app is intended for use by engineers who may need to take accelerometer readings in
+the field or who may require some coarse data for analysis before sourcing a specialist stand-alone
+accelerometer.
+Primary Area: Mobile App
+Primary OS: Android
+Primary Technology: Java
+Secondary Technology: Eclipse
+Project Title: EasyOrder
+Name: Kevin Conlan
+Email: kevin.conlan3@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: Dr. Kevin Casey
+EasyOrder is an Android mobile application designed for use in a pub/bar which serves food. Currently
+when in a bar looking to order food the customer would find a table and wait for a waiter/waitress to
+approach their table to take their order. Usually when the waiter/waitress approaches the table the
+customer would not be ready to order and the waiter/waitress would go off and come back a short
+time later. Why can’t you order food using your Android smartphone? There are many thousands of
+apps doing all sorts but none for ordering food in a bar! With EasyOrder the customer can now in their
+own time create their own order using their Android powered smartphone. All the user has to do is
+scan a QR (Quick Response Code) which is located next to each menu item and this data is added to
+an order on the EasyOrder application. When the user has completed scanning their order he/she can
+simply submit this order to the bar when the food is prepared. When an order is submitted the order
+will become visible to staff behind the bar on the EasyOrder web application sitting on a web browser
+or tablet web browser.
+Primary Area: Mobile App
+Secondary Area: Web Application
+Primary OS: Android
+Primary Technology: Java
+Secondary Technology: PHP
+Project Title: Mobile Alert Management System
+Name: Szymon Zielinski
+Email: szymon.zielinski14@gmail.com
+Programme: Software Engineering
+Supervisor: Prof. Joseph Morris
+Standard Android applications allow for very little control over how the phone should respond to
+phone calls, text messages and emails; everything has to be micro-managed by the user. This
+application will resolve a portion of that problem. The user will be enabled to define a set of rules/
+filters once, and after that the handling of the incoming calls that fall within those rules will be
+automated by the application.
+This project involves writing an Android application that allows the user to manage how they are
+alerted when their mobile devices receive a call, an SMS text message, or an e-mail. It will allow fine
+control, including recognising the sender and the nature of the incoming information.
+For example, the user will be able to specify that the phone should use its silent mode for any
+incoming calls at a certain time of day. The application will also be able to look at text messages from
+particular senders and search for user-defined keywords which dictate how it should behave. E.g.,
+text messages from Person A with the word “emergency” might play a sound notification regardless of
+the time of day or location.
+The target user group includes all Android smartphone owners who use the silent mode periodically,
+have different set ups for different callers (e.g. different ringtones), or who have the need to use more
+sophisticated caller control options.
+Primary Area: Mobile App
+Primary OS: Android
+Primary Technology: Java
+Secondary Technology: XML
+Project Title: CS One Online
+Name: Keith Curtis
+Email: keith.curtis2@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: John McKenna
+This project teaches basic computer science concepts to novice programmers. It is deployed as a
+HTLM5 web-based application introducing the learner to basic concepts such as variable creation and
+swapping, if statements, looping and a basic introduction to recursion. The application features a
+parser developed in JavaScript to accept basic commands and execute them, showing the resulting
+variables on screen. The user is incrementally introduced to the parser, building up their knowledge
+as they progress. The application also features a web forum for learners to start their own topics and
+communicate with other learners. The functionality and tutorial plan of this project was guided by
+research into the most common problems novice programmers experience.
+Primary Area: Web Application
+Secondary Area: Educational
+Primary OS: Multi-platform
+Primary Technology: JSP/Servlets
+Secondary Technology: HTML5
+Project Title: Spaci - Geo-Location iOS Application
+Name: Stephen Kerr
+Email: stephen.kerr2@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: Dr. David Gray
+Spaci is a discovery application for users, it is used to help users find interesting things nearby,
+whether it be a location or a product a space sells. The network revolves around geographical
+locations known to the network as spaces. A space can be anything, from a local school to a nearby
+park, these spaces contain information such as products, locations and tagged items. A space is open
+and can be modified by any logged-in user. Users have their own profile and can follow spaces and
+other people, by following a space they will get the latest updates and news associated to those
+spaces, by following a user they will learn about contributions and reviews a user has made to the
+network. The application consists of a couple of areas, such areas are the explore section where
+users can learn about what is nearby, they can easily change the coverage area which will change the
+results the user will see. Next we have the News Stream, it contains updates and news about whats
+nearby and subscribed people and spaces.
+Users can easily find what spaces are nearby by clicking the nearby button in the top right of the
+application, they will be presented with a map with a number of markers based around their location,
+these markers represent spaces. A space also contains products that users can easily add to a space,
+they can take a photo of the product, add a description and post it to the network. Users can review
+these products and rate the product by clicking either love or unlike. A space also contains locations,
+locations are sub-locations of the space, these would be a room inside an office building or a school.
+A user can click on a location and learn more about it, locations can also be placed on different floors,
+a user can easily go up or down floors. A user must be in a space in order to add a location as the
+location is based on their current geographical location. The iOS application was built using
+Objective-C and the Xcode environment, the server was built using PHP and for the database MySQL
+was used.
+Primary Area: GPS/GIS
+Secondary Area: Social Networking
+Primary OS: Mac_iOS
+Primary Technology: Objective-C
+Secondary Technology: PHP
+Project Title: Spillage Sensing Device
+Name: Ciaran McCann
+Email: ciaran.mccann8@mail.dcu.ie
+Programme: Mechanical and Manufacturing Engineering
+Supervisor: Dr. Tamas Szecsi
+This project outlines the conception of a number of sensing methods for the design of a spillage sensing
+device that will be used in conjunction with a fleet of autonomous hospital robots in a hospital environment
+in the EU-funded IWARD project. A number of European universities were tasked with developing each
+part of the robot, with DCU being assigned the module development. As part of this module development,
+specifically in conjunction with the cleaning module, a spillage sensing device needed to be developed.
+This project outlines the testing of conceptual sensing ideas for such a device, utilizing photoelectric
+sensors and electrical conductivity sensors.
+The photoelectric sensors are used to measure surface reflectivity. When the sensor is moved over a spill,
+the light reflected off that spill will be different to the light reflected by the floor. The electrical conductivity
+sensor works in a similar manner, except it monitors the electrical conductance between two probes in
+contact with the floor. When a conductive material crosses both probes (e.g. water), a signal is sent to a
+robot that a spill has been detected. It was found after extensive testing, that two different types of
+photoelectric diffuse sensors (infrared and visible light) were capable of detecting a number of liquid
+spills on two different floor types (matte floors and shiny floors). Also, the conductivity sensor was able
+to detect a number of liquid spills on the same two floor types, in addition to many other electrically
+conductive materials. It was concluded that the sensing methods outlined in this report were successful
+at detecting liquid spills, and therefore could be carried on for further development of the spillage
+sensing device.
+Primary Area: Sensor Technology
+Secondary Area: Artificial Intelligence
+Primary OS: Multi-platform
+Primary Technology: Java
+Project Title: Kellcam Feedback Reaction Test
+Name: Maebh Kelly
+Email: maebh.kelly89@mail.dcu.ie
+Name: Owen Campbell
+Email: owen.campbell2@mail.dcu.ie
+Programme: Enterprise Computing
+Supervisor: Professor Alan Smeaton
+This project is to determine if a person’s reactions can improve depending on the type of feedback that they
+are given. This was done through the creation of a game that asks the user to hit targets at random, over a
+period of 60 seconds. The aim of this project was to determine what is the best way to distribute feedback
+to users, and show how much of an impact this has on how quickly they will improve at the game. In order
+to do this the idea of the Batak test was used and a version of this was built. This was then connected to a
+Makey-Makey invention kit, and a program was created that provided the user with commands which they
+must complete.
+The Makey-Makey invention kit provides the ability to use any object to replace a keyboard function. This
+allows this reaction test to be customizable with any conductible object being used as an interface with the
+reaction test. With advice from members of the School of Health and Human Performance staff, a number
+of different test groups were used to conduct the tests. The groups received different types of feedback
+which had an impact on their ability and rate of improvement. This project aimed to show the importance of
+ecological learning and how feedback is important in improving performance. Each group received a different
+type of feedback, for example; one group received feedback after every test; one group received feedback
+after every session of tests; one group received no feedback; the final group received corrupted feedback.
+Primary Area: Sensor Technology
+Primary Technology: C/C++
+Project Title: Smart Phone Energy Saver
+Name: Reenu Rani
+Email: rani.reenu2@mail.dcu.ie
+Programme: Info and Communications Engineering
+Supervisor: Dr. Sean Marlow and Dr. Hrishikesh Venkataraman
+The “Smart Phone Energy Saver” is an Android application to manage the battery power of Androidbased Smartphones. Today’s mobile phones are not just used for making and receiving phone calls,
+but also to listen to music, watch videos, GPS navigation, web surfing, updating software, playing
+games and much more. They have become small PCs in our hands. A big problem in the mobile world
+is that the devices are battery powered, and the battery technologies do not match the required energy
+demand of compute-intensive applications.
+The aim of this project is to find an efficient way to increase battery life. In order to do this, the first
+step is to evaluate the power consumption of the various phone components and applications, and
+their effect on battery life. Based on the data collected, we developed an app to inform users of the top
+contenders for energy drain, allowing them to choose those applications which are easier on the
+battery. It also allows configuration changes to the device and its screen that prolong battery life, such
+as image adaptation, and innovative playback schemes that seamlessly vary the screen brightness,
+thereby optimising the energy consumption.
+Once our app is started it runs in the background. It gives a warning popup message if the battery
+level is reduced to 25%. It automatically reduces the brightness of the phone and changes the
+wallpaper to black background. It also provides a list of applications responsible for most battery
+consumption, allowing them to be turned off if they are not required. If the battery is not charged and
+further reduces to 10% of total power, it again shows a reminder to stop all of the out-of-use
+applications that are consuming power. If phone users use the app with the simple battery saving
+setting, the phone is a lot less likely to die on them when they need it most.
+In the course of the project I gained lot of knowledge on Android-based Smartphones. I learnt about
+different display technologies, and operating system features and programming for mobile devices. I
+had fun in developing the application, encountering bugs and then rising to the challenge of
+debugging them.
+Primary Area: Mobile App
+Secondary Area: Software Development
+Primary OS: Android
+Primary Technology: Java
+Secondary Technology: Eclipse
+Project Title: Non-linear Analysis of Digitally Controller
+Power Electronic Converters
+Name: Brendan Hayes
+Email: brendan.hayes3@mail.dcu.ie
+Programme: Mechatronic Engineering
+Supervisor: Dr. Marissa Condon
+The aim of this project is to investigate the occurrence of limit cycles in a digitally controller buck
+converter with a view to elimination of limit cycles.
+A buck converter converts voltage on one level to voltage on another level. It finds applications in a
+wide range of sectors such as communications, consumer electronics and the health sector. A
+controller is required for load regulation to maintain the output voltage at a desired level. Traditionally,
+analog controllers were used. However, digital control techniques are superior owing to lower
+sensitivity, reprogrammability and the possibility for more sophisticated control techniques. Yet, the
+occurrence of limit cycles prevents its widespread adoption.
+Limit cycles are oscillations of the regulated output under steady state conditions. They occur due to
+quantization in the digital controller. They are cycles or oscillations of the regulated output. They are
+generally undesirable as they degrade the output performance. This research aims to address these
+issues and aid the widespread adoption of digital controllers.
+Firstly, the research examines the occurrence of limit cycles in an ideal buck converter. Extra
+elements are then added to bring the model closer to real world models. The research investigates
+their effect on the occurrence and nature of limit cycles. The research establishes that, as the
+equivalent series resistance increases the amplitude of the limit cycle decreases until the limit cycle
+is eliminated.
+The research then proceeds to study the effect of frequency on the amplitude of the limit cycles.
+Bounds are established for each frequency. The effects of the controller parameters are then
+examined. The occurrence of limit cycles was found to be dependent on each of these values.
+Finally, filtering is explored as a method for the elimination of limit cycles. Two filters were
+considered; a notch filter and a comb filter.
+Primary Area: Power Electronics
+Primary Technology: Matlab
+Project Title: Development of a Smartphone app to assist in
+pre-surgical planning
+Name: Jordan Cahill
+Email: jordan.cahill5@mail.dcu.ie
+Programme: Biomedical Engineering
+Supervisor: Dr. Bryan MacDonald
+Orthopaedic surgeons commonly use bone-plate-screw constructs to fix fractured bones which
+facilitates healing. For each clinical case several possible combinations of plates and screws exist.
+The surgeon will commonly calculate the area moment of inertia (AMI) of each construct in order to
+determine which construct has the most favourable bending behaviour. These calculations can be
+quite distracting for the surgeon who doesn’t have a background in engineering or mathematics.
+The main objective of this final year project was to develop a Smartphone app that will automatically
+calculate the area moment of inertia of a bone-plate construct based on input values from the user.
+The app takes in user values for the dimensions of the plate and bone and uses these to calculate the
+combined AMI of the construct. The app has been developed to a basic level which will be built upon
+in future  to include different implant types and a more graphical user friendly
+interface.
+Primary Area: Mobile App
+Primary OS: Android
+Primary Technology: Java
+Secondary Technology: Eclipse
+Project Title: Web portal with searchable document retrieval
+and knowledge base
+Name: Ronan Hughes
+Email: ronan.hughes24@mail.dcu.ie
+Programme: Enterprise Computing
+Supervisor: Stephen Blott
+A web portal containing a members area, within the members area there are various resource groups.
+Registered users are allocated to one or all of the resource groups available. The members area is
+totally scalable with the administrator having ability to add/delete resources as required. Resource
+groups can be added by creating pages within the resource group and each article originating from
+the child pages created underneath. The groups within the members area can be published or
+unpublished in whole or in part. The portal was developed using the ModX content management
+system using various add-ons such as Wayfinder, GetResources, Articles and Cliche. The knowledge
+base was written using PHP and incorporating template variables to enhance the functionality and
+ease of use of the portal. MySql was used to build the knowledge base database structure with new
+knowledge items being added from within the portal using the ModX FormIt addon. Each knowledge
+item is searchable by keywords with a list of possible items being returned.
+Primary Area: Web Application
+Primary OS: Unix/Linux
+Primary Technology: Modx and PHP
+Project Title: OrderBuddy Restaurant Ordering System
+Name: Conor Gleeson
+Email: conor.gleeson8@mail.dcu.ie
+Programme: Enterprise Computing
+Supervisor: Dr. Joe Morris
+OrderBuddy is a multi-channel ordering system, offering in store self service and online ordering
+functionality. OrderBuddy’s innovative in store solution introduces self service ordering in restaurants
+by providing customers with a handheld device where they can view and order menu items. This
+Android based application provides a level of control which will ensure that misinterpreted orders are
+a thing of the past whilst normalising resource utilisation, especially during peak periods.
+This ordering model was developed in response to changing consumer priorities and technical
+capabilities in recent years. Studies have shown that casual diners place a greater emphasis on
+service efficiency and value for money in lieu of personal service. OrderBuddy facilitates this by
+reducing operational costs and reducing the per-customer transaction time. Service efficiency is
+further improved with OrderBuddy’s ‘on the move’ ordering system which allows customers to order
+their food online in advance of arrival. OrderBuddy breaks down communication obstacles between
+restaurants and customers while eliminating language barriers with its multilingual capabilities.
+OrderBuddy provides a management portal for updating in store menus, online menu catalogs and
+digital menu boards simultaneously. This information updates with immediate effect which helps to
+prevent customer dissatisfaction. This portal can also assist automated calorie count calculations.
+The system provides restaurant customers with a common log in, allowing them to benefit from
+special offers and rewards schemes, whilst providing a platform for data mining and reporting for the
+restaurant. OrderBuddy is designed to reduce required implementation and maintenance efforts as
+menu information is stored in a self implemented cloud environment and user accounts can be
+created from social network accounts, through the OAuth protocol.
+Primary Area: Mobile App
+Secondary Area: Cloud Computing
+Primary OS: Android
+Primary Technology: Java
+Secondary Technology: Openstack Swift
+Object Storage
+Platform
+Project Title: BiblioGraph - Analysis and Visual Graphing of
+Bibliographic Data
+Name: Ken Barnwell
+Email: ken.barnwell2@mail.dcu.ie
+Programme: Enterprise Computing
+Supervisor: Dr. Darragh O'Brien
+This project has been designed to analyse bibliographic data to identify relationships between data
+which has common characteristics and to display this analysed data in a variety of visual models and
+graphs, allowing a user to interpret the data in an intuitive manner. The application is designed to be a
+valuable tool for the quick and automated analysis of bibliographic data by the target users
+(Academics, PhD researchers and undergraduate students). The project aims to illustrate the
+relationships between data sources to identify important authors, years, journals or topics of a field of
+study along with providing interactive ability to create a unique demonstration within presentations to
+further indicate the importance of certain areas. The application came from a personal experience of
+having a wide ranging collection of references while seeking to understand what topics or authors
+were important and the difficulty involved in relating the references to each other. A key focus for this
+project was to deliver visual displays of data which provided affordance making them instantly
+interpretable for the user.
+Primary Area: Web Application
+Secondary Area: Data Analysis and Visualisation
+Primary OS: Multi-platform
+Primary Technology: PHP
+Project Title: Controlled Drug Release from Polymeric Micelles Using
+HPLFU
+Name: Rory Gibney
+Email: rory.gibney2@mail.dcu.ie
+Programme: Biomedical Engineering
+Supervisor: Dr. Garrett McGuinness
+This project was the first of what will hopefully be multiple projects in the School of Mechanical &
+Manufacturing Engineering, investigating controlled drug release from polymeric micelles using
+high-power low-frequency ultrasound (HPLFU). Pluronic F-127 was used as the raw material for the
+polymeric micelles. Pluronic micelles have gained much interest in drug delivery applications
+because of their ability to form micelles, to encapsulate hydrophobic drugs, and to avoid opsonisation
+and clearance by RES (reticuloendothelial system). Similar studies have been performed many times
+elsewhere using fluorescent dyes or drugs with fluorescent properties (fluorophores) which are often
+toxic and highly expensive. As an alternative to these, a mixture of analytical techniques was used to
+characterise the release of the non-toxic, inexpensive hydrophobic dye, Oil Red O, from polymeric
+micelles using HPLFU. The micelles were characterised and measured using dynamic light
+scattering. Neither vision from the naked eye, UV-vis spectrophotometry nor fluorescence
+spectrometry was successful in characterising the release of the dye from micelles. This was not to
+say that the dye was not being released but rather there was little observable change in its absorption
+between the hydrophobic core of the micelles and the aqueous solution. Therefore it was concluded
+that Oil Red O is not an appropriate non-toxic alternative to fluorophores for characterising the
+release of the contents of micellar hydrophobic cores using HPLFU.
+Primary Area: Biomedical engineering
+Primary Technology: Ultrasound
+Secondary Technology: UV-vis spectrophotometry
+Project Title: CAO like Database Application using SAP HANA
+Name: Eoin Ffrench
+Email: eoin_ffrench2@hotmail.com
+Programme: Software Engineering
+Supervisor: Ray Walshe
+The Central Applications Office (CAO) is responsible for issuing most of the undergraduate
+placements in Ireland. Every year it receives several thousand applications and from prospective
+students, therefore the processing of these applications takes a considerable amount of time. The
+CAO require a lot of information from students including an array of documentation. Some of which
+needs to be submitted by applicants via the postal service in paper form. These files need to be sorted
+and sent to the appropriate colleges. My project aims to help with the complexity of the overall system
+while cutting out the middleman. The CAO automates the applications from Leaving Certificate
+students but still relies on the postal system to receive documentation from all other applicants such
+as mature students. My system uses a SAP HANA database to decrease the computing time of issuing
+places while allowing applicants to upload important documents which the existing CAO database
+does not have the facilities to do at the moment. This should greatly increase the turnaround time of
+issuing placements to students while reducing costs to both applicants and administrators alike.
+Primary Area: Databases
+Secondary Area: Document Processing
+Primary Technology: SQL
+Secondary Technology: Ruby
+Project Title: Taxi Assistance Driver's Application
+Name: Karen Kuras
+Email: karen.kuras2@mail.dcu.ie
+Name: Rachel Bohan
+Email: rachel.bohan3@mail.dcu.ie
+Programme: Enterprise Computing
+Supervisor: Prof. Alan Smeaton
+The Taxi Assistance Driver’s Application (TADA) is an android smartphone application that provides taxi
+drivers and taxi companies with information on the locations in which they are most likely to find customers.
+It also provides a ‘mobile office’ for taxi drivers, incorporating a range of features aimed to improve their
+productivity and profitability.
+Locations of possible job fares are displayed in a list and map format ranked by time and proximity to the driver.
+These possible fares are based on information gathered through a number of integrated APIs and includes;
+- Event start and end times
+- Flight arrival times,
+- Train & DART arrival times,
+- Bus Eireann service arrival times.
+Extensive market research was carried out to define the features that would be of most benefit to our target
+market. These features include:
+- Job Bursts: The system shall allow users to create and share job bursts to notify other taxi drivers in the
+area of large groups of people awaiting a taxi service.
+- Fare Calculator: This feature shall allow users to input a destination and calculate the approximate cost
+of the taxi fare to the destination from the user’s current location.
+- Taxi Drivers Forum: This feature shall provide a chat forum for users to communicate and share
+information with each other.
+- Traffic Information: This feature shall provide traffic alerts for areas nearby the user’s location.
+The application is targeted at both taxi drivers and companies initially within the Dublin region and has
+potential for expansion both nationally and internationally. Providing this type of insight will reduce the
+waiting times between fares that are currently experienced by the majority of taxi drivers thus increasing
+their productivity and profitability.
+Primary Area: Android Development
+Secondary Area: Enterprise Application
+Primary OS: Android
+Primary Technology: Java
+Secondary Technology: Python, XML, MySQL and PHP
+Project Title: Finite Element Analysis of Fracture Fixation
+Name: Katie Hughes
+Email: katie.hughes6@mail.dcu.ie
+Programme: Biomedical Engineering
+Supervisor: Dr. Bryan Mac Donald
+This project aims to help reduce the incidence of non-unions in fracture healing. It aims to do this by
+finding the optimal distance to fix two bone fragments together which will promote bone healing. Two
+different bone fixation materials; stainless steel and a Kevlar/BCP composite, with Young’s Moduli of
+200GPa and 27.7GPa respectively, are simulated at different thicknesses using finite element analysis.
+FEA allows the prediction of the interfragmentary strains experienced at the various gap sizes, from
+the displacements at the fracture gap. The optimal interfragmentary strain for bone healing is
+between 2-10% such that certain fracture gaps and material thicknesses may not be suitable. The
+simulations are carried out on a model of the human tibia with forces representing the patient
+standing on one, and both legs.
+It was found that Kevlar/BCP composite was the best material to promote bone healing, with a
+fracture gap size of 3mm as under these conditions the most favourable strains were experienced. It
+was found that a plate thickness of between 4-6mm was suitable for use with this material and
+fracture gap size.
+Primary Area: Finite Element Analysis
+Secondary Area: Orthopaedics
+Primary Technology: ANSYS
+Project Title: Chess World for the World Wide Mind
+Name: Dmitri Lerko
+Email: dmitri.lerko2@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: Mark Humphrys
+This project is based on World Wide Mind framework (bitly.com/PEJ5RL). Project implements a fully
+functional instance of the ‘Chess World’. This will allow students to implement their own Artificial
+Intelligence minds (chess engines) and compete with others. World will also allow for the use of 3rd
+party Minds. It will be possible to use open source chess engines as ‘Chess World’ will have an open
+source standard interface support for xBoard compatible chess engines (bitly.com/7NcTMj). Chess
+World will has an appealing Graphical User Interface where chess desk will be clearly represented
+along with the current state and important game information (e.g. move number, predictions, past
+moves, etc).
+Users of the system are expected to have a prior knowledge of the Java and basic understanding of
+the chess gameplay. User can edit a supplied ‘skeleton’ sample Mind to develop and expand its
+functionality. It is also possible to combine number of existing Chess Minds by creating a new mind
+which trigger other minds under certain conditions. Such an approach will ultimately allow for
+creation of a superior Chess Minds that only play to its strength.
+Chess World also allow for non-standard interface engines to be used, however user will have to
+implement an interface that either compatible with xBoard or Chess World own native communication
+protocol.
+Learning Challenges: - Creation of fully functional chess engine with move validation. - Analyze AI of
+the most advanced open-source engines and closed source leading engine Houdini when played
+against each other. - Adapt WWM based World for work with 3rd party Chess Engines by means of
+connectivity, communication, management of the game events and graphical representation of the
+chess game. - Allow for AI competition as a measure of AI sophistication.
+Primary Area: Artificial Intelligence
+Primary OS: Multi-platform
+Primary Technology: Java
+Project Title: An Internet Controlled Embedded Linux
+Smart Security Camera
+Name: James Reilly
+Email: james.reilly2@mail.dcu.ie
+Programme: Digital Media Engineering
+Supervisor: Dr. Derek Molloy
+Last year in Ireland alone there were 27,774 burglaries and related crimes, the vast amount of these
+going unsolved. Gathering good evidence is key to key to catching the culprit.
+This project, code named ‘Peeping Penguin,’ is a low-cost, low-power, extensible surveillance system.
+Made from commodity hardware, and being modular by design, it can adapt to the wants of the user. It
+can handle numerous cameras, both mobile and static, can interface with existing alarm systems, will
+alert the user upon intrusion and footage can be viewed at any time over the web.
+The system is based on the Raspberry Pi platform and uses Python as the primary programming
+language.
+Primary Area: Security
+Secondary Area: Embedded Systems
+Primary OS: Unix/Linux
+Primary Technology: Python
+Secondary Technology: Raspberry Pi
+Project Title: Music On The Move
+Name: Thomad Downes
+Email: downest3@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: Dr. Monica Ward
+Music On The Move is a project consisting of a website written in PHP and making use of HTML5 and
+also an Android app. It allows users to upload their music onto their personal accounts and to listen
+to them from any HTML5 compatible browser or the Android app.
+The user can sign up with an email or log in through facebook. On the website users have the option
+to upload and rename audio files just as they would in a conventional music library. Music can be
+played back through the site which uses HTML5’s built in audio player. An Android app has also been
+created that allows users to log into their account and play back their audio files on their device.
+HTML5 is a relatively new mark-up language but is supported by the latest versions of all mainstream
+browsers. It allows audio playback without any software needed on the computer as well as many
+other advantages. Mobile data speeds look set to improve dramatically this year with the state selling
+4G licenses and the mobile network ‘3’ have announced they intend to launch a 4G service in August.
+Primary Area: Web Application
+Secondary Area: Mobile App
+Primary OS: Multi-platform
+Primary Technology: PHP
+Secondary Technology: Java
+Project Title: SyncFS - A Synchronous Distributed Filesystem
+Name: Craig Gavagan MacEntee
+Email: craig.gavaganmacentee@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: Stephen Blott
+This project aims to provide the user with an alternative to Dropbox, Google Drive and other cloud
+storage and backup solutions. SyncFS uses the FUSE library in order to create a filesystem that the
+user has complete control over as well as freeing them from storage limits and other such
+restrictions. The user is free to run the server wherever it is convenient for them and connect as many
+clients as they choose.
+This filesystem has been developed with programmers in mind. Often other cloud systems
+synchronise everything in a particular folder, however this is often unnecessary for a programmer as
+binary files can be generated easily by compiling the source code again. This project gives them a
+simple way of ignoring such files if their source code is present.
+Primary Area: Filesystems
+Secondary Area: Distributed Systems
+Primary OS: Unix/Linux
+Primary Technology: Python
+Secondary Technology: FUSE
+Project Title: ESP: Security Plugin
+Name: Diarmaid McManus
+Email: diarmaid.mcmanus2@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: Renaat Verbruggen
+ESP: Security Plugin is a static analysis tool for the Eclipse IDE, which focuses on finding potential
+security vulnerabilities in Java code. It was designed to run in real time as developers work, to provide
+immediate feedback about any issues as they’re introduced.
+ESP runs silently in the background, only activating after developers stop typing so as not to disturb
+their normal workflow. ESP is also highly configurable, with scanning rules externalised in simple
+XML files. This lets support for new libraries and any custom internal packages a company may use to
+be deployed easily. Warnings generated by ESP integrate with the look and feel of Eclipse, appearing
+like syntax markers within the editor window. The messages displayed by these warnings can be
+customised in a similar way to scanning rules.
+Created in Java, ESP leverages the Java Development Tool API provided by Eclipse to create an
+Abstract Syntax Tree which can then be analysed for patterns that indicate security bugs.
+ESP is released under the MIT License. More information on the project, including source code and an
+installation site for Eclipse, is available at http://www.espsecurityplugin.com
+Primary Area: Security
+Secondary Area: Software Development
+Primary OS: Multi-platform
+Primary Technology: Java
+Secondary Technology: XML
+Project Title: MoneyJar
+Name: Declan Grogan
+Email: declan.grogan8@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: David Gray
+MoneyJar is an android application that aims to help users make a difference in their lives and the
+lives of others. People giving up habits or getting into an exercise program sometimes need
+motivation, this app aims to provide just that. MoneyJar allows the users to set out their weekly plan,
+if the users don’t keep to their plan they will be prompted to donate money to a charity of their choice
+using paypals android sdk. If they are sticking to their plan they do not have to donate. This application
+is mainly aimed toward people with disposable income and a charitable disposition. The application
+has been built using the Android SDK, Java and XML.
+Primary Area: Mobile App
+Primary OS: Android
+Primary Technology: Java
+Secondary Technology: XML
+Project Title: Anois - An e-marketing Smartphone
+Application
+Name: David O'Brien
+Email: david.obrien57@mail.dcu.ie
+Name: Niall Coady
+Email: niall.coady2@mail.dcu.ie
+Programme: Enterprise Computing
+Supervisor: Dr. Cathal Gurrin
+‘Anois’ is a location based e-marketing smartphone application for iPhone and Android devices. The
+application builds a user profile on a shopper and will send notifications of retail outlets which are of close
+proximity that sells goods and services which the shopper has indicated they have an interest in. Upon
+download and installation the Anois system uses the GPS location of the shoppers smartphone and searches
+for retail outlets which sells goods or services suited to the user that are close to them.
+The application will send a notification message to a user’s smartphone, informing the user of a product or
+service that they have a genuine interest in, that is physically close to their location.
+Anois also aims to tackle the inconveniences which shoppers regularly have to deal with in terms of deal
+notifications. Various deal applications often inform users of ‘deals’ which are of little or no interest to them.
+Through the establishment of the user profile, shoppers will be enabled to receive deal notifications which
+are more suited to their taste and more likely to purchase.
+The value of this product can be seen when a potential customer is walking through town or a shopping centre.
+Though gps location, and the phone accelerometer, when a user is judged to be most likely shopping close to a
+store with products included in our database, they will be made aware of the availability / closeness of the product.
+The user will not be bombarded with many products that they may or may not have a real a interest in. The
+best matched product and most likely for future investigation from the user will be sent.
+Through the development of an application such as this one it is hoped that it will act as a bridge between the
+physical and digital worlds. Due to the decrease in sales from physical outlets as a result in growth from
+online shopping this application when installed on a user’s device may trigger an impulse for the customer to
+make a purchase from a physical retail outlet.
+Primary Area: E-Commerce
+Secondary Area: Mobile App
+Primary OS: Multi-platform
+Primary Technology: Objective-C
+Secondary Technology: Java
+Project Title: Redesign of the Chemical Storage Area in the
+Xtratherm UK Plant
+Name: Corinne O'Connell
+Email: corinne.oconnell59@mail.dcu.ie
+Programme: Biomedical Engineering
+Supervisor: Dr. John Geraghty
+This project is a design project for the chemical layout and chemical storage area in the Xtratherm
+factory based in Chesterfield, UK. The report will look at the current chemical layout, assess the risks
+and design a new layout which will minimise the risks and provide a better working environment. The
+project will focus on the layout of the wet end of the production process and aim to improve health
+and safety in the area. The new layout will provide better access to the pump sets, IBCs and
+emergency shower. The ATEX room will be extended in order to improve access to the equipment
+which will provide a safer working environment while carrying out any tasks on the equipment such as
+repair, service or calibration. The report takes Project Management theory into account and makes
+recommendations on the best way to manage the project. It will also review the applicable Health and
+Safety regulations ensuring that the area is fully compliant with all requirements. This includes the
+insurance guidelines as well as the regulations and legislations as outlined by the UK Health and
+Safety Executive. An ethical review was undertaken to ensure that the project takes all ethical aspects
+into account. It will be concluded that the new layout will provide a better working area for all and
+eliminate or reduce risks where possible. It will increase the health and safety of the area which is of
+the utmost importance considering the chemicals in the area.
+Primary Area: Redesign
+Secondary Area: Health and Safety
+Primary Technology: Solidworks
+Project Title: Industrial Chiller Efficiency and Financial Cost Analysis
+Name: Kieran O'Neill
+Email: kieran.oneill24@mail.dcu.ie
+Programme: Mechanical and Manufacturing Engineering
+Supervisor: Dr. Brian Corcoran
+There is a growing interest in appliance and building efficiency and the financial cost of any system
+inefficiency. Sustainable and green energy is beginning to play a more prominent role in modern
+industry, as people begin to realise that the world’s fossil fuel based approach cannot last forever.
+This report set out to investigate the thermodynamic efficiency and financial cost of an industrial
+chiller based at the National Metrology Laboratory. In order to calculate these values, a number of
+measurements needed to be taken. These include measuring the temperature at different points
+along the refrigeration cycle, noting pressure values at different points on the cycle and measuring
+the electrical power input to the chiller during normal operating conditions. The temperature values
+were measured using a data-logging software package called Pico. This was installed on the author’s
+laptop. Applying the temperature and pressure values to the refrigerant’s pressure-enthalpy chart
+allowed the calculation of the chiller’s coefficient of performance. This was calculated as 9.75. The
+chiller’s maximum coefficient of performance was calculated as 10.03. The electrical power input to
+the chiller was measured using a clamp-on wattmeter. This power input in kW was converted to kWh
+and an approximate financial value was calculated using information from the NML’s monthly
+electricity bills. The approximate yearly cost of the chiller to the NML is €14,240. The proximity of the
+chiller’s coefficient of performance to its maximum coefficient of performance leads to a belief that
+the chiller is operating as well as possible. This is a likely outcome, as the chiller is relatively new,
+having been installed in 2007.
+Primary Area: Thermodynamic
+Performance and
+Energy Usage
+Primary OS: Windows
+Primary Technology: Pico Data Logging
+Thermocouple
+Project Title: Identifying and Analysing Natural Hand
+Gestures for TV Motion Control
+Name: Niall Eoin Barry
+Email: nialleoin.barry7@mail.dcu.ie
+Name: Robert Joseph Burke
+Email: robert.burke2@mail.dcu.ie
+Programme: Enterprise Computing
+Supervisor: Dr. Alistair Sutherland
+Our project is aimed at identifying a Universal Set of Natural Hand Gestures for Television Motion
+control. We have interviewed participants from both the Western European and Asian Demographics
+and identified a common trend for the various controls which are necessary for Smart TV navigation.
+We have analysed the associated stress levels for participants while performing our Natural Set of
+Hand Gestures and compared them against the set of hand gestures currently being implemented by
+market leaders in the Smart TV Industry. All of the data we have captured through the various
+interview processes has been analysed and documented in our final report for the television industry.
+As part of our project, we have researched the Smart TV market and analysed its forecasted growth
+over the next few years. We have gauged user sentiment on a standardised set of hand gestures
+across various TV brands and established what effect this could have on consumer buyer behaviour.
+We have analysed various potential markets which could implement hand gesture controls in the
+future and how the development of a Universal Set of Hand Gestures for the potential devices would
+benefit the manufacturers of these products. The identification and analysis of the hand gesture
+controls for Smart TVs will serve as a use case for the potential development of motion control within
+other markets.
+Primary Area: Sensor Technology
+Secondary Area: Television
+Primary Technology: Motion Sensor
+Project Title: Analysis of the Effects of Sintering on a Vitallium
+Femoral Knee Implant
+Name: Fionnuala Fitzpatrick
+Email: fionnuala.fitzpatrick6@mail.dcu.ie
+Programme: Biomedical Engineering
+Supervisor: Garrett McGuinness
+This project was undertaken with the support of Stryker Orthopaedics. The purpose of the project was to
+analyse the femoral component of a total knee replacement system following a sintering process. This
+particular sintering step is designed to attach tiny beads to the bone-implant surface thus providing improved
+fixation as the bone cells merge with the surface of the implant. The main focus of the project is to establish
+the mechanical differences between the parts that have been beaded and standard implants and to analyse
+their behaviour during manufacturing.
+The sintering process requires that the implants be subjected to 3 extra heat cycles in comparison to the
+average implant. The maximum heat reached during the sintering cycle is above the cobalt-based alloys
+recrystallization temperature which consequently leads to an effect on the implants microstructure.
+The project consisted of two main sections: tensile testing to establish the material properties of both the
+sintered and non-sintered implants and finite element analysis representing a particular process step within
+the Stryker production line. The purpose of the FEA was to establish whether or not the sintered parts were
+more likely to fail under the constraints of this particular process step.
+Tensile testing established that sintering has no effect on the Vitallium yield strength or on the Young’s Modulus. It
+does however increase the implants plasticity, with an increase in both failure strain and ultimate tensile strength.
+FEA verified that sintered implants are more susceptible to failure during manufacturing than the standard
+implant. It also verified that the lateral half of the implant experiences a higher stress than the medial. The FEA
+analysis had many drawbacks however; poor mesh quality and a software coding error inhibited the results.
+It was concluded that the sintering process has a definite effect of the material properties of Co-Cr-Mo
+implants. The true extent of this effect has not been established within this report but has been indicated.
+Further works in microstructural analysis would clarify the physical changes experienced by the alloy
+following heat treatment while repeat tensile testing with a larger sample size would remove ambiguity from
+the results obtained during this project.
+Primary Area: 3-D Modelling
+Primary OS: Windows
+Primary Technology: Ansys Workbench 14.0
+Project Title: TeamPlus - Sports Team Management
+Application
+Name: Keith Geoghegan
+Email: keith.geoghegan2@mail.dcu.ie
+Name: Malcolm Bolton
+Email: malcolm.bolton2@mail.dcu.ie
+Programme: Enterprise Computing
+Supervisor: Jennifer Foster
+TeamPlus is a Sports Team management application which leverages modern computing and mobile
+technologies to allow managers to manage their players at a detailed level, providing amateur-level managers
+with the level of control associated with professional teams.
+TeamPlus achieves this fine-grained approach to team management through the provision of a wide variety
+of features, each of which focuses on improving a core aspect of team management. TeamPlus enables a
+team manager to comprehensively and effectively manage their teams’ exercise regimes, dietary
+requirements and rehabilitation routines. It allows managers to enter statistics for team viewing, share vital
+tactics with their team and provide team members with feedback. TeamPlus provides a video feedback
+functionality to cater for both team and individual performances. The application also allows the manager to
+monitor team member availability and provide notifications of training/match times.
+TeamPlus is comprised of two separate components. The first is a web application which the manager uses
+to manage and communicate with a team or multiple teams. The second component is a mobile web
+application plus Android / iPhone application which the player uses to receive and respond to
+communications from the manager. TeamPlus provides the following benefits:
+- The ability for the manager to allocate exercise regimes, assign dietary requirements, communicate
+match/training times and manage statistics at a team and individual level.
+- The ability for the players to view items which the manager has assigned or communicated to them (via
+their smartphone).
+- Assistance in team feedback and physical preparation off the pitch which is particularly important to
+improve performance on the pitch.
+TeamPlus has been designed so that it can be applied to more than one sport. While the initial implementation
+of TeamPlus will focus on creating an application which is primarily designed around the needs of G.A.A. and
+soccer teams, the application will be easily and efficiently adaptable to a wide variety of team sports.
+While other team management solutions are available in the marketplace, there is no other solution which
+provides as comprehensive a set of features as TeamPlus.
+Primary Area: Web Application
+Primary OS: Multi-platform
+Primary Technology: PHP, MySQL
+Secondary Technology: HTML, HTML5, CSS
+Project Title: JaM Player - An Android Music Player
+Name: Niall Mohan
+Email: niall.mohan2@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: Dr. Darragh O'Brien
+The concept of JaM Player is to combine multiple ways that Android users connect with their music
+into one application. Most people nowadays have ever expanding collections of music, with many
+carrying a portion of these collections in their phones, either locally or on some server stored in the
+‘cloud’. A prime example of this is Google’s music service. This sparked the original idea for the
+project, to in essence extend Google’s music service with other storage options such as Dropbox
+which is not made for music streaming and combine these into one application that streams music
+from these sources over the network, or music that is stored locally on a user’s phone. The original
+concept enabled me to expand the application to support other services such as providing streaming
+support for SoundCloud and ‘now-playing’ notifications to the Last.fm music recommendation
+service. JaM Player makes use of multiple API’s related to these cloud services to get streamable url
+and metadata information, some third-party and some directly developed from the service vendors.
+The use of Dropbox presented some interesting challenges in forming metadata efficiently for mp3s
+which required research into online music database services, notably Gracenote, which JaM Player
+uses to form Gracenote search queries based on filenames and Pulse-Code Modulation.
+Primary Area: Mobile App
+Primary OS: Android
+Primary Technology: Java
+Secondary Technology: XML
+Project Title: WOWit
+Name: Criostóir O'Codlatáin Lachtna
+Email: criostoir.ocodlatainlachtna2@mail.dcu.ie
+Name: Pete Maguire
+Email: peter.maguire22@mail.dcu.ie
+Name: Desmond Brodie
+Email: 
+Programme: Enterprise Computing
+Supervisor: Cathal Gurrin & Alan Smeaton
+WOWit is a new mobile app that allows users to browse, socially discover and purchase admission to any
+event/night-club/gig they want, all in a few easy taps using their smartphone. WOWit allows promoters to sell
+tickets/admission to their events as well as promoting those events in the app using user-targeted
+promotions and bidding for placement on searches.
+There is a large emphasis on the social aspects of discovering and sharing events. WOWit acts as a way of
+bringing social networks of friends together, easily allowing them to discover what events their friends are
+attending. The social stream of the mobile app links in with the Facebook API allowing users to view what
+events their friends are attending as well as suggested events and offers that promoters are pushing out.
+Promoters will be able to target specific demographics using the analytical data available to them with
+special offers and deals that will encourage users who have been to their events before to come back again
+as well as users who have been to similar events.
+As WOWit will have a database of users information, it can be anonymised and passed onto promoters. We can tell
+promoters where their customers came from, what college they go to, gender, age groups and even anonymous
+social circles. This analytical data will be invaluable to the promoter. For example. WOWit will notify the promoter
+when birthdays are approaching allowing the promoter to offer that person special offers. There will also be a
+WOWit API where we can pass anonymised data onto third-parties like taxi companies. Information such as how
+many people are in a venue and where they live is invaluable information to a taxi driver.
+WOWit will also provide promoters with analytical data to let them see anonymised details on whoever comes
+to their events. WOWit focuses on the long tail of the market, targeting promoters who otherwise would not
+be able to sell tickets to events very easily online. WOWit aims to be so simple and easy-to-use that setting
+up a new event is a completely fluid, simple experience.
+Primary Area: E-Commerce
+Primary OS: Multi-platform
+Primary Technology: Java, PHP, XML
+Secondary Technology: HTML, CSS, Javascript
+Project Title: Sensor Fusion Data Processing
+Name: Aine Brennan
+Email: aine.brennan38@mail.dcu.ie
+Programme: Mechatronic Engineering
+Supervisor: Jennifer Bruton
+This project presents a solution to sensor fusion for position control of a self- balancing robot on a
+ball (Ballbot). Due to the balancing nature of the Ballbot, position control is not a trivial task. The
+outputs of the sensors need to be reliable and accurate enough to ensure the positioning of the
+Ballbot is unobtrusive in a human environment. The feedback from sensors must also be capable of
+rectifying the position of the Ballbot should it experience external forces.
+The sensors selected for the application are a gyroscope and an accelerometer. Through the use of
+digital filtering techniques in MATLAB software, the disadvantages of both sensors can be attenuated
+while maintaining the advantages.
+A Complementary filter technique with high-pass and low-pass filters was employed to perform
+sensor fusion of the accelerometer and gyroscope data.
+Low-pass filters were utilised to remove high frequency noise from the accelerometer while high-pass
+filters removed the low frequency drift experienced by the gyroscope. Initially, basic first order
+high-pass and low-pass filters were designed and implemented in MATLAB. It was observed that
+some smoothing occurred. However by implementing the Butterworth variation of low- pass and
+high-pass filters, the smoothing effect improved.
+Higher order filters were implemented for both the basic and Butterworth filter types. It was found
+that the smoothing effect for Butterworth filters improved significantly as the filter order increased,
+however, this increase in order also caused a time lag.
+For use in a robotic application, it was concluded that a compromise between smoothing and time lag
+would have to be defined.
+Primary Area: Sensor Technology
+Secondary Area: Digital Signal
+Processing
+Primary OS: Multi-platform
+Primary Technology: Matlab
+Project Title: Programming for Beginners
+Name: John O'Hara
+Email: johnohara89@gmail.com
+Programme: Software Engineering
+Supervisor: Dr. Monica Ward
+This web application is aimed at promoting programming skills to teenagers. The idea is to allow
+students to get a grasp of these skills before entering college. Students can view tutorials to learn
+new material and then test their knowledge with assessments. They have a profile page to encourage
+interaction and competition between users. Also they have access to a forum where they can go for
+help and support.
+Teachers can effortlessly add new tutorials and assessments through the web interface. This means
+content is constantly growing and ensures users are kept up to date. The application is localised and
+currently supports English, Irish and Czech. Additional languages can be added easily which
+eliminates language barriers and broadens the target market. This application has also been
+optimised for mobile so users can enjoy the same experience on their mobile phones or tablets as
+they can on their desktop.
+This web-application was built using the Spring MVC framework. It was developed and deployed using
+an array of open source technologies such as PostgreSQL, Tomcat, Hibernate, Maven, Ubuntu Server,
+Bootstrap and jQuery. Comprehensive testing has been performed using jUnit for unit tests and
+Selenium for automated User Acceptance Tests. User testing and evaluation by transition year
+students has pinpointed weaknesses in the application and led to a vastly improved user experience.
+Primary Area: Web Application
+Secondary Area: Educational
+Primary OS: Multi-platform
+Primary Technology: Java, PostgreSQL,
+Tomcat
+Secondary Technology: Spring, Maven,
+Hibernate, JPA,
+Javascript, Senenium
+Project Title: Sensors In Sport
+Name: Gavin Power
+Email: gavin.power7@mail.dcu.ie
+Programme: Mechatronic Engineering
+Supervisor: Brian Corcoran
+The use of technology is continuously being applied in sport. A range of sensors are now available to
+assist with personal training and to improve sport performance. The purpose of this project was to
+develop a device to enhance the performance of football players by placing a sensor inside a football
+boot. Relevant research was carried out to determine what type of sensor is suitable to carry out this
+task. The sensor is capable of capturing the movement of a player and wirelessly transmitting the
+data to a receiver connected to a computer. Extensive testing was carried out using the sensor to
+establish a threshold between the different stages of motion such as walking and jogging. The use of
+this threshold is used in the development of a small piece of coding in Microsoft Excel. The
+programme developed is capable of detecting different events a footballer would endure during a
+football match from the data retrieved by the sensor. The collected data is then used to identify
+performance aspects which the user of the boot can improve.
+Primary Area: Sensor Technology
+Secondary Area: Wireless Technology
+Primary OS: Windows
+Primary Technology: C#
+Secondary Technology: Microsoft Excel
+Project Title: The 'My Deals' Application
+Name: Stephen Kealy
+Email: stephen.kealy2@mail.dcu.ie
+Name: Patricia McLaughlin
+Email: patricia.mclaughlin2@mail.dcu.ie
+Programme: Enterprise Computing
+Supervisor: Monica Ward
+This project is a proof of concept for an android based application. With many deals websites
+emerging everyday, the idea was to create an application which can link them to. The application will
+search these deal websites via a custom made crawler and return the relevant information to the
+server.
+The application will use the GPS from an android phone to find the user’s location (via its longitude
+and latitude). Then a script file will run to compare the location, to that of stored deals in the
+database. The deal which is nearest the users location will then be returned to the user. The user has
+the option to choose to get the directions to the deal, and the relevant information will be set up in the
+maps application.
+There will be only 3 options on the homepage to keep the program easy to use. The 3 options are:
+My Location - Here, the user finds their location, and the offers which are available in their area.
+All Deals - Here, the user see all of the offers which are stored in the database. If this option is
+chosen a string will be returned to the user containing all the relevant deals and offers. The user can
+select one, and get the directions to the location of the deal.
+Help - this will be a general help section, informing the user about the application and how to use it.
+Primary Area: Mobile App
+Secondary Area: GPS/GIS
+Primary OS: Android
+Primary Technology: Java
+Secondary Technology: HTML
+Project Title: Review Technology
+Name: Christopher Murphy
+Email: christopher.murphy239@mail.dcu.ie
+Name: Leanne Pigott
+Email: leanne.pigott2@mail.dcu.ie
+Programme: Enterprise Computing
+Supervisor: Dr. Monica Ward
+Our final year project is a proof of concept project called Review Technology. It is a software application that
+will sit on websites that contain online user reviews. The aim is to provide an overview of all reviews for the
+product/service, through the use of graphics. The goal is to combat the issue of biased reviews or reviews
+based on a once off negative experience, as this may affect the opinion of those reading reviews, even when
+they may not actually be an accurate portrayal of the product/service. Opposed to the user having to read
+through all the past reviews to get an accurate idea of the overall view of the product/service, they will be able
+to view a summary of all reviews in different forms of visualizations. The visualizations our project will be
+focusing on are; word clouds, trend graphs and graphs containing basic statistics of all past reviews and
+sentiment analysis graphs. The final feature we propose is a search function, which will allow users to search
+all reviews and filter them to show ones containing a keyword or words. Through this users can look at reviews
+for a specific topic in relation to that product or service.
+The word cloud will show users key words that have been mentioned frequently in reviews, so they will have an
+idea of key topics discussed about this product or service. The word cloud is able to filter out pronouns and
+conjunctions so that irrelevant words are not displayed in the final cloud. In our proposed functionality, the
+words will be hyperlinked to a page which will display some statistics of the use of that word in reviews and
+listing all reviews that word is listed in. The trending topics graph will show frequently talked about topics and
+over what time span they were talked about for. This will then be able to take into account reviews covering a
+topic that was only relevant for a short period of time. Graphs with Sentiment Analysis (Positive or Negative
+Feedback) will be a feature of the software. Using Sentiment Analysis Algorithms, our software will be able to
+distinguish positive reviews from negative reviews. We will then use the results to provide a summary of the
+opinions of all reviewers. The final feature we propose is a search function, which will allow users to search all
+reviews and filter them to show ones containing a keyword or words. Through this users can look at reviews
+for a specific topic in relation to that product or service.
+Primary Area: E-Commerce
+Secondary Area: Software Development
+Primary OS: Multi-platform
+Primary Technology: Java
+Secondary Technology: JavaScript
+Project Title: Automated Weighing Device
+Name: Pádraig Ferris
+Email: padraig.ferris2@mail.dcu.ie
+Programme: Mechatronic Engineering
+Supervisor: Dr. Harry Esmonde
+This project report outlines the steps taken to automate and modernise the Mass Comparator
+component of a Mass Calibration System for the National Standards Authority of Ireland. The report
+provides insight into the considerations required to develop the solution to this problem, the steps and
+reasoning behind each approach taken by the author and a detailed analysis of the features included
+in the final product. Though full control could not be achieved for the Mass Comparator, each
+approach taken in the attempt to reach communication is outlined and a possible solution is
+considered. A program designed in LabVIEW to automate the calibration process is detailed with
+each step and feature of the development process described.
+Primary Area: Software Development
+Secondary Area: Calibration
+Primary OS: Windows
+Primary Technology: LabVIEW
+Project Title: Artificial Life
+Name: Sam Murray
+Email: sam.murray2@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: Alistair Sutherland
+The project is a zero-player game similar to Conways Game of Life or Langton’s Ant, where a simple
+set of rules generates a complicated behaviour. However, this system differs in that it takes the
+approach of applying its simple set of rules to a tangible free moving physical environment, i.e. not a
+grid of cells turning on and off but instead a soft body physics engine is the board, 2D vector meshes
+are the cells and the rules are a simplified model of the forces that govern microscopic life. The
+project is a learning tool. The game world’s evolution is determined by its initial seed state that the
+user sets. The system provides a GUI for the user to set the seed state and then observe the world
+and also allow for intervention in the world’s state. The system is a practical study aid for anyone with
+a general interest in computer science and or microbiology.
+Primary Area: Zero-Player Game
+Primary OS: Multi-platform
+Primary Technology: C/C++
+Secondary Technology: OpenGL
+Project Title: Weight Manager
+Name: Paul McGrath
+Email: paul.mcgrath22@mail.dcu.ie
+Name: Shauna Lewis
+Email: shauna.lewis5@mail.dcu.ie
+Programme: Enterprise Computing
+Supervisor: Monica Ward
+This is a proof of concept project. The project focuses on an android application which can be used by
+people on weight management plans in order to track their weight. The application provides the
+capability to assist weight loss by using the Weight Watchers Pro Points system. The application
+utilises a database, which is stored on the cloud, to store nutritional information on various foods,
+along with point values. The application provides the functionality to scan barcodes on products in
+order to view their points values. Users can also enter details of a new food item and, using an
+algorithm, the application will calculate the Pro Points value for this food item. Once a new food has
+been calculated, the points value is then stored in the database for use. The application allows users
+to track the food which they eat each day, also displaying a points value for each item. The application
+also allows users to input their weight weekly and to view their progress visually on a chart. There is
+also integration with exercise apps for calculating activity point bonuses. The application contains a
+forum in order for users to have discussions and share tips with each other. Through the application,
+users can also create shopping lists as they find items which they need. There is also the possibility to
+link this shopping list to a partner retailer’s online store in the future. The application also provides
+users with the capability to add and share recipes and to rate recipes to provide feedback for other
+users.
+Primary Area: Mobile App
+Primary OS: Android
+Primary Technology: Java
+Project Title: LMS (Landlord Management System)
+Name: Aaron Dolan
+Email: aaron.dolan2@mail.dcu.ie
+Name: Mali Kahlout
+Email: mali.kahlout2@mail.dcu.ie
+Programme: Enterprise Computing
+Supervisor: Rory O'Connor
+LMS is a unique web application that looks to solve a common problem for many individuals whilst
+leasing a property. Traditionally information between a landlord and a tenant is not well documented
+or stored in an efficient manner. This leads to potential ambiguities between the two parties,
+something which can be avoided by using LMS. Our dedicated web application is intended to take the
+stress out of leasing, not only for the landlord but also for their tenants, and does so in a variety of
+ways. It centrally stores all the documentation associated with leasing a property, from tenant
+information forms and inventory lists to utility readings and maintenance procedures. Our application
+is built around flexibility, allowing all parties of a lease agreement to login and check certain details
+that are contained within the application. For example a landlord can have the ability of logging into
+the system and checking what properties in his portfolio are currently occupied, the contact
+information for the tenants and what bills associated with the lease are currently outstanding. A
+tenant is also afforded the opportunity to login to the system and have access to information on the
+property they are currently leasing. A tenant is capable of checking what rent is due, when the next
+house inspection is scheduled for and the landlord contact information. The main reason for using
+such a web application is the fact that either party can access the system at any time, from any
+location and from any device, be it mobile, desktop or tablet connected to the internet. As a result
+neither party is restricted by the other party, and can find out information regarding the property with
+click of a button. LMS has also incorporated additional functionality into the application, which allows
+users to request maintenance work for a property. The user submits the nature of their request
+through the online submission form, and a list of approved tradesmen quote prices for the job. The
+user can then pick the tradesman for the job and schedule the work.
+Primary Area: Web Application
+Secondary Area: Databases
+Primary OS: Multi-platform
+Primary Technology: PHP
+Secondary Technology: HTML
+Project Title: Magneto-Rheological Fluid Damper Design In Shear Mode
+Name: Brendan Mackey
+Email: brendan.mackey3@mail.dcu.ie
+Programme: Mechatronic Engineering
+Supervisor: Dr. Abdul Ghani Olabi
+Magneto-Rheological Fluid (MRF) dampers are one of the most promising devices for smart and
+effective vibration control. These devices have a large force capacity, fast response time, high dynamic
+variety, mechanical simplicity and low power requirements making them interesting and useful new
+components in modern suspension systems. This project is carried out to produce a new concept
+design of MR damper which combines the workings of existing conventional dampers with those of an
+MR damper. The aims of this study are as follows:
+i. To improve conventional damper efficiency and reliability by applying MR fluid technology to the
+design.
+ii. To reduce the cost of MR damper design by reducing the MR fluid amount in the design.
+iii. To improve the damper safety in case the magnetic field ceases operation, since the damper can
+be work by all abilities of a conventional damper. The aims of this project were achieved through
+investigative modelling and examination of MR fluid material (MRF-140 CG) produced by Lord
+Corporation for characterising a new MR fluid damper. The Finite Element Method Magnetic
+(FEMM) software package was used to simulate the damper and the magnetic circuit design. The
+MR damper technology presented in this project has shown a great development in cost reduction,
+geometry size and proven results that it is capable of carrying a large amount of damping force.
+The manufactured prototype damper and all its design considerations are discussed in detail as
+well as the ethics that accompany these design decisions and the testing and implementation of
+the design for practical applications.
+Primary Area: Automotive Technology
+Primary Technology: FEMM
+Project Title: Google Authenticator Server-side Security Framework
+Name: Doireann Nic Shuibhne
+Email: doireann.nicshuibhne2@mail.dcu.ie
+Programme: Info and Communications Engineering
+Supervisor: David Molly
+Two-factor authentication is becoming increasingly more common in the web applications that we use
+every day. Online banking is one of the most common places we meet the two-step login process, but
+with increased user awareness, demand for a more secure login on web applications, such as email
+and social networks, is increasing.
+Google have created a smartphone application, “Google Authenticator” that will generate codes to be
+used for the second stage of the login process. The source code for the application is open source,
+enabling developers to incorporate it into their application.
+The aim of this project is to develop a secure framework that uses “Google Authenticator” in its
+authentication process.
+The result of this project is a web service and client application that use the 2-step process. The web
+service allows multiple applications that use the same user set, to manage their user creation, login
+and authentication. The client application is a simple website that uses the web service to handle its
+user authentication. The client site also implements several other methods of securing user data,
+such as password encryption and TLS.
+Primary Area: Software Development
+Secondary Area: Security
+Primary Technology: JSP/Servlets
+Secondary Technology: WSDL
+Project Title: Performance Enhancing Proxy for TCP over lossy connections
+Name: Gregoire Delannoy
+Email: gregoire.delannoy2@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: Darragh O'Brien
+The aim of this project is to improve the quality of experience for users connected to Internet via
+wireless networks. As for now, most of our Internet usage rely on a protocol designed nearly 40 years
+ago for wired networks: TCP. It has numerous drawbacks when used over a wireless networks, as
+segments can be lost randomly and the delay can vary significantly. Research teams have been
+working on alternatives or modifications to the TCP protocol in the past 15 years. Usually protocol
+modifications can only be simulated, as we need a wide acceptance in the Internet infrastructure for
+them to be really used.
+The goal with this project was to design and develop a proxy infrastructure -- allowing a real-world
+use --, in conjunction with a new network protocol: Coded- TCP. This new protocol has been proposed
+in 2012 by a team at MIT to solve the low performances problem of TCP over packet-erasure
+networks. The protocol has been implemented and the system has been deployed to the proxy system.
+It can now be used to enhance performances of mobile devices such as phones or laptop connected to
+packet-erasure networks like some 3G networks or WiFi hotspots.
+Primary Area: Network Applications
+Secondary Area: Wireless Technology
+Primary OS: Unix/Linux
+Primary Technology: C/C++
+Project Title: IntelliFarm
+Name: Troy Cronin
+Email: troy.cronin3@mail.dcu.ie
+Name: Joshua Lamb
+Email: joshua.lamb2@mail.dcu.ie
+Programme: Enterprise Computing
+Supervisor: Dr. Rory O’Connor
+IntelliFarm - Farming Made Easy
+Farming is an industry of mass importance in nations all over the world. This is due to its responsibility in
+producing food for the world and the significant economic benefit that it gives to various work sectors.
+IntelliFarm is an android based application that provides users in the farming industry with a range of
+different tools that assist with various farm management activities.
+IntelliFarm provides readily accessible tools that relate to key farming activities of:
+Livestock management (Dairy, Beef, Sheep, Pig Farming)
+Crop management (spray, yield, sowing rates) Feed Management (Feed rations, fodder etc.) Grass
+Measurement (Calculation of grass available) Nitrates Calculator (to assure compliance with the nitrates
+directive).
+Our application houses the operational capability to record key livestock management statistics (i.e.
+medication, AI dates), feed and crop details. In conjunction with these recording tools there are also grass
+and nitrates calculation facilities.
+Monitoring farm activities can prove to be quite a difficult challenge for farm owners and operator personnel
+therefore adequate time and task management is of the upmost importance. The mobile application market
+directed at agricultural industries around the world is vast and highly competitive. IntelliFarm as an android
+application boasts a multifunctional set of helpful farm management tools delivered within one app. Current
+mobile applications aimed at agricultural farming industries are broad in terms of functionality but are
+lacking different tools in one application. The majority of farming apps charge users for separate functional
+tools released in separate apps. This is not the case with IntelliFarm as cross functional management tools
+are housed essentially ‘under the same roof’. IntelliFarm functions off the notion of simplicity but follows the
+concept of a dynamic utility making it an appealing choice to anyone working on a farm. As the world of
+farming operations continues to move away from the concept of recording important details with a pen and
+paper a mobile management application is not only viable but a universally attractive prospect.
+Primary Area: Mobile App
+Primary OS: Android
+Primary Technology: Java
+Secondary Technology: XML
+Project Title: Vowel Tutor Android App
+Name: Makar Emelyanov
+Email: makar.emelyanov2@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: John McKenna
+Vowel Tutor is an Android app that guides language learners on the pronunciation of vowel sounds.
+This is achieved by tracking formants of the learner’s speech. The app provides graphical feedback on
+actual and target tongue positions of the vowel that is being pronounced. Target tongue positions are
+derived from native speakers’ speech and have been adjusted for gender and height; the assumption
+being that height correlates with vocal tract length.
+Primary Area: Digital Signal Processing
+Secondary Area: Mobile App
+Primary OS: Android
+Primary Technology: Java
+Secondary Technology: XML
+Project Title: Mobile App to assist Blind Users
+Name: Kaylee Cherry
+Email: kaylee.cherry2@mail.dcu.ie
+Programme: Digital Media Engineering
+Supervisor: Prof. Barry McMullin
+Every time a blind person goes shopping they are faced with the problem of trying to identify products
+based on how they feel or left asking for assistance. This Android mobile application is designed to
+resolve this issue. Nearly all products available can be identified by their barcode. Using integrated
+libraries I have created a unique barcode scanning app. Unlike barcode scanners which are already
+available on the Android Market that need to be positioned perfectly along a red scan line, in this app
+a barcode will be detected and analysed regardless of position or rotation.
+The corresponding barcode number is extracted from the product. An internet search is then done on
+this figure, checking first for a match on the UPC database, followed by a Google search if no result is
+found. HTML parsing is then used to retrieve the product’s title. This information is read out to the
+user using built in Text-to-Speech technology. The user then has the option to enter their opinion of
+this product using Speech-to-Text and the mobile’s microphone. This information is then saved to a
+database which is stored locally on the phone. This means that the next time this same barcode is
+scanned the user will not need an internet connection and the information will be retrieved from the
+database.
+This is a fully functioning mobile app which is in line with Android accessibility guidelines to allow
+blind users navigate and use the app with confidence and ease.
+Primary Area: Mobile App
+Primary OS: Android
+Primary Technology: Java
+Project Title: Golfy
+Name: Ciaran Verdon
+Email: ciaran.verdon2@mail.dcu.ie
+Name: Philip Timmins
+Email: philip.timmins4@mail.dcu.ie
+Programme: Enterprise Computing
+Supervisor: Darragh O'Brien
+Golfy is an all-in-one golf website and android mobile application. Our vision for this project is to
+create an online location, to which golf fans can interact with, and use, to find bio’s, stats and other
+relevant information for all of the major golf tournaments, courses and professional players. The
+latest golfing news and scores from live events will also be streamed on our platforms. The availability
+of a mobile application will provide a competitive advantage for this product. The incorporation of
+social interaction, where users can interact via social networking sites (Facebook and Twitter),
+provides a unique differentiation from existing Golf websites. This feature will enable users to
+comment, in real time, on live golf events around the world and to ‘check-in’ i.e. to show that you have
+or will attended an event via the mobile application.
+The web application was developed within the Joomla framework. It has been built on a responsive
+web design allowing for enhanced viewing on mobile and tablet devices. It displays all
+player,course,news and tournament information on the front end of the website. It is also used as the
+platforms backend to input entity data into the database, add new news articles and modify different
+modules and elements of the site. A webservice currently provides information from the database to
+the mobile application. The android mobile application can be used for location based services such
+as checking in via facebook to a tournament.
+Primary Area: Mobile App
+Secondary Area: Web Application
+Primary OS: Multi-platform
+Primary Technology: Java
+Secondary Technology: PHP
+Project Title: Network Traffic Analyser
+Name: David Kernan
+Email: david.kernan4@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: Brian Stone
+This software allows a user to Remotely access and monitor a hosts Network Activity. This includes
+the retrieval of Network Traffic data via Network Capture. The Software is accessed via a Web Portal
+build upon the Django Web Framework. From here the user can access statistical information
+including common hosts, traffic to and from the host, times of high traffic, times of low traffic. The
+software can be configured to alert a specified email address on high traffic or at regular set intervals.
+The user can view associated network data that can be derived for a typical packet. The backend is a
+Daemon process written in Python.
+The Software is mostly useful for users who wish to monitor their servers remotely. Because the
+software runs on a Web Server through the HTTP Protocol, the user will be able to access through any
+internet device with a capable web browser.
+The Graphing engine and Time Series databases are powered by RRDtool.
+Primary Area: Network Applications
+Secondary Area: Web Application
+Primary OS: Unix/Linux
+Primary Technology: Python
+Secondary Technology: RRDTool
+Project Title: TravelPal - A feature rich mobile application using
+NFC Technology
+Name: Caoimhe Dowling
+Email: caoimhe.dowling28@mail.dcu.ie
+Programme: Enterprise Computing
+Supervisor: Mr. Brian Stone
+TravelPal is a mobile application targeted at the Irish Tourism Industry. TravelPal provides a feature
+rich information system to the end user empowered by Near Field Communication (NFC) technology.
+TravelPal provides seamless access to extensive tourist attraction information through one core entry
+point replacing the necessity for brochure stands within hotels, attraction sites and airports.
+Within an Irish attraction site today, Point of Interest [POI] content is generally presented in English to
+the visitor via information boards. By use of NFC tags positioned on these boards or in close proximity
+to the POI, a visitor may scan the tag using their mobile device and TravelPal will present Point of
+Interest information through multiple content forms by way of Text, Image, Audio and Video in the
+language of their choosing. TravelPal allows visitors from both overseas and domestic markets to
+fully immerse themselves in Ireland’s heritage along with strongly enhancing the attraction
+experience for visitors with reading disabilities or the visually impaired. TravelPal further provides
+users with an option to locally store all POI content prior to attraction site arrival in order to avoid
+costly data roaming charges along with location based recommendations and social network
+integration.
+Through mobile application usage, TravelPal captures real time data on each visitor to an attraction
+site. This data is then presented to attraction site management via an interactive real time analytics
+dashboard facilitating data driven business decisions. Unique data such as total visitors, gender
+analysis, nationality analysis, age analysis, POI analysis, throughput analysis, date range analysis,
+promotional analysis and much more is provided allowing management to gain a unique competitive
+insight into their site, for example, determine the top 10 POI and promotional offer success. Although,
+TravelPal is primarily developed for the Irish Tourism Industry, the underlying concept can be
+channelled into other markets such as the Hospitality, Retail and Corporate sector.
+Primary Area: Data Analytics
+Secondary Area: Mobile App
+Primary OS: Android
+Primary Technology: Java / .NET
+Secondary Technology: SQL
+Project Title: Procedural Content Generation Game
+Name: Christopher Boyle
+Email: christopher.boyle22@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: Dr. Martin Crane
+PCG Game, is a top-down 2D sprite based game designed to demonstrate the use of procedural
+generation of content in a game setting. Developed using the Lua Love Framework, it is primarily for
+the Windows platform.
+The dynamic generation of content is primarily focused on the terrain of the game world, and it uses a
+variation of the dungeon generation algorithm to achieve this generation. The games objective in
+simple terms is that you must take control of the player character, and guide it through the
+procedurally generated maze avoiding any AI enemies or traps you encounter on the way.
+The camera of the game focuses on the current room the player inhabits. Adjacent rooms will be
+generated as the player continues through the maze and stored in memory until the determined room
+limit has been reached. Each room is generated from a template, and then the overall game world is
+constructed in such a way as to not provide any scenarios which the player cannot complete.
+Primary Area: Gaming
+Secondary Area: Software Development
+Primary OS: Windows
+Primary Technology: Lua
+Secondary Technology: Lua Love Framework
+Project Title: GetToKnowMe
+Name: Danil Rusakov
+Email: danil.rusakov2@mail.dcu.ie
+Name: Alexandra Moldovan
+Email: alexandramonica.moldovan2@mail.dcu.ie
+Name: Radoslav Kissiov
+Email: 
+Programme: Enterprise Computing
+Supervisor: Cathal Gurrin
+The idea of the project is to develop a simple Social Networking Application for Android-based mobile
+devices and tablets. The purpose of the application is to facilitate communication for users with
+similar interests. The core idea of the application is to rate people according their activities and
+interests in particular areas, and to automatically generate lists of other users with similar interests.
+When a person has accomplished an everyday activity (such as finished a project at work, went to a
+movie, participated in an event), he/she then records the activity in the application and gets a +1 score
+in the particular area. The score accumulates each time a user records an activity. That provides the
+basis to determine the user’s areas of interests. The application is going to automatically select users
+by their score ratings and recommend them to each other. Each time user logs into the application,
+new buddy requests are generated. The user can then scan through the profiles of the proposed users
+and decide whether to connect to the user or not. When the users are connected, they become
+buddies and can leave comments on activities of each other.
+Primary Area: Social Networking
+Primary OS: Android
+Primary Technology: Java
+Secondary Technology: XML
+Project Title: On Cue - Web Based Reminder Service
+Name: Stephen Lynam
+Email: stephen.lynam23@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: Darragh O'Brien
+On Cue is an interactive web based email (JavaEE JavaMail API) reminder service, created using Java
+Servlets, using Javascript/JQuery coinciding with Twitter’s Bootstrap responsive HTML5/CSS3 library,
+sitting on a backend consisting of Enterprise Javabeans (through JNDI), EJB Timers and
+corresponding Timer Service and MongoDB document driven database.
+The application runs on Jboss’ application server and EJB container, which holds and retains timer
+service references
+Even with the switch to newer technologies, Enterprise Java is still widely used in industry today. The
+system is aimed at providing a lightweight, straight- forward and user friendly alternative to existing
+reminder based services, and to demonstrate the application of Java Enterprise Edition principles and
+implementation. The application is mostly focused towards ease of use, making use of the ‘use it,
+forget it’ mentality that is essential to any reminder service.
+After registration, each user is presented with their own individual list of contacts and reminders.
+Reminders are fully customisable and contain settings to vary the reminder’s usability, such as single
+use and repeat reminders.
+Each reminder also contains references to contacts contained in that user’s contact list, to enable the
+creation of group based, multi-contact reminders.
+Upon the creation of a reminder, a timer is created on the application server, its timeout settings
+determined by the times entered by the user as part of reminder creation. Once the reminder expires,
+a backend processor is used to parse, compile and send email reminders to each contact included.
+Primary Area: Web Application
+Secondary Area: Software Development
+Primary OS: Windows
+Primary Technology: Java
+Secondary Technology: Java Servlets,
+Enterprise Java Beans,
+MongoDB
+Project Title: What's Near - Android Location Based App
+Name: Ryan McCloskey
+Email: ryan.mccloskey3@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: David Gray
+What’s Near is a location based mobile application for Android devices. The application prompts a
+user to specify an address, select the amenities which are of interest to them (e.g. Restaurant,
+Cinema, airport), choose a range/radius and then view the returned amenities within the selected
+radius. The user is able to view details about the amenities displayed, such as: contact, address,
+distance from location, images, or directions. This application enables users that are unfamiliar with
+an area to discover locations/services of interest surrounding the selected address e.g. a person that
+is new to an area may want to know where the nearest restaurant is, if there are any filling stations
+within a 3 kilometre radius or how to get to the nearest ATM. As well as this, it could be used to gauge
+how convenient their current location is in relevance to places they may need to visit i.e. College, Bus/
+Train Station, City buses, Work, Cinema. The What’s Near Android App provides the user with a
+convenient way to check the surrounding amenities which are of interest to them, no matter where
+they are!
+Primary Area: Mobile App
+Primary OS: Android
+Primary Technology: Eclipse
+Secondary Technology: Java
+Project Title: Where Am I?
+Name: Aimee Jones
+Email: aimee.jones7@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: Cathal Gurrin
+The aim of my project is to investigate tracking a person, and to implement a simple and cost effective
+positioning system using the Bluetooth sensors that many mobile devices support. Outdoor tracking
+can be done with GPS and has a very high accuracy rate. The same cannot be said for an indoor
+tracking system.
+Android devices in particular are very popular on the market today and provide an API for dealing with
+Bluetooth connections. Low cost Bluetooth dongles can be placed in fixed locations around a building
+for mobile devices to search for. Using signal strengths and machine learning, we can calculate the
+location of the device within the building. This approach provides a versatile system that can be
+trained to work within any building. It also allows for different levels of accuracy to be achieved
+depending upon the needs of the user.
+This project aims to demonstrate the functionality that simple Bluetooth devices can serve and to
+provide a basis for a cost effective way of increasing security or recording a persons movements.
+Some examples include luggage tracking in airports, movements in shopping centres or security in
+residential homes.
+Primary Area: Sensor Technology
+Secondary Area: Mobile App
+Primary OS: Android
+Primary Technology: Java
+Project Title: System dynamics modelling of global sustainability
+Name: Abdelrahman Ibrahim
+Email: abdelrahman.ibrahim2@mail.dcu.ie
+Programme: Info and Communications Engineering
+Supervisor: Barry McMullin
+This project is about global sustainability a study concerned with the sustainability of human society
+and is it in harmony with nature and the carrying capacity of the earth.
+As population keeps growing the human race is faced with a variety of problems like global warming
+caused by greenhouse gas emissions which are in turn caused by fossil fuel burning; also the
+depletion of resources faster than they can be replenished.
+Statistical data was gathered and analysed in order to predict future patterns of growth and
+interactions between human society and the environment and the ecosystem of the earth.
+Five major variables came into play: population, GDP, emissions, food production and footprint. They
+influence each other and that relationship were modelled in a spreadsheet.
+Primary Area: Statistical Analysis
+Primary Technology: XML
+Project Title: Python as a client side language
+Name: Owen Corrigan
+Email: owen.corrigan5@mail.dcu.ie
+Programme: Software Engineering
+Supervisor: David Sinclair
+The aim of this project is to investigate the possibility of using alternatives to JavaScript as client side
+languages. JavaScript has historically been the language of the web, however a diversity of languages
+would have many benefits. Developers could learn a single language to develop both the back and
+front end of a web application with. JavaScript also has many flaws that have not been addressed
+such as a lack of namespace features and lacking object orientation features
+Because python shares many similarities with JavaScript such as being lightweight, interpreted,
+dynamic and weakly typed it is ideal to act as a replacement for it. To demonstrate how this might be
+achieved, a browser was developed which has the ability to run python as the client side language.
+Addressing security issues, as well as how this might be extended to more languages are discussed in
+the project documentation
+Primary Area: Web Application
+Secondary Area: Software Development
+Primary OS: Multi-platform
+Primary Technology: Python
+Secondary Technology: JavaScript
+Project Title: Bug Prediction Model
+Name: Nathan Ford
+Email: nathangj.ford@gmail.com
+Programme: Software Engineering
+Supervisor: Kevin Casey
+This application was developed in order to analyse existing information sources relating to source
+code repositories, and the projects stored within them, to predict the future occurrences of defects
+within the specific software project. To accomplish this the application analyses a projects revision
+history and infers predicts about files based on their past revisions. Source code metrics pertaining to
+the structure and complexity of each file are also retrieved in order give possible reasons for the
+apparent bugginess predicted by the model.
+Having this kind of information about a project’s source code would be an asset as it would potentially
+allow software defects to be incorporated into the development life cycle, allowing production teams/
+management to make informed decisions concerning resource allocation as well as release schedule.
+It can also be used as a developer aid supplying them with feedback about the state of a branch,
+warning them about a potentially ‘buggy’ area of code where more care would need to be taken when
+adding or changing the code. Overall this could allow the bug fix process to be a proactive step rather
+than a reactive one.
+Bug Prediction Model is written in Java supported by XML. It utilises several open source frameworks
+and libraries including Maven for management, testing and deployment, Spring for dependency
+injection, Vaadin for UI framework as well as SVNKit and JGit for communication with source code
+repositories.
+Primary Area: Information Retrieval
+Secondary Area: Statistical Analysis
+Primary OS: Multi-platform
+Primary Technology: Java
+Secondary Technology: XML
+Project Title: DASh - Web-based dashboard system.
+Name: Shane Stacey
+Email: shane.stacey@redbrick.dcu.ie
+Programme: Software Engineering
+Supervisor: Monica Ward
+DASh is a web-based dashboard system that can be accessed from any modern web- browser.
+The aim of this project is to provide a framework which can be used to store, manage, retrieve and
+share dashboards which contain a number of dashboard widgets. These widgets can be customized
+by the end-user and have the ability to display a visual representation of information provided from a
+number of back-end resources.
+The idea behind this system is that an user would add widgets to a dashboard for information they
+care most about. The dashboard would then be left open on a second screen or in another tab of their
+web-browser. Instead of spending time going to each resource individually they can simply glance over
+at the dashboard to see if anything of interest has changed.
+The application attempts to impose no limitations on the type of data that be can be shown on a
+dashboard. Due to this it has a wide range of potential uses for both consumers and those in a
+business setting.
+For instance; Sharing content (Favourite urls, images, software, etc…) Monitoring (Financial,
+Application Metrics, etc…) Real- time information (RSS Feeds, etc…)
+The application is built using a client server architecture and provides access to the data using a
+RESTful API. The server is written in Java, while the front-end for the application is written in Ruby
+using the Sinatra web application framework. HTML5, CSS, Javascript and a number of JQuery
+modules are used for the user interface.
+Primary Area: Web Application
+Secondary Area: Cloud Computing
+Primary OS: Multi-platform
+Primary Technology: Java
+Secondary Technology: Ruby, Javascript
+Project Title: Remote-HD-Video Delivery over a Microwave Channel
+in Urban Environment
+Name: Miroslav Dunaev
+Email: miroslav.dunaev2@mail.dcu.ie
+Programme: Info and Communications Engineering
+Supervisor: Dr. Gabriel-miro Muntean
+High Definition (HD) high frame rate video is shot in real-time at the Dollymount beach using Full-HD
+camera. The live footage is then streamed via a 7 km microwave link to Dublin City University (DCU).
+At DCU, the received video stream is forwarded to a virtual server in the Cloud and then distributed to
+other users using Peer-to-Peer video streaming technology. Why? How? Proof of concept, use of the
+latest technologies and lots of other interesting aspects, plus the full story on www.miroslavdunev.ie/fyp
+Primary Area: Wireless Technology
+Secondary Area: Image/Video Processing
+Primary OS: Unix/Linux
+Primary Technology: HEVC,h264,SCTP,11n-5Ghz-MIMO-Dpol, Java
+Secondary Technology: FFMPEG&VLC,BM_SDK,C++,EC2,WebRTC,P2PVideo,SSL_VPN,RAID0
+Project Title: Deals for Days
+Name: Edward Barron
+Email: Edward.barron3@mail.dcu.ie
+Name: Philip Byrne
+Email: Philip.byrne23@mail.dcu.ie
+Programme: Enterprise Computing
+Supervisor: Darragh O'Brien
+The primary aim of our final year project is to successfully deliver a location based deal advertising
+mobile application platform for both customers and vendors. With the aid of GPS location tracking
+and a deals database we aim to successfully deliver relevant offers to the users mobile device based
+on their proximity to deals within a specific range. GPS location awareness has recently gained an
+advantage within mobile applications as users are willing to have their location monitored for social
+media purposes. Because of this, we believe our application will be successful as GPS location
+services allow us to display proximity based advertising. Following an extensive market research, we
+identified potential to exploit an area of the SmartPhone market which will benefit both retailers and
+customers. However, users of the application will not be forced to enable GPS to effectively use the
+application, but they will also have the ability to search for a specific deal genre regardless of location.
+Throughout this document we will provide a detailed description of the Deal$ 4 Day$ application. The
+technical areas which are covered are; software specification, hardware requirements, system
+architecture, database structure, system functionality, user interface, specific areas of coding, and a
+fundamental walkthrough of the systems main interface. Non-technical areas of the applications
+infrastructure which are also explored are; market analysis, market competitors, marketing strategy,
+pricing, potential pitfalls, and overall benefits of the application. The use of emails to advertise deals
+from these sites is a flawed system as we found that an email at about deals will be forgotten and will
+not attract the attention of the users. Deals should be available on demand and with direct
+information about location and directions. With this application it will be easier to give your user base
+more access to deals that are closer and relevant to them.
+Primary Area: Mobile App
+Primary Technology: Java
+Project Title: To Standardise a Daily Preventative Maintenance Procedure
+For a Leading Manufacturer of Medical Devices
+Name: Jason John McGlynn
+Email: jasonjohn.mcglynn4@mail.dcu.ie
+Programme: Mechanical and Manufacturing Engineering
+Supervisor: Dr. John Geraghty
+In the field of engineering, there is a constant need for higher standards of quality. To maximise the
+performance of employees within a company, clear guidelines and documentation procedures are
+necessary. This project was unique in that the author dealt with an engineering company who is
+leading the way in the manufacture of medical devices. The project researched many topics including,
+plastic injection moulding, tacit knowledge, standardisation, preventative maintenance, standard
+operating procedures and work instructions. Every manufacturing engineering company has a daily
+preventative maintenance procedure when dealing with the production of medical device components.
+This PM procedure may include the cleansing, greasing and visual inspection of a machine to ensure
+maximum performance and prevent contaminated product or tool damage. The aim of this project
+was to create a work instruction manual that a leading manufacturing company of medical devices
+can follow and adhere to on a daily basis in performing the PM procedure mentioned above. The
+importance of converting experienced employees’ skilled tacit knowledge into explicit documentation
+was the core basis of this project. Understanding the daily PM procedure, converting tacit knowledge
+to explicit documentation and communication between departments are only some of the steps
+involved in the development of this project. With multiple employees performing the same PM
+procedure every day, the importance of a standardised procedure is not only vital but a requirement if
+any company aims prosper in an ever competing environment of manufacturing engineering.
+Primary Area: Standardisation in Engineering
+Secondary Area: Converting Tacit Knowledge to Explicit
+Primary OS: Windows
+Primary Technology: Microsoft Office
+Project Title: Design & Automation of Lid Placing Process
+Name: Andrew O'Byrne White
+Email: andrew.obyrnewhite4@mail.dcu.ie
+Programme: Mechatronic Engineering
+Supervisor: Harry Esmonde
+The aim of this project was to design a prototype system for Irish Distillers to automate the process of
+placing lids onto tubes used for the packaging of their premium whiskeys. The design was developed
+for one case format (3x2, 700ml Powers) but allows for modifications for other formats. This project
+was carried out as a part of a major investment by Irish Distillers to automate and increase the
+efficiency of bottling of their premium whiskeys. This involves moving production from an external
+contractor to their main bottling site in Dublin. The project aims to reduce the number of manual
+operators required to carry out lid application while increasing the speed substantially. The design
+used electromagnets to lift the steel lids. These had to be specially designed for the application.
+Electromagnet theory was investigated and prototypes were developed and tested. Due to supply
+issues, build of the overall machine is still underway.
+Primary Area: Manufacturing Engineering
+Primary Technology: Simatic S5
+Secondary Technology: Solidworks
