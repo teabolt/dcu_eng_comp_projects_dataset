@@ -42,13 +42,14 @@ Files should be converted from PDF to a text format (.txt, .csv, .xlsx) for easy
 Need to accurately convert tables.
 
 References:
-* `pdftotext` linux tool
-    ```
-    find booklets_stripped/ -name *.pdf -exec echo {} \; -exec pdftotext {} \;
-    mv booklets_stripped/*.txt text/
-    ```
-* Online results for `pdf to csv`
-* Online results for `pdf to excel`
+
+- `pdftotext` linux tool
+  ```
+  find booklets_stripped/ -name *.pdf -exec echo {} \; -exec pdftotext {} \;
+  mv booklets_stripped/*.txt text/
+  ```
+- Online results for `pdf to csv`
+- Online results for `pdf to excel`
 
 Alternatively just copy all the text from a stripped PDF (using CTRL+A), where it's possible to do a selection.
 
@@ -64,11 +65,23 @@ For small anomaly cases, it's best to just adjust the data, instead of writing e
 
 Also perform data "canonicalization" (standardisation or normalization) in this step. Ensure that data is clean and ready to use.
 
-### Analyse or use the dataset (TODO)
+https://pythex.org/ is very useful for testing out regular expressions.
 
-Some ideas
-* See trends in project areas, technologies.
-* Check history of supervisors' projects.
-* Check if a project has been done before by searching through the titles and descriptions.
-* Count number of projects per year
-* Count number of projects of each supervisor.
+### Analyse or use the dataset
+
+Uses:
+
+- https://github.com/teabolt/dcu_project_search_frontend
+
+Other ideas:
+
+- See trends in project areas, technologies over the years.
+- Check history of supervisors' projects.
+- Check if a project has been done before by searching through the titles and descriptions.
+- Count number of projects per year
+- Count number of projects of each supervisor.
+
+# Credits
+
+- teabolt - https://github.com/teabolt
+- KingEnoch - https://github.com/KingEnoch
