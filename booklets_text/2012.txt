@@ -213,6 +213,7 @@ Primary Technology: Java
 Secondary Technology: XML
 Project Title: Go Music Streaming
 Name: Gautam Wadhwa
+Email: 
 Programme: Software Engineering
 Supervisor: Mr. Brian Stone
 The title of my Fourth Year Project is ‘Go Music Streaming’. It will be a music streaming site built with
@@ -277,6 +278,7 @@ Secondary Area:
 Secondary Technology:
 Project Title: Linux System Profiler
 Name: Alan Walsh
+Email: 
 Programme: Software Engineering
 Supervisor: Mr. Charlie Daly
 LSP provides an api that allows for hardware and system information to be queried and confirmed
@@ -320,7 +322,7 @@ climbing by being able to track their whereabouts and collect data about their c
 used by them later.
 Primary Area: Sensor Technology
 Primary OS: Multi-platform
-Primary Technology: None
+Primary Technology:
 Secondary Area:
 Secondary Technology:
 Project Title: Automated Lip Segmentation for Computer Control
@@ -353,7 +355,7 @@ and imports the PCL (Point Cloud Library) for triangulation, data analysis and f
 application outputs a PLY (Polygon File Format) file depicting a 3D Scanned Scene.
 Primary Area: 3-D Modelling
 Secondary Area: Sensor Technology
-Primary OS: Mac_OSX
+Primary OS: Mac OS X
 Primary Technology: C/C++
 Secondary Technology: XCode
 Project Title: Blood glucose and insulin intake log
@@ -493,7 +495,9 @@ Project Title: The Telly Port
 Name: Shane Harper
 Email: shane.harper2@mail.dcu.ie
 Name: Stephen O’Reilly
+Email: 
 Name: Stephanie Coleman
+Email: 
 Programme: Enterprise Computing
 Supervisor: Prof. Alan Smeaton
 The project that we created and developed as a team involves the development of a portable TV guide
@@ -519,7 +523,7 @@ favourite programmes are on during this time and on what channel.
 Primary Area: Information Retrieval
 Secondary Area: Mobile App
 Primary OS: Multi-platform
-Primary Technology: None
+Primary Technology:
 Secondary Technology:
 Project Title: Novel Interfaces to Digital Memories
 Name: Luke Curran
@@ -1377,6 +1381,7 @@ Bypass Grafts
 Secondary Technology:
 Project Title: User Access Management System
 Name: Richard Eyres
+Email: 
 Programme: Software Engineering
 Supervisor: Dr. Monica Ward
 The user access management system is a system which allows a company to easily manage which
@@ -1609,6 +1614,7 @@ Primary Technology: JSP/Servlets
 Secondary Technology: JavaScript
 Project Title: Cloud Bookmark System
 Name: Darren Melia
+Email: 
 Programme: Software Engineering
 Supervisor: Dr. Stephen Blott
 A big problem that a person can come to face when using internet browser bookmarks is that they
