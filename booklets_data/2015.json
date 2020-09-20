@@ -10,11 +10,11 @@
             }
         ],
         "supervisor": "Harold Esmonde",
-        "technology": "PLC 2",
+        "technology": "PLC",
         "title": "Beet Washer Automation"
     },
     {
-        "area": "Web_Application",
+        "area": "Web Application",
         "description": "CoolWall is a web and mobile application which allows users to collaborate on an online “Wall” similar to how they would on a physical white board. The application allows users to create their own Walls which they can populate with content and share with other users. CoolWall is available on Chrome, Safari and also on Android and iOS as a native application.",
         "programme": "Computer Applications",
         "students": [
@@ -24,11 +24,11 @@
             }
         ],
         "supervisor": "Renaat Verbruggen",
-        "technology": "JavaScript 3",
+        "technology": "JavaScript",
         "title": "CoolWall"
     },
     {
-        "area": "Image_Video_Processing",
+        "area": "Image Video Processing",
         "description": "Blurring is one of the most frequent problems while taking photos under constraints like low lighting. The most common sources of image-blur are motion, defocus and aspects of the camera, such as pixel size and sensor-resolution. This projects delves into what is involved in deblurring effectively. This project researches into techniques that are useful to deblur an image on a mobile platform. Alongside research, an Android application has been developed to showcase how a user would utilise such functionality.",
         "programme": "Computer Applications",
         "students": [
@@ -38,11 +38,11 @@
             }
         ],
         "supervisor": "Dr. Alistair Sutherland.",
-        "technology": "XML,OpenCV,Java,Eclipse,C/C++ 4",
+        "technology": "XML, OpenCV, Java, Eclipse, C/C++",
         "title": "Image Deblurring"
     },
     {
-        "area": "Web_Application,Software_Development,Data Analytics,Databases",
+        "area": "Web Application, Software Development, Data Analytics, Databases",
         "description": "Patient Flow Analytic App is used by a Medical Group Executive Committee and Hospital Bed Management Team to monitor and manage the flow of patients through the Hospitals within the group. User will be able to download the app on Android Device, iOS and Window Phone. App is been compiled by Phonegap using HTML5, CSS3 and JQuery. All Data is received/sent by Rest Service using Java with Apache CXF and Spring Web Service",
         "programme": "Computer Applications",
         "students": [
@@ -52,11 +52,11 @@
             }
         ],
         "supervisor": "Dr Liam Tuohey",
-        "technology": "SQL,REST,JSP/Servlets,JQuery,JavaScript,Java,HTML5,Eclipse 5",
+        "technology": "SQL, REST, JSP/Servlets, JQuery, JavaScript, Java, HTML5, Eclipse",
         "title": "Patient Flow Analytic Application"
     },
     {
-        "area": "Web_Application,Mobile_App",
+        "area": "Web Application, Mobile App",
         "description": "Community Reporting App. is a reporting service. Its purpose is to allow the general public to report on hazards/ potential faults to local councils. (Local authority personnel consulted). The Smartphone application is designed so that a hazard, such as a pothole, faulty street lighting, litter and graffiti, can be easily tagged with minimal information. Open Source maps permit further extension of the app., as well as extraction of features of interest. The service will benefit communities and local councils.",
         "programme": "Computer Applications",
         "students": [
@@ -66,11 +66,11 @@
             }
         ],
         "supervisor": "Heather Ruskin & Marija Bezbradica",
-        "technology": "Node.js,NoSQL,JavaScript 6",
+        "technology": "Node.js, NoSQL, JavaScript",
         "title": "Community Reporting App"
     },
     {
-        "area": "Gaming,Mobile_App,Model_View_Controller,Software_Development,Web_Application",
+        "area": "Gaming, Mobile App, Model View Controller, Software Development, Web Application",
         "description": "Liar is a popular card game played by between 4 and 8 players. Using a shuffled 52-card deck distributed evenly, the aim of the game is to get rid of all your cards first, both honestly and dishonestly. The hybrid app is built using the MEAN stack MongoDB, Express.js, Angular.js and Node.js, along with Socket.IO, Passport.js and jQuery. An installable Android app is then created using PhoneGap but a mobile-friendly Web app will also exist for non-Android users.",
         "programme": "Computer Applications",
         "students": [
@@ -80,7 +80,7 @@
             }
         ],
         "supervisor": "Dr. Kevin Casey",
-        "technology": "HTML5,JavaScript,JQuery,Node.js,NoSQL 7",
+        "technology": "HTML5, JavaScript, JQuery, Node.js, NoSQL",
         "title": "Liar – Hybrid App"
     },
     {
@@ -94,7 +94,7 @@
             }
         ],
         "supervisor": "Derek Molloy",
-        "technology": "BeagleBone Embedded Single-Board Computer 8",
+        "technology": "BeagleBone Embedded Single-Board Computer",
         "title": "An ARM Controlled Pan/Tilt Head for an Internet Camera Dolly"
     },
     {
@@ -108,7 +108,7 @@
             }
         ],
         "supervisor": "Alan Kennedy",
-        "technology": "Matlab 9",
+        "technology": "Matlab",
         "title": "Stop Motion Image Analysis"
     },
     {
@@ -122,11 +122,11 @@
             }
         ],
         "supervisor": "Jennifer Foster",
-        "technology": "Android 10",
+        "technology": "Android",
         "title": "WhichPrep"
     },
     {
-        "area": "Mobile_App",
+        "area": "Mobile App",
         "description": "Android app compatible with unix utility pass which uses git and gnupg to provide core functionality. This project allows Android users to access their password store on their Android devices.",
         "programme": "Computer Applications",
         "students": [
@@ -136,11 +136,11 @@
             }
         ],
         "supervisor": "Stephen Blott",
-        "technology": "Java 11",
+        "technology": "Java",
         "title": "Android Pass – Android app compatible with unix utility pass"
     },
     {
-        "area": "Sensor_Technology,Web_Application,Wireless Technology,Internet Of Things (IoT)",
+        "area": "Sensor Technology, Web Application, Wireless Technology, Internet Of Things (IoT)",
         "description": "The aim of this project is to answer the question of ‘who is at my front door?’ which notifies the users of a guest present at their front door. The user is then notified with an image of the guest taken from a mounted camera, along with the time and date to their android device from any location, provided they have a functioning internet connection. The application will allow the user to perform various tasks to communicate with the guest.",
         "programme": "Computer Applications",
         "students": [
@@ -150,7 +150,7 @@
             }
         ],
         "supervisor": "Stephen Blott",
-        "technology": "Eclipse,Java,Python 12",
+        "technology": "Eclipse, Java, Python",
         "title": "PiBell"
     },
     {
@@ -164,11 +164,11 @@
             }
         ],
         "supervisor": "Claus Pahl",
-        "technology": "JavaScript 13",
+        "technology": "JavaScript",
         "title": "Velcro"
     },
     {
-        "area": "Web_Application,SMS,Model_View_Controller,Mobile_App,GPS_GIS",
+        "area": "Web Application, SMS, Model View Controller, Mobile App, GPS GIS",
         "description": "This project is a mobile and web based desktop application that focuses on supplying car owners with access to trip information and setting alerts for trip events. This is displayed as points on a map, each point will have various metrics associated with it, this includes things such as speed, RPM, mileage, stopping time, etc.",
         "programme": "Computer Applications",
         "students": [
@@ -178,11 +178,11 @@
             }
         ],
         "supervisor": "stephen.blott@dcu.ie",
-        "technology": "SQL,REST,JQuery,JavaScript,Java,HTML5 14",
+        "technology": "SQL, REST, JQuery, JavaScript, Java, HTML5",
         "title": "CarCloud"
     },
     {
-        "area": "Mobile_App,Information_Retrieval",
+        "area": "Mobile App, Information Retrieval",
         "description": "Distinct Data is a news and entertainment proof-of-concept application that aggregates and delivers an efficient and intuitive informative feed to users. It allows the user to control the quantity and type of results by employing a number of filtering strategies. The users account is linked to their Facebook profile, which can act as both a profile as well as an indicator of interest. This also allows for additional option of a personal music playlist generated around their liked artists.",
         "programme": "Enterprise Computing",
         "students": [
@@ -196,11 +196,11 @@
             }
         ],
         "supervisor": "Cathal Gurrin",
-        "technology": "Proof on Concept 15",
+        "technology": "Proof on Concept",
         "title": "Distinct Data"
     },
     {
-        "area": "Mobile_App",
+        "area": "Mobile App",
         "description": "Med-Rem is a proof of concept for a medication reminder application. It is an Android based app with plans for an Apple version. Med-Rem has features such as a barcode scanner which can scan common medications and download information from the database so users don’t have to input any details. The more common features include medication tracking and alarms.",
         "programme": "Enterprise Computing",
         "students": [
@@ -214,7 +214,7 @@
             }
         ],
         "supervisor": "Martin O’Connor",
-        "technology": "Java 16",
+        "technology": "Java",
         "title": "Med-Rem"
     },
     {
@@ -232,7 +232,7 @@
             }
         ],
         "supervisor": "Prof. Alan Smeaton",
-        "technology": "Node.js, Parse.com, JavaScript, jQuery, HTML5 17",
+        "technology": "Node.js, Parse.com, JavaScript, jQuery, HTML5",
         "title": "Senti-Meant: Advanced Social Analysis"
     },
     {
@@ -250,7 +250,7 @@
             }
         ],
         "supervisor": "Monica Ward",
-        "technology": "CSS,SQL,PHP,JavaScript,HTML5 18",
+        "technology": "CSS, SQL, PHP, JavaScript, HTML5",
         "title": "EduQuiz"
     },
     {
@@ -264,7 +264,7 @@
             }
         ],
         "supervisor": "Bryan MacDonald",
-        "technology": "Android 19",
+        "technology": "Android",
         "title": "Generation of Simple CAD models Using Android"
     },
     {
@@ -278,7 +278,7 @@
             }
         ],
         "supervisor": "Monica Ward",
-        "technology": "C/C++ 20",
+        "technology": "C/C++",
         "title": "LEXiCAL"
     },
     {
@@ -292,11 +292,11 @@
             }
         ],
         "supervisor": "Alan Kennedy",
-        "technology": "Excel/VBA 21",
+        "technology": "Excel/VBA",
         "title": "Mechanism Animation In Excel"
     },
     {
-        "area": "Web_Application",
+        "area": "Web Application",
         "description": "TimeTracker is a cloud hosted platform independent web application. It provides a simplified method for employees to record their work hours. It allows time spent on specific projects to be recorded to facilitate project management and to ensure accurate customer billing. The application is developed using ASP.NET MVC 5, an open source framework that applies the Model-View-Controller architectural pattern to the ASP.NET framework. The database management system used was SQL server and data access is provided by the Entity framework.",
         "programme": "Computer Applications",
         "students": [
@@ -306,11 +306,11 @@
             }
         ],
         "supervisor": "Renaat Verbruggen",
-        "technology": ".NET 22",
+        "technology": ".NET",
         "title": "TimeTracker – Employee Scheduling Simplified"
     },
     {
-        "area": "Web_Application",
+        "area": "Web Application",
         "description": "The Irish Student Trampoline Open (ISTO) is Ireland’s largest student gymnastics competition, consisting of over 600 competitors from 50 clubs from Europe. This project is built to tackle the job of managing all aspects of the competition, including member and club sign up, event management and judging. It grants the organisers an easy, efficient and secure medium for managing all aspects of the competition. It consists of a Google endpoints Restful API back-end communicating with a AngularJS Application front-end.",
         "programme": "Computer Applications",
         "students": [
@@ -320,11 +320,11 @@
             }
         ],
         "supervisor": "Dr. Monica Ward",
-        "technology": "AngularJS,NoSQL,REST,JavaScript,Java,HTML5 23",
+        "technology": "AngularJS, NoSQL, REST, JavaScript, Java, HTML5",
         "title": "ISTO"
     },
     {
-        "area": "Image_Video_Processing,Information_Retrieval,Data Mining",
+        "area": "Image Video Processing, Information Retrieval, Data Mining",
         "description": "This project is inspired by availability of 100,000,000 tagged images, released by Yahoo! and Flickr. The aim of the project is to overcome the existing semantic gap in object recognition and machine learning tools for tag suggestions and propose a system based on semantic concepts used by humans to interpret images. The system provides a service of automatic tagging of a users input image based on analysing the similarity against the indexed 100 million image dataset.",
         "programme": "Enterprise Computing",
         "students": [
@@ -334,11 +334,11 @@
             }
         ],
         "supervisor": "Alan Smeaton",
-        "technology": "NoSQL,Python,Java 24",
+        "technology": "NoSQL, Python, Java",
         "title": "100,000,000 +1 Automatic Image Annotation"
     },
     {
-        "area": "Web_Application",
+        "area": "Web Application",
         "description": "Auto FPL is a web application which automates the process of team selection in the popular Fantasy Premier League online game. Auto FPL uses a wealth of real world team data and player statistics to generate teams. Teams generated by Auto FPL can be used to compete against the millions of user created teams from around the world.",
         "programme": "Computer Applications",
         "students": [
@@ -348,11 +348,11 @@
             }
         ],
         "supervisor": "Monica Ward",
-        "technology": "SQL,PHP,HTML5 25",
+        "technology": "SQL, PHP, HTML5",
         "title": "Auto FPL"
     },
     {
-        "area": "Web_Application",
+        "area": "Web Application",
         "description": "BuyChance is a website based on the concept of crowd-funding. However, not for an idea/venture but for an item/product that an individual wants to sell. This website provides the platform to allow a seller to place an ad for their item which buyers can subsequently buy digital tickets for. Once the minimum price and time frame (both selected by the seller) is reached, a live digital draw for the item takes place which selects the winning buyer.",
         "programme": "Enterprise Computing",
         "students": [
@@ -366,11 +366,11 @@
             }
         ],
         "supervisor": "Joseph Morris",
-        "technology": "HTML5 26",
+        "technology": "HTML5",
         "title": "BuyChance"
     },
     {
-        "area": "Virtual_Reality,Gaming",
+        "area": "Virtual Reality, Gaming",
         "description": "Rift Runner is a first person action-adventure platformer game built in Unity. It uses the Oculus Rift virtual reality headset and Razer Hydra motion controllers to present a compelling game experience to the player and enable them to feel immersed in the environment. The player uses the Rift to look around the environment and the Hydras to interact with objects such as doors and pipes in order to traverse the area.",
         "programme": "Computer Applications",
         "students": [
@@ -380,7 +380,7 @@
             }
         ],
         "supervisor": "Dónal Fitzpatrick",
-        "technology": "C# 27",
+        "technology": "C#",
         "title": "Rift Runner"
     },
     {
@@ -398,11 +398,11 @@
             }
         ],
         "supervisor": "Liam Tuohey",
-        "technology": "PL/SQL and Microsoft Excel 28",
+        "technology": "PL/SQL and Microsoft Excel",
         "title": "Inherit-Enhance Database Cleaning Tool"
     },
     {
-        "area": "Mobile_App",
+        "area": "Mobile App",
         "description": "‘My Stop’ is an Android application which enables users to streamline their public transport journey regarding time efficiency and choice of transport, in as few clicks as possible. The application achieves this by presenting real time dashboards for each of the available transport operators (Dublin Bus, Luas, Bus Éireann and Irish Rail) and a dashboard to display the user’s location as well as stop selections on a live map which includes the travel time to each stop and traffic dynamics.",
         "programme": "Computer Applications",
         "students": [
@@ -412,7 +412,7 @@
             }
         ],
         "supervisor": "Gareth Jones",
-        "technology": "Java,JavaScript,REST,SQL,XML 29",
+        "technology": "Java, JavaScript, REST, SQL, XML",
         "title": "My Stop"
     },
     {
@@ -426,11 +426,11 @@
             }
         ],
         "supervisor": "Jennifer McManis",
-        "technology": "NS-3 30",
+        "technology": "NS-3",
         "title": "Development of a road traffic simulator"
     },
     {
-        "area": "Mobile_App",
+        "area": "Mobile App",
         "description": "TrainTogether is an Android mobile application that aims to help users exercise together. Running, cycling and swimming are as much social activities as they are sports. Right now, many people train for races by themselves or, when training with a group, find they are at a different level to others and their training is compromised. This application allows a user to create an event detailing their workout. Other users can then search and attend events suitable for their level.",
         "programme": "Computer Applications",
         "students": [
@@ -440,11 +440,11 @@
             }
         ],
         "supervisor": "Dr. Stephen Blott",
-        "technology": "XML,PHP,Java 31",
+        "technology": "XML, PHP, Java",
         "title": "TrainTogether"
     },
     {
-        "area": "Mobile_App",
+        "area": "Mobile App",
         "description": "This project is a proof of concept for an application called BronSports. It is a sports news application that gathers news content on the user’s selected favourite sports, teams and leagues. The app will gather news content from the most reliable major sports websites, newspapers and blogs which will be presented in news feed format on the app. The app will also allow users to share and receive recommended articles and see local news via GPS.",
         "programme": "Enterprise Computing",
         "students": [
@@ -462,11 +462,11 @@
             }
         ],
         "supervisor": "Markus Helfert",
-        "technology": "Java 32",
+        "technology": "Java",
         "title": "BronSports"
     },
     {
-        "area": "Mobile_App",
+        "area": "Mobile App",
         "description": "Piece of Mind is a cloud based pricing and analytics service for Android mobile devices that displays a real-time total for domestic utility bills. This prototype application is data-driven with instant totals replacing paper billing. Single use customers receive instant feedback from the application by checking their own meters. A standalone database allows premium users to log in to receive a running total with access to extra functions and a graphical interface representing current and projected spending.",
         "programme": "Enterprise Computing",
         "students": [
@@ -480,7 +480,7 @@
             }
         ],
         "supervisor": "Dr Liam Tuohey",
-        "technology": "Java 33",
+        "technology": "Java",
         "title": "Piece of Mind"
     },
     {
@@ -494,11 +494,11 @@
             }
         ],
         "supervisor": "Jennifer McManis",
-        "technology": "NS-3 34",
+        "technology": "NS-3",
         "title": "Energy saving in the Local Area Network"
     },
     {
-        "area": "Virtual_Reality",
+        "area": "Virtual Reality",
         "description": "This project expands upon already existing technologies and provides a framework that enables the addition of virtual reality to games that do not natively support the functionality. This is achieved by creating or loading configurations that help tailor the functionality of the framework to the game being run. Using this technology, any first person game can be setup to operate using a virtual reality device.",
         "programme": "Computer Applications",
         "students": [
@@ -508,7 +508,7 @@
             }
         ],
         "supervisor": "Dr. Dónal Fitzpatrick",
-        "technology": "C# 35",
+        "technology": "C#",
         "title": "RiftWorks"
     },
     {
@@ -526,11 +526,11 @@
             }
         ],
         "supervisor": "Stephen Blott",
-        "technology": "JQuery,JavaScript,HTML5 36",
+        "technology": "JQuery, JavaScript, HTML5",
         "title": "IPM Wristband"
     },
     {
-        "area": "Mobile_App",
+        "area": "Mobile App",
         "description": "The project is an Android application that can be used by Chinese learners to assess and improve their Chinese characters writing skills. The application provides two main functions: a tutorial part where students can learn to write Chinese characters correctly; a quiz part where student’s writing skills are accessed and scored according to its similarity to the correct form and the order of strokes. A teacher’s interface is also developed to view and manage all students’ records.",
         "programme": "Computer Applications",
         "students": [
@@ -540,7 +540,7 @@
             }
         ],
         "supervisor": "Monica Ward",
-        "technology": "Java 37",
+        "technology": "Java",
         "title": "Chinese character writing checker for Primary School Students"
     },
     {
@@ -554,7 +554,7 @@
             }
         ],
         "supervisor": "Caitriona Lally",
-        "technology": "Materials Testing 38",
+        "technology": "Materials Testing",
         "title": "Development of Cerebral Aneurysm Models for the in vitro Testing of New Treatment Methods"
     },
     {
@@ -568,7 +568,7 @@
             }
         ],
         "supervisor": "Patrick McNally",
-        "technology": "GNU Radio/Python 39",
+        "technology": "GNU Radio/Python",
         "title": "Investigation of the Use of a Digital Video Broadcast TV Dongle as a Software Defined Radio"
     },
     {
@@ -582,7 +582,7 @@
             }
         ],
         "supervisor": "Alistair Sutherland",
-        "technology": "C/C++ 40",
+        "technology": "C/C++",
         "title": "Arduino based pathfinding & environment mapping robot"
     },
     {
@@ -596,11 +596,11 @@
             }
         ],
         "supervisor": "Bryan MacDonald",
-        "technology": "Android 41",
+        "technology": "Android",
         "title": "Reverse Engineering of Simple Products using Android and OpenCV"
     },
     {
-        "area": "Web_Application",
+        "area": "Web Application",
         "description": "This project aims to provide a cost free alternative to the Community Area Text Alert Scheme. It is made up of a cross platform mobile application and a desktop web application. The mobile app allows users to create and verify a user account to receive notifications of crime or suspicious behaviour. The desktop application can create reports and notify users based on their GPS location. Users of the mobile app can control the reports they receive using their account preferences.",
         "programme": "Computer Applications",
         "students": [
@@ -610,7 +610,7 @@
             }
         ],
         "supervisor": "Ray Walshe",
-        "technology": "HTML5 42",
+        "technology": "HTML5",
         "title": "Community Area Alert System"
     },
     {
@@ -624,11 +624,11 @@
             }
         ],
         "supervisor": "David Molloy",
-        "technology": "HANA DB 43",
+        "technology": "HANA DB",
         "title": "Real Time Volleyball Game Analysis Tool"
     },
     {
-        "area": "Natural_Language_Processing,Mobile Business Intelligence",
+        "area": "Natural Language Processing, Mobile Business Intelligence",
         "description": "Logix Vox is a business intelligence mobile application that enables users to gain quick answers to their business questions through natural language. The application interprets the user’s question, which can be spoken into the mobile device, and displays the answer back to them along with a relevant interactive chart providing context relating to the answer.",
         "programme": "Enterprise Computing",
         "students": [
@@ -642,7 +642,7 @@
             }
         ],
         "supervisor": "Gareth Jones",
-        "technology": "CSS3 45",
+        "technology": "CSS3",
         "title": "Logix Vox"
     },
     {
@@ -656,11 +656,11 @@
             }
         ],
         "supervisor": "Brian Corcoran",
-        "technology": "Curing Systems 46",
+        "technology": "Curing Systems",
         "title": "Energy conservation in curing systems"
     },
     {
-        "area": "Virtual_Reality,Gaming",
+        "area": "Virtual Reality, Gaming",
         "description": "Virtual Reality as a Platform is a model for a game built around Virtual Reality. The project makes use of the Oculus Rift Virtual Reality Headset alongside the Razer Hydra Motion-Controllers to provide an immersive experience. The project implements mechanics which require the player to interact with the game world in a variety of ways which are not normally used in gaming, showcasing the ways in which future technology could allow for games designed specifically for virtual reality.",
         "programme": "Computer Applications",
         "students": [
@@ -670,7 +670,7 @@
             }
         ],
         "supervisor": "Alistair Sutherland",
-        "technology": "C# 47",
+        "technology": "C#",
         "title": "Virtual Reality as a Platform"
     },
     {
@@ -684,11 +684,11 @@
             }
         ],
         "supervisor": "Brian Corcoran",
-        "technology": "Ultrasonic Leak Detection 48",
+        "technology": "Ultrasonic Leak Detection",
         "title": "Using the DMAIC process to show it’s application in compressed air systems, with the aim of generating direct cost savings by energy saving methods."
     },
     {
-        "area": "Web_Application,Mobile_App",
+        "area": "Web Application, Mobile App",
         "description": "Achieve your health and fitness goals faster with FitServ, a personal trainer booking app. With a few quick taps/ clicks, locate and book professional trainers – anytime, anywhere. Straightforward tools make it easy for professional trainers to create exercise and diet plans, as well as easily manage their clients, resulting in a hassle-free, rewarding experience for everyone involved.",
         "programme": "Enterprise Computing",
         "students": [
@@ -706,7 +706,7 @@
             }
         ],
         "supervisor": "Jennifer Foster",
-        "technology": "XML,SQL,REST,PHP,JQuery,JavaScript,Java,HTML5,Eclipse 49",
+        "technology": "XML, SQL, REST, PHP, JQuery, JavaScript, Java, HTML5, Eclipse",
         "title": "FitServ – Health & Fitness Application"
     },
     {
@@ -720,7 +720,7 @@
             }
         ],
         "supervisor": "Brian Corcoran",
-        "technology": "Micro bubbles 50",
+        "technology": "Micro bubbles",
         "title": "FOG Fats, Oils and Grease traps"
     },
     {
@@ -734,7 +734,7 @@
             }
         ],
         "supervisor": "Brian Corcoran",
-        "technology": "Flow Measurement 51",
+        "technology": "Flow Measurement",
         "title": "Passive Radon Device"
     },
     {
@@ -748,11 +748,11 @@
             }
         ],
         "supervisor": "Bryan MacDonald",
-        "technology": "Hydroforming 52",
+        "technology": "Hydroforming",
         "title": "Hydroforming of Micro-tubes"
     },
     {
-        "area": "Mobile_App",
+        "area": "Mobile App",
         "description": "The android application is for the specialised area of improving the sprinting technique of athletes. Users record a sprinting profile and analyse it with various tools such as a highly sensitive seek bar, side by side comparison with an expert’s technique, an outline frame to ensure correct starting position and drawing tools. All user videos are also stored on a cloud database and are easily accessed through a user’s particular account. There is no other application offering this functionality.",
         "programme": "Computer Applications",
         "students": [
@@ -762,7 +762,7 @@
             }
         ],
         "supervisor": "Cathal Gurrin",
-        "technology": "Java 54",
+        "technology": "Java",
         "title": "Sport Technique for All: Sprinting"
     },
     {
@@ -780,7 +780,7 @@
             }
         ],
         "supervisor": "Qun Liu",
-        "technology": "SQL 55",
+        "technology": "SQL",
         "title": "EZ-Receipts"
     },
     {
@@ -794,7 +794,7 @@
             }
         ],
         "supervisor": "Bryan MacDonald",
-        "technology": "Balloon Cathetars 56",
+        "technology": "Balloon Cathetars",
         "title": "Finite Element Analysis of Catheter Balloon Expansion"
     },
     {
@@ -808,7 +808,7 @@
             }
         ],
         "supervisor": "Caitriona Lally",
-        "technology": "Finite element modelling 57",
+        "technology": "Finite element modelling",
         "title": "A Finite Element Analysis of Stresses and Strains on a Hydrogel used to treat Cerebral Aneurysms in ANSYS"
     },
     {
@@ -822,11 +822,11 @@
             }
         ],
         "supervisor": "Caitriona Lally",
-        "technology": "Arduino 58",
+        "technology": "Arduino",
         "title": "Design of a control system to mimic physiological and near physiological shear forces on a material in a custom cone and plate shear tester."
     },
     {
-        "area": "Mobile_App,Web_Application",
+        "area": "Mobile App, Web Application",
         "description": "Total Conference is a proof of concept project, which aims to provide academic conference organisers with a customised mobile application for their conference, in order to create stronger interaction and communication between their delegates. The app has a number of core features that can be customised by the conference organiser through our web application. Delegates of the conference also have the ability to create a user profile on our web application where they can view their previous conference history.",
         "programme": "Enterprise Computing",
         "students": [
@@ -840,11 +840,11 @@
             }
         ],
         "supervisor": "Dr. Markus Helfert",
-        "technology": "Eclipse,Java 59",
+        "technology": "Eclipse, Java",
         "title": "Total Conference"
     },
     {
-        "area": "Mobile_App",
+        "area": "Mobile App",
         "description": "Our mobile application is targeted at supermarket consumers with an aim to reduce the time spent searching a supermarket for specific products. Our application allows users to create a shopping list,and will then create a map with the location of each product on the users mobile device and display the route the user should follow to complete their shopping, allowing the user to check items off their list as they go.",
         "programme": "Enterprise Computing",
         "students": [
@@ -858,7 +858,7 @@
             }
         ],
         "supervisor": "Mark Roantree",
-        "technology": "MySQL 60",
+        "technology": "MySQL",
         "title": "AisleHopper – An application to reduce the time spent by consumers in stores."
     },
     {
@@ -872,7 +872,7 @@
             }
         ],
         "supervisor": "Caitriona Lally",
-        "technology": "Materials Testing 61",
+        "technology": "Materials Testing",
         "title": "Mechanical and Rheological Analysis of a Novel Radiopaque Hydrogel for the Treatment of Cerebral Aneurysms"
     },
     {
@@ -886,7 +886,7 @@
             }
         ],
         "supervisor": "Caitriona Lally",
-        "technology": "Materials Testing 62",
+        "technology": "Materials Testing",
         "title": "Determination of the Freezing Effect on the Mechanical Properties of Decellularised Arteries"
     },
     {
@@ -900,7 +900,7 @@
             }
         ],
         "supervisor": "Derek Molloy",
-        "technology": "BeagleBone Embedded Single-Board Computer 63",
+        "technology": "BeagleBone Embedded Single-Board Computer",
         "title": "Precision Robot Cart Sensor Platform"
     },
     {
@@ -914,7 +914,7 @@
             }
         ],
         "supervisor": "Tamas Szecsi",
-        "technology": "SolidWorks 64",
+        "technology": "SolidWorks",
         "title": "Variable Parameter Car Steering Mechanism: Design & Manufacture"
     },
     {
@@ -928,7 +928,7 @@
             }
         ],
         "supervisor": "Patrick McNally",
-        "technology": "Mixed Signal Circuits & PCB Design 65",
+        "technology": "Mixed Signal Circuits & PCB Design",
         "title": "Design and Test of A Low-Noise VLF Receiver System"
     },
     {
@@ -942,7 +942,7 @@
             }
         ],
         "supervisor": "Patrick McNally",
-        "technology": "Digital and Analog Circuit Design 66",
+        "technology": "Digital and Analog Circuit Design",
         "title": "Galileo-Based Solar Tracker"
     },
     {
@@ -956,7 +956,7 @@
             }
         ],
         "supervisor": "Derek Molloy",
-        "technology": "Node.js/Embedded Linux 67",
+        "technology": "Node.js/Embedded Linux",
         "title": "A Scalable Framework for Interacting with Electronic Devices over the Internet"
     },
     {
@@ -970,7 +970,7 @@
             }
         ],
         "supervisor": "Dermot Brabazon",
-        "technology": "Additive Manufacturing 68",
+        "technology": "Additive Manufacturing",
         "title": "Study of dimensional accuracy and robustness of parts printed in Miicraft HR 3D printer."
     },
     {
@@ -984,7 +984,7 @@
             }
         ],
         "supervisor": "Dermot Brabazon",
-        "technology": "Additive Manufacturing/Stereolithography 69",
+        "technology": "Additive Manufacturing/Stereolithography",
         "title": "Characterisation of new stereolithography 3D printers for fabrication of microfluidic channels"
     },
     {
@@ -998,7 +998,7 @@
             }
         ],
         "supervisor": "Dermot Brabazon",
-        "technology": "Additive Manufacturing 70",
+        "technology": "Additive Manufacturing",
         "title": "Characterisation of new stereolithography 3D printers for fabrication of bioscaffold designs"
     },
     {
@@ -1012,7 +1012,7 @@
             }
         ],
         "supervisor": "Gabriel Muntean",
-        "technology": "C#, C++, Visual Studio 71",
+        "technology": "C#, C++, Visual Studio",
         "title": "Quality of Experience Assessment of Synchronisation between 3D Video and Mutisensorial Media Components"
     },
     {
@@ -1026,7 +1026,7 @@
             }
         ],
         "supervisor": "Gabriel Muntean",
-        "technology": "C#, C++, Visual Studio 72",
+        "technology": "C#, C++, Visual Studio",
         "title": "Quality of Experience Assessment of Synchronisation between 2D Video and Mutisensorial Media Components"
     },
     {
@@ -1040,7 +1040,7 @@
             }
         ],
         "supervisor": "Dermot Brabazon",
-        "technology": "Laser Processing 73",
+        "technology": "Laser Processing",
         "title": "Develop a fully integrated laser control system capable of manipulating the laser beam in X, Y and Z planes"
     },
     {
@@ -1054,7 +1054,7 @@
             }
         ],
         "supervisor": "Garrett McGuinness",
-        "technology": "Solidworks, Mechanical Testing 74",
+        "technology": "Solidworks, Mechanical Testing",
         "title": "Design and Evaluation of a Polymer regrind device"
     },
     {
@@ -1068,11 +1068,11 @@
             }
         ],
         "supervisor": "Jennifer Bruton",
-        "technology": "MATLAB & C 75",
+        "technology": "MATLAB & C",
         "title": "An Investigation of using MATLAB with popular hardware platforms"
     },
     {
-        "area": "Graphics,Artificial_Intelligence",
+        "area": "Graphics, Artificial Intelligence",
         "description": "The aim of this project is to simulate a simple society in which people interact with each other, gaining or losing points with each interaction. Each person has a different strategy which determines how they will interact, and these strategies may evolve over time. The outcome of each interaction is decided using normal-form game theory. The main goal of the simulation is to determine which strategy proves to be most effective in the long run at acquiring points.",
         "programme": "Computer Applications",
         "students": [
@@ -1082,7 +1082,7 @@
             }
         ],
         "supervisor": "Alistair Sutherland",
-        "technology": "Java 76",
+        "technology": "Java",
         "title": "Modelling Simple Societies – Game Theory"
     },
     {
@@ -1096,7 +1096,7 @@
             }
         ],
         "supervisor": "Garrett McGuinness",
-        "technology": "SolidWorks, Zwick tensile tester 77",
+        "technology": "SolidWorks, Zwick tensile tester",
         "title": "Development of a Spinning Process for Fabrication of PVA ligaments"
     },
     {
@@ -1110,7 +1110,7 @@
             }
         ],
         "supervisor": "Xiaojun Wang",
-        "technology": "FPGA, VHDL 78",
+        "technology": "FPGA, VHDL",
         "title": "Efficient Hardware Implementation of the Lightweight Cryptographic Algorithm PRESENT"
     },
     {
@@ -1124,11 +1124,11 @@
             }
         ],
         "supervisor": "Garrett McGuinness",
-        "technology": "Labview 79",
+        "technology": "Labview",
         "title": "Frictional Based Properties of PVA Based Cartilage Replacement Biomaterial"
     },
     {
-        "area": "Web_Application",
+        "area": "Web Application",
         "description": "ALT Goal Manager is a web application aimed at students to assist in managing their learning goals, through the use of agile and scrum methodologies, in order to give a sense of control and organisation over individuals’ learning outcomes. The application allows the user to create their own online agile scrum board similar to those used in agile learning environments. The application frontend is built using HTML, CSS, AngularJs, with a REST backend utilising Spring and a MySQL database.",
         "programme": "Computer Applications",
         "students": [
@@ -1138,7 +1138,7 @@
             }
         ],
         "supervisor": "John McKenna",
-        "technology": "REST 80",
+        "technology": "REST",
         "title": "ALT Goal Manager"
     },
     {
@@ -1152,7 +1152,7 @@
             }
         ],
         "supervisor": "Garrett McGuinness",
-        "technology": "Blow spinning 81",
+        "technology": "Blow spinning",
         "title": "Development of a Blow Spinning Apparatus for Biomaterial Development"
     },
     {
@@ -1166,7 +1166,7 @@
             }
         ],
         "supervisor": "Robert Sadleir",
-        "technology": "Android/Java 82",
+        "technology": "Android/Java",
         "title": "Development of an Android based Multimeter and Digital Oscilloscope"
     },
     {
@@ -1180,7 +1180,7 @@
             }
         ],
         "supervisor": "Harold Esmonde",
-        "technology": "Scilab 83",
+        "technology": "Scilab",
         "title": "Modelling and Simulation"
     },
     {
@@ -1194,7 +1194,7 @@
             }
         ],
         "supervisor": "Harold Esmonde",
-        "technology": "Labview 84",
+        "technology": "Labview",
         "title": "Control of a Dynamic System"
     },
     {
@@ -1208,7 +1208,7 @@
             }
         ],
         "supervisor": "Harold Esmonde",
-        "technology": "Labview 85",
+        "technology": "Labview",
         "title": "Automated Weighing Process"
     },
     {
@@ -1222,7 +1222,7 @@
             }
         ],
         "supervisor": "Ronan Scaife",
-        "technology": "Arduino 86",
+        "technology": "Arduino",
         "title": "Teleprinter demo"
     },
     {
@@ -1236,11 +1236,11 @@
             }
         ],
         "supervisor": "Dermot Brabazon",
-        "technology": "SolidWorks 87",
+        "technology": "SolidWorks",
         "title": "Actuation of dissolvable film valves on a lab on a disc using mechanical fluting"
     },
     {
-        "area": "Artificial_Intelligence,Technical Analysis, Genetic Algorithms",
+        "area": "Artificial Intelligence, Technical Analysis, Genetic Algorithms",
         "description": "The objective behind INVESTmate is to dynamically build and re-adjust trading systems that use forecasting indicators and exit rules and open and exit buying positions using their unique trading strategies. The trading strategies are generated using GANN, a component of this system, which optimises their profitability within the trading system using GA, NaÔve Bayes and Feed Forward/Back-propagation algorithms. The system consists of: • A Web Server: Django web framework. • GANN: A C/C++ application (Python bindings). • An Android Application",
         "programme": "Computer Applications",
         "students": [
@@ -1250,7 +1250,7 @@
             }
         ],
         "supervisor": "Dr Martin Crane",
-        "technology": "C/C++,Python,XML 88",
+        "technology": "C/C++, Python, XML",
         "title": "Investimate"
     },
     {
@@ -1264,7 +1264,7 @@
             }
         ],
         "supervisor": "Harold Esmonde",
-        "technology": "Solidworks 89",
+        "technology": "Solidworks",
         "title": "Automated Assembly"
     },
     {
@@ -1278,7 +1278,7 @@
             }
         ],
         "supervisor": "Harold Esmonde",
-        "technology": "Android 90",
+        "technology": "Android",
         "title": "Android based vision control"
     },
     {
@@ -1292,7 +1292,7 @@
             }
         ],
         "supervisor": "Noel Murphy",
-        "technology": "Digital signal processing 91",
+        "technology": "Digital signal processing",
         "title": "Combining Accelerometer and Gyroscopic Signals using a Microprossor as part of a Sensor subsystem design for a light-aircraft AHRS"
     },
     {
@@ -1306,11 +1306,11 @@
             }
         ],
         "supervisor": "Jennifer Bruton",
-        "technology": "MEMS devices 92",
+        "technology": "MEMS devices",
         "title": "Sensor exploration for positioning control systems"
     },
     {
-        "area": "Web_Application",
+        "area": "Web Application",
         "description": "TaskPortal is a cloud based software development project collaboration tool which combines features found in most modern social networks such as instant messaging, friend relationships and assist with software project management tasks. project specific items include file system, real time issue tracking, instant messaging group, access restrictions and more. Each project has a project analyser feature which is able to analyse all project activity such as instant messaging or document uploads, display results and notify user of potential problems.",
         "programme": "Computer Applications",
         "students": [
@@ -1320,11 +1320,11 @@
             }
         ],
         "supervisor": "Dr Claus Pahl",
-        "technology": "Asp.net, SignalR, Javascript, jquery, SQL Server, NoSQL Cloud based Solutions. 93",
+        "technology": "Asp.net, SignalR, Javascript, jquery, SQL Server, NoSQL Cloud based Solutions.",
         "title": "TaskPortal project management social network"
     },
     {
-        "area": "Sensor_Technology",
+        "area": "Sensor Technology",
         "description": "This project is a 2-part prototype that consists of a prototype hardware mock-up and a fully functional software application. Gluco24 is designed to help diabetes patients continuously monitor their blood glucose levels in a non-invasive manner. Using transdermal electrochemical sensor technology, Gluco24 combines a chemical sensing wristband with a smartphone application to manage the data. The software aspect of the project (mobile and web application) have been developed using Apache Cordova making it cross platform.",
         "programme": "Enterprise Computing",
         "students": [
@@ -1342,7 +1342,7 @@
             }
         ],
         "supervisor": "Cathal Gurrin",
-        "technology": "JQuery,JavaScript 94",
+        "technology": "JQuery, JavaScript",
         "title": "Gluco24"
     },
     {
@@ -1356,7 +1356,7 @@
             }
         ],
         "supervisor": "Paul Whelan",
-        "technology": "Python 95",
+        "technology": "Python",
         "title": "Hazard Awareness System"
     },
     {
@@ -1370,11 +1370,11 @@
             }
         ],
         "supervisor": "Yan Delaure",
-        "technology": "Solidworks, Image Processing, Microsoft Kinect 96",
+        "technology": "Solidworks, Image Processing, Microsoft Kinect",
         "title": "Vision System Development for Image Analysis in Fluid Flow"
     },
     {
-        "area": "GPS_GIS",
+        "area": "GPS GIS",
         "description": "This project provides a detailed, clear business model for implementing a comfortable solution to the increasing problem that is wandering episodes among Alzheimer’s patients. This is a rapidly growing problem as our population ages. The proposed device, the Alzafind Wristband, will have GPRS connection, which it will use in conjunction with GPS capabilities to determine when an Alzheimer’s patient is leaving a pre-designated Geo-fence, or “safe zone”. The wristband will then alert the caregiver/relative of Alzheimer’s patients.",
         "programme": "Enterprise Computing",
         "students": [
@@ -1392,7 +1392,7 @@
             }
         ],
         "supervisor": "Dr. Stephen Blott",
-        "technology": "SQL,PHP 97",
+        "technology": "SQL, PHP",
         "title": "Alzafind Wristband – GPS Tracking for Alzheimer’s Patients"
     },
     {
@@ -1406,7 +1406,7 @@
             }
         ],
         "supervisor": "Jeremiah Murphy",
-        "technology": "Magnetic Levitation 98",
+        "technology": "Magnetic Levitation",
         "title": "“Frictionless” Shearing Apparatus"
     },
     {
@@ -1420,7 +1420,7 @@
             }
         ],
         "supervisor": "John Geraghty",
-        "technology": "ExtendSim 8 99",
+        "technology": "ExtendSim 8",
         "title": "Upstream Impact of Demand Variability"
     },
     {
@@ -1434,7 +1434,7 @@
             }
         ],
         "supervisor": "John Geraghty",
-        "technology": "Matlab 100",
+        "technology": "Matlab",
         "title": "Replenishment strategies in Mizusumashi systems"
     },
     {
@@ -1448,7 +1448,7 @@
             }
         ],
         "supervisor": "John Geraghty",
-        "technology": "Python 101",
+        "technology": "Python",
         "title": "Algorithms for Job Shop Scheduling Problems"
     },
     {
@@ -1462,7 +1462,7 @@
             }
         ],
         "supervisor": "John Geraghty",
-        "technology": "MS Excel VBA 103",
+        "technology": "MS Excel VBA",
         "title": "Simulation modeling of a lean Heijunka Box"
     },
     {
@@ -1476,7 +1476,7 @@
             }
         ],
         "supervisor": "Joseph Stokes",
-        "technology": "Android 104",
+        "technology": "Android",
         "title": "Final Commissioning of Sectioned Car Engines"
     },
     {
@@ -1490,11 +1490,11 @@
             }
         ],
         "supervisor": "Joseph Stokes",
-        "technology": "Excel 105",
+        "technology": "Excel",
         "title": "Energy & Space Audit of the School Of Manufacturing Engineering"
     },
     {
-        "area": "Data Analytics,Educational,Mobile_App,Natural_Language_Processing,Network_ Applications,Software_Development,Speech_Recognition",
+        "area": "Data Analytics, Educational, Mobile App, Natural Language Processing, Network Applications, Software Development, Speech Recognition",
         "description": "Super Word-A-Day is an Android app that assists English speakers in broadening their vocabularies. It does this by retrieving content from a word-a-day website, presenting this to the user for memorising, testing them on what they’ve learnt using speech recognition, then analysing the results in various ways and scoring them according to a user-set difficulty level. Other features include user analysis using an Apache server, revision, and a word archive.",
         "programme": "Computer Applications",
         "students": [
@@ -1504,7 +1504,7 @@
             }
         ],
         "supervisor": "John McKenna",
-        "technology": "Eclipse,Java,PHP,XML 106",
+        "technology": "Eclipse, Java, PHP, XML",
         "title": "Super Word-A-Day"
     },
     {
@@ -1518,7 +1518,7 @@
             }
         ],
         "supervisor": "Pascal Landais",
-        "technology": "Matlab 107",
+        "technology": "Matlab",
         "title": "The Bike Bug: the Simulation of a Bicycle-Powered Phone Charger"
     },
     {
@@ -1532,11 +1532,11 @@
             }
         ],
         "supervisor": "Dr Martin Crane",
-        "technology": "Python 108",
+        "technology": "Python",
         "title": "Betting Data Analysis"
     },
     {
-        "area": "Mobile_App",
+        "area": "Mobile App",
         "description": "The purpose of this project is to successfully create and implement an image messaging service for mobile devices using the Android mobile operating system. The project will allow its users to send messages to each other, by allowing them to choose a receiver by list, proximity, or using random selection. This messaging application will use a point system for viewing images and a rating system for viewed images.",
         "programme": "Computer Applications",
         "students": [
@@ -1546,11 +1546,11 @@
             }
         ],
         "supervisor": "Cathal Gurrin",
-        "technology": "SQL,PHP,Java,XML 109",
+        "technology": "SQL, PHP, Java, XML",
         "title": "Picture Messaging Android Application And Service"
     },
     {
-        "area": "Mobile_App",
+        "area": "Mobile App",
         "description": "Fónetic is a proof of concept application run on the Android platform designed as a fun way to learn the Irish language in primary schools. It is based around the Irish curriculum and covers the four main strands; hearing, speech, reading and writing. There are lessons and games designed around the curriculum. Fónetic is tailored for 4-6, 7-9 and 10-12 age groups. It assists in pronunciations of words through the use of phonetic spelling, game interaction and audio clips.",
         "programme": "Enterprise Computing",
         "students": [
@@ -1564,7 +1564,7 @@
             }
         ],
         "supervisor": "Monica Ward",
-        "technology": "SQL,PHP,JavaScript,HTML5 110",
+        "technology": "SQL, PHP, JavaScript, HTML5",
         "title": "Fónetic"
     },
     {
@@ -1578,11 +1578,11 @@
             }
         ],
         "supervisor": "Xiaojun Wang",
-        "technology": "FPGA, VHDL 111",
+        "technology": "FPGA, VHDL",
         "title": "Efficient Hardware Implementation of the Lightweight Block Encryption Algorithm CLEFIA"
     },
     {
-        "area": "Content Management System,Educational,Filesystems,Web_Application",
+        "area": "Content Management System, Educational, Filesystems, Web Application",
         "description": "Handling Moodle resources can take time for lecturers and students. MoodleFUSE aims to provide a simple way to map Moodle resources to a local filesystem. The application is developed in Python for a Linux system. It uses FUSE to build a virtual user space filesystem that corresponds to a specific user defined Moodle implementation. The list of supported operations that can be carried out on the remote Moodle resources locally are add, remove, rename & modify.",
         "programme": "Computer Applications",
         "students": [
@@ -1592,7 +1592,7 @@
             }
         ],
         "supervisor": "Kevin Casey",
-        "technology": "FUSE,Python,SQL,XPath 112",
+        "technology": "FUSE, Python, SQL, XPath",
         "title": "MoodleFUSE"
     },
     {
@@ -1606,11 +1606,11 @@
             }
         ],
         "supervisor": "Joseph Stokes",
-        "technology": "Coating 113",
+        "technology": "Coating",
         "title": "Low Temperature Deposition Gun"
     },
     {
-        "area": "Mobile_App",
+        "area": "Mobile App",
         "description": "This project consists of a bracelet that connects to a phone and an Android app responsible for communicating with the bracelet. The bracelet uses visual feedback and vibration motors to let the user know when they have received calls, texts or emails. The bracelet is also capable of sending some simple commands to the phone.",
         "programme": "Computer Applications",
         "students": [
@@ -1620,11 +1620,11 @@
             }
         ],
         "supervisor": "David Sinclair",
-        "technology": "Java 114",
+        "technology": "Java",
         "title": "Smart bracelet"
     },
     {
-        "area": "Artificial_Intelligence",
+        "area": "Artificial Intelligence",
         "description": "The project is a heads-up (one on one) poker game where the blinds keep rising as the game progresses which puts pressure on the player to bluff when they would normally fold. The main aspect of the project is the poker AI which provides a strong enough opponent for the player to go head to head with. The AI is designed on a desktop environment and works off a rule based system taking in multiple inputs before making its move.",
         "programme": "Computer Applications",
         "students": [
@@ -1634,11 +1634,11 @@
             }
         ],
         "supervisor": "Dr. David Sinclair",
-        "technology": "Java 115",
+        "technology": "Java",
         "title": "Heads-up Computer Poker"
     },
     {
-        "area": "Data Analytics,Natural_Language_Processing",
+        "area": "Data Analytics, Natural Language Processing",
         "description": "Social media sites like Twitter have evolved to become a huge source of varied kinds of information. This large source of available data provides an opportunity to view and track people and groups reaction to events in real-time. This project will allow users to track specific topics/individuals and provide real time sentiment analysis and metrics of their tweets. This project is built in Java using ‘Apache Storm’, and uses Elasticsearch and Kibana, the front end was developed using AngularJS.",
         "programme": "Computer Applications",
         "students": [
@@ -1648,11 +1648,11 @@
             }
         ],
         "supervisor": "Dr Mark Humphrys",
-        "technology": "Java,NoSQL 116",
+        "technology": "Java, NoSQL",
         "title": "Real Time Twitter Sentiment analysis"
     },
     {
-        "area": "Mobile_App",
+        "area": "Mobile App",
         "description": "This project involves the development of a prototype Android app which allows learners of English to practise their preposition usage. The app provides a stimulating learning environment where users undertake multiple choice cloze tests which test their ability to choose the correct preposition in a given context. This area of English grammar has been shown to be particularly difficult for learners of English as a second language and this app provides a way for learners to practice and gain confidence.",
         "programme": "Enterprise Computing",
         "students": [
@@ -1666,7 +1666,7 @@
             }
         ],
         "supervisor": "Jennifer Foster",
-        "technology": "Java 117",
+        "technology": "Java",
         "title": "Wise Owl Prepositions"
     },
     {
@@ -1680,11 +1680,11 @@
             }
         ],
         "supervisor": "Claus Pahl",
-        "technology": "Java 118",
+        "technology": "Java",
         "title": "MARS – Test Management and Recommendation System"
     },
     {
-        "area": "Web_Application",
+        "area": "Web Application",
         "description": "EveryBar is an event driven, bar management web application for hotel bars. This application targets the management of hotels who are involved in the behind the scenes running of the bar. The application will be highly integrated with the main modules including an events module, staff roster module, stock-take module and stock ordering module. The goal of this application is to make the running of the hotel bar more efficient and organised.",
         "programme": "Enterprise Computing",
         "students": [
@@ -1698,11 +1698,11 @@
             }
         ],
         "supervisor": "Martin O’Connor",
-        "technology": "Java 119",
+        "technology": "Java",
         "title": "EveryBar – An event driven, bar management web application for hotel bars"
     },
     {
-        "area": "Image_Video_Processing",
+        "area": "Image Video Processing",
         "description": "This project is a letter checker for primary school students. It checks to see if the student has written a letter correctly. The student draws the letter on a tablet and the program will determine if it is written correctly. There are different levels, with varying levels of hints (dots) to the student. The person must follow the dots. The program gives a score based on the accuracy of the letter. It works on smartphones, and tactile Android tablets.",
         "programme": "Computer Applications",
         "students": [
@@ -1712,7 +1712,7 @@
             }
         ],
         "supervisor": "Monica Ward",
-        "technology": "Java 120",
+        "technology": "Java",
         "title": "Letter Recognition"
     },
     {
@@ -1726,7 +1726,7 @@
             }
         ],
         "supervisor": "Lorna Fitzsimons",
-        "technology": "Plant design selector tool 121",
+        "technology": "Plant design selector tool",
         "title": "Wastewater treatment plant design selector tool"
     },
     {
@@ -1740,11 +1740,11 @@
             }
         ],
         "supervisor": "Renaat Verbruggen",
-        "technology": "PHP 122",
+        "technology": "PHP",
         "title": "INTRA Portal System"
     },
     {
-        "area": "Mobile_App,Web_Application",
+        "area": "Mobile App, Web Application",
         "description": "This project explores the feasibility of using two Near Field Communications (NFC) enabled Android devices to implement a secure locking system, using the industry standard ISO/IEC 14443-4 currently adopted by the majority of NFC enabled door lock providers in the marketplace. Two Android applications will be developed to explore this. The first application will simulate a user access card, the second application will act as an NFC reader by simulating a door access point responsible for verifying access credentials.",
         "programme": "Computer Applications",
         "students": [
@@ -1754,11 +1754,11 @@
             }
         ],
         "supervisor": "Mark Roantree",
-        "technology": "Java,JavaScript,Node.js,REST 123",
+        "technology": "Java, JavaScript, Node.js, REST",
         "title": "NFCOpen"
     },
     {
-        "area": "Mobile_App",
+        "area": "Mobile App",
         "description": "The project is an application which aims to provide a means by which mobile users can keep up to date with ongoing professional Dota 2 games. It will also provide statistics for teams, players, and different characters in the game.",
         "programme": "Computer Applications",
         "students": [
@@ -1768,7 +1768,7 @@
             }
         ],
         "supervisor": "Gareth Jones",
-        "technology": "Java,PHP,Python,SQL 124",
+        "technology": "Java, PHP, Python, SQL",
         "title": "Dota 2 Statistics App"
     },
     {
@@ -1782,7 +1782,7 @@
             }
         ],
         "supervisor": "Lorna Fitzsimons",
-        "technology": "eTracker energy metering 125",
+        "technology": "eTracker energy metering",
         "title": "Energy Analysis of Cleanroom Areas"
     },
     {
@@ -1796,11 +1796,11 @@
             }
         ],
         "supervisor": "Alistair Sutherland",
-        "technology": "C# 126",
+        "technology": "C#",
         "title": "Knights Of Alliance: A 2D Game"
     },
     {
-        "area": "Mobile_App",
+        "area": "Mobile App",
         "description": "This is a mobile application, a Mobile Click in Brick Solution to shopping. The application allows users to “Scan” items in a supermarket. The application keeps a running total of all items scanned. The user can also use and store vouchers and receives shopping reminders. When the user is finished they go to the checkout, the cashier downloads the shopping information from the phone to the physical till. The app eliminates postal voucher expenses and expensive scanners.",
         "programme": "Enterprise Computing",
         "students": [
@@ -1814,7 +1814,7 @@
             }
         ],
         "supervisor": "Brian Stone",
-        "technology": "iBeacon, Barcode Analysing,SQL,PHP,HTML5,JavaScript 127",
+        "technology": "iBeacon, Barcode Analysing, SQL, PHP, HTML5, JavaScript",
         "title": "Check-It-Out"
     },
     {
@@ -1828,7 +1828,7 @@
             }
         ],
         "supervisor": "Prof. Heather J. Ruskin",
-        "technology": "Java 128",
+        "technology": "Java",
         "title": "Video Game Maker"
     },
     {
@@ -1842,7 +1842,7 @@
             }
         ],
         "supervisor": "Lorna Fitzsimons",
-        "technology": "NuWave Particle Sensors 129",
+        "technology": "NuWave Particle Sensors",
         "title": "Cleanroom Energy Efficiency 1"
     },
     {
@@ -1856,11 +1856,11 @@
             }
         ],
         "supervisor": "Lorna Fitzsimons",
-        "technology": "Autonomous Nutrient Sensor 130",
+        "technology": "Autonomous Nutrient Sensor",
         "title": "Packaging, Modelling and Validation of an Autonomous Sensing Device (Nutrient Sensor)"
     },
     {
-        "area": "Web_Application,Mobile_App,Databases",
+        "area": "Web Application, Mobile App, Databases",
         "description": "This project aims to provide a system to aid couriers and other delivery personnel in generating an efficient route for them to follow when carrying out their deliveries. A mobile application and a website was developed for this system. The website allows depot managers to create new routes and edit current routes. The mobile application allows couriers to view their routes in a Google Maps interface. The approach being used to generate efficient routes is the Lin-Kernighan heuristic.",
         "programme": "Computer Applications",
         "students": [
@@ -1870,11 +1870,11 @@
             }
         ],
         "supervisor": "Dr. Liam Tuohey",
-        "technology": "XML,JSP/Servlets,Java,HTML5 131",
+        "technology": "XML, JSP/Servlets, Java, HTML5",
         "title": "Dynamic Routing System"
     },
     {
-        "area": "Web_Application",
+        "area": "Web Application",
         "description": "Check It Out is a price comparison web application. It compares the price of a product on Argos.ie with the price of the same product on Argos.co.uk. The application allows the user to search for a product by keyword or product ID and presents the products from each store to the user when they select a product they are interested in. The application is designed to be highly accessible in order to facilitate various user groups.",
         "programme": "Computer Applications",
         "students": [
@@ -1884,7 +1884,7 @@
             }
         ],
         "supervisor": "Dónal Fitzpatrick",
-        "technology": "XPath,Python,JQuery,JavaScript,HTML5 132",
+        "technology": "XPath, Python, JQuery, JavaScript, HTML5",
         "title": "Check It Out"
     },
     {
@@ -1898,7 +1898,7 @@
             }
         ],
         "supervisor": "Lorna Fitzsimons",
-        "technology": "Excel (visual basic) 133",
+        "technology": "Excel (visual basic)",
         "title": "Wastewater treatment energy optimisation strategy selector tool"
     },
     {
@@ -1912,7 +1912,7 @@
             }
         ],
         "supervisor": "Noel Murphy",
-        "technology": "Haptics 134",
+        "technology": "Haptics",
         "title": "Design and implement a device to measure aerodynamic slip, and convey the measured data to the pilot by means of tactile feedback."
     },
     {
@@ -1926,7 +1926,7 @@
             }
         ],
         "supervisor": "Stephen Blott",
-        "technology": "JavaScript 135",
+        "technology": "JavaScript",
         "title": "Vimable – Efficient Text Editing in Chrome"
     },
     {
@@ -1940,11 +1940,11 @@
             }
         ],
         "supervisor": "David Sinclair",
-        "technology": "JavaScript 136",
+        "technology": "JavaScript",
         "title": "Krazy Kayaking"
     },
     {
-        "area": "Mobile_App",
+        "area": "Mobile App",
         "description": "This tablet application enables basketball coaches to keep track of detailed shooting statistics for each player on a basketball team. The app helps coaches to identify the strengths and weaknesses of a team and individual players by displaying the shooting statistics for the team/players from different sections on a basketball court.",
         "programme": "Computer Applications",
         "students": [
@@ -1954,11 +1954,11 @@
             }
         ],
         "supervisor": "Monica Ward",
-        "technology": "JQuery,JavaScript 137",
+        "technology": "JQuery, JavaScript",
         "title": "Basketball Shot Tracking App"
     },
     {
-        "area": "Software_Development,Mobile_App",
+        "area": "Software Development, Mobile App",
         "description": "This project is an Android location based application which notifies the user of the close proximity of personal friends. The app gives the users control of how and when their location is shared with family and friends. The Android application connects to the back-end (written in Java) which is deployed on Google’s App Engine and stores user location using a NoSql database.",
         "programme": "Computer Applications",
         "students": [
@@ -1968,7 +1968,7 @@
             }
         ],
         "supervisor": "Stephen Blott",
-        "technology": "XML,NoSQL,SQL,Java 138",
+        "technology": "XML, NoSQL, SQL, Java",
         "title": "Pal-2-Pal"
     },
     {
@@ -1982,7 +1982,7 @@
             }
         ],
         "supervisor": "Noel Murphy",
-        "technology": "Solidworks 139",
+        "technology": "Solidworks",
         "title": "Design of Wind-driven Generator for light Aircraft."
     },
     {
@@ -1996,7 +1996,7 @@
             }
         ],
         "supervisor": "Dr. Mark Roantree",
-        "technology": "Java, C/C++, Javascript, Ruby, REST, SQL 140",
+        "technology": "Java, C/C++, Javascript, Ruby, REST, SQL",
         "title": "PowerScout"
     },
     {
@@ -2010,11 +2010,11 @@
             }
         ],
         "supervisor": "Patrick McNally",
-        "technology": "Laser Optics 141",
+        "technology": "Laser Optics",
         "title": "Design of a laser microphone for photoacoustic signal detection"
     },
     {
-        "area": "Virtual_Reality",
+        "area": "Virtual Reality",
         "description": "Modern gaming is one of many computing sectors about to embrace the power of virtual reality. Pac-Man VR explores the potential behind this new technology, building upon a game that has stood the test of time for over 30 years. Staying faithful to the original gameplay design, Pac-Man VR offers players a completely new way to play Pac-Man, and a chance to experience virtual reality inside a familiar game.",
         "programme": "Computer Applications",
         "students": [
@@ -2024,7 +2024,7 @@
             }
         ],
         "supervisor": "Dónal Fitzpatrick",
-        "technology": "Unreal 4 142",
+        "technology": "Unreal 4",
         "title": "Pac-Man VR"
     },
     {
@@ -2038,11 +2038,11 @@
             }
         ],
         "supervisor": "Paul Whelan",
-        "technology": "C++ 143",
+        "technology": "C++",
         "title": "Hazard Awareness System II (internal)"
     },
     {
-        "area": "Mobile_App",
+        "area": "Mobile App",
         "description": "This is an android application aimed at giving users of all ages quick, easy, and in-depth access to a range of events and attractions including concerts, nightlife, and tourist attractions. The application features an in depth search including a range of criteria to quickly search for events of interest. Users have the ability to create profiles within the app, which allows them to add other users as friends.",
         "programme": "Computer Applications",
         "students": [
@@ -2052,11 +2052,11 @@
             }
         ],
         "supervisor": "Gareth Jones",
-        "technology": "Java,PHP,SQL 144",
+        "technology": "Java, PHP, SQL",
         "title": "Event Finder – Android Events Application"
     },
     {
-        "area": "Web_Application",
+        "area": "Web Application",
         "description": "Chasing Returns is a financial risk management tool for independent or ‘retail’ traders. It uses advanced data analytics techniques to determine likely behaviour that will assist in better investment and trading decisions. Today’s trading execution platforms offer limited reporting or ability to analyse trades. As a result traders don’t understand their trading strengths and weaknesses, and typically don’t manage their money or their risk correctly. The Chasing Returns platform acts as their digital risk manager to support better trading decisions.",
         "programme": "Computer Applications",
         "students": [
@@ -2066,7 +2066,7 @@
             }
         ],
         "supervisor": "John McKenna",
-        "technology": "Go, Docker,NoSQL,REST,Python,Node.js,JavaScript,HTML5 145",
+        "technology": "Go, Docker, NoSQL, REST, Python, Node.js, JavaScript, HTML5",
         "title": "Chasing Returns"
     },
     {
@@ -2080,11 +2080,11 @@
             }
         ],
         "supervisor": "Paul Whelan",
-        "technology": "Matlab 146",
+        "technology": "Matlab",
         "title": "Automated classification of cell structure using image analysis"
     },
     {
-        "area": "Web_Application",
+        "area": "Web Application",
         "description": "TickIt is a task management web application. The main idea of this system is to provide a web solution for users to create and manage ‘tickits’. Once signed in a user can create a tickit and view it on an interactive taskboard. Tickit status (e.g. done, doing etc) can be updated by dragging the tickits on the taskboard from one column to another. Technologies used in this project include NodeJS, Express and Passport, MongoDB, Mongoose, AngularJS, HTML5, CSS3, Bootstrap.",
         "programme": "Computer Applications",
         "students": [
@@ -2094,7 +2094,7 @@
             }
         ],
         "supervisor": "Dr. Dónal Fitzpatrick",
-        "technology": "Node.js 147",
+        "technology": "Node.js",
         "title": "TickIt"
     },
     {
@@ -2108,11 +2108,11 @@
             }
         ],
         "supervisor": "Paul Young",
-        "technology": "SolidWorks 148",
+        "technology": "SolidWorks",
         "title": "Design of a battery driven electric loading shovel"
     },
     {
-        "area": "Mobile_App",
+        "area": "Mobile App",
         "description": "The purpose of the project is to develop an android system that allows monitoring of grazing animals within a defined area and herd them using drones to ensure the area is grazed evenly. Each animal is fitted with a ‘slave’ device that acts as a GPS and motion sensor and relays data to a master device which processes data to issue commands to the drones to gently nudge the grazing animals around the fieldm with a visualisation to the user.",
         "programme": "Computer Applications",
         "students": [
@@ -2122,7 +2122,7 @@
             }
         ],
         "supervisor": "Prof. Alan Smeaton",
-        "technology": "Java 149",
+        "technology": "Java",
         "title": "Graze-Even"
     },
     {
@@ -2136,7 +2136,7 @@
             }
         ],
         "supervisor": "Paul Young",
-        "technology": "Data Analysis and Validation 150",
+        "technology": "Data Analysis and Validation",
         "title": "Vibration Sensor and Data Logger for Use in an Industrial Situation."
     },
     {
@@ -2150,7 +2150,7 @@
             }
         ],
         "supervisor": "Mark Roantree",
-        "technology": "Java 151",
+        "technology": "Java",
         "title": "Data Analysis using Android-based Smartwatches"
     },
     {
@@ -2164,7 +2164,7 @@
             }
         ],
         "supervisor": "Paul Young",
-        "technology": "PLC Control/Programming 152",
+        "technology": "PLC Control/Programming",
         "title": "Improvement of Station performance on the FMS Rig"
     },
     {
@@ -2178,7 +2178,7 @@
             }
         ],
         "supervisor": "Dr. Mark Roantree",
-        "technology": "Java 153",
+        "technology": "Java",
         "title": "Gaelic Player Data Analysis"
     },
     {
@@ -2192,11 +2192,11 @@
             }
         ],
         "supervisor": "Paul Young",
-        "technology": "PLC 154",
+        "technology": "PLC",
         "title": "Manufacturing System Dashboard for FMS Rig"
     },
     {
-        "area": "Educational,Web_Application",
+        "area": "Educational, Web Application",
         "description": "Word Play, is a web application, designed to make learning fun through gamification techniques. The application is mainly aimed at children aged 10 and up. The primary focus of the application is mainly to help children learn the key aspects of English language. That is, helping children to build up their vocabulary, grammar, and spelling knowledge of the English language. The system was developed using Javascript Jquery, HTML5 and PHP and SQL",
         "programme": "Computer Applications",
         "students": [
@@ -2206,7 +2206,7 @@
             }
         ],
         "supervisor": "Dr. Gareth Jones",
-        "technology": "HTML5,JavaScript,JQuery,PHP,SQL 155",
+        "technology": "HTML5, JavaScript, JQuery, PHP, SQL",
         "title": "WordPlay"
     },
     {
@@ -2220,11 +2220,11 @@
             }
         ],
         "supervisor": "Robert Sadleir",
-        "technology": "Sensor Fusion 156",
+        "technology": "Sensor Fusion",
         "title": "Development of an embedded system based multisport monitor"
     },
     {
-        "area": "Cloud_Computing,Document_Processing,Optical_Character_Recognition,Web_ Application",
+        "area": "Cloud Computing, Document Processing, Optical Character Recognition, Web Application",
         "description": "InShip, an application developed with a focus on UX, Design and Modern Web Technologies. Implemented with foundations in AngularJS, NodeJS, and many supporting libraries, InShip strives to provide a business solution which is both wonderfully user-friendly, yet functionally extremely powerful. InShip automates the accounts payable process of a small-medium size business by retrieving invoices/statements from a client’s email, applying OCR to extract information, routing documents for approval/review, then finally processing data through the client’s accounting software.",
         "programme": "Computer Applications",
         "students": [
@@ -2234,7 +2234,7 @@
             }
         ],
         "supervisor": "Kevin Casey",
-        "technology": "HTML5,JavaScript,JQuery,Node.js,REST,NoSQL 157",
+        "technology": "HTML5, JavaScript, JQuery, Node.js, REST, NoSQL",
         "title": "InShip – Automatic Supplier Invoice Process and Document Control"
     },
     {
@@ -2248,11 +2248,11 @@
             }
         ],
         "supervisor": "Tamas Szecsi",
-        "technology": "Matlab 158",
+        "technology": "Matlab",
         "title": "Car Steering Design Comparison"
     },
     {
-        "area": "Databases,Educational,Web_Application",
+        "area": "Databases, Educational, Web Application",
         "description": "The project, ‘Easy to learn’, is a German language e-learning teaching aid for upper-level primary school students. It focuses on assisting teachers in monitoring student progress. Exposure to a foreign language at a young age is ideal considering the broad capacity for development early on, as such providing the opportunity for a language base to be grasped prior to secondary school. Accordingly, this web application introduces simple concepts by lessons, whereby knowledge acquired is tested via various quizzes.",
         "programme": "Computer Applications",
         "students": [
@@ -2262,7 +2262,7 @@
             }
         ],
         "supervisor": "Monica Ward",
-        "technology": "HTML5,PHP,SQL 159",
+        "technology": "HTML5, PHP, SQL",
         "title": "‘Einfach erlernt’ – Easy to learn"
     },
     {
@@ -2280,11 +2280,11 @@
             }
         ],
         "supervisor": "Brian Corcoran",
-        "technology": "This project is a two person project. The aim of it is to design and build an electric car using only two 12V DC batteries and a 24V Fracmo motor to run it. The car must be built in accordance with specific rules and regulations set by the Greenpower committee. Project Area: Sustainable Energy Project Technology: Steering (Michael Kinsella), Motors (Oluwatosin Emmanuel Odekeye) 160",
+        "technology": "This project is a two person project. The aim of it is to design and build an electric car using only two 12V DC batteries and a 24V Fracmo motor to run it. The car must be built in accordance with specific rules and regulations set by the Greenpower committee. Project Area: Sustainable Energy Project Technology: Steering (Michael Kinsella), Motors (Oluwatosin Emmanuel Odekeye)",
         "title": "Siemens Green-power challenge"
     },
     {
-        "area": "Web_Application",
+        "area": "Web Application",
         "description": "Score pundit is an online application which allows for the creation of a sports tournament so that anyone with an internet connection can check the scores as they happen. This project is to demonstrate that I have a good understanding of programming and the various frameworks used throughout. The project itself is infinitely expandable because it is applicable to any competitive sport with a few minor adjustments. I also made use of GitHub Version Control throughout the development lifecycle.",
         "programme": "Computer Applications",
         "students": [
@@ -2294,7 +2294,7 @@
             }
         ],
         "supervisor": "Markus Helfert",
-        "technology": "Groovy, Spring MVC, Angular/backbone JS, Javascript, SQL 162",
+        "technology": "Groovy, Spring MVC, Angular/backbone JS, Javascript, SQL",
         "title": "ScorePundit"
     },
     {
@@ -2308,7 +2308,7 @@
             }
         ],
         "supervisor": "Gareth Jones",
-        "technology": "JavaScript 163",
+        "technology": "JavaScript",
         "title": "Trend Analysis of Wikipedia Articles"
     },
     {
@@ -2322,7 +2322,7 @@
             }
         ],
         "supervisor": "Yan Delaure",
-        "technology": "Solidworks 166",
+        "technology": "Solidworks",
         "title": "Micro-bubble generation for aeration"
     },
     {
@@ -2336,7 +2336,7 @@
             }
         ],
         "supervisor": "Renaat Verbruggen",
-        "technology": "Python 167",
+        "technology": "Python",
         "title": "Car Deal Analyser"
     },
     {

@@ -1321,8 +1321,7 @@ what they’ve learnt using speech recognition, then analysing the results in va
 according to a user-set difficulty level.
 Other features include user analysis using an Apache server, revision, and a word archive.
 Project Area: Data
-Analytics,Educational,Mobile_App,Natural_Language_Processing,Network_
-Applications,Software_Development,Speech_Recognition
+Analytics,Educational,Mobile_App,Natural_Language_Processing,Network_Applications,Software_Development,Speech_Recognition
 Project Technology: Eclipse,Java,PHP,XML
 106
 Project Title: The Bike Bug: the Simulation of a Bicycle-Powered Phone Charger
@@ -1967,9 +1966,7 @@ which is both wonderfully user-friendly, yet functionally extremely powerful. In
 payable process of a small-medium size business by retrieving invoices/statements from a client’s email,
 applying OCR to extract information, routing documents for approval/review, then finally processing data through
 the client’s accounting software.
-Project Area:
-Cloud_Computing,Document_Processing,Optical_Character_Recognition,Web_
-Application
+Project Area: Cloud_Computing,Document_Processing,Optical_Character_Recognition,Web_Application
 Project Technology: HTML5,JavaScript,JQuery,Node.js,REST,NoSQL
 157
 Project Title: Car Steering Design Comparison
