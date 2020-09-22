@@ -10,7 +10,7 @@
             }
         ],
         "supervisor": "Suzanne Little",
-        "technology": "HTML5, Java, JavaScript, Python, REST, SpringMVC, SQL 2",
+        "technology": "HTML5, Java, JavaScript, Python, REST, SpringMVC, SQL",
         "title": "Crowd Control"
     },
     {
@@ -24,7 +24,7 @@
             }
         ],
         "supervisor": "Geoff Hamilton",
-        "technology": "Java 3",
+        "technology": "Java",
         "title": "Assassin"
     },
     {
@@ -38,7 +38,7 @@
             }
         ],
         "supervisor": "Dermot Brabazon",
-        "technology": "Excel/VB 24 Faculty of Engineering and Computing Final Year Projects Expo 2016 4",
+        "technology": "Excel/VB",
         "title": "Investigation of metal die warpage for high dimensional accuracy requirements in polymer moulding"
     },
     {
@@ -52,7 +52,7 @@
             }
         ],
         "supervisor": "Stephen Blott",
-        "technology": "JenkinsCI, MongoDB, Cisco, Juniper, SpringMVC, CSS, HTML5, REST, JQuery, JavaScript, Java, AngularJS 5",
+        "technology": "JenkinsCI, MongoDB, Cisco, Juniper, SpringMVC, CSS, HTML5, REST, JQuery, JavaScript, Java, AngularJS",
         "title": "Software Defined Network Platform"
     },
     {
@@ -66,7 +66,7 @@
             }
         ],
         "supervisor": "Renaat Verbruggen",
-        "technology": "JavaScript, HTML5 6",
+        "technology": "JavaScript, HTML5",
         "title": "My Own Reports"
     },
     {
@@ -84,7 +84,7 @@
             }
         ],
         "supervisor": "Cathal Gurrin",
-        "technology": "Swift, Bootstrap, JQuery 25 Faculty of Engineering and Computing Final Year Projects Expo 2016 7",
+        "technology": "Swift, Bootstrap, JQuery",
         "title": "Trak Receipts"
     },
     {
@@ -102,7 +102,7 @@
             }
         ],
         "supervisor": "Monica Ward",
-        "technology": "Java 8",
+        "technology": "Java",
         "title": "Pro PT"
     },
     {
@@ -116,7 +116,7 @@
             }
         ],
         "supervisor": "Mark Humphrys",
-        "technology": "Swift 9",
+        "technology": "Swift",
         "title": "The Olympic Battle for Cake"
     },
     {
@@ -130,7 +130,7 @@
             }
         ],
         "supervisor": "Alistair Sutherland",
-        "technology": "Eclipse, Java, REST, SpringMVC, SQL 26 Faculty of Engineering and Computing Final Year Projects Expo 2016 10",
+        "technology": "Eclipse, Java, REST, SpringMVC, SQL",
         "title": "Expense Logger"
     },
     {
@@ -144,7 +144,7 @@
             }
         ],
         "supervisor": "Darragh OBrien",
-        "technology": "SQL, PHP, Java, HTML5 11",
+        "technology": "SQL, PHP, Java, HTML5",
         "title": "Car Deal Spotter"
     },
     {
@@ -158,7 +158,7 @@
             }
         ],
         "supervisor": "Geoff Hamilton",
-        "technology": "Java, PHP, SQL, XML 12",
+        "technology": "Java, PHP, SQL, XML",
         "title": "Android SmartTravel Application"
     },
     {
@@ -172,7 +172,7 @@
             }
         ],
         "supervisor": "David Molloy",
-        "technology": "AngularJS, Groovy, HTML5, REST, SQL 27 Faculty of Engineering and Computing Final Year Projects Expo 2016 13",
+        "technology": "AngularJS, Groovy, HTML5, REST, SQL",
         "title": "Student Retention Metrics and Analysis"
     },
     {
@@ -186,7 +186,7 @@
             }
         ],
         "supervisor": "Donal Fitzpatrick",
-        "technology": "CSS, HTML5, Java 14",
+        "technology": "CSS, HTML5, Java",
         "title": "NetBeans voice plugin"
     },
     {
@@ -200,7 +200,7 @@
             }
         ],
         "supervisor": "Stephen Blott",
-        "technology": "AngularJS, Java 15",
+        "technology": "AngularJS, Java",
         "title": "Patrol"
     },
     {
@@ -214,7 +214,7 @@
             }
         ],
         "supervisor": "John Geraghty",
-        "technology": "Excel/VB 28 Faculty of Engineering and Computing Final Year Projects Expo 2016 16",
+        "technology": "Excel/VB",
         "title": "Bottleneck analysis using TOC Lean Six Sigma, an industrial case srudy"
     },
     {
@@ -232,7 +232,7 @@
             }
         ],
         "supervisor": "Ray Walshe",
-        "technology": "Prototype Developed For Cross Platform Use 17",
+        "technology": "Prototype Developed For Cross Platform Use",
         "title": "BEEP! The Location Based Alarm"
     },
     {
@@ -250,7 +250,7 @@
             }
         ],
         "supervisor": "Brian Stone",
-        "technology": "JavaScript, JQuery, PHP, SQL 18",
+        "technology": "JavaScript, JQuery, PHP, SQL",
         "title": "NotifyIn"
     },
     {
@@ -264,7 +264,7 @@
             }
         ],
         "supervisor": "Gareth Jones",
-        "technology": "AngularJS, CSS, HTML5, Java, REST, SpringMVC, Elasticsearch 29 Faculty of Engineering and Computing Final Year Projects Expo 2016 19",
+        "technology": "AngularJS, CSS, HTML5, Java, REST, SpringMVC, Elasticsearch",
         "title": "Smart Document Store"
     },
     {
@@ -278,7 +278,7 @@
             }
         ],
         "supervisor": "Lorna Fitzsimons",
-        "technology": "LabCub and Quartzy 20",
+        "technology": "LabCub and Quartzy",
         "title": "Engineering Inventory Management System"
     },
     {
@@ -292,7 +292,7 @@
             }
         ],
         "supervisor": "Charlie Daly",
-        "technology": "Java 21",
+        "technology": "Java",
         "title": "Nutrition tracker application"
     },
     {
@@ -306,7 +306,7 @@
             }
         ],
         "supervisor": "Gabriel Miro Muntean",
-        "technology": "Java 30 Faculty of Engineering and Computing Final Year Projects Expo 2016 22",
+        "technology": "Java",
         "title": "Android Application which Compares Energy Consumption of Video Streaming over different mobile interfaces"
     },
     {
@@ -320,7 +320,7 @@
             }
         ],
         "supervisor": "John McKenna",
-        "technology": "SQL, PHP, Matlab, JQuery, JavaScript 23",
+        "technology": "SQL, PHP, Matlab, JQuery, JavaScript",
         "title": "Foghlaim Focail (Learn Words)"
     },
     {
@@ -334,7 +334,7 @@
             }
         ],
         "supervisor": "Alexander OConnor",
-        "technology": "JavaScript, Node.js, Docker, React, REST 24",
+        "technology": "JavaScript, Node.js, Docker, React, REST",
         "title": "Sonrasc – Invoice processing and visualisation"
     },
     {
@@ -348,7 +348,7 @@
             }
         ],
         "supervisor": "Ray Walshe",
-        "technology": "C/C++ 31 Faculty of Engineering and Computing Final Year Projects Expo 2016 25",
+        "technology": "C/C++",
         "title": "GPS Bicycle Helmet"
     },
     {
@@ -362,7 +362,7 @@
             }
         ],
         "supervisor": "Renaat Verbruggen",
-        "technology": "Python 26",
+        "technology": "Python",
         "title": "A program analysis tool to check for object-oriented errors in Python code"
     },
     {
@@ -380,7 +380,7 @@
             }
         ],
         "supervisor": "Markus Helfert",
-        "technology": "Java 27",
+        "technology": "Java",
         "title": "HotBox"
     },
     {
@@ -398,7 +398,7 @@
             }
         ],
         "supervisor": "Brian Stone",
-        "technology": "CSS, HTML5, JavaScript, PHP, SQL 32 Faculty of Engineering and Computing Final Year Projects Expo 2016 28",
+        "technology": "CSS, HTML5, JavaScript, PHP, SQL",
         "title": "OffLoaded"
     },
     {
@@ -412,7 +412,7 @@
             }
         ],
         "supervisor": "Mark Roantree",
-        "technology": "Flask Framework 29",
+        "technology": "Flask Framework",
         "title": "Film Recommendation App"
     },
     {
@@ -426,7 +426,7 @@
             }
         ],
         "supervisor": "Renaat Verbruggen",
-        "technology": "REST, C#, JavaScript, JQuery 30",
+        "technology": "REST, C#, JavaScript, JQuery",
         "title": "Logix Eco UWP"
     },
     {
@@ -440,7 +440,7 @@
             }
         ],
         "supervisor": "Paul Clarke",
-        "technology": "C# 33 Faculty of Engineering and Computing Final Year Projects Expo 2016 31",
+        "technology": "C#",
         "title": "Dungeons Of Azemrath"
     },
     {
@@ -454,7 +454,7 @@
             }
         ],
         "supervisor": "Mark Humphrys",
-        "technology": "AngularJS, HTML5, Java, Neo4j 32",
+        "technology": "AngularJS, HTML5, Java, Neo4j",
         "title": "Ranking News Headlines by social media"
     },
     {
@@ -476,7 +476,7 @@
             }
         ],
         "supervisor": "Monica Ward",
-        "technology": "CSS, HTML5, JavaScript, PHP, SQL 33",
+        "technology": "CSS, HTML5, JavaScript, PHP, SQL",
         "title": "SpeakTogether"
     },
     {
@@ -490,7 +490,7 @@
             }
         ],
         "supervisor": "David Gray",
-        "technology": "Objective-C 34 Faculty of Engineering and Computing Final Year Projects Expo 2016 35",
+        "technology": "Objective-C",
         "title": "ThinkFit"
     },
     {
@@ -504,7 +504,7 @@
             }
         ],
         "supervisor": "Mark Roantree",
-        "technology": "NoSQL, REST, AngularJS, Node.js 36",
+        "technology": "NoSQL, REST, AngularJS, Node.js",
         "title": "NFC Ticketing System"
     },
     {
@@ -518,7 +518,7 @@
             }
         ],
         "supervisor": "Darragh OBrien",
-        "technology": "C# 37",
+        "technology": "C#",
         "title": "Wick -2D Sidescrolling Game"
     },
     {
@@ -532,7 +532,7 @@
             }
         ],
         "supervisor": "Monica Ward",
-        "technology": "XML, SQL, Java 35 Faculty of Engineering and Computing Final Year Projects Expo 2016 38",
+        "technology": "XML, SQL, Java",
         "title": "Letter, Shape and Number checker for preschool children"
     },
     {
@@ -550,7 +550,7 @@
             }
         ],
         "supervisor": "Jane Kernan",
-        "technology": "Android Studio 39",
+        "technology": "Android Studio",
         "title": "Pints Nearby"
     },
     {
@@ -568,7 +568,7 @@
             }
         ],
         "supervisor": "Paul Clarke",
-        "technology": "XML, Java 40",
+        "technology": "XML, Java",
         "title": "Late & Ready"
     },
     {
@@ -582,7 +582,7 @@
             }
         ],
         "supervisor": "Geoff Hamilton",
-        "technology": "AngularJS, Docker, JavaScript, REST, NoSQL, Scala 36 Faculty of Engineering and Computing Final Year Projects Expo 2016 41",
+        "technology": "AngularJS, Docker, JavaScript, REST, NoSQL, Scala",
         "title": "Net Negative Bet Detector"
     },
     {
@@ -596,7 +596,7 @@
             }
         ],
         "supervisor": "Gareth Jones",
-        "technology": "CMUSphinx, Java, Jython 42",
+        "technology": "CMUSphinx, Java, Jython",
         "title": "Programmable Autonomous Car with Speech Recognition"
     },
     {
@@ -610,7 +610,7 @@
             }
         ],
         "supervisor": "Paul Clarke",
-        "technology": "Java 43",
+        "technology": "Java",
         "title": "DCU Garden"
     },
     {
@@ -624,7 +624,7 @@
             }
         ],
         "supervisor": "Gareth Jones",
-        "technology": "Python, SQL 37 Faculty of Engineering and Computing Final Year Projects Expo 2016 44",
+        "technology": "Python, SQL",
         "title": "E-Learning Tool for Second Level"
     },
     {
@@ -638,7 +638,7 @@
             }
         ],
         "supervisor": "Alistair Sutherland",
-        "technology": "C/C++ 45",
+        "technology": "C/C++",
         "title": "Audio Multi-effects processor"
     },
     {
@@ -652,7 +652,7 @@
             }
         ],
         "supervisor": "Paul Clarke",
-        "technology": "XML, REST, Node.js, JQuery, JavaScript, Java 46",
+        "technology": "XML, REST, Node.js, JQuery, JavaScript, Java",
         "title": "DCU Navigate"
     },
     {
@@ -666,7 +666,7 @@
             }
         ],
         "supervisor": "Marija Bezbradica",
-        "technology": "AngularJS, CSS, HTML5, Java, JavaScript, REST, SpringMVC, SQL 38 Faculty of Engineering and Computing Final Year Projects Expo 2016 47",
+        "technology": "AngularJS, CSS, HTML5, Java, JavaScript, REST, SpringMVC, SQL",
         "title": "HyperDrive"
     },
     {
@@ -680,7 +680,7 @@
             }
         ],
         "supervisor": "Bryan MacDonald",
-        "technology": "Java 48",
+        "technology": "Java",
         "title": "Development of an Android App For Self-Directed Learning in Engineering Maths"
     },
     {
@@ -698,7 +698,7 @@
             }
         ],
         "supervisor": "Andy Way",
-        "technology": "MySQL, Shell script, Moses, Python, PHP 49",
+        "technology": "MySQL, Shell script, Moses, Python, PHP",
         "title": "Recommendation Feature and Machine Translation Engine for IHearU"
     },
     {
@@ -716,7 +716,7 @@
             }
         ],
         "supervisor": "Cathal Gurrin",
-        "technology": "AngularJS 39 Faculty of Engineering and Computing Final Year Projects Expo 2016 50",
+        "technology": "AngularJS",
         "title": "OPIA"
     },
     {
@@ -730,7 +730,7 @@
             }
         ],
         "supervisor": "Markus Helfert",
-        "technology": "JavaScript, Python, REST 51",
+        "technology": "JavaScript, Python, REST",
         "title": "New York CitiBike Data Visualisation"
     },
     {
@@ -744,7 +744,7 @@
             }
         ],
         "supervisor": "Renaat Verbruggen",
-        "technology": "SQL, SpringMVC, REST, JQuery, JavaScript, Java, AngularJS 52",
+        "technology": "SQL, SpringMVC, REST, JQuery, JavaScript, Java, AngularJS",
         "title": "Smart Bainisteoir"
     },
     {
@@ -758,7 +758,7 @@
             }
         ],
         "supervisor": "Alistair Sutherland",
-        "technology": "Unity, C#,.NET 40 Faculty of Engineering and Computing Final Year Projects Expo 2016 53",
+        "technology": "Unity, C#,.NET",
         "title": "Intelligent-agent populated world"
     },
     {
@@ -772,7 +772,7 @@
             }
         ],
         "supervisor": "Geoff Hamilton",
-        "technology": "Java 54",
+        "technology": "Java",
         "title": "Formal Analysis of Cryptographic Security Protocols (FACSP)"
     },
     {
@@ -786,7 +786,7 @@
             }
         ],
         "supervisor": "Marija Bezbradica",
-        "technology": "Java, REST, SQL, XML 55",
+        "technology": "Java, REST, SQL, XML",
         "title": "DynAlarm"
     },
     {
@@ -800,7 +800,7 @@
             }
         ],
         "supervisor": "Monica Ward",
-        "technology": "Hibernate/ Apache Lucene/ AJAX, SQL, SpringMVC, REST, JQuery, JavaScript, Java, HTML5 41 Faculty of Engineering and Computing Final Year Projects Expo 2016 56",
+        "technology": "Hibernate/ Apache Lucene/ AJAX, SQL, SpringMVC, REST, JQuery, JavaScript, Java, HTML5",
         "title": "TaskTackler"
     },
     {
@@ -814,7 +814,7 @@
             }
         ],
         "supervisor": "John McKenna",
-        "technology": "Java, SQL, XML 57",
+        "technology": "Java, SQL, XML",
         "title": "WhichPrep!"
     },
     {
@@ -828,7 +828,7 @@
             }
         ],
         "supervisor": "Qun Liu",
-        "technology": "Eclipse, Java, PHP, SQL, XML, Android Studio IDE 58",
+        "technology": "Eclipse, Java, PHP, SQL, XML, Android Studio IDE",
         "title": "Bag Of Words"
     },
     {
@@ -846,7 +846,7 @@
             }
         ],
         "supervisor": "Paul Clarke",
-        "technology": "Java 42 Faculty of Engineering and Computing Final Year Projects Expo 2016 59",
+        "technology": "Java",
         "title": "MyCity App"
     },
     {
@@ -868,7 +868,7 @@
             }
         ],
         "supervisor": "Cathal Gurrin",
-        "technology": "Java 60",
+        "technology": "Java",
         "title": "WhatsThat"
     },
     {
@@ -882,7 +882,7 @@
             }
         ],
         "supervisor": "Gareth Jones",
-        "technology": "C# 61",
+        "technology": "C#",
         "title": "Customer Segmentation Modelling Application"
     },
     {
@@ -896,7 +896,7 @@
             }
         ],
         "supervisor": "Andy Way",
-        "technology": "Java 43 Faculty of Engineering and Computing Final Year Projects Expo 2016 62",
+        "technology": "Java",
         "title": "Predictitéacs"
     },
     {
@@ -910,7 +910,7 @@
             }
         ],
         "supervisor": "Alan Smeaton",
-        "technology": "REST, Python, PHP, JavaScript 63",
+        "technology": "REST, Python, PHP, JavaScript",
         "title": "Question Answering System with StackOverflow and IBM Watson."
     },
     {
@@ -924,7 +924,7 @@
             }
         ],
         "supervisor": "Mark Roantree",
-        "technology": "Eclipse, Java, JavaScript, SQL, AngularJS 64",
+        "technology": "Eclipse, Java, JavaScript, SQL, AngularJS",
         "title": "A dashboard for analysis of Ireland’s cultural growth"
     },
     {
@@ -938,7 +938,7 @@
             }
         ],
         "supervisor": "Conor McArdle",
-        "technology": "FEMM (Finite Element Method Magnetics) 44 Faculty of Engineering and Computing Final Year Projects Expo 2016 65",
+        "technology": "FEMM (Finite Element Method Magnetics)",
         "title": "A Non-intrusive and Cost Effective Current Sensor"
     },
     {
@@ -952,7 +952,7 @@
             }
         ],
         "supervisor": "Lorna Fitzsimons",
-        "technology": "Amprobe Energy Meter, NuWave Particle Sensor 66",
+        "technology": "Amprobe Energy Meter, NuWave Particle Sensor",
         "title": "Cleanroom Energy Efficiency 1"
     },
     {
@@ -966,7 +966,7 @@
             }
         ],
         "supervisor": "Owen Clarkin",
-        "technology": "Solidworks 67",
+        "technology": "Solidworks",
         "title": "Examination of the Effect of Extreme Cooling on the Terminal Sterilisation of a Sensitive Biomedical Hydrogel Components"
     },
     {
@@ -980,7 +980,7 @@
             }
         ],
         "supervisor": "Garrett McGuinness",
-        "technology": "Solidworks 45 Faculty of Engineering and Computing Final Year Projects Expo 2016 68",
+        "technology": "Solidworks",
         "title": "The Investigation of polyvinyl alcohol fibre structures for artificial ligament replacement."
     },
     {
@@ -994,7 +994,7 @@
             }
         ],
         "supervisor": "Lorna Fitzsimons",
-        "technology": "Excel/VB, InstruNet Data Acquisition 69",
+        "technology": "Excel/VB, InstruNet Data Acquisition",
         "title": "Implementing, and Analysing, Safety Features onto CALOR LPG Storage Tanks"
     },
     {
@@ -1008,7 +1008,7 @@
             }
         ],
         "supervisor": "Garrett McGuinness",
-        "technology": "Solidworks 70",
+        "technology": "Solidworks",
         "title": "Design of High Speed Rotating Mandrel for Electrospinning of Aligned Nanofibres"
     },
     {
@@ -1022,7 +1022,7 @@
             }
         ],
         "supervisor": "Lorna Fitzsimons",
-        "technology": "NuWave Particle Sensors, Amprobe Energy Meters, Cylon Active Energy 46 Faculty of Engineering and Computing Final Year Projects Expo 2016 71",
+        "technology": "NuWave Particle Sensors, Amprobe Energy Meters, Cylon Active Energy",
         "title": "Cleanroom Energy Efficiency 2"
     },
     {
@@ -1036,7 +1036,7 @@
             }
         ],
         "supervisor": "Suzanne Little",
-        "technology": "C# 72",
+        "technology": "C#",
         "title": "Escaping (Virtual) Reality"
     },
     {
@@ -1050,7 +1050,7 @@
             }
         ],
         "supervisor": "Brian Corcoran",
-        "technology": "Solidworks, ANSYS Workbench, ANSYS FLUENT 73",
+        "technology": "Solidworks, ANSYS Workbench, ANSYS FLUENT",
         "title": "CFD analysis of the Siemens Greenpower Car"
     },
     {
@@ -1064,7 +1064,7 @@
             }
         ],
         "supervisor": "Paul Young",
-        "technology": "Solidworks 47 Faculty of Engineering and Computing Final Year Projects Expo 2016 74",
+        "technology": "Solidworks",
         "title": "Design, installation and automation of heights at the Multi saw & Hopper area."
     },
     {
@@ -1078,7 +1078,7 @@
             }
         ],
         "supervisor": "Jeremiah Murphy",
-        "technology": "Solidworks 75",
+        "technology": "Solidworks",
         "title": "Build a Fibre-Reinforced Soft Actuator"
     },
     {
@@ -1092,7 +1092,7 @@
             }
         ],
         "supervisor": "Dermot Brabazon",
-        "technology": "Excel/VB, Solidworks 76",
+        "technology": "Excel/VB, Solidworks",
         "title": "Implementation of additively manufactured (3DP) click modules for chromatographic separations."
     },
     {
@@ -1106,7 +1106,7 @@
             }
         ],
         "supervisor": "Bryan MacDonald",
-        "technology": "ANSYS Parametric Design Language and Design Expert Software 48 Faculty of Engineering and Computing Final Year Projects Expo 2016 77",
+        "technology": "ANSYS Parametric Design Language and Design Expert Software",
         "title": "Parametric Finite Element Analysis of a Hip Prosthesis"
     },
     {
@@ -1124,7 +1124,7 @@
             }
         ],
         "supervisor": "Stephen Blott",
-        "technology": "SQL, OpenCV, PHP, HTML5 78",
+        "technology": "SQL, OpenCV, PHP, HTML5",
         "title": "ParkKing – Mobile Phone Application"
     },
     {
@@ -1138,7 +1138,7 @@
             }
         ],
         "supervisor": "Garrett McGuinness",
-        "technology": "Solidworks 79",
+        "technology": "Solidworks",
         "title": "Conjugate Electrospinning of Biomaterials"
     },
     {
@@ -1152,7 +1152,7 @@
             }
         ],
         "supervisor": "Dermot Brabazon",
-        "technology": "Solidworks 49 Faculty of Engineering and Computing Final Year Projects Expo 2016 80",
+        "technology": "Solidworks",
         "title": "Laser Melting of Glass Monolith Tissue Scaffolds From Bioactive Powders for Nerve Regeneration"
     },
     {
@@ -1166,7 +1166,7 @@
             }
         ],
         "supervisor": "Brian Corcoran",
-        "technology": "Solidworks, ANSYS Workbench, ANSYS meshing, Fluent 81",
+        "technology": "Solidworks, ANSYS Workbench, ANSYS meshing, Fluent",
         "title": "Augmented wind turbine design development and prototyping."
     },
     {
@@ -1180,7 +1180,7 @@
             }
         ],
         "supervisor": "Paul Young",
-        "technology": "Ansys, LS Dyna, Solidworks 82",
+        "technology": "Ansys, LS Dyna, Solidworks",
         "title": "Green Power Vehicle Crash Structure"
     },
     {
@@ -1194,7 +1194,7 @@
             }
         ],
         "supervisor": "Joseph Stokes",
-        "technology": "Solidworks 50 Faculty of Engineering and Computing Final Year Projects Expo 2016 83",
+        "technology": "Solidworks",
         "title": "Development of 3D Printing Business Strategy for the School of Mechanical and Manufacturing Engineering"
     },
     {
@@ -1208,7 +1208,7 @@
             }
         ],
         "supervisor": "Joseph Stokes",
-        "technology": "Solidworks 84",
+        "technology": "Solidworks",
         "title": "Design and Manufacture of punch tool for Nickel foam cathode flow plate for a PEM fuel cell."
     },
     {
@@ -1222,7 +1222,7 @@
             }
         ],
         "supervisor": "Paul Young",
-        "technology": "eVSM 85",
+        "technology": "eVSM",
         "title": "Lean Manufacturing: Value Stream Mapping & Simulation for a Manufacturing System"
     },
     {
@@ -1236,7 +1236,7 @@
             }
         ],
         "supervisor": "Owen Clarkin",
-        "technology": "Solidworks 51 Faculty of Engineering and Computing Final Year Projects Expo 2016 86",
+        "technology": "Solidworks",
         "title": "Development of a Novel Medical Device for the Delivery of Enduragel into a Cerebral Aneurysm"
     },
     {
@@ -1250,7 +1250,7 @@
             }
         ],
         "supervisor": "Lorna Fitzsimons",
-        "technology": "lean six sigma 87",
+        "technology": "lean six sigma",
         "title": "Lean six sigma analysis of safety in a manufacturing environment"
     },
     {
@@ -1268,7 +1268,7 @@
             }
         ],
         "supervisor": "Alan Smeaton",
-        "technology": "REST 88",
+        "technology": "REST",
         "title": "Dr.Watson"
     },
     {
@@ -1282,7 +1282,7 @@
             }
         ],
         "supervisor": "Yan Delaure",
-        "technology": "Solidworks, Matlab, Excel/VB 52 Faculty of Engineering and Computing Final Year Projects Expo 2016 89",
+        "technology": "Solidworks, Matlab, Excel/VB",
         "title": "Design a test rig for the study of an innovative heat engine (2D Study)"
     },
     {
@@ -1296,7 +1296,7 @@
             }
         ],
         "supervisor": "Alan Kennedy",
-        "technology": "Matlab 90",
+        "technology": "Matlab",
         "title": "Improved Design of an External Door System"
     },
     {
@@ -1310,7 +1310,7 @@
             }
         ],
         "supervisor": "Monica Ward",
-        "technology": "Java, SQL, XML 91",
+        "technology": "Java, SQL, XML",
         "title": "LitirEile"
     },
     {
@@ -1324,7 +1324,7 @@
             }
         ],
         "supervisor": "Tamas Szecsi",
-        "technology": "Excel/VB, Solidworks 53 Faculty of Engineering and Computing Final Year Projects Expo 2016 92",
+        "technology": "Excel/VB, Solidworks",
         "title": "Analysis of Exhaust Manifold Design to Optimize Performance of a Four-Stroke Engine."
     },
     {
@@ -1338,7 +1338,7 @@
             }
         ],
         "supervisor": "Yan Delaure",
-        "technology": "Solidworks 93",
+        "technology": "Solidworks",
         "title": "Experimental fluid flow characterisation in a water tunnel"
     },
     {
@@ -1352,7 +1352,7 @@
             }
         ],
         "supervisor": "Dermot Brabazon",
-        "technology": "Solidworks 94",
+        "technology": "Solidworks",
         "title": "Development additively manufactured (3DP) thin film plates for separation of protein mixtures"
     },
     {
@@ -1366,7 +1366,7 @@
             }
         ],
         "supervisor": "Geoff Hamilton",
-        "technology": "Java, REST, SpringMVC, SQL 54 Faculty of Engineering and Computing Final Year Projects Expo 2016 95",
+        "technology": "Java, REST, SpringMVC, SQL",
         "title": "Agenda"
     },
     {
@@ -1380,7 +1380,7 @@
             }
         ],
         "supervisor": "Tamas Szecsi",
-        "technology": "Excel/VB, Solidworks 96",
+        "technology": "Excel/VB, Solidworks",
         "title": "Comparative Analysis of Car Steering Mechanisms"
     },
     {
@@ -1394,7 +1394,7 @@
             }
         ],
         "supervisor": "Bryan MacDonald",
-        "technology": "ANSYS 97",
+        "technology": "ANSYS",
         "title": "Finite Element Analysis (FEA) of a Safety Syringe."
     },
     {
@@ -1408,7 +1408,7 @@
             }
         ],
         "supervisor": "Donal Fitzpatrick",
-        "technology": "AngularJS, CSS, Eclipse, HTML5, Java, JavaScript, JQuery, REST, XML, JavaFX, openSMILE 55 Faculty of Engineering and Computing Final Year Projects Expo 2016 98",
+        "technology": "AngularJS, CSS, Eclipse, HTML5, Java, JavaScript, JQuery, REST, XML, JavaFX, openSMILE",
         "title": "Music Genre Classifier"
     },
     {
@@ -1430,7 +1430,7 @@
             }
         ],
         "supervisor": "Markus Helfert",
-        "technology": "SQL, SpringMVC, JavaScript, Java, AngularJS 99",
+        "technology": "SQL, SpringMVC, JavaScript, Java, AngularJS",
         "title": "Manage IT"
     },
     {
@@ -1444,7 +1444,7 @@
             }
         ],
         "supervisor": "Patrick McNally",
-        "technology": "Excel/VB 100",
+        "technology": "Excel/VB",
         "title": "Inkjet Printing of UV emitting nanodots on flexible substrates"
     },
     {
@@ -1458,7 +1458,7 @@
             }
         ],
         "supervisor": "David Gray",
-        "technology": "NoSQL, REST, Java, C/C++, Go 56 Faculty of Engineering and Computing Final Year Projects Expo 2016 101",
+        "technology": "NoSQL, REST, Java, C/C++, Go",
         "title": "Virtual Business Card Bracelet"
     },
     {
@@ -1472,7 +1472,7 @@
             }
         ],
         "supervisor": "Owen Clarkin",
-        "technology": "Solidworks 102",
+        "technology": "Solidworks",
         "title": "Examination of the Effect of various Terminal Sterilisation Techniques on the Setting and Mechanical Properties of a Novel Hydrogel for the Treatment"
     },
     {
@@ -1486,7 +1486,7 @@
             }
         ],
         "supervisor": "Mark Roantree",
-        "technology": "Java, SQL, XML 103",
+        "technology": "Java, SQL, XML",
         "title": "Rugby Match Statistics Tracker"
     },
     {
@@ -1500,7 +1500,7 @@
             }
         ],
         "supervisor": "Harold Esmonde",
-        "technology": "Solidworks, ANSYS 15.0 57 Faculty of Engineering and Computing Final Year Projects Expo 2016 104",
+        "technology": "Solidworks, ANSYS 15.0",
         "title": "Automation of a weighing process"
     },
     {
@@ -1514,7 +1514,7 @@
             }
         ],
         "supervisor": "Joseph Stokes",
-        "technology": "Design Expert, Solidworks 105",
+        "technology": "Design Expert, Solidworks",
         "title": "Investigate the Effects of Manufacturing on the Material Properties of Surgical Blades used in Bioengineering Applications"
     },
     {
@@ -1528,7 +1528,7 @@
             }
         ],
         "supervisor": "Cathal Gurrin",
-        "technology": "C# 106",
+        "technology": "C#",
         "title": "Virtual Reality Science Lesson"
     },
     {
@@ -1542,7 +1542,7 @@
             }
         ],
         "supervisor": "Paul Whelan",
-        "technology": "C/C++, Matlab, Solidworks 58 Faculty of Engineering and Computing Final Year Projects Expo 2016 107",
+        "technology": "C/C++, Matlab, Solidworks",
         "title": "Image Processing Based Robotic Coin Sorter"
     },
     {
@@ -1556,7 +1556,7 @@
             }
         ],
         "supervisor": "Geoff Hamilton",
-        "technology": "Eclipse, Groovy, Java, Python, SpringMVC, SQL, NoSQL, XML, Solr, Ubuntu & RaspberryPI Kernels, Wireshark. 108",
+        "technology": "Eclipse, Groovy, Java, Python, SpringMVC, SQL, NoSQL, XML, Solr, Ubuntu & RaspberryPI Kernels, Wireshark.",
         "title": "Drone Based Wireless Network Intrusion Detection System"
     },
     {
@@ -1570,7 +1570,7 @@
             }
         ],
         "supervisor": "Martin Collier",
-        "technology": "C/C++ 109",
+        "technology": "C/C++",
         "title": "Audio Looper"
     },
     {
@@ -1584,7 +1584,7 @@
             }
         ],
         "supervisor": "John Geraghty",
-        "technology": "ExtendSIM 59 Faculty of Engineering and Computing Final Year Projects Expo 2016 110",
+        "technology": "ExtendSIM",
         "title": "Remanufacturing Supply Chain Management"
     },
     {
@@ -1598,7 +1598,7 @@
             }
         ],
         "supervisor": "Ray Walshe",
-        "technology": "AngularJS, CSS, HTML5, JavaScript, JQuery, Node.js, REST, PhoneGap, Bower, Firebase 111",
+        "technology": "AngularJS, CSS, HTML5, JavaScript, JQuery, Node.js, REST, PhoneGap, Bower, Firebase",
         "title": "Learning To Spell"
     },
     {
@@ -1612,7 +1612,7 @@
             }
         ],
         "supervisor": "Darragh OBrien",
-        "technology": "Python, JavaScript, HTML5, CSS, AngularJS\\ 112",
+        "technology": "Python, JavaScript, HTML5, CSS, AngularJS\\",
         "title": "MyGroceryPal"
     },
     {
@@ -1626,7 +1626,7 @@
             }
         ],
         "supervisor": "Monica Ward",
-        "technology": "Java, XML, Raspberry pi 60 Faculty of Engineering and Computing Final Year Projects Expo 2016 113",
+        "technology": "Java, XML, Raspberry pi",
         "title": "AutoSync Android App"
     },
     {
@@ -1640,7 +1640,7 @@
             }
         ],
         "supervisor": "Suzanne Little",
-        "technology": "JavaScript, JQuery, Node.js 114",
+        "technology": "JavaScript, JQuery, Node.js",
         "title": "DCU Campus Navigator"
     },
     {
@@ -1654,7 +1654,7 @@
             }
         ],
         "supervisor": "Noel Murphy",
-        "technology": "Embedded microcontroller; IMU sensor and motor interfacing, mechanical design, DSP, C/C++ 115",
+        "technology": "Embedded microcontroller; IMU sensor and motor interfacing, mechanical design, DSP, C/C++",
         "title": "Designing and Building a Self-balancing Ball-bot"
     },
     {
@@ -1668,7 +1668,7 @@
             }
         ],
         "supervisor": "Bryan MacDonald",
-        "technology": "ANSYS Mechanical, SolidWorks 61 Faculty of Engineering and Computing Final Year Projects Expo 2016 116",
+        "technology": "ANSYS Mechanical, SolidWorks",
         "title": "Hydroforming of Tubes"
     },
     {
@@ -1682,7 +1682,7 @@
             }
         ],
         "supervisor": "Tamas Szecsi",
-        "technology": "Solidworks 117",
+        "technology": "Solidworks",
         "title": "Design of a Variable Trapezoidal Linkage Steering Mechanism"
     },
     {
@@ -1696,7 +1696,7 @@
             }
         ],
         "supervisor": "Renaat Verbruggen",
-        "technology": "openCV, Android, XML, SQL, Java, C#, C/C++, .NET 118",
+        "technology": "openCV, Android, XML, SQL, Java, C#, C/C++, .NET",
         "title": "SMVC – Secure Mobile Video Conferencing"
     },
     {
@@ -1710,7 +1710,7 @@
             }
         ],
         "supervisor": "Paul Whelan",
-        "technology": "HALCON & Interactive C 62 Faculty of Engineering and Computing Final Year Projects Expo 2016 119",
+        "technology": "HALCON & Interactive C",
         "title": "Low Cost Machine Vision Fruit Sorter"
     },
     {
@@ -1724,7 +1724,7 @@
             }
         ],
         "supervisor": "Mark Humphrys",
-        "technology": "AngularJS, HTML5, JavaScript, Node.js, REST, Three.js, Web Audio API 120",
+        "technology": "AngularJS, HTML5, JavaScript, Node.js, REST, Three.js, Web Audio API",
         "title": "Music Visualiser Web App"
     },
     {
@@ -1738,7 +1738,7 @@
             }
         ],
         "supervisor": "Jennifer Bruton",
-        "technology": "Matlab 121",
+        "technology": "Matlab",
         "title": "Kinematics of an Automated Robot"
     },
     {
@@ -1752,7 +1752,7 @@
             }
         ],
         "supervisor": "Garrett McGuinness",
-        "technology": "Ansys 63 Faculty of Engineering and Computing Final Year Projects Expo 2016 122",
+        "technology": "Ansys",
         "title": "Finite Element Analysis and Design of a Radiofrequency Catheter for Tumor Ablation"
     },
     {
@@ -1766,7 +1766,7 @@
             }
         ],
         "supervisor": "David Sinclair",
-        "technology": "AngularJS, CSS, HTML5, Java, JavaScript, JQuery, REST, SQL, NoSQL, DropWizard, Ruby On Rails, Elasticsearch, Logstash, FileBeat, Bash 123",
+        "technology": "AngularJS, CSS, HTML5, Java, JavaScript, JQuery, REST, SQL, NoSQL, DropWizard, Ruby On Rails, Elasticsearch, Logstash, FileBeat, Bash",
         "title": "Olympus – Server Management"
     },
     {
@@ -1780,7 +1780,7 @@
             }
         ],
         "supervisor": "Cathal Gurrin",
-        "technology": "AngularJS, HTML5, Java, NoSQL, Clojure, Storm 124",
+        "technology": "AngularJS, HTML5, Java, NoSQL, Clojure, Storm",
         "title": "Real Time Sentiment Analysis of Tweets"
     },
     {
@@ -1794,7 +1794,7 @@
             }
         ],
         "supervisor": "Gareth Jones",
-        "technology": "Java 64 Faculty of Engineering and Computing Final Year Projects Expo 2016 125",
+        "technology": "Java",
         "title": "Irish language Information Retrieval Tool"
     },
     {
@@ -1808,7 +1808,7 @@
             }
         ],
         "supervisor": "Yan Delaure",
-        "technology": "Solidworks, Excel/VB 126",
+        "technology": "Solidworks, Excel/VB",
         "title": "Design a Test-rig for study of an innovative heat engine"
     },
     {
@@ -1822,7 +1822,7 @@
             }
         ],
         "supervisor": "Yan Delaure",
-        "technology": "Solidworks, ANSYS 15.0 127",
+        "technology": "Solidworks, ANSYS 15.0",
         "title": "Microbubble Generation for Waste Water Processing"
     },
     {
@@ -1836,7 +1836,7 @@
             }
         ],
         "supervisor": "Brian Corcoran",
-        "technology": "PICO technology thermocouple 65 Faculty of Engineering and Computing Final Year Projects Expo 2016 128",
+        "technology": "PICO technology thermocouple",
         "title": "Grease Trap Evaluation"
     },
     {
@@ -1850,7 +1850,7 @@
             }
         ],
         "supervisor": "Marissa Condon",
-        "technology": "Matlab, Computer Simulation Technology (CST) 129",
+        "technology": "Matlab, Computer Simulation Technology (CST)",
         "title": "Design and Fabrication of a Circularly Polarized Microstrip Antenna Array"
     },
     {
@@ -1864,7 +1864,7 @@
             }
         ],
         "supervisor": "Derek Molloy",
-        "technology": "Matlab, C/C++ 130",
+        "technology": "Matlab, C/C++",
         "title": "A Low-Cost and High-Resolution Environment Mapping System"
     },
     {
@@ -1878,7 +1878,7 @@
             }
         ],
         "supervisor": "Owen Clarkin",
-        "technology": "Solidworks, Excel/VB 66 Faculty of Engineering and Computing Final Year Projects Expo 2016 131",
+        "technology": "Solidworks, Excel/VB",
         "title": "Development of a Degradable Alginate-Glass based Hydrogel for the Temporary Embolisation of the Hepatic Artery to Treat Liver Tumours"
     },
     {
@@ -1892,7 +1892,7 @@
             }
         ],
         "supervisor": "Tamas Szecsi",
-        "technology": "Excel/VB, Solidworks 132",
+        "technology": "Excel/VB, Solidworks",
         "title": "Variable Parameter Rectangular Steering Mechanism Design and Manufacture"
     },
     {
@@ -1906,7 +1906,7 @@
             }
         ],
         "supervisor": "Joseph Stokes",
-        "technology": "C/C++, Solidworks 133",
+        "technology": "C/C++, Solidworks",
         "title": "Design, build and control of a 3D printer"
     },
     {
@@ -1920,7 +1920,7 @@
             }
         ],
         "supervisor": "John McKenna",
-        "technology": ".NET, C#, CSS, HTML5, JavaScript, SQL 67 Faculty of Engineering and Computing Final Year Projects Expo 2016 134",
+        "technology": ".NET, C#, CSS, HTML5, JavaScript, SQL",
         "title": "Interactive Learning with Google Chromecast"
     },
     {
@@ -1934,7 +1934,7 @@
             }
         ],
         "supervisor": "Noel Murphy",
-        "technology": "Java 135",
+        "technology": "Java",
         "title": "Low-Cost Scanning Thermal Imaging Device"
     },
     {
@@ -1948,7 +1948,7 @@
             }
         ],
         "supervisor": "Paul Young",
-        "technology": "Solidworks 136",
+        "technology": "Solidworks",
         "title": "Design of a Glass Crushing Machine"
     },
     {
@@ -1962,7 +1962,7 @@
             }
         ],
         "supervisor": "Jennifer Bruton",
-        "technology": "Raspberry Pi, MS kinect, Raspbian, MATLAB 68 Faculty of Engineering and Computing Final Year Projects Expo 2016 137",
+        "technology": "Raspberry Pi, MS kinect, Raspbian, MATLAB",
         "title": "Path Planning Sensors"
     },
     {
@@ -1976,7 +1976,7 @@
             }
         ],
         "supervisor": "Joseph Stokes",
-        "technology": "Solidworks 138",
+        "technology": "Solidworks",
         "title": "Final Commissioning of a Sectioned Car/Motorcycle Engine for Engineering Display Applications"
     },
     {
@@ -1990,7 +1990,7 @@
             }
         ],
         "supervisor": "Martin Crane",
-        "technology": "Java, Python 139",
+        "technology": "Java, Python",
         "title": "Distributed Benchmarking System"
     },
     {
@@ -2004,7 +2004,7 @@
             }
         ],
         "supervisor": "Alexander OConnor",
-        "technology": "Java, JavaScript, REST, NoSQL, AngularJS, CSS, HTML5 69 Faculty of Engineering and Computing Final Year Projects Expo 2016 140",
+        "technology": "Java, JavaScript, REST, NoSQL, AngularJS, CSS, HTML5",
         "title": "StyleMe Web Application – Online Clothing Style Search Platform"
     },
     {
@@ -2018,7 +2018,7 @@
             }
         ],
         "supervisor": "David Gray",
-        "technology": "JavaScript 141",
+        "technology": "JavaScript",
         "title": "Real Time Interactive Whiteboard"
     },
     {
@@ -2032,7 +2032,7 @@
             }
         ],
         "supervisor": "Conor Brennan",
-        "technology": "Matlab 142",
+        "technology": "Matlab",
         "title": "Location and Tracking of Indoor Wi-Fi Users"
     },
     {
@@ -2046,7 +2046,7 @@
             }
         ],
         "supervisor": "John Geraghty",
-        "technology": "Excel, ExtendSim, Design Expert 70 Faculty of Engineering and Computing Final Year Projects Expo 2016 143",
+        "technology": "Excel, ExtendSim, Design Expert",
         "title": "Modelling and Analysis of Closed Loop Supply Chain Management for Reusable Articles"
     },
     {
@@ -2060,7 +2060,7 @@
             }
         ],
         "supervisor": "Martin Collier",
-        "technology": "Raspbian, OpenELEC, Kodi, XML 144",
+        "technology": "Raspbian, OpenELEC, Kodi, XML",
         "title": "Low Cost PVR"
     },
     {
@@ -2074,7 +2074,7 @@
             }
         ],
         "supervisor": "Suzanne Little",
-        "technology": "CSS, HTML5, JavaScript, JQuery, SpringMVC, SQL, OpenCV 145",
+        "technology": "CSS, HTML5, JavaScript, JQuery, SpringMVC, SQL, OpenCV",
         "title": "Raspberry CCTV"
     },
     {
@@ -2088,7 +2088,7 @@
             }
         ],
         "supervisor": "David Sinclair",
-        "technology": "Java, OpenGL, SQL, Eclipse 71 Faculty of Engineering and Computing Final Year Projects Expo 2016 146",
+        "technology": "Java, OpenGL, SQL, Eclipse",
         "title": "Helping Hand"
     },
     {
@@ -2102,7 +2102,7 @@
             }
         ],
         "supervisor": "Mark Roantree",
-        "technology": "XML, SQLite, Java 147",
+        "technology": "XML, SQLite, Java",
         "title": "Interactive Tactics Board"
     },
     {
@@ -2116,7 +2116,7 @@
             }
         ],
         "supervisor": "David Sinclair",
-        "technology": "Java, Python, SQL 148",
+        "technology": "Java, Python, SQL",
         "title": "SmartBoard"
     },
     {
@@ -2130,7 +2130,7 @@
             }
         ],
         "supervisor": "Owen Clarkin",
-        "technology": "Solidworks 72 Faculty of Engineering and Computing Final Year Projects Expo 2016 149",
+        "technology": "Solidworks",
         "title": "Embolization Efficiency of a Decellularized Liver"
     },
     {
@@ -2144,12 +2144,12 @@
             }
         ],
         "supervisor": "Robert Sadlier",
-        "technology": "C/C++, Java 150",
+        "technology": "C/C++, Java",
         "title": "Development of an Android based digital Multimeter"
     },
     {
         "area": "Data Analytics, Educational, Software Development, Statistical Analysis, Web Application, Development Environment",
-        "description": "A super friendly development environment, that allows users to learn, develop, store, compile, run, analyse and compare programming projects. This and much more is what pro1oh1 offers it’s users. The project consists of two main components: 1 A website with a text editor, terminal and file manager. 2\b \bDjango(Python) server, used to interact with the DB(SQLite), run user applications(Using Docker) and collect performance data. The main components communicate through Django’s Rest Framework. The application is hosted in AWS.",
+        "description": "A super friendly development environment, that allows users to learn, develop, store, compile, run, analyse and compare programming projects. This and much more is what pro1oh1 offers it’s users. The project consists of two main components: performance data. The main components communicate through Django’s Rest Framework. The application is hosted in AWS.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -2158,7 +2158,7 @@
             }
         ],
         "supervisor": "Geoff Hamilton",
-        "technology": "AngularJS, CSS, Docker, HTML5, JavaScript, Python, REST, SQL, Celery, Protractor, AWS, Elastic Beanstalk, Django 151",
+        "technology": "AngularJS, CSS, Docker, HTML5, JavaScript, Python, REST, SQL, Celery, Protractor, AWS, Elastic Beanstalk, Django",
         "title": "Pro1oh1"
     },
     {
@@ -2172,7 +2172,7 @@
             }
         ],
         "supervisor": "Pascal Landais",
-        "technology": "Matlab 73 Faculty of Engineering and Computing Final Year Projects Expo 2016 152",
+        "technology": "Matlab",
         "title": "Study of Reflective Semiconductor Optical Amplifier"
     },
     {
@@ -2186,7 +2186,7 @@
             }
         ],
         "supervisor": "Noel OConnor",
-        "technology": "C/C++, Java, PHP, SQL 153",
+        "technology": "C/C++, Java, PHP, SQL",
         "title": "Smart Contact Lenses for Monitoring Glucose Levels"
     },
     {
@@ -2200,7 +2200,7 @@
             }
         ],
         "supervisor": "Patrick McNally",
-        "technology": "Software Defined Radio (SDR#) 154",
+        "technology": "Software Defined Radio (SDR#)",
         "title": "Design and development of a Simple Software Defined Radio for 21cm Wavelength Radio Astronomy"
     },
     {
@@ -2214,7 +2214,7 @@
             }
         ],
         "supervisor": "Darragh OBrien",
-        "technology": "Clojure, Scikit-Learn, NoSQL, REST, Python, JavaScript, HTML5, CSS 74 Faculty of Engineering and Computing Final Year Projects Expo 2016 155",
+        "technology": "Clojure, Scikit-Learn, NoSQL, REST, Python, JavaScript, HTML5, CSS",
         "title": "BidBot"
     },
     {
@@ -2228,7 +2228,7 @@
             }
         ],
         "supervisor": "Alan Smeaton",
-        "technology": "SQL, Python, PHP, Java 156",
+        "technology": "SQL, Python, PHP, Java",
         "title": "NFC Lock System"
     },
     {
@@ -2242,7 +2242,7 @@
             }
         ],
         "supervisor": "Paul Young",
-        "technology": "PLC Programming 157",
+        "technology": "PLC Programming",
         "title": "Upgrading of Control System for FMS stations"
     },
     {
@@ -2256,7 +2256,7 @@
             }
         ],
         "supervisor": "Alistair Sutherland",
-        "technology": "Python 75 Faculty of Engineering and Computing Final Year Projects Expo 2016 158",
+        "technology": "Python",
         "title": "Python Roguelike"
     },
     {
@@ -2270,7 +2270,7 @@
             }
         ],
         "supervisor": "Mark Roantree",
-        "technology": "Python 159",
+        "technology": "Python",
         "title": "Apartment Search"
     },
     {
@@ -2284,7 +2284,7 @@
             }
         ],
         "supervisor": "Ray Walshe",
-        "technology": "Java, Python 160",
+        "technology": "Java, Python",
         "title": "Irish Kayaking Companion"
     },
     {
@@ -2298,7 +2298,7 @@
             }
         ],
         "supervisor": "Patrick McNally",
-        "technology": "Java 76 Faculty of Engineering and Computing Final Year Projects Expo 2016 161",
+        "technology": "Java",
         "title": "Electroluminescence Imagaing and Temperature efficiency measurements in photovoltaics cells"
     },
     {
@@ -2312,7 +2312,7 @@
             }
         ],
         "supervisor": "David Sinclair",
-        "technology": "C/C++, Java, REST, Cassandra 162",
+        "technology": "C/C++, Java, REST, Cassandra",
         "title": "Friend Finder"
     },
     {
@@ -2326,7 +2326,7 @@
             }
         ],
         "supervisor": "Brian Stone",
-        "technology": "Java 163",
+        "technology": "Java",
         "title": "healthSim"
     },
     {
@@ -2340,7 +2340,7 @@
             }
         ],
         "supervisor": "Noel OConnor",
-        "technology": "DSP, Python 77 Faculty of Engineering and Computing Final Year Projects Expo 2016 164",
+        "technology": "DSP, Python",
         "title": "Monitoring Running Performance using Wearable Inertial Sensors"
     },
     {
@@ -2354,7 +2354,7 @@
             }
         ],
         "supervisor": "Derek Molloy",
-        "technology": "Embedded Systems, Node.js 165",
+        "technology": "Embedded Systems, Node.js",
         "title": "A Low-cost Assistive Monitoring System"
     },
     {
@@ -2368,7 +2368,7 @@
             }
         ],
         "supervisor": "Brian Stone",
-        "technology": "Java, REST, NoSQL 166",
+        "technology": "Java, REST, NoSQL",
         "title": "Brain Vault"
     },
     {
@@ -2382,7 +2382,7 @@
             }
         ],
         "supervisor": "Jeremiah Murphy",
-        "technology": "Excel/VB 78 Faculty of Engineering and Computing Final Year Projects Expo 2016 167",
+        "technology": "Excel/VB",
         "title": "Design, Build and Testing of a Pneumatic Artificial Muscle"
     },
     {
@@ -2396,7 +2396,7 @@
             }
         ],
         "supervisor": "Mark Roantree",
-        "technology": "C/C++, Java, PHP, SQL 168",
+        "technology": "C/C++, Java, PHP, SQL",
         "title": "Seizure Alert"
     },
     {
@@ -2410,7 +2410,7 @@
             }
         ],
         "supervisor": "Jane Kernan",
-        "technology": "AngularJS, CSS, HTML5, Node.js, NoSQL, MongoDB 169",
+        "technology": "AngularJS, CSS, HTML5, Node.js, NoSQL, MongoDB",
         "title": "Game Statistic Recorder"
     },
     {
@@ -2424,7 +2424,7 @@
             }
         ],
         "supervisor": "Charlie Daly",
-        "technology": "Java, PHP, SQL 79 Faculty of Engineering and Computing Final Year Projects Expo 2016 170",
+        "technology": "Java, PHP, SQL",
         "title": "CarPool Application"
     },
     {
@@ -2438,7 +2438,7 @@
             }
         ],
         "supervisor": "Charlie Daly",
-        "technology": "Java 171",
+        "technology": "Java",
         "title": "Video Game Maker"
     },
     {
@@ -2452,7 +2452,7 @@
             }
         ],
         "supervisor": "John McKenna",
-        "technology": "Eclipse, HTML5, JavaScript, Node.js, NoSQL 172",
+        "technology": "Eclipse, HTML5, JavaScript, Node.js, NoSQL",
         "title": "JukeBox Plus"
     },
     {
@@ -2466,7 +2466,7 @@
             }
         ],
         "supervisor": "Gareth Jones",
-        "technology": "Java, SQL, XML 80 Faculty of Engineering and Computing Final Year Projects Expo 2016 173",
+        "technology": "Java, SQL, XML",
         "title": "TravelBudgie for Android"
     },
     {
@@ -2480,7 +2480,7 @@
             }
         ],
         "supervisor": "Cathal Gurrin",
-        "technology": "Java 174",
+        "technology": "Java",
         "title": "Dyslexia Testing App"
     },
     {
@@ -2494,7 +2494,7 @@
             }
         ],
         "supervisor": "Suzanne Little",
-        "technology": "Java, Android studio 175",
+        "technology": "Java, Android studio",
         "title": "City Explorer"
     },
     {
@@ -2508,7 +2508,7 @@
             }
         ],
         "supervisor": "Marija Bezbradica",
-        "technology": "Java, SQL 81 Faculty of Engineering and Computing Final Year Projects Expo 2016 176",
+        "technology": "Java, SQL",
         "title": "GiveBack"
     },
     {
@@ -2522,7 +2522,7 @@
             }
         ],
         "supervisor": "Paul Clarke",
-        "technology": "Java 177",
+        "technology": "Java",
         "title": "Vibe"
     },
     {
@@ -2536,7 +2536,7 @@
             }
         ],
         "supervisor": "Stephen Daniels",
-        "technology": "C/C++ 178",
+        "technology": "C/C++",
         "title": "Solar Energy System in Off-Grid Locations"
     },
     {
@@ -2550,7 +2550,7 @@
             }
         ],
         "supervisor": "Mark Humphrys",
-        "technology": "Lua 82 Faculty of Engineering and Computing Final Year Projects Expo 2016 179",
+        "technology": "Lua",
         "title": "Machine Learning and Super Mario"
     },
     {
@@ -2564,12 +2564,12 @@
             }
         ],
         "supervisor": "John McKenna",
-        "technology": "Java, JQuery, SpringMVC, SQL, Hibernate, Ajax, Apache Tiles 180",
+        "technology": "Java, JQuery, SpringMVC, SQL, Hibernate, Ajax, Apache Tiles",
         "title": "Planning Tool"
     },
     {
         "area": "Advanced Material Engineering, Biomedical Engineering, Control Systems, DSP, Fluid Mechanics, Mechanical Design and Manufacture, Rheology",
-        "description": "The project is conducted to determine the viscoelastic shear modulus of glycerol-gelatine jelly and hence validate the oscillatory squeeze film testing method when analysing solid materials. Of particular concern is the boundary layer condition at the plates where a no-slip condition is assumed and assessed during tests. Results show that at lower amplitudes the no-slip condition holds with viscoelastic shear modulus quantified between 0.88 kPa and 1.07 kPa.",
+        "description": "The project is conducted to determine the viscoelastic shear modulus of glycerol-gelatine jelly and hence validate the oscillatory squeeze film testing method when analysing solid materials. Of particular concern is the boundary layer condition at the plates where a no-slip condition is assumed and assessed during tests. Results show that at lower amplitudes the no-slip condition holds with viscoelastic shear modulus quantified between",
         "programme": "Biomedical Engineering",
         "students": [
             {
@@ -2578,7 +2578,7 @@
             }
         ],
         "supervisor": "Harold Esmonde",
-        "technology": "DSP, Fast Fourier Transform, Solidworks, Micro Fourier Rheometer 181",
+        "technology": "DSP, Fast Fourier Transform, Solidworks, Micro Fourier Rheometer",
         "title": "Squeeze Film Testing of Solid Materials"
     },
     {
@@ -2592,7 +2592,7 @@
             }
         ],
         "supervisor": "Darragh OBrien",
-        "technology": "C# 83 Faculty of Engineering and Computing Final Year Projects Expo 2016 182",
+        "technology": "C#",
         "title": "Cosmos"
     },
     {
@@ -2606,7 +2606,7 @@
             }
         ],
         "supervisor": "Jane Kernan",
-        "technology": "C#, Unity engine 183",
+        "technology": "C#, Unity engine",
         "title": "The Wild"
     },
     {
@@ -2620,7 +2620,7 @@
             }
         ],
         "supervisor": "Rory OConnor",
-        "technology": "C# 184",
+        "technology": "C#",
         "title": "Benjii"
     },
     {
@@ -2634,12 +2634,12 @@
             }
         ],
         "supervisor": "Garrett McGuinness",
-        "technology": "Solidworks, ANSYS 84 Faculty of Engineering and Computing Final Year Projects Expo 2016 185",
+        "technology": "Solidworks, ANSYS",
         "title": "Design of a Cryoablation Medical Device for the Treatment of Atrial Flutter and Fibrillation"
     },
     {
         "area": "Android",
-        "description": "1916 Today is a location based Q&A android application. Users interact with the system using natural language, asking questions regarding the events that transpired during the 1916 Easter Rising. This is achieved through the utilisation of Watson, IBMs cognitive computing system. The application also grants users the ability to find historical landmarks in the proximity of their current location, providing information relating to the sites alongside directions to the landmark.",
+        "description": "asking questions regarding the events that transpired during the 1916 Easter Rising. This is achieved through the utilisation of Watson, IBMs cognitive computing system. The application also grants users the ability to find historical landmarks in the proximity of their current location, providing information relating to the sites alongside directions to the landmark.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -2648,7 +2648,7 @@
             }
         ],
         "supervisor": "Alan Smeaton",
-        "technology": "Java, Spring, Watson 186",
+        "technology": "Java, Spring, Watson",
         "title": "1916 Today"
     },
     {
@@ -2662,7 +2662,7 @@
             }
         ],
         "supervisor": "Alexander OConnor",
-        "technology": "Lua, Torch 187",
+        "technology": "Lua, Torch",
         "title": "Asal – Chess engine development using Deep Reinforcement Learning"
     },
     {
@@ -2676,7 +2676,7 @@
             }
         ],
         "supervisor": "Rory OConnor",
-        "technology": "C# 85 Faculty of Engineering and Computing Final Year Projects Expo 2016 188",
+        "technology": "C#",
         "title": "Neural Network Artificial Intelligence"
     },
     {
@@ -2690,7 +2690,7 @@
             }
         ],
         "supervisor": "Markus Helfert",
-        "technology": "CSS, HTML5, JavaScript 189",
+        "technology": "CSS, HTML5, JavaScript",
         "title": "Web Based Octiv User Interface"
     },
     {
@@ -2704,7 +2704,7 @@
             }
         ],
         "supervisor": "Brian Corcoran",
-        "technology": "CAD, Micro-milling, Laser machining and chemicals 190",
+        "technology": "CAD, Micro-milling, Laser machining and chemicals",
         "title": "Development of novel method of fluidic control for a sensing system for environmental water quality monitoring"
     },
     {
@@ -2718,7 +2718,7 @@
             }
         ],
         "supervisor": "Robert Sadlier",
-        "technology": "OpenGL, Java 86 Faculty of Engineering and Computing Final Year Projects Expo 2016 191",
+        "technology": "OpenGL, Java",
         "title": "Development of an Android based digital oscilloscope"
     },
     {
@@ -2732,7 +2732,7 @@
             }
         ],
         "supervisor": "Martin Crane",
-        "technology": "Java 192",
+        "technology": "Java",
         "title": "Artificial Life Simulator"
     },
     {
@@ -2746,7 +2746,7 @@
             }
         ],
         "supervisor": "John Geraghty",
-        "technology": "Excel/VB 193",
+        "technology": "Excel/VB",
         "title": "The design and implementation of an electronic database to record downtime in a manufacturing process"
     },
     {
@@ -2760,7 +2760,7 @@
             }
         ],
         "supervisor": "Harold Esmonde",
-        "technology": "LabVIEW 87 Faculty of Engineering and Computing Final Year Projects Expo 2016 194",
+        "technology": "LabVIEW",
         "title": "Development of a Rehabilitation Device"
     },
     {
@@ -2774,7 +2774,7 @@
             }
         ],
         "supervisor": "John Geraghty",
-        "technology": "ExtendSIM 195",
+        "technology": "ExtendSIM",
         "title": "Production and Inventory Control Strategies for systems manufacturing perishable goods"
     },
     {
@@ -2788,7 +2788,7 @@
             }
         ],
         "supervisor": "Alexander OConnor",
-        "technology": "CSS, HTML5, JavaScript, Node.js, Socket.io 196",
+        "technology": "CSS, HTML5, JavaScript, Node.js, Socket.io",
         "title": "CodePair"
     },
     {
@@ -2802,7 +2802,7 @@
             }
         ],
         "supervisor": "Geoff Hamilton",
-        "technology": "Python 88 Faculty of Engineering and Computing Final Year Projects Expo 2016 197",
+        "technology": "Python",
         "title": "LecturePi"
     },
     {
@@ -2816,7 +2816,7 @@
             }
         ],
         "supervisor": "Cathal Gurrin",
-        "technology": "HTML5, JavaScript, JQuery, PHP, SQL 198",
+        "technology": "HTML5, JavaScript, JQuery, PHP, SQL",
         "title": "Petrol and Diesel Price Checker"
     },
     {
@@ -2830,7 +2830,7 @@
             }
         ],
         "supervisor": "Alan Kennedy",
-        "technology": "Lego 199",
+        "technology": "Lego",
         "title": "The development of String and Sticky Tape Experiments for mechanical/applied mathematics students"
     },
     {
@@ -2844,7 +2844,7 @@
             }
         ],
         "supervisor": "Pascal Landais",
-        "technology": "Matlab 89 Faculty of Engineering and Computing Final Year Projects Expo 2016 200",
+        "technology": "Matlab",
         "title": "Indoor path loss measurement and comparison to simple propagation models"
     },
     {
@@ -2858,7 +2858,7 @@
             }
         ],
         "supervisor": "Donal Fitzpatrick",
-        "technology": "CSS, HTML5, Java, JavaScript, JQuery, REST, SpringMVC, MongoDB, Bootstrap 201",
+        "technology": "CSS, HTML5, Java, JavaScript, JQuery, REST, SpringMVC, MongoDB, Bootstrap",
         "title": "Unotes"
     },
     {
@@ -2872,7 +2872,7 @@
             }
         ],
         "supervisor": "Gareth Jones",
-        "technology": "AngularJS, CSS, HTML5, Java, JavaScript, REST 202",
+        "technology": "AngularJS, CSS, HTML5, Java, JavaScript, REST",
         "title": "Search DCU – An Enterprise Search Engine"
     },
     {
@@ -2886,7 +2886,7 @@
             }
         ],
         "supervisor": "Cathal Gurrin",
-        "technology": "C/C++ 90 Faculty of Engineering and Computing Final Year Projects Expo 2016 203",
+        "technology": "C/C++",
         "title": "Webcam Navigator"
     },
     {
@@ -2900,7 +2900,7 @@
             }
         ],
         "supervisor": "Stephen Blott",
-        "technology": "Java, JavaScript, REST, NoSQL 204",
+        "technology": "Java, JavaScript, REST, NoSQL",
         "title": "Abusive Tweet Filter"
     },
     {
@@ -2914,7 +2914,7 @@
             }
         ],
         "supervisor": "Martin Collier",
-        "technology": "Eclipse, Java 205",
+        "technology": "Eclipse, Java",
         "title": "Wireless Microphones using Embedded Linux"
     },
     {
@@ -2928,7 +2928,7 @@
             }
         ],
         "supervisor": "Derek Molloy",
-        "technology": "C/C++ 206",
+        "technology": "C/C++",
         "title": "A Scalable Wireless Mesh-Networking Platform for Self-Organising Robotic Swarms"
     },
     {
@@ -2942,7 +2942,7 @@
             }
         ],
         "supervisor": "Cathal Gurrin",
-        "technology": "MemNet 207",
+        "technology": "MemNet",
         "title": "Detect Snap Points in Egocentric Images with Physiological Signals"
     },
     {
