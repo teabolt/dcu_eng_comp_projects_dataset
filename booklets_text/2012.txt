@@ -24,9 +24,9 @@ measured in NSAI to assess, the accuracy and precision of, the laser system for 
 feasibility.
 Primary Area: Quality Standards
 Secondary Area: Statistial Analysis
+Primary OS:
 Primary Technology: Nd:YAG 3.2W Laser
 Secondary Technology: NSAI Metrology
-Primary OS:
 Project Title: 3D Shooter A.I. World
 Name: Oisin St John Kelly
 Email: st.oisinkelly2@mail.dcu.ie
@@ -1094,10 +1094,10 @@ to complete this task. Only one propeller can be used at a time, therefore a sys
 to rotate multiple propellers simultaneously.
 Primary Area: Optimization of
 Existing Processes
-Primary Technology: CAD
-Secondary Technology: Ansys
 Secondary Area:
 Primary OS:
+Primary Technology: CAD
+Secondary Technology: Ansys
 Project Title: Anodising Aluminium for Aeronautical Application
 Name: Simon Hageman
 Email: simon.hageman2@mail.dcu.ie
@@ -1273,11 +1273,10 @@ radiation,convection and conduction heat transfer.Detailed analysis of the resul
 conclusions are available in the project report.
 Primary Area: Renewable Energy
 Secondary Area: Heat Transfer
+Primary OS: Windows, PICO software
 Primary Technology: Research and
 devlopment of
 solar panels
-Primary OS: Windows, PICO
-software
 Secondary Technology: Heat Exchangers,
 Heat Transfer
 Project Title: Find Your Way in DCU
@@ -1316,7 +1315,7 @@ and each race will be scheduled taking user constraints into account, such as a 
 time between a semi-final and the final for each of the events.
 The system also provides spectators with an easy to access ‘event programme’ which can be viewed
 online. It also provides a central location for relevant regatta information to be published in the run up
-to the event.
+to the event
 Primary Area: Web Application
 Secondary Area: Model View Controller
 Primary OS: Multi-platform
@@ -1530,9 +1529,9 @@ outlined approach to use, in creating a 3D model was purposed and the ethical co
 simulation modelling were assessed with particular reference to aspects of model use.
 Primary Area: Simulation Modelling
 Secondary Area: Manufacturing Systems
+Primary OS:
 Primary Technology: ExtendSim simulation software
 Secondary Technology: Excel and StatFit (Data Analysis)
-Primary OS:
 Project Title: Automated detection and grading of airport structures
 from satellite images
 Name: Glenn Sheridan
@@ -1718,8 +1717,8 @@ amount of stress. This type of nail can be used where full weight bearing on the
 immediately required.
 Primary Area: Medical Device Design
 Secondary Area: Orthopaedics
-Primary Technology: ProEngineer
 Primary OS:
+Primary Technology: ProEngineer
 Secondary Technology:
 Project Title: Who Is That Student?
 Name: Diarmaid McManus
@@ -1941,7 +1940,7 @@ Secondary Area: Gaming
 Primary OS: Windows
 Primary Technology: Kinect
 Secondary Technology: C#
-Project Title: Math_Interactive
+Project Title: Math Interactive
 Name: Martin Donnelly
 Email: martin.donnelly4@mail.dcu.ie
 Programme:
@@ -1959,8 +1958,8 @@ progress analysis. The attractiveness of the site will be in the use of graphic 
 activities and the equipment and surfaces that are played are used to create interest in Geometry. For
 example graphics and images of football pitches or tennis courts and their markings will be used to
 create geometrical shapes and angles, and areas could then be calculated.
-Primary Area: Java, JSP\Servlets, MySQL, JavaScript, DHTML, CSS
-Primary Technology: JDK 1.91, NetBeans IDE and GlassFish
-Secondary Technology: Server and Eclipse 3.7.1, Paint Shop Pro
+Primary Area: Java, JSP Servlets, MySQL, JavaScript, DHTML, CSS
 Secondary Area:
 Primary OS:
+Primary Technology: JDK 1.91, NetBeans IDE and GlassFish
+Secondary Technology: Server and Eclipse 3.7.1, Paint Shop Pro

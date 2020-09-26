@@ -11,7 +11,7 @@
             }
         ],
         "supervisor": "Dr. Dermot Brabazon",
-        "technology": "Nd:YAG 3.2W Laser, NSAI Metrology Primary OS:",
+        "technology": "Nd:YAG 3.2W Laser, NSAI Metrology",
         "title": "Manufacture and Calibration of Line Scales for Quality Control"
     },
     {
@@ -726,7 +726,7 @@
             }
         ],
         "supervisor": "Dr. Abdul Olabi",
-        "technology": "CAD, Ansys Secondary Area: Primary OS:",
+        "technology": "CAD, Ansys",
         "title": "Design of Pretreatment Techniques for Increasing Biogas Production from Biomass"
     },
     {
@@ -831,7 +831,7 @@
             }
         ],
         "supervisor": "Dr. Brian Corcoran",
-        "technology": "Research and devlopment of solar panels Primary OS: Windows, PICO software, Heat Exchangers, Heat Transfer",
+        "technology": "Research and devlopment of solar panels, Heat Exchangers, Heat Transfer",
         "title": "Renewable Energy Device Evaluation"
     },
     {
@@ -851,7 +851,7 @@
     },
     {
         "area": "Web Application, Model View Controller",
-        "description": "This project has been developed to provide rowing clubs/organisations with a convenient and simple way to organise and manage a regatta. Currently in Ireland, there is a simple online entry system for regattas. The regatta secretary must download the entry, manually perform a draw and then complete a full regatta schedule that includes every race for all the different events. This project modernises this process and allows all relevant steps to be completed in a matter of minutes. Regatta Manager allows the regatta secretary to simply type in a name for the regatta and upload the entry file. With the click of a button the crews will be drawn into the relevant heats semi-finals or finals and each race will be scheduled taking user constraints into account, such as a minimum duration of time between a semi-final and the final for each of the events. The system also provides spectators with an easy to access ‘event programme’ which can be viewed online. It also provides a central location for relevant regatta information to be published in the run up to the event.",
+        "description": "This project has been developed to provide rowing clubs/organisations with a convenient and simple way to organise and manage a regatta. Currently in Ireland, there is a simple online entry system for regattas. The regatta secretary must download the entry, manually perform a draw and then complete a full regatta schedule that includes every race for all the different events. This project modernises this process and allows all relevant steps to be completed in a matter of minutes. Regatta Manager allows the regatta secretary to simply type in a name for the regatta and upload the entry file. With the click of a button the crews will be drawn into the relevant heats semi-finals or finals and each race will be scheduled taking user constraints into account, such as a minimum duration of time between a semi-final and the final for each of the events. The system also provides spectators with an easy to access ‘event programme’ which can be viewed online. It also provides a central location for relevant regatta information to be published in the run up to the event",
         "platform": "Multi-platform",
         "programme": "Software Engineering",
         "students": [
@@ -996,7 +996,7 @@
             }
         ],
         "supervisor": "Dr. Paul Young",
-        "technology": "ExtendSim simulation software, Excel and StatFit (Data Analysis) Primary OS:",
+        "technology": "ExtendSim simulation software, Excel and StatFit (Data Analysis)",
         "title": "Development of a Simulation model for a Flexible Assembly System"
     },
     {
@@ -1101,7 +1101,7 @@
             }
         ],
         "supervisor": "Dr. Bryan MacDonald",
-        "technology": "ProEngineer Primary OS:",
+        "technology": "ProEngineer",
         "title": "Proof of Concept of a Dynamic Intramedullary Nail"
     },
     {
@@ -1259,7 +1259,7 @@
         "title": "Interactive Floor Projected Gaming Using the Kinect Sensor"
     },
     {
-        "area": "Java, JSP\\Servlets, MySQL, JavaScript, DHTML, CSS",
+        "area": "Java, JSP Servlets, MySQL, JavaScript, DHTML, CSS",
         "description": "This is an internet web educational application. The purpose of the project was to develop a programme that will encourage learning of maths and make it more appealing to children studying Junior Certificate maths. This entailed writing a program in Java which will follows the Junior certificate Ordinary and Higher level Syllabus. The learning is attained in an interactive procedure where each topic is selected, description of the purpose of the topic is given and the expected learning outcome outlined. Step by step examples will be demonstrated for each topic with interactive questions presented for the student to input the solution. The student may register on the website and questions attempted are graded and saved for future progress analysis. The attractiveness of the site will be in the use of graphic imagery, colour, sporting activities and the equipment and surfaces that are played are used to create interest in Geometry. For example graphics and images of football pitches or tennis courts and their markings will be used to create geometrical shapes and angles, and areas could then be calculated.",
         "platform": "",
         "programme": "",
@@ -1270,7 +1270,7 @@
             }
         ],
         "supervisor": "",
-        "technology": "JDK 1.91, NetBeans IDE and GlassFish, Server and Eclipse 3.7.1, Paint Shop Pro Secondary Area: Primary OS:",
-        "title": "Math_Interactive"
+        "technology": "JDK 1.91, NetBeans IDE and GlassFish, Server and Eclipse 3.7.1, Paint Shop Pro",
+        "title": "Math Interactive"
     }
 ]
