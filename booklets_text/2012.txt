@@ -714,12 +714,12 @@ Programme: Software Engineering
 Supervisor: Dr. Martin Crane
 Web-based XQuery Editor and Debugger is a web application that allows the user to edit XQuery
 expressions and execute them. It returns an XML result as well as various results to help the user
-debug/develop the XQuery expression. <br><br> XQuery is a query and functional programming
+debug/develop the XQuery expression. XQuery is a query and functional programming
 language that is designed to query collections of XML data. The application provides the user with an
 editor built in JavaScript that has various features such as syntax highlighting, indention and line
 numbering. The editor allows the user to submit the XQuery expression currently in the editor and the
 result is processed using the Saxon XSLT and XQuery engine. This result is returned to the web
-application for the user to view. <br><br> The application also allows for the analysis of the script and
+application for the user to view. The application also allows for the analysis of the script and
 requested data. The user can view things such as the stack trace of the expression as it executed, any
 variables initialized by the expression, the trace history of the XQuery as well as the XML result itself.
 The debugger allows the user to pause the execution of the expression by setting breakpoints on a line
@@ -926,10 +926,10 @@ anywhere, any time, straight from their browser. This system aims to be central 
 browsing. It should be the first thing they see when they open their browser, a new tab, or new window.
 Doing so they can seamlessly access their favourite sites and collected bookmarks, greatly improving
 productivity. In Cloud Dial each bookmark will be identifiable by an image. This will make it visually
-appealing and extremely practical to use in this way, especially on mobile devices. <br /> <br />
+appealing and extremely practical to use in this way, especially on mobile devices.
 Identifying bookmarks further will be made possible by means of textual tags, content summarisation,
 and categorisation into groups and sub-groups; all of which will be suggested by Cloud Dial. This rich
-variety of information will ensure efficient browsing, and effective bookmark retrieval. <br /> <br /> It is
+variety of information will ensure efficient browsing, and effective bookmark retrieval. It is
 hoped this system will be used by all web browser users, but more specifically, by those who bookmark
 regularly. An ideal user bookmarks on several different devices, bookmarking pages of various topics. For
 people who bookmark a lot, and need to retrieve specific bookmarks on many devices, Cloud Dial is the
@@ -1388,11 +1388,11 @@ users have access to different servers. This system does not provision access bu
 users have access to a server. The system will also periodically send e-mail reminders to the relevant
 managers/data owners asking them to review a user’s access. The timing of these emails is decided by
 the ‘criticality level’ associated with each server. Each of these ‘criticality levels’ have a time frame
-connected with them and after this time frame has passed the user’s access comes under review. <br />
+connected with them and after this time frame has passed the user’s access comes under review.
 This system can be used by companies to make sure that only users who require access to the server
 have access to it. Often a user will have temporary access to a server but when they no longer need
-access to the server they are not removed. This can lead to a weakening in the security of the server. <br
-/> This system will be used in a company’s intranet and have a database back end with a list of users
+access to the server they are not removed. This can lead to a weakening in the security of the server.
+This system will be used in a company’s intranet and have a database back end with a list of users
 who may need access to the servers registered in the database.
 Primary Area: Web Application
 Primary OS: Multi-platform
