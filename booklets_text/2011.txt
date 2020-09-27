@@ -8,9 +8,9 @@ TMT Project aims to deliver a public Information System which would generate on 
 Multi-Modal Public Transport Travel Itinerary that will guide commuters from their point of origin to
 their desired destination within the Republic of Ireland.
 It aims to integrate as many Irish public transport companies as possible, then offer routing and access
-to this public IS from all web-compatible devices like smartphones, tabletPCs, laptops, desktops etc
+to this public IS from all web-compatible devices like smartphones, tablet PCs, laptops, desktops etc
 TMT Project received collaboration & support from: Department of Transport Ireland; Former Minister
-for Transport Mr Noel Dempsey TD; National Transport Authority; Transport 21 offi ce; Dublin Chamber
+for Transport Mr Noel Dempsey TD; National Transport Authority; Transport 21 office; Dublin Chamber
 of Commerce; Irish Rail, Eirebus/Urbus and Dublin Bikes; IBM Ireland; DCU.
 Presentation website: www.tmtproject.eu Blog and history tracking: www.tmtproject.info
 TMT Project web address: www.tmtproject.net
@@ -723,7 +723,7 @@ with Hibernate for database management. The web application and Android applicat
 and can be easily changed between English, Spanish and Japanese. Additional languages can be added
 to the system without the need of modifying code in any way. This means that Find It is not specifi c to
 Ireland but can be deployed anywhere in the world.
-The inclusion of Twitter and Facebook support means Customers can broadcast their fi ndings which
+The inclusion of Twitter and Facebook support means Customers can broadcast their findings which
 will aid retailers in marketing.
 Primary Area: Web Application
 Secondary Area: Mobile App
@@ -937,7 +937,7 @@ systems main use will be to verify answers and help solve problems students are 
 Although user friendliness has been a priority, the system will only receive information in a
 predetermined format which will be expanded upon in the user manual. This is due to the nature
 of critical path problems and the lack of a set format that every question follows directly.
-The fi nal system will be presented in the form of a website for ease of use . The only prerequisites
+The final system will be presented in the form of a website for ease of use . The only prerequisites
 necessary to use the system is computer with access to the internet and any given browser. The user
 will be required to format the question, if not already done so, into three sections; activity, duration and
 predecessors. Once this is completed the user can enter the necessary numbers and activity names into
@@ -945,7 +945,7 @@ the system to be processed. The website will be as user friendly as possible wit
 network diagram being paramount.
 Given the straight forward nature of the system user interaction will be minimal, the majority of the
 complexities encountered were functionality based coding issues. All that is required of the user is the
-input of fi gures. From there, the system will pass the information to a java program which will compute
+input of figures. From there, the system will pass the information to a java program which will compute
 the solution, utilising Dijkstra’s algorithm, and create a network diagram which will show the users the
 correct course of network activity and thus the solution.
 Primary Area: Educational
@@ -1457,9 +1457,9 @@ Email: david.kinsella5@mail.dcu.ie
 Programme: Mechatronic Engineering
 Supervisor: Dr. Noel Murphy
 Angle of attack (AoA) is a term used in aerodynamics to describe the angle between the reference line
-(chord line) of a lifting body and the relative airfl ow. Lift is a fundamental factor in aircraft fl ight and lift
+(chord line) of a lifting body and the relative airfl ow. Lift is a fundamental factor in aircraft flight and lift
 coeffi cient varies as a function of angle of attack. Thus angle of attack is an important characteristic of
-aircraft fl ight. Essentially, increasing the angle of attack produces increased lift up to a point known as
+aircraft flight. Essentially, increasing the angle of attack produces increased lift up to a point known as
 the critical angle of attack, the angle at which maximum lift is being generated. Beyond this point, lift
 decreases rapidly with increasing angle of attack, resulting in a stall. The purpose of an angle of attack
 indicator is to inform the pilot how close they are to reaching this critical angle of attack, hence stalling

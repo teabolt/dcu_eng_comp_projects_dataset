@@ -15,7 +15,7 @@
     },
     {
         "area": "Android, Gaming, GPS GIS",
-        "description": "Assassin is an Android multiplayer game that is played in the real world (preferably a busy pedestrian area) that uses GPS to determine players’ locations. Players (hunters) must chase after other players (targets) to win the game. There are different combinations of hunters/targets depending on the game mode e.g. sometimes all players are both a target and a hunter. The aim of the game is to be sneaky/blend into the crowd so other players don’t see you from far away.",
+        "description": "Assassin is an Android multiplayer game that is played in the real world (preferably a busy pedestrian area) that uses GPS to determine players' locations. Players (hunters) must chase after other players (targets) to win the game. There are different combinations of hunters/targets depending on the game mode e.g. sometimes all players are both a target and a hunter. The aim of the game is to be sneaky/blend into the crowd so other players don't see you from far away.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -71,7 +71,7 @@
     },
     {
         "area": "Web Application, Mobile App, Data Analytics",
-        "description": "Trak is a revolutionary new service that aims to eradicate the need for paper receipts, replacing them with electronic ones. Saving trees, people’s time and their money. The idea revolves around NFC (Near Field Communication), a technology that has grown in popularity in recent years. NFC allows for close proximity wireless communication and is now integrated into a lot of smartphones. Trak will utilise this proven technology to make life easier for everyone who interacts with the retail industry.",
+        "description": "Trak is a revolutionary new service that aims to eradicate the need for paper receipts, replacing them with electronic ones. Saving trees, people's time and their money. The idea revolves around NFC (Near Field Communication), a technology that has grown in popularity in recent years. NFC allows for close proximity wireless communication and is now integrated into a lot of smartphones. Trak will utilise this proven technology to make life easier for everyone who interacts with the retail industry.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -107,7 +107,7 @@
     },
     {
         "area": "Gaming",
-        "description": "For my Final year project I created a game for IOS. It is a Strategic God type game, where you play as a God to win the love of the inhabitants of the world you control. “The Olympic Battle for Cake” is an interactive and responsive game. I created this game as I wanted to create something that makes you want to pick it up and not want to put down.",
+        "description": "For my Final year project I created a game for IOS. It is a Strategic God type game, where you play as a God to win the love of the inhabitants of the world you control. 'The Olympic Battle for Cake' is an interactive and responsive game. I created this game as I wanted to create something that makes you want to pick it up and not want to put down.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -135,7 +135,7 @@
     },
     {
         "area": "Web Application, Data Mining, Data Analytics",
-        "description": "The Car Deal Spotter is a web application allowing users to find a good valued car. It gathers car data from ads on the web and from that data trains a model to predict car prices. A car’s predicted value is compared to the advertised asking price where large differences mean good deals. To predict a price the model looks at various car attributes such as make, model, mileage, age, owners, etc.",
+        "description": "The Car Deal Spotter is a web application allowing users to find a good valued car. It gathers car data from ads on the web and from that data trains a model to predict car prices. A car's predicted value is compared to the advertised asking price where large differences mean good deals. To predict a price the model looks at various car attributes such as make, model, mileage, age, owners, etc.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -182,7 +182,7 @@
         "students": [
             {
                 "email": "joseph.omeara3@mail.dcu.ie",
-                "name": "Joseph O’Meara"
+                "name": "Joseph O'Meara"
             }
         ],
         "supervisor": "Donal Fitzpatrick",
@@ -191,7 +191,7 @@
     },
     {
         "area": "Mobile App, Sensor Data",
-        "description": "Patrol is an android application that allows users to automatically report problems with a road such as potholes in the background while they are driving. This is achieved by using an android device’s internal gyroscope to measure how level a road is and send the results to a server for each user journey. This server will then issue warnings on roads onto the application until the problem is fixed by a city council.",
+        "description": "Patrol is an android application that allows users to automatically report problems with a road such as potholes in the background while they are driving. This is achieved by using an android device's internal gyroscope to measure how level a road is and send the results to a server for each user journey. This server will then issue warnings on roads onto the application until the problem is fixed by a city council.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -205,7 +205,7 @@
     },
     {
         "area": "Lean Manufacturing",
-        "description": "An identification and analysis of bottlenecks in Henkel Ireland’s production plant was undertaken using both the Theory of Constraints and the DMAIC (Define, Measure, Analyse, Improve, Control) technique. While Lean and six sigma tools, including SMED (Single Minute Exchange of Die), were used to decrease the changeover time on chosen packaging lines W01 and L06. The results were analysed further and improvement ideas were given to the operating management of Henkel Ireland.",
+        "description": "An identification and analysis of bottlenecks in Henkel Ireland's production plant was undertaken using both the Theory of Constraints and the DMAIC (Define, Measure, Analyse, Improve, Control) technique. While Lean and six sigma tools, including SMED (Single Minute Exchange of Die), were used to decrease the changeover time on chosen packaging lines W01 and L06. The results were analysed further and improvement ideas were given to the operating management of Henkel Ireland.",
         "programme": "Manufacturing Engineering with Business",
         "students": [
             {
@@ -219,7 +219,7 @@
     },
     {
         "area": "Mobile App",
-        "description": "BEEP! is a mobile application which provides alerts to users, based on the predefined location of another user. iOS comes with a built in function where users can set alerts based on the location of themselves. So for example, “remind me to turn off the immersion when I get home”. This type of function has been widely replicated. Our concept differs in that the alerts are not triggered by your own location, but by the location of another predefined user.",
+        "description": "BEEP! is a mobile application which provides alerts to users, based on the predefined location of another user. iOS comes with a built in function where users can set alerts based on the location of themselves. So for example, 'remind me to turn off the immersion when I get home'. This type of function has been widely replicated. Our concept differs in that the alerts are not triggered by your own location, but by the location of another predefined user.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -288,7 +288,7 @@
         "students": [
             {
                 "email": "shane.oconnor85@mail.dcu.ie",
-                "name": "Shane O’Connor"
+                "name": "Shane O'Connor"
             }
         ],
         "supervisor": "Charlie Daly",
@@ -311,7 +311,7 @@
     },
     {
         "area": "Education, Computer Assisted Language Learning, Computational Linguistics, Signal Processing, Natural Language Processing, Speech Recognition, Web Application",
-        "description": "FoghlaimFocail is an Irish vocabulary learning tool for children. It is directed at improving a child’s way of learning a language through a combination of parental interaction and technical feedback on pronunciation. It’s a web application that uses JQuery and PHP to interact with a speech recognition system – developed using MatLab – that evaluates test utterances against stored templates using Dynamic Time Warping. JavaScript acts as an aid to the interactivity of the site, including the recording functionality.",
+        "description": "FoghlaimFocail is an Irish vocabulary learning tool for children. It is directed at improving a child's way of learning a language through a combination of parental interaction and technical feedback on pronunciation. It's a web application that uses JQuery and PHP to interact with a speech recognition system – developed using MatLab – that evaluates test utterances against stored templates using Dynamic Time Warping. JavaScript acts as an aid to the interactivity of the site, including the recording functionality.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -353,7 +353,7 @@
     },
     {
         "area": "Code Analysis, Object-Oriented Analysis, Software Development",
-        "description": "This project builds on the existing Pylint and Astroid frameworks to provide a suite of object-oriented static analysis metrics for Python. The metrics can be run against a user’s Python code and they will receive a score and analysis based on their code. This suite of metrics includes some of the industry accepted object-oriented checks that can have an impact on code maintenance and re-use.",
+        "description": "This project builds on the existing Pylint and Astroid frameworks to provide a suite of object-oriented static analysis metrics for Python. The metrics can be run against a user's Python code and they will receive a score and analysis based on their code. This suite of metrics includes some of the industry accepted object-oriented checks that can have an impact on code maintenance and re-use.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -385,7 +385,7 @@
     },
     {
         "area": "Web Application",
-        "description": "Offloaded, a web based application, is a delivery management system that facilitates pre-booking and reporting for large firms who process vast numbers of deliveries daily i.e. airports and distribution centers. The main purpose is to allow logistics companies delivering to these firms to book a time slot to “offload” products in the most efficient way thus eliminating queues and saving time for both parties. The reporting tool allows the organisation to view and analyse past deliveries and make future predictions.",
+        "description": "Offloaded, a web based application, is a delivery management system that facilitates pre-booking and reporting for large firms who process vast numbers of deliveries daily i.e. airports and distribution centers. The main purpose is to allow logistics companies delivering to these firms to book a time slot to 'offload' products in the most efficient way thus eliminating queues and saving time for both parties. The reporting tool allows the organisation to view and analyse past deliveries and make future predictions.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -403,7 +403,7 @@
     },
     {
         "area": "Data Analytics, Web Application",
-        "description": "This project is a web application that helps users, either singularly or in a group, to pick a film to watch based off their past watch histories. The result returned is a film they’re all interested in but one which no one present has already seen. It’s written in Python using the Flask framework and communicating with the trakt.tv database for users watch histories and ratings. It is accessible through a browser or android application.",
+        "description": "This project is a web application that helps users, either singularly or in a group, to pick a film to watch based off their past watch histories. The result returned is a film they're all interested in but one which no one present has already seen. It's written in Python using the Flask framework and communicating with the trakt.tv database for users watch histories and ratings. It is accessible through a browser or android application.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -431,7 +431,7 @@
     },
     {
         "area": "Gaming",
-        "description": "Dungeons of Azemrath is a 2D sidescrolling game which incorporates elements of traditional “Rogue-like” games. The objective of the game is to progress as far into the game’s stages as possible before dying, which will afford you an opportunity to power up your character before attempting to clear the game’s stages again. The game’s stages will be randomly generated on each attempt, offering increased replayability for the game. This game is being developed with the Unity Engine.",
+        "description": "Dungeons of Azemrath is a 2D sidescrolling game which incorporates elements of traditional 'Rogue-like' games. The objective of the game is to progress as far into the game's stages as possible before dying, which will afford you an opportunity to power up your character before attempting to clear the game's stages again. The game's stages will be randomly generated on each attempt, offering increased replayability for the game. This game is being developed with the Unity Engine.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -481,7 +481,7 @@
     },
     {
         "area": "Mobile App",
-        "description": "ThinkFit is a health and fitness app, aiming to change the mental habit of people towards health and fitness. • Constant Beacon monitoring will catch people taking lifts over stairs. • A track keeper allows users see their speed/time during laps. • A gym journal is available to keep track of ones workout. • Users can see their fitness journey through multiple graphs. • Users’ Profile, displays personal and health details. • A messaging service within the app allows users send messages/ pictures to each other",
+        "description": "ThinkFit is a health and fitness app, aiming to change the mental habit of people towards health and fitness. • Constant Beacon monitoring will catch people taking lifts over stairs. • A track keeper allows users see their speed/time during laps. • A gym journal is available to keep track of ones workout. • Users can see their fitness journey through multiple graphs. • Users' Profile, displays personal and health details. • A messaging service within the app allows users send messages/ pictures to each other",
         "programme": "Computer Applications",
         "students": [
             {
@@ -495,7 +495,7 @@
     },
     {
         "area": "Mobile App, Web Application, Wireless Technology",
-        "description": "My system is called NFCVT. It stands for “NFC Virtual Tickets. The system consists of dynamic web application along with mobile app. The users can browse through events and obtain tickets for events. The tickets are utilised using NFC. User simply selects the virtual ticket and tags in at the entry. Users can also create their own events and track them dynamically. No additional hardware is required as a mobile phone acts as a ticker scanner and ticket writer.",
+        "description": "My system is called NFCVT. It stands for 'NFC Virtual Tickets. The system consists of dynamic web application along with mobile app. The users can browse through events and obtain tickets for events. The tickets are utilised using NFC. User simply selects the virtual ticket and tags in at the entry. Users can also create their own events and track them dynamically. No additional hardware is required as a mobile phone acts as a ticker scanner and ticket writer.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -509,7 +509,7 @@
     },
     {
         "area": "Gaming",
-        "description": "My project is a 2d sidescrolling game called “Wick”. The game is about the main character who is a candle that is lit at the start of the level and needs to run through gathering wax so they don’t melt too quickly and the eventually extinguish the flame at the end of the level, avoiding enemies that will melt him faster along the way. It is made using the Unity game engine.",
+        "description": "My project is a 2d sidescrolling game called 'Wick'. The game is about the main character who is a candle that is lit at the start of the level and needs to run through gathering wax so they don't melt too quickly and the eventually extinguish the flame at the end of the level, avoiding enemies that will melt him faster along the way. It is made using the Unity game engine.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -537,7 +537,7 @@
     },
     {
         "area": "Mobile App",
-        "description": "The idea for Pints Nearby was to create a user driven based application for locating nearby pubs/nightclubs using the user’s location. The user can set the radius they want to scan for pubs/nightclubs within a particular area, and letting them then select the pub or night club they wish to visit, once the user selects the pub/ nightclub Pints Nearby then directs them to the location. Other features included are filtered searching, live updates, reviews, booking and available discounts.",
+        "description": "The idea for Pints Nearby was to create a user driven based application for locating nearby pubs/nightclubs using the user's location. The user can set the radius they want to scan for pubs/nightclubs within a particular area, and letting them then select the pub or night club they wish to visit, once the user selects the pub/ nightclub Pints Nearby then directs them to the location. Other features included are filtered searching, live updates, reviews, booking and available discounts.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -555,7 +555,7 @@
     },
     {
         "area": "Mobile App, Android",
-        "description": "Late & Ready is mobile application that allows users, who want to travel on short notice, bid for lower priced airline seats. Late & Ready aims to make “standby” flights more accessible to the general public. This mobile application will increase an airline’s load factor while offering its users a new form of last minute travel.",
+        "description": "Late & Ready is mobile application that allows users, who want to travel on short notice, bid for lower priced airline seats. Late & Ready aims to make 'standby' flights more accessible to the general public. This mobile application will increase an airline's load factor while offering its users a new form of last minute travel.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -578,7 +578,7 @@
         "students": [
             {
                 "email": "ciaran.oconnor76@mail.dcu.ie",
-                "name": "Ciaran O’Connor"
+                "name": "Ciaran O'Connor"
             }
         ],
         "supervisor": "Geoff Hamilton",
@@ -601,7 +601,7 @@
     },
     {
         "area": "Android",
-        "description": "DCU Garden App is a management tool for the facilitation and maintenance of DCU’s communal garden. The App allows users to register with DCU garden, to sign in using geo-location and monitors how long they have spent in the garden. The App will record how long each user has spent in the garden and will generate credits for their time, so that they can take produce from the garden responsibly, without feeling the need to pay.",
+        "description": "DCU Garden App is a management tool for the facilitation and maintenance of DCU's communal garden. The App allows users to register with DCU garden, to sign in using geo-location and monitors how long they have spent in the garden. The App will record how long each user has spent in the garden and will generate credits for their time, so that they can take produce from the garden responsibly, without feeling the need to pay.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -615,7 +615,7 @@
     },
     {
         "area": "Educational, Web Application",
-        "description": "A web-based Django application for use by teachers and students in a second-level school setting. This application should help teachers fulfil their goals by aiding them in the creation of classroom study material, revision materials and monitoring students’ progress through quizzes and tests. It should also help students achieve their goals by giving them access to additional notes from their teachers and feedback on their progress in each part of a subject through the completion of quizzes.",
+        "description": "A web-based Django application for use by teachers and students in a second-level school setting. This application should help teachers fulfil their goals by aiding them in the creation of classroom study material, revision materials and monitoring students' progress through quizzes and tests. It should also help students achieve their goals by giving them access to additional notes from their teachers and feedback on their progress in each part of a subject through the completion of quizzes.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -629,7 +629,7 @@
     },
     {
         "area": "DSP",
-        "description": "My project is an audio multi-effects processor, which can take an audio source and apply various audio effects. I’m programming effects commonly used for microphone & guitar but will work with any electric instrument. I’m programming effects such as distortion, compression, echo, loop, modulation etc. (depending on what I can deliver in the final version). I will be using an AVID audio interface to connect these instruments to a PC and supply an audio source to my program.",
+        "description": "My project is an audio multi-effects processor, which can take an audio source and apply various audio effects. I'm programming effects commonly used for microphone & guitar but will work with any electric instrument. I'm programming effects such as distortion, compression, echo, loop, modulation etc. (depending on what I can deliver in the final version). I will be using an AVID audio interface to connect these instruments to a PC and supply an audio source to my program.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -685,7 +685,7 @@
     },
     {
         "area": "Social Networking, Natural Language Processing, Mobile App",
-        "description": "IHearU is a reliable smartphone application for everyone allowing real-time communication with social networks using only voice commands. This project delivers two new functions to IHearU. First is the recommendation feature that will recommend local ‘hot’ tweets and read them out in natural voice to the user based on their location, profile and history on Twitter. The second feature delivers a fine tuned French-to-English translation engine, whereby French tweets are automatically translated into English for the user.",
+        "description": "IHearU is a reliable smartphone application for everyone allowing real-time communication with social networks using only voice commands. This project delivers two new functions to IHearU. First is the recommendation feature that will recommend local 'hot' tweets and read them out in natural voice to the user based on their location, profile and history on Twitter. The second feature delivers a fine tuned French-to-English translation engine, whereby French tweets are automatically translated into English for the user.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -694,7 +694,7 @@
             },
             {
                 "email": "conor.oregan23@mail.dcu.ie",
-                "name": "Conor O’Regan"
+                "name": "Conor O'Regan"
             }
         ],
         "supervisor": "Andy Way",
@@ -726,7 +726,7 @@
         "students": [
             {
                 "email": "stephen.obeirne3@mail.dcu.ie",
-                "name": "Stephen M. O’Beirne"
+                "name": "Stephen M. O'Beirne"
             }
         ],
         "supervisor": "Markus Helfert",
@@ -735,7 +735,7 @@
     },
     {
         "area": "Web Application, Software Development, Databases, Data Analytics",
-        "description": "Smart Bainisteoir is a RESTful web application designed for sport managers/coaching staff aimed to assist them in the management of their team. It captures players’ performance; helps developing training plans; generates/ organises the annual calendar; avoids over-training of players when they are involved in multiple teams. The back end is written in java, tested with JUnit. Hibernate is used to communicate with the database along with the RESTful Service built using JAX-RS and Jersey(GET/POST methods). Front-end design is built with AngularJs/Bootstrap.",
+        "description": "Smart Bainisteoir is a RESTful web application designed for sport managers/coaching staff aimed to assist them in the management of their team. It captures players' performance; helps developing training plans; generates/ organises the annual calendar; avoids over-training of players when they are involved in multiple teams. The back end is written in java, tested with JUnit. Hibernate is used to communicate with the database along with the RESTful Service built using JAX-RS and Jersey(GET/POST methods). Front-end design is built with AngularJs/Bootstrap.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -749,7 +749,7 @@
     },
     {
         "area": "Graphics, Artificial Intelligence",
-        "description": "A 3D simulated 17th century world teeming with towns that produce and consume resources according to their citizens’ needs. AI ships roam the waters, each one deciding what actions to take to improve its state based on its own interpretation of the world. Ships have roles such as traders and pirates, which dictate how they should act.",
+        "description": "A 3D simulated 17th century world teeming with towns that produce and consume resources according to their citizens' needs. AI ships roam the waters, each one deciding what actions to take to improve its state based on its own interpretation of the world. Ships have roles such as traders and pirates, which dictate how they should act.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -763,12 +763,12 @@
     },
     {
         "area": "Security, Educational, Cryptography",
-        "description": "FACSP is a desktop application for analysing and verifying cryptographic security protocols with respect to given security properties. The project idea originated from the Dependable Systems research group in DCU. The application provides tools to create new, or edit existing, security protocols. During analysis, a protocol is subjected to an attacker based on the Dolev-Yao model.For clarity, a visualisation of the protocol is generated for the user. After the analysis, the user is presented with the protocol’s verifications / vulnerabilities.",
+        "description": "FACSP is a desktop application for analysing and verifying cryptographic security protocols with respect to given security properties. The project idea originated from the Dependable Systems research group in DCU. The application provides tools to create new, or edit existing, security protocols. During analysis, a protocol is subjected to an attacker based on the Dolev-Yao model.For clarity, a visualisation of the protocol is generated for the user. After the analysis, the user is presented with the protocol's verifications / vulnerabilities.",
         "programme": "Computer Applications",
         "students": [
             {
                 "email": "conor.oneill63@mail.dcu.ie",
-                "name": "Conor O’Neill"
+                "name": "Conor O'Neill"
             }
         ],
         "supervisor": "Geoff Hamilton",
@@ -782,7 +782,7 @@
         "students": [
             {
                 "email": "adam.oflynn7@mail.dcu.ie",
-                "name": "Adam O’Flynn"
+                "name": "Adam O'Flynn"
             }
         ],
         "supervisor": "Marija Bezbradica",
@@ -833,7 +833,7 @@
     },
     {
         "area": "Mobile App",
-        "description": "This project’s aim is to build a mobile App that provides tourists with services they may need while abroad. Users gain rewards from using the App and these rewards can be spent on some of the many services that may be offered on the App.",
+        "description": "This project's aim is to build a mobile App that provides tourists with services they may need while abroad. Users gain rewards from using the App and these rewards can be spent on some of the many services that may be offered on the App.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -925,7 +925,7 @@
         ],
         "supervisor": "Mark Roantree",
         "technology": "Eclipse, Java, JavaScript, SQL, AngularJS",
-        "title": "A dashboard for analysis of Ireland’s cultural growth"
+        "title": "A dashboard for analysis of Ireland's cultural growth"
     },
     {
         "area": "Sensor Technology",
@@ -1027,7 +1027,7 @@
     },
     {
         "area": "3-D Modelling, Gaming, Graphics, Virtual Reality",
-        "description": "This project explores new design possibilities for Virtual Reality games. The goal of this project was to develop a 3D Puzzle game, against which, multiple control schemes would be evaluated. While the player wears a VR headset, motion capture technology is used to render and control the player’s in-game avatar. This project uses the Oculus Rift (DK2) and Microsoft’s Kinect 2.0 for these purposes. The game was developed using the Unity engine (C# scripts) and runs on Windows 8.",
+        "description": "This project explores new design possibilities for Virtual Reality games. The goal of this project was to develop a 3D Puzzle game, against which, multiple control schemes would be evaluated. While the player wears a VR headset, motion capture technology is used to render and control the player's in-game avatar. This project uses the Oculus Rift (DK2) and Microsoft's Kinect 2.0 for these purposes. The game was developed using the Unity engine (C# scripts) and runs on Windows 8.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -1055,7 +1055,7 @@
     },
     {
         "area": "Automation",
-        "description": "The aim of this project is to improve the efficiency and reduce the waste produced by the Xtratherm thermal insulation plant located in Navan. This will be achieved by automating the Multi-Saw and Hopper area’s height adjustment system through the use of a PLC and controlled motors.",
+        "description": "The aim of this project is to improve the efficiency and reduce the waste produced by the Xtratherm thermal insulation plant located in Navan. This will be achieved by automating the Multi-Saw and Hopper area's height adjustment system through the use of a PLC and controlled motors.",
         "programme": "Manufacturing Engineering with Business",
         "students": [
             {
@@ -1143,7 +1143,7 @@
     },
     {
         "area": "Tissue Engineering, Biomedical Engineering, Additive Manufacturing",
-        "description": "Large peripheral neural injuries require a nerve graft harvested in vivo, with the satisfactory clinical outcome being < 50%. Studies have shown that nitric oxide encourages nerve regeneration at the site of an injury. The aim of this study was to create a nerve regeneration scaffold formed from the selective laser sintering of bioactive powders, whilst inducing a nitrogen rich surface. This scaffold is to be used as a nerve graft alternative to improve a patient’s quality of life.",
+        "description": "Large peripheral neural injuries require a nerve graft harvested in vivo, with the satisfactory clinical outcome being < 50%. Studies have shown that nitric oxide encourages nerve regeneration at the site of an injury. The aim of this study was to create a nerve regeneration scaffold formed from the selective laser sintering of bioactive powders, whilst inducing a nitrogen rich surface. This scaffold is to be used as a nerve graft alternative to improve a patient's quality of life.",
         "programme": "Biomedical Engineering",
         "students": [
             {
@@ -1301,7 +1301,7 @@
     },
     {
         "area": "Mobile App",
-        "description": "LitirEile is an android application which aims to provide a platform for young children who are learning how to write letters. Individual sessions teach each child how the letter should be written and then allows the child to attempt to draw the letter shape themselves, through various levels of difficulty. Each attempt is saved and the progress made in every session is tracked so that the teacher may review the child’s progress.",
+        "description": "LitirEile is an android application which aims to provide a platform for young children who are learning how to write letters. Individual sessions teach each child how the letter should be written and then allows the child to attempt to draw the letter shape themselves, through various levels of difficulty. Each attempt is saved and the progress made in every session is tracked so that the teacher may review the child's progress.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -1371,7 +1371,7 @@
     },
     {
         "area": "Automotive Technology",
-        "description": "The project titled Comparative Analysis of Car Steering Mechanisms involves investigation into several different steering linkages which have been previously used and also the designing of new linkages. Simulation of the different steering mechanisms is carried out using SolidWorks as well as theoretical calculations using Excel. Theoretical calculations can then be used to compare to the ideal Ackerman’s condition. The Ackerman’s condition is the ideal turning ratio between the inner and outer turning wheels of a car.",
+        "description": "The project titled Comparative Analysis of Car Steering Mechanisms involves investigation into several different steering linkages which have been previously used and also the designing of new linkages. Simulation of the different steering mechanisms is carried out using SolidWorks as well as theoretical calculations using Excel. Theoretical calculations can then be used to compare to the ideal Ackerman's condition. The Ackerman's condition is the ideal turning ratio between the inner and outer turning wheels of a car.",
         "programme": "Mechanical and Manufacturing Engineering",
         "students": [
             {
@@ -1399,7 +1399,7 @@
     },
     {
         "area": "Data Analytics, Data Mining, Software Development, Web Application",
-        "description": "The system developed is a music genre classifier that categorizes or identifies songs based on their genre. The genres it can identify are Irish traditional, pop and classical music. MP3 and WAV audio formats are accepted by the application. A supervised learning algorithm, k-nearest neighbour along with multiple other techniques are used in order to identify a song’s genre. The system is developed as both a web application and desktop application to allow for quicker and easier access for users.",
+        "description": "The system developed is a music genre classifier that categorizes or identifies songs based on their genre. The genres it can identify are Irish traditional, pop and classical music. MP3 and WAV audio formats are accepted by the application. A supervised learning algorithm, k-nearest neighbour along with multiple other techniques are used in order to identify a song's genre. The system is developed as both a web application and desktop application to allow for quicker and easier access for users.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -1413,7 +1413,7 @@
     },
     {
         "area": "Web Application",
-        "description": "Manage IT is designed to help IT Managers monitor their department’s service desk performance. The IT manager can input data related to service desk incidents that is then visually represented on graphs and charts. Each logged incident is assigned a RAG score based on completion success rate. This gives the IT Manager a simple way of tracking performance and identifying areas that need improvement.",
+        "description": "Manage IT is designed to help IT Managers monitor their department's service desk performance. The IT manager can input data related to service desk incidents that is then visually represented on graphs and charts. Each logged incident is assigned a RAG score based on completion success rate. This gives the IT Manager a simple way of tracking performance and identifying areas that need improvement.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -1519,7 +1519,7 @@
     },
     {
         "area": "3-D Modelling, Virtual Reality",
-        "description": "Over the last year, we’ve seen massive strides in the development of Virtual Reality with VR headsets such as the Oculus Rift, HTC Vive and Playstation VR in development. While Virtual Reality is being developed primarily with gaming in mind, it has huge potential in other areas. This project aims to prove that VR can be viable in the classroom, specifically in Inquiry-Based Learning.",
+        "description": "Over the last year, we've seen massive strides in the development of Virtual Reality with VR headsets such as the Oculus Rift, HTC Vive and Playstation VR in development. While Virtual Reality is being developed primarily with gaming in mind, it has huge potential in other areas. This project aims to prove that VR can be viable in the classroom, specifically in Inquiry-Based Learning.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -1561,7 +1561,7 @@
     },
     {
         "area": "RaspberryPi",
-        "description": "A device to record and loop back a user’s own input via XLR or ¼” jack. The device can be used by musicians to create fully fledged songs using looped beats and melodies they themselves create i.e. self-accompaniment. The device uses embedded Linux on a Raspberry Pi, a USB audio interface, and a C audio library to implement the feature.",
+        "description": "A device to record and loop back a user's own input via XLR or ¼' jack. The device can be used by musicians to create fully fledged songs using looped beats and melodies they themselves create i.e. self-accompaniment. The device uses embedded Linux on a Raspberry Pi, a USB audio interface, and a C audio library to implement the feature.",
         "programme": "Digital Media Engineering",
         "students": [
             {
@@ -1594,7 +1594,7 @@
         "students": [
             {
                 "email": "colm.obrien77@mail.dcu.ie",
-                "name": "Colm O’Brien"
+                "name": "Colm O'Brien"
             }
         ],
         "supervisor": "Ray Walshe",
@@ -1603,7 +1603,7 @@
     },
     {
         "area": "Web Application, Information Retrieval, Mobile App",
-        "description": "The MyGroceryPal app will be a tool to aid consumers in their shopping activities. The app will allow users to collaboratively create a shopping list for a household, search for product information and will provide a store locator built on the mobile device’s geolocation service. The mobile app will be developed as a multi-platform app using the PhoneGap framework. The app will be coded using the latest web technologies including HTML5, CSS3 and JavaScript, specifically AngularJS.",
+        "description": "The MyGroceryPal app will be a tool to aid consumers in their shopping activities. The app will allow users to collaboratively create a shopping list for a household, search for product information and will provide a store locator built on the mobile device's geolocation service. The mobile app will be developed as a multi-platform app using the PhoneGap framework. The app will be coded using the latest web technologies including HTML5, CSS3 and JavaScript, specifically AngularJS.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -1645,7 +1645,7 @@
     },
     {
         "area": "Mechatronic Systems, Robotics, Control Systems",
-        "description": "A Ball-bot is a mobile robot that is capable of fluent, omni-directional movement. The Ball-bot robot balances itself on a spherical drive ‘wheel’ or ball by the use of sensors, motors and a microcontroller, along with a sophisticated control algorithm. A key component is the omni-directional wheels that can slide in one direction, while gripping in a perpendicular direction. This project aims to design and build such a Ball-bot that will balance dynamically, within a budget of €250.",
+        "description": "A Ball-bot is a mobile robot that is capable of fluent, omni-directional movement. The Ball-bot robot balances itself on a spherical drive 'wheel' or ball by the use of sensors, motors and a microcontroller, along with a sophisticated control algorithm. A key component is the omni-directional wheels that can slide in one direction, while gripping in a perpendicular direction. This project aims to design and build such a Ball-bot that will balance dynamically, within a budget of €250.",
         "programme": "Mechatronic Engineering",
         "students": [
             {
@@ -1673,7 +1673,7 @@
     },
     {
         "area": "Mechanical Design and Manufacture",
-        "description": "This project incorporates the design, build and analysis of a Variable Trapezoidal Linkage Steering Mechanism with the aim of finding the linkage parameters that optimise the mechanism’s steering output. The optimal steering effect produced using Variable Trapezoidal Steering is based on the steering curve most similar to that of Ackerman – the ideal theoretical steering condition. These curves are created from the relationship between angles produced at both front wheels during turning under the different linkage parameters.",
+        "description": "This project incorporates the design, build and analysis of a Variable Trapezoidal Linkage Steering Mechanism with the aim of finding the linkage parameters that optimise the mechanism's steering output. The optimal steering effect produced using Variable Trapezoidal Steering is based on the steering curve most similar to that of Ackerman – the ideal theoretical steering condition. These curves are created from the relationship between angles produced at both front wheels during turning under the different linkage parameters.",
         "programme": "Mechanical and Manufacturing Engineering",
         "students": [
             {
@@ -1687,7 +1687,7 @@
     },
     {
         "area": "Facial Recognition, Security, Network Applications, Mobile App, Android, Databases, Image Video Processing",
-        "description": "‘Secure Mobile Video Conferencing’ is an Android application that provides a multi-layered authentication approach to video conferencing. Apart from credential verification, the application does facial recognition and palm scan before letting the user login. Registered data gets stored in an encrypted database on a centralized server, and once two parties successfully connect through the server the users can stream video with each other. Communication occurs over a WiFi connection using TCP and UDP.",
+        "description": "'Secure Mobile Video Conferencing' is an Android application that provides a multi-layered authentication approach to video conferencing. Apart from credential verification, the application does facial recognition and palm scan before letting the user login. Registered data gets stored in an encrypted database on a centralized server, and once two parties successfully connect through the server the users can stream video with each other. Communication occurs over a WiFi connection using TCP and UDP.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -1720,7 +1720,7 @@
         "students": [
             {
                 "email": "david.campbell5@mail.dcu.ie",
-                "name": "David Campbell O’Connor"
+                "name": "David Campbell O'Connor"
             }
         ],
         "supervisor": "Mark Humphrys",
@@ -1771,12 +1771,12 @@
     },
     {
         "area": "Natural Language Processing, Web Application",
-        "description": "Every day, people talk about brands, products, and events using Twitter. For companies, it’s important to be aware of what people are saying about them online and to catch and fix changes in customer sentiment before it becomes a problem. This project fetches all the Tweets related to certain topics, locations or accounts, and calculates the sentiment for each tweet. This sentiment is then stored and shared with the user. Providing real-time information about the sentiment of a brand.",
+        "description": "Every day, people talk about brands, products, and events using Twitter. For companies, it's important to be aware of what people are saying about them online and to catch and fix changes in customer sentiment before it becomes a problem. This project fetches all the Tweets related to certain topics, locations or accounts, and calculates the sentiment for each tweet. This sentiment is then stored and shared with the user. Providing real-time information about the sentiment of a brand.",
         "programme": "Computer Applications",
         "students": [
             {
                 "email": "eoin.obrien63@mail.dcu.ie",
-                "name": "Eoin O’Brien"
+                "name": "Eoin O'Brien"
             }
         ],
         "supervisor": "Cathal Gurrin",
@@ -1799,7 +1799,7 @@
     },
     {
         "area": "Fluid Mechanics",
-        "description": "Heat engines have a wide variety of uses in today’s world being used in many industries. This project looks at an innovative heat engine design which holds similar characteristics to that of a heat exchanger. This rig will be tested against calculations to verify the accuracy of the mathematical model. This project will study the flow between the rods of the rig to allow for a computer based model to be compared against.",
+        "description": "Heat engines have a wide variety of uses in today's world being used in many industries. This project looks at an innovative heat engine design which holds similar characteristics to that of a heat exchanger. This rig will be tested against calculations to verify the accuracy of the mathematical model. This project will study the flow between the rods of the rig to allow for a computer based model to be compared against.",
         "programme": "Mechanical and Manufacturing Engineering",
         "students": [
             {
@@ -1860,7 +1860,7 @@
         "students": [
             {
                 "email": "mark.ohara9@mail.dcu.ie",
-                "name": "Mark O’Hara"
+                "name": "Mark O'Hara"
             }
         ],
         "supervisor": "Derek Molloy",
@@ -1911,7 +1911,7 @@
     },
     {
         "area": "Cloud Computing, Mobile App, Web Application",
-        "description": "The aim of this project is to provide a web and mobile application platform which seeks to promote interactive learning with the aid of the Google Chromecast. The application features allow for a mirrored classroom environment where ‘lessons’ are treated as sessions. A single session will have one session owner and multiple session clients who may interact within that session. Interactive Learning with Google Chromecast is available on Chrome and on iOS and Android as a native application.",
+        "description": "The aim of this project is to provide a web and mobile application platform which seeks to promote interactive learning with the aid of the Google Chromecast. The application features allow for a mirrored classroom environment where 'lessons' are treated as sessions. A single session will have one session owner and multiple session clients who may interact within that session. Interactive Learning with Google Chromecast is available on Chrome and on iOS and Android as a native application.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -2009,7 +2009,7 @@
     },
     {
         "area": "Web Application",
-        "description": "The idea was to give users the experience a website where they can all see a whiteboard. If any given user was to write on the whiteboard every other user who is viewing the same “board” would see the changes. Discussing business strategies, complex learning questions or even designing different ideas would no longer be an issue as every user would have access to the same changes happening in real time. This all being achieved by accessing a given URL.",
+        "description": "The idea was to give users the experience a website where they can all see a whiteboard. If any given user was to write on the whiteboard every other user who is viewing the same 'board' would see the changes. Discussing business strategies, complex learning questions or even designing different ideas would no longer be an issue as every user would have access to the same changes happening in real time. This all being achieved by accessing a given URL.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -2079,7 +2079,7 @@
     },
     {
         "area": "Arduino",
-        "description": "This project is a tool to measure and improve people’s hand strength. It is aimed at people who have suffered any sort of injury which has affected their hand movement. The tool will improve these peoples’ grip strength by asking them to place a glove on their hand and then instructing them to grip their hand. I will then compare their readings against the average grip strength for healthy people with the same age, gender and weight.",
+        "description": "This project is a tool to measure and improve people's hand strength. It is aimed at people who have suffered any sort of injury which has affected their hand movement. The tool will improve these peoples' grip strength by asking them to place a glove on their hand and then instructing them to grip their hand. I will then compare their readings against the average grip strength for healthy people with the same age, gender and weight.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -2107,7 +2107,7 @@
     },
     {
         "area": "Android, Databases, Educational, Mobile App, RaspberryPi",
-        "description": "SmartBoard is a system that records, documents and index’s multiple forms of media in an educational environment. SmartBoard is capable of interacting with its users by both written commands and android devices. Educators have the ability to request previously saved content from SmartBoard’s database. This content can be projected to the board, removing the need for its users to carry equipment to lectures. SmartBoard also provides study aid by allowing students view recorded lectures and notes from their android devices.",
+        "description": "SmartBoard is a system that records, documents and index's multiple forms of media in an educational environment. SmartBoard is capable of interacting with its users by both written commands and android devices. Educators have the ability to request previously saved content from SmartBoard's database. This content can be projected to the board, removing the need for its users to carry equipment to lectures. SmartBoard also provides study aid by allowing students view recorded lectures and notes from their android devices.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -2149,7 +2149,7 @@
     },
     {
         "area": "Data Analytics, Educational, Software Development, Statistical Analysis, Web Application, Development Environment",
-        "description": "A super friendly development environment, that allows users to learn, develop, store, compile, run, analyse and compare programming projects. This and much more is what pro1oh1 offers it’s users. The project consists of two main components: performance data. The main components communicate through Django’s Rest Framework. The application is hosted in AWS.",
+        "description": "A super friendly development environment, that allows users to learn, develop, store, compile, run, analyse and compare programming projects. This and much more is what pro1oh1 offers it's users. The project consists of two main components: performance data. The main components communicate through Django's Rest Framework. The application is hosted in AWS.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -2205,12 +2205,12 @@
     },
     {
         "area": "Machine Learning, Web Application, Data Mining, Data Analytics",
-        "description": "BidBot brings machine learning to eBay. By leveraging data mining and analysis tools, BidBot makes intelligent decisions about the value of laptops sold on eBay. Users can find deals and save money on a new laptop while sellers can buy and resell for a profit. BidBot handles the market research so you don’t have to, letting you get on with the business of making money.",
+        "description": "BidBot brings machine learning to eBay. By leveraging data mining and analysis tools, BidBot makes intelligent decisions about the value of laptops sold on eBay. Users can find deals and save money on a new laptop while sellers can buy and resell for a profit. BidBot handles the market research so you don't have to, letting you get on with the business of making money.",
         "programme": "Computer Applications",
         "students": [
             {
                 "email": "david.okeeffe25@mail.dcu.ie",
-                "name": "David O’Keeffe"
+                "name": "David O'Keeffe"
             }
         ],
         "supervisor": "Darragh OBrien",
@@ -2224,7 +2224,7 @@
         "students": [
             {
                 "email": "david.oreilly35@mail.dcu.ie",
-                "name": "David O’Reilly"
+                "name": "David O'Reilly"
             }
         ],
         "supervisor": "Alan Smeaton",
@@ -2317,7 +2317,7 @@
     },
     {
         "area": "Mobile App",
-        "description": "healthSim is an application that presents keeping fit and healthy eating in a gaming way. Everyone knows from personal experience that if you don’t have a partner to keep fit with it, it’s very hard to motivate yourself so that’s where healthSim comes in. It’s role is to keep track of various stats such as hours slept, calorie intake, exercise, etc so you can have a good idea to whether you’re keeping yourself on track with your health plan.",
+        "description": "healthSim is an application that presents keeping fit and healthy eating in a gaming way. Everyone knows from personal experience that if you don't have a partner to keep fit with it, it's very hard to motivate yourself so that's where healthSim comes in. It's role is to keep track of various stats such as hours slept, calorie intake, exercise, etc so you can have a good idea to whether you're keeping yourself on track with your health plan.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -2331,7 +2331,7 @@
     },
     {
         "area": "Sensor Technology, Software Development",
-        "description": "This project details the utilisation of a wearable inertial sensor to monitor a runner’s performance. Using a Shimmer3 wearable sensor and a companion application developed in python, the system will provide information on irregularities in stride and hence recommendations to avoid injury through repetitive stress. Particular attention has been given to the signal processing aspect of this project to ensure an accurate and robust application",
+        "description": "This project details the utilisation of a wearable inertial sensor to monitor a runner's performance. Using a Shimmer3 wearable sensor and a companion application developed in python, the system will provide information on irregularities in stride and hence recommendations to avoid injury through repetitive stress. Particular attention has been given to the signal processing aspect of this project to ensure an accurate and robust application",
         "programme": "Electronic Engineering",
         "students": [
             {
@@ -2429,7 +2429,7 @@
     },
     {
         "area": "Gaming",
-        "description": "This project’s goal is to allow anyone to create their own 2D video game through an intuitive, gamer-friendly interface. No coding experience required; just a love of video games.",
+        "description": "This project's goal is to allow anyone to create their own 2D video game through an intuitive, gamer-friendly interface. No coding experience required; just a love of video games.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -2541,7 +2541,7 @@
     },
     {
         "area": "Artificial Intelligence",
-        "description": "A Neural Network trained to play the video game Super Mario Bro’s using two different machine learning techniques. A Network is trained via supervised learning using recorded human game-play and another Network is trained using Reinforcement learning. Data is passed in real-time, read from the video games RAM to the networks. The system is designed to make configuring, training and experimenting with the Neural Networks as simple as possible.",
+        "description": "A Neural Network trained to play the video game Super Mario Bro's using two different machine learning techniques. A Network is trained via supervised learning using recorded human game-play and another Network is trained using Reinforcement learning. Data is passed in real-time, read from the video games RAM to the networks. The system is designed to make configuring, training and experimenting with the Neural Networks as simple as possible.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -2574,7 +2574,7 @@
         "students": [
             {
                 "email": "ashton.dsouza2@mail.dcu.ie",
-                "name": "Ashton Paul D’Souza"
+                "name": "Ashton Paul D'Souza"
             }
         ],
         "supervisor": "Harold Esmonde",
@@ -2611,7 +2611,7 @@
     },
     {
         "area": "Gaming",
-        "description": "A 2D video game created with the UNITY game engine for the android mobile operating system. The game follows a character “Benjii” as he jumps along a series of procedurally generated rotating planets collecting points laid out in an arc. The player is tested and rewarded for continuous accuracy matching the arc that is generated to match a potential flight path.",
+        "description": "A 2D video game created with the UNITY game engine for the android mobile operating system. The game follows a character 'Benjii' as he jumps along a series of procedurally generated rotating planets collecting points laid out in an arc. The player is tested and rewarded for continuous accuracy matching the arc that is generated to match a potential flight path.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -2784,7 +2784,7 @@
         "students": [
             {
                 "email": "andrew.oneill65@mail.dcu.ie",
-                "name": "Andrew O’Neill"
+                "name": "Andrew O'Neill"
             }
         ],
         "supervisor": "Alexander OConnor",
@@ -2793,7 +2793,7 @@
     },
     {
         "area": "Arduino, RaspberryPi",
-        "description": "This project intends to use a raspberry pi and a phone app, to simplify an interaction with a lecture room’s projector. The phone app would send, and control, a presentation to a raspberry pi, that would connected to the projector in a lecture hall. The central idea for this project is to make life easier for anyone using projectors, trying to avoid the need for laptops, cables, chargers or otherwise.",
+        "description": "This project intends to use a raspberry pi and a phone app, to simplify an interaction with a lecture room's projector. The phone app would send, and control, a presentation to a raspberry pi, that would connected to the projector in a lecture hall. The central idea for this project is to make life easier for anyone using projectors, trying to avoid the need for laptops, cables, chargers or otherwise.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -2849,7 +2849,7 @@
     },
     {
         "area": "Web Application",
-        "description": "Unotes is a web application developed for the older generation of student with the aim of providing a more fluid, enjoyable and easier user experience for the student. It allows the user to access their course module materials and gives them the ability to view them in multiple ways in the form of Videos, Pdf’s, Slideshows and through Audio. Lecturers can upload their course materials which are synchronized to the application. It’s designed to be accessible on all devices.",
+        "description": "Unotes is a web application developed for the older generation of student with the aim of providing a more fluid, enjoyable and easier user experience for the student. It allows the user to access their course module materials and gives them the ability to view them in multiple ways in the form of Videos, Pdf's, Slideshows and through Audio. Lecturers can upload their course materials which are synchronized to the application. It's designed to be accessible on all devices.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -2877,7 +2877,7 @@
     },
     {
         "area": "Image Video Processing, Motion Analysis",
-        "description": "The Webcam Navigator is a hand motion detecting software designed to read predefined hand movements. These hand movements will be interpreted as input commands and will cause compatible programs to react as if receiving normal use. The software’s aim is to streamline usage of laptops when they are out of reach e.g when connected to a big screen for video playback or for presentations and changing slides.",
+        "description": "The Webcam Navigator is a hand motion detecting software designed to read predefined hand movements. These hand movements will be interpreted as input commands and will cause compatible programs to react as if receiving normal use. The software's aim is to streamline usage of laptops when they are out of reach e.g when connected to a big screen for video playback or for presentations and changing slides.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -2919,7 +2919,7 @@
     },
     {
         "area": "Wireless Technology, Mechatronic Systems, Image Video Processing, Computer Vision, BeagleBone",
-        "description": "This project develops a scalable embedded robotic swarm test platform that consists of multiple nodes under the watch of a master controller. The ZigBee protocol and XBee devices enable wireless communication between the devices over a mesh network. Embedded Linux, OpenCV image processing, C/C++, and XBee frame programming allow the master controller to monitor each individual robot’s location. The master controller constantly monitors the robotic swarm devices as they reposition themselves, and can command them to assemble into defined patterns.",
+        "description": "This project develops a scalable embedded robotic swarm test platform that consists of multiple nodes under the watch of a master controller. The ZigBee protocol and XBee devices enable wireless communication between the devices over a mesh network. Embedded Linux, OpenCV image processing, C/C++, and XBee frame programming allow the master controller to monitor each individual robot's location. The master controller constantly monitors the robotic swarm devices as they reposition themselves, and can command them to assemble into defined patterns.",
         "programme": "Mechatronic Engineering",
         "students": [
             {

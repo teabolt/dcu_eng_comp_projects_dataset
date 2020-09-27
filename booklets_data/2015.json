@@ -1,7 +1,7 @@
 [
     {
         "area": "Automation",
-        "description": "Beet Washers are used in the production of Biogas. Beet is left to rot and ferment to create gas and in turn run a generator to create electricity. All beet washers are hydraulically powered with manual controls. Engines are currently used to run the machines and emissions are high. The aim of this project is to create an emission free machine which is fully automated. This involves the use of a 90kw 3 phase motor and IFM automation system. The automation system uses IFM PLC, speed sensors, oil pressure sensors and 7” screen.",
+        "description": "Beet Washers are used in the production of Biogas. Beet is left to rot and ferment to create gas and in turn run a generator to create electricity. All beet washers are hydraulically powered with manual controls. Engines are currently used to run the machines and emissions are high. The aim of this project is to create an emission free machine which is fully automated. This involves the use of a 90kw 3 phase motor and IFM automation system. The automation system uses IFM PLC, speed sensors, oil pressure sensors and 7' screen.",
         "programme": "ME",
         "students": [
             {
@@ -15,7 +15,7 @@
     },
     {
         "area": "Web Application",
-        "description": "CoolWall is a web and mobile application which allows users to collaborate on an online “Wall” similar to how they would on a physical white board. The application allows users to create their own Walls which they can populate with content and share with other users. CoolWall is available on Chrome, Safari and also on Android and iOS as a native application.",
+        "description": "CoolWall is a web and mobile application which allows users to collaborate on an online 'Wall' similar to how they would on a physical white board. The application allows users to create their own Walls which they can populate with content and share with other users. CoolWall is available on Chrome, Safari and also on Android and iOS as a native application.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -113,7 +113,7 @@
     },
     {
         "area": "Educational",
-        "description": "WhichPrep is a mobile application for Android designed to make the process of learning English prepositions rewarding and engaging. For most non-English speakers, this is the most difficult aspect of English grammar to learn as it requires knowledge of language idioms rather than literal meaning. WhichPrep uses various types of quizzes to test a user’s knowledge of prepositional usage and reinforce that knowledge through feedback and scoring.",
+        "description": "WhichPrep is a mobile application for Android designed to make the process of learning English prepositions rewarding and engaging. For most non-English speakers, this is the most difficult aspect of English grammar to learn as it requires knowledge of language idioms rather than literal meaning. WhichPrep uses various types of quizzes to test a user's knowledge of prepositional usage and reinforce that knowledge through feedback and scoring.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -141,7 +141,7 @@
     },
     {
         "area": "Sensor Technology, Web Application, Wireless Technology, Internet Of Things (IoT)",
-        "description": "The aim of this project is to answer the question of ‘who is at my front door?’ which notifies the users of a guest present at their front door. The user is then notified with an image of the guest taken from a mounted camera, along with the time and date to their android device from any location, provided they have a functioning internet connection. The application will allow the user to perform various tasks to communicate with the guest.",
+        "description": "The aim of this project is to answer the question of 'who is at my front door?' which notifies the users of a guest present at their front door. The user is then notified with an image of the guest taken from a mounted camera, along with the time and date to their android device from any location, provided they have a functioning internet connection. The application will allow the user to perform various tasks to communicate with the guest.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -155,7 +155,7 @@
     },
     {
         "area": "Gaming",
-        "description": "Velcro is a physics based game that is being developed for mobile devices using the Unity Engine. Levels will be puzzle based containing special “Velcro” surfaces to which a ball can stick to. Swiping across the ball will give it momentum and direction. The ball shall move across Velcro surfaces and corners providing that the balls velocity is appropriate. The player will have to use these surfaces to direct the ball to its end destination which will complete the level.",
+        "description": "Velcro is a physics based game that is being developed for mobile devices using the Unity Engine. Levels will be puzzle based containing special 'Velcro' surfaces to which a ball can stick to. Swiping across the ball will give it momentum and direction. The ball shall move across Velcro surfaces and corners providing that the balls velocity is appropriate. The player will have to use these surfaces to direct the ball to its end destination which will complete the level.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -201,7 +201,7 @@
     },
     {
         "area": "Mobile App",
-        "description": "Med-Rem is a proof of concept for a medication reminder application. It is an Android based app with plans for an Apple version. Med-Rem has features such as a barcode scanner which can scan common medications and download information from the database so users don’t have to input any details. The more common features include medication tracking and alarms.",
+        "description": "Med-Rem is a proof of concept for a medication reminder application. It is an Android based app with plans for an Apple version. Med-Rem has features such as a barcode scanner which can scan common medications and download information from the database so users don't have to input any details. The more common features include medication tracking and alarms.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -210,16 +210,16 @@
             },
             {
                 "email": "aaron.obrien62@mail.dcu.ie",
-                "name": "Aaron O’Brien"
+                "name": "Aaron O'Brien"
             }
         ],
-        "supervisor": "Martin O’Connor",
+        "supervisor": "Martin O'Connor",
         "technology": "Java",
         "title": "Med-Rem"
     },
     {
         "area": "Data Analytics",
-        "description": "Senti-Meant is a social network sentiment analysis tool providing findings based on a smaller, more reliable cohort of users than the usual random sampling. Through the use of APIs, tweets are extracted and run through a ranking engine. The ranking engine criteria determines whether or not a user and tweet can be deemed ‘trusted’. Reports can be generated comparing original sentiment and that of the augmented data, in an attempt to provide more trusted and reliable sentiment analysis.",
+        "description": "Senti-Meant is a social network sentiment analysis tool providing findings based on a smaller, more reliable cohort of users than the usual random sampling. Through the use of APIs, tweets are extracted and run through a ranking engine. The ranking engine criteria determines whether or not a user and tweet can be deemed 'trusted'. Reports can be generated comparing original sentiment and that of the augmented data, in an attempt to provide more trusted and reliable sentiment analysis.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -269,7 +269,7 @@
     },
     {
         "area": "Educational",
-        "description": "LEXiCAL is a language learning software tool, comprising of several different language games and aimed at children aged 8-9 years of age. LEXiCAL has been written in C++ and is designed to be utilised in primary school education as an interactive and fun way to engage pupils in language learning. LEXiCAL’s greatest advantages are its strong teacher reporting tools and its language independence, allowing almost any human language to be loaded into the system and used in the exercises.",
+        "description": "LEXiCAL is a language learning software tool, comprising of several different language games and aimed at children aged 8-9 years of age. LEXiCAL has been written in C++ and is designed to be utilised in primary school education as an interactive and fun way to engage pupils in language learning. LEXiCAL's greatest advantages are its strong teacher reporting tools and its language independence, allowing almost any human language to be loaded into the system and used in the exercises.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -311,7 +311,7 @@
     },
     {
         "area": "Web Application",
-        "description": "The Irish Student Trampoline Open (ISTO) is Ireland’s largest student gymnastics competition, consisting of over 600 competitors from 50 clubs from Europe. This project is built to tackle the job of managing all aspects of the competition, including member and club sign up, event management and judging. It grants the organisers an easy, efficient and secure medium for managing all aspects of the competition. It consists of a Google endpoints Restful API back-end communicating with a AngularJS Application front-end.",
+        "description": "The Irish Student Trampoline Open (ISTO) is Ireland's largest student gymnastics competition, consisting of over 600 competitors from 50 clubs from Europe. This project is built to tackle the job of managing all aspects of the competition, including member and club sign up, event management and judging. It grants the organisers an easy, efficient and secure medium for managing all aspects of the competition. It consists of a Google endpoints Restful API back-end communicating with a AngularJS Application front-end.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -403,7 +403,7 @@
     },
     {
         "area": "Mobile App",
-        "description": "‘My Stop’ is an Android application which enables users to streamline their public transport journey regarding time efficiency and choice of transport, in as few clicks as possible. The application achieves this by presenting real time dashboards for each of the available transport operators (Dublin Bus, Luas, Bus Éireann and Irish Rail) and a dashboard to display the user’s location as well as stop selections on a live map which includes the travel time to each stop and traffic dynamics.",
+        "description": "'My Stop' is an Android application which enables users to streamline their public transport journey regarding time efficiency and choice of transport, in as few clicks as possible. The application achieves this by presenting real time dashboards for each of the available transport operators (Dublin Bus, Luas, Bus Éireann and Irish Rail) and a dashboard to display the user's location as well as stop selections on a live map which includes the travel time to each stop and traffic dynamics.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -417,7 +417,7 @@
     },
     {
         "area": "Road Traffic Simulation",
-        "description": "This project’s aim was to create a road traffic simulator using NS-3 as the simulation environment. NS-3 is designed to simulate packet networks as opposed to road traffic. It uses a module called NetAnim to perform simulations based on data collected from NS-3 in XML files. Similar projects have been undertaken by existing road traffic simulators however they use NS-3 in conjunction with other software for example SUMO.",
+        "description": "This project's aim was to create a road traffic simulator using NS-3 as the simulation environment. NS-3 is designed to simulate packet networks as opposed to road traffic. It uses a module called NetAnim to perform simulations based on data collected from NS-3 in XML files. Similar projects have been undertaken by existing road traffic simulators however they use NS-3 in conjunction with other software for example SUMO.",
         "programme": "ICE",
         "students": [
             {
@@ -445,12 +445,12 @@
     },
     {
         "area": "Mobile App",
-        "description": "This project is a proof of concept for an application called BronSports. It is a sports news application that gathers news content on the user’s selected favourite sports, teams and leagues. The app will gather news content from the most reliable major sports websites, newspapers and blogs which will be presented in news feed format on the app. The app will also allow users to share and receive recommended articles and see local news via GPS.",
+        "description": "This project is a proof of concept for an application called BronSports. It is a sports news application that gathers news content on the user's selected favourite sports, teams and leagues. The app will gather news content from the most reliable major sports websites, newspapers and blogs which will be presented in news feed format on the app. The app will also allow users to share and receive recommended articles and see local news via GPS.",
         "programme": "Enterprise Computing",
         "students": [
             {
                 "email": "Brian.oneill28@mail.dcu.ie",
-                "name": "Brian O’Neill"
+                "name": "Brian O'Neill"
             },
             {
                 "email": "Darren.mccarthy@mail.dcu.ie",
@@ -513,7 +513,7 @@
     },
     {
         "area": "Wireless Technology & Mobile Application",
-        "description": "The main purpose of the Identify & Prevent Mistreatment Wristband is to inform family members if the wearer of the wristband is being subject to elder abuse where they are resident. It aims to give the family members and friends of elderly people peace of mind. The wristband’s primary functionality includes monitoring movement, recording audio and sending urgent alerts to the mobile application.",
+        "description": "The main purpose of the Identify & Prevent Mistreatment Wristband is to inform family members if the wearer of the wristband is being subject to elder abuse where they are resident. It aims to give the family members and friends of elderly people peace of mind. The wristband's primary functionality includes monitoring movement, recording audio and sending urgent alerts to the mobile application.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -531,7 +531,7 @@
     },
     {
         "area": "Mobile App",
-        "description": "The project is an Android application that can be used by Chinese learners to assess and improve their Chinese characters writing skills. The application provides two main functions: a tutorial part where students can learn to write Chinese characters correctly; a quiz part where student’s writing skills are accessed and scored according to its similarity to the correct form and the order of strokes. A teacher’s interface is also developed to view and manage all students’ records.",
+        "description": "The project is an Android application that can be used by Chinese learners to assess and improve their Chinese characters writing skills. The application provides two main functions: a tutorial part where students can learn to write Chinese characters correctly; a quiz part where student's writing skills are accessed and scored according to its similarity to the correct form and the order of strokes. A teacher's interface is also developed to view and manage all students' records.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -615,7 +615,7 @@
     },
     {
         "area": "Software Development",
-        "description": "The project is a volleyball analysis tool. It will provide the user with game and player statistics based on the generated data. Its possible use would be for the coach to analyse the performance of his and the opponent’s team during a game in order to make changes to the tactics of his team and decide on the focus of future training sessions. The generated data will be based on a live match to simulate a real life scenario.",
+        "description": "The project is a volleyball analysis tool. It will provide the user with game and player statistics based on the generated data. Its possible use would be for the coach to analyse the performance of his and the opponent's team during a game in order to make changes to the tactics of his team and decide on the focus of future training sessions. The generated data will be based on a live match to simulate a real life scenario.",
         "programme": "DME",
         "students": [
             {
@@ -629,7 +629,7 @@
     },
     {
         "area": "Natural Language Processing, Mobile Business Intelligence",
-        "description": "Logix Vox is a business intelligence mobile application that enables users to gain quick answers to their business questions through natural language. The application interprets the user’s question, which can be spoken into the mobile device, and displays the answer back to them along with a relevant interactive chart providing context relating to the answer.",
+        "description": "Logix Vox is a business intelligence mobile application that enables users to gain quick answers to their business questions through natural language. The application interprets the user's question, which can be spoken into the mobile device, and displays the answer back to them along with a relevant interactive chart providing context relating to the answer.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -685,7 +685,7 @@
         ],
         "supervisor": "Brian Corcoran",
         "technology": "Ultrasonic Leak Detection",
-        "title": "Using the DMAIC process to show it’s application in compressed air systems, with the aim of generating direct cost savings by energy saving methods."
+        "title": "Using the DMAIC process to show it's application in compressed air systems, with the aim of generating direct cost savings by energy saving methods."
     },
     {
         "area": "Web Application, Mobile App",
@@ -753,7 +753,7 @@
     },
     {
         "area": "Mobile App",
-        "description": "The android application is for the specialised area of improving the sprinting technique of athletes. Users record a sprinting profile and analyse it with various tools such as a highly sensitive seek bar, side by side comparison with an expert’s technique, an outline frame to ensure correct starting position and drawing tools. All user videos are also stored on a cloud database and are easily accessed through a user’s particular account. There is no other application offering this functionality.",
+        "description": "The android application is for the specialised area of improving the sprinting technique of athletes. Users record a sprinting profile and analyse it with various tools such as a highly sensitive seek bar, side by side comparison with an expert's technique, an outline frame to ensure correct starting position and drawing tools. All user videos are also stored on a cloud database and are easily accessed through a user's particular account. There is no other application offering this functionality.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -933,7 +933,7 @@
     },
     {
         "area": "Analog and Digital Circuit Design",
-        "description": "This solar panel’s tracking mount is aimed to be low cost and highly efficient. The use of an equatorial mount for the panel positioning enhances the power conversion efficiency of the photovoltaic conversion system. It incorporates the internet functionality of an Intel Galileo board, to develop the project as part of an Internet of Things concept, thereby allowing remote monitoring of the Solar Panel.",
+        "description": "This solar panel's tracking mount is aimed to be low cost and highly efficient. The use of an equatorial mount for the panel positioning enhances the power conversion efficiency of the photovoltaic conversion system. It incorporates the internet functionality of an Intel Galileo board, to develop the project as part of an Internet of Things concept, thereby allowing remote monitoring of the Solar Panel.",
         "programme": "EE",
         "students": [
             {
@@ -1003,7 +1003,7 @@
     },
     {
         "area": "3D multiple sensorial media",
-        "description": "The recent advances in 3D video technology have led to their increased popularity. Research has been performed on introducing additional senses into media alongside video and audio and is referred to as “MulSeMedia”. This project analysed users’ quality-of-experience (QoE) when exposed to 3D “MulSeMedia” content. Participants were tested using a test-bed developed to synchronise multiple media components (olfaction, haptic, airmovement) with 3D video. User QoE when viewing 3D and 2D “MulSeMedia” was comparatively studied.",
+        "description": "The recent advances in 3D video technology have led to their increased popularity. Research has been performed on introducing additional senses into media alongside video and audio and is referred to as 'MulSeMedia'. This project analysed users' quality-of-experience (QoE) when exposed to 3D 'MulSeMedia' content. Participants were tested using a test-bed developed to synchronise multiple media components (olfaction, haptic, airmovement) with 3D video. User QoE when viewing 3D and 2D 'MulSeMedia' was comparatively studied.",
         "programme": "EE",
         "students": [
             {
@@ -1017,7 +1017,7 @@
     },
     {
         "area": "Multiple Sensorial Media (MulSeMedia)",
-        "description": "Human computer interaction technologies enable the creation and usage of “MulseMedia” which extends multimedia by integrating non-traditional components such as: olfactory, haptic, skin-sensorial (air-flow). This project analyses how MulSeMedia content affects user quality-of-experience (QoE). A test-bed of synchronised 2D video-based MulSeMedia was created and used in order to gather results through tests involving human participants. These results are compared with those of a similar solution which includes 3D MulSeMedia content.",
+        "description": "Human computer interaction technologies enable the creation and usage of 'MulseMedia' which extends multimedia by integrating non-traditional components such as: olfactory, haptic, skin-sensorial (air-flow). This project analyses how MulSeMedia content affects user quality-of-experience (QoE). A test-bed of synchronised 2D video-based MulSeMedia was created and used in order to gather results through tests involving human participants. These results are compared with those of a similar solution which includes 3D MulSeMedia content.",
         "programme": "ICE",
         "students": [
             {
@@ -1129,7 +1129,7 @@
     },
     {
         "area": "Web Application",
-        "description": "ALT Goal Manager is a web application aimed at students to assist in managing their learning goals, through the use of agile and scrum methodologies, in order to give a sense of control and organisation over individuals’ learning outcomes. The application allows the user to create their own online agile scrum board similar to those used in agile learning environments. The application frontend is built using HTML, CSS, AngularJs, with a REST backend utilising Spring and a MySQL database.",
+        "description": "ALT Goal Manager is a web application aimed at students to assist in managing their learning goals, through the use of agile and scrum methodologies, in order to give a sense of control and organisation over individuals' learning outcomes. The application allows the user to create their own online agile scrum board similar to those used in agile learning environments. The application frontend is built using HTML, CSS, AngularJs, with a REST backend utilising Spring and a MySQL database.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -1218,7 +1218,7 @@
         "students": [
             {
                 "email": "ruairi.obrien28@mail.dcu.ie",
-                "name": "Ruairi O’Brien"
+                "name": "Ruairi O'Brien"
             }
         ],
         "supervisor": "Ronan Scaife",
@@ -1255,7 +1255,7 @@
     },
     {
         "area": "Design",
-        "description": "A design project that is aimed to produce a device that is capable of adding a key tab to a key ring. The project’s development required the consideration of part feeding & part handling, combined with various other aspects associated with automation.",
+        "description": "A design project that is aimed to produce a device that is capable of adding a key tab to a key ring. The project's development required the consideration of part feeding & part handling, combined with various other aspects associated with automation.",
         "programme": "ME",
         "students": [
             {
@@ -1269,7 +1269,7 @@
     },
     {
         "area": "Embedded Systems",
-        "description": "The goal of this project was to use an android embedded system to tilt a platform along two axes to control the position of a ball. This was accomplished using a mobile phone to track the ball’s location on the table via the camera and then command servo motors to adjust tilt angle accordingly.",
+        "description": "The goal of this project was to use an android embedded system to tilt a platform along two axes to control the position of a ball. This was accomplished using a mobile phone to track the ball's location on the table via the camera and then command servo motors to adjust tilt angle accordingly.",
         "programme": "ME",
         "students": [
             {
@@ -1361,7 +1361,7 @@
     },
     {
         "area": "Computer Vision, Design",
-        "description": "WhentheMicrosoftKinectwas released back in2010, very soonit claimedtheGuinnessWorldRecord ofbeing the “fastest selling consumer electronics device”. The cheap and robust device became easily accessible to everyone.Engineers andHackers found the potentials ofthis technology and explored itto the best oftheir creativity in the fields ofHealth and medicine, Exercise, Education, Music, e-commerce and much more. Similarly my project aims to assess the suitability for analysing deformation on thin surfaces,this projectinvolves designing a water tunnel made from transparent acrylic, which is used to analyse and track an object with the MicrosoftKinect sensor or a web camera. An algorithm is made through programming capable of detecting the object and tracking it. Analysing the tracking data,the deformation of anObject(rag) can be determined.",
+        "description": "WhentheMicrosoftKinectwas released back in2010, very soonit claimedtheGuinnessWorldRecord ofbeing the 'fastest selling consumer electronics device'. The cheap and robust device became easily accessible to everyone.Engineers andHackers found the potentials ofthis technology and explored itto the best oftheir creativity in the fields ofHealth and medicine, Exercise, Education, Music, e-commerce and much more. Similarly my project aims to assess the suitability for analysing deformation on thin surfaces,this projectinvolves designing a water tunnel made from transparent acrylic, which is used to analyse and track an object with the MicrosoftKinect sensor or a web camera. An algorithm is made through programming capable of detecting the object and tracking it. Analysing the tracking data,the deformation of anObject(rag) can be determined.",
         "programme": "BMED",
         "students": [
             {
@@ -1375,7 +1375,7 @@
     },
     {
         "area": "GPS GIS",
-        "description": "This project provides a detailed, clear business model for implementing a comfortable solution to the increasing problem that is wandering episodes among Alzheimer’s patients. This is a rapidly growing problem as our population ages. The proposed device, the Alzafind Wristband, will have GPRS connection, which it will use in conjunction with GPS capabilities to determine when an Alzheimer’s patient is leaving a pre-designated Geo-fence, or “safe zone”. The wristband will then alert the caregiver/relative of Alzheimer’s patients.",
+        "description": "This project provides a detailed, clear business model for implementing a comfortable solution to the increasing problem that is wandering episodes among Alzheimer's patients. This is a rapidly growing problem as our population ages. The proposed device, the Alzafind Wristband, will have GPRS connection, which it will use in conjunction with GPS capabilities to determine when an Alzheimer's patient is leaving a pre-designated Geo-fence, or 'safe zone'. The wristband will then alert the caregiver/relative of Alzheimer's patients.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -1393,7 +1393,7 @@
         ],
         "supervisor": "Dr. Stephen Blott",
         "technology": "SQL, PHP",
-        "title": "Alzafind Wristband – GPS Tracking for Alzheimer’s Patients"
+        "title": "Alzafind Wristband – GPS Tracking for Alzheimer's Patients"
     },
     {
         "area": "R&D",
@@ -1407,7 +1407,7 @@
         ],
         "supervisor": "Jeremiah Murphy",
         "technology": "Magnetic Levitation",
-        "title": "“Frictionless” Shearing Apparatus"
+        "title": "'Frictionless' Shearing Apparatus"
     },
     {
         "area": "Lean Manufacturing",
@@ -1453,7 +1453,7 @@
     },
     {
         "area": "Lean Manufacturing",
-        "description": "This project aimed to develop the ‘Heijunka Box’ scheduling tool that will level the production volume and mix of a mixed model automotive component assembly line using real historical data. The Heijunka box was transferred to an electronic version with the aim to simulate its effectiveness against current rule based production methods.",
+        "description": "This project aimed to develop the 'Heijunka Box' scheduling tool that will level the production volume and mix of a mixed model automotive component assembly line using real historical data. The Heijunka box was transferred to an electronic version with the aim to simulate its effectiveness against current rule based production methods.",
         "programme": "MWB",
         "students": [
             {
@@ -1495,7 +1495,7 @@
     },
     {
         "area": "Data Analytics, Educational, Mobile App, Natural Language Processing, Network Applications, Software Development, Speech Recognition",
-        "description": "Super Word-A-Day is an Android app that assists English speakers in broadening their vocabularies. It does this by retrieving content from a word-a-day website, presenting this to the user for memorising, testing them on what they’ve learnt using speech recognition, then analysing the results in various ways and scoring them according to a user-set difficulty level. Other features include user analysis using an Apache server, revision, and a word archive.",
+        "description": "Super Word-A-Day is an Android app that assists English speakers in broadening their vocabularies. It does this by retrieving content from a word-a-day website, presenting this to the user for memorising, testing them on what they've learnt using speech recognition, then analysing the results in various ways and scoring them according to a user-set difficulty level. Other features include user analysis using an Apache server, revision, and a word archive.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -1639,7 +1639,7 @@
     },
     {
         "area": "Data Analytics, Natural Language Processing",
-        "description": "Social media sites like Twitter have evolved to become a huge source of varied kinds of information. This large source of available data provides an opportunity to view and track people and groups reaction to events in real-time. This project will allow users to track specific topics/individuals and provide real time sentiment analysis and metrics of their tweets. This project is built in Java using ‘Apache Storm’, and uses Elasticsearch and Kibana, the front end was developed using AngularJS.",
+        "description": "Social media sites like Twitter have evolved to become a huge source of varied kinds of information. This large source of available data provides an opportunity to view and track people and groups reaction to events in real-time. This project will allow users to track specific topics/individuals and provide real time sentiment analysis and metrics of their tweets. This project is built in Java using 'Apache Storm', and uses Elasticsearch and Kibana, the front end was developed using AngularJS.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -1697,7 +1697,7 @@
                 "name": "Greg Collins"
             }
         ],
-        "supervisor": "Martin O’Connor",
+        "supervisor": "Martin O'Connor",
         "technology": "Java",
         "title": "EveryBar – An event driven, bar management web application for hotel bars"
     },
@@ -1801,12 +1801,12 @@
     },
     {
         "area": "Mobile App",
-        "description": "This is a mobile application, a Mobile Click in Brick Solution to shopping. The application allows users to “Scan” items in a supermarket. The application keeps a running total of all items scanned. The user can also use and store vouchers and receives shopping reminders. When the user is finished they go to the checkout, the cashier downloads the shopping information from the phone to the physical till. The app eliminates postal voucher expenses and expensive scanners.",
+        "description": "This is a mobile application, a Mobile Click in Brick Solution to shopping. The application allows users to 'Scan' items in a supermarket. The application keeps a running total of all items scanned. The user can also use and store vouchers and receives shopping reminders. When the user is finished they go to the checkout, the cashier downloads the shopping information from the phone to the physical till. The app eliminates postal voucher expenses and expensive scanners.",
         "programme": "Enterprise Computing",
         "students": [
             {
                 "email": "mark.osullivan72@mail.dcu.ie",
-                "name": "Mark O’Sullivan"
+                "name": "Mark O'Sullivan"
             },
             {
                 "email": "sean.white25@mail.dcu.ie",
@@ -1903,7 +1903,7 @@
     },
     {
         "area": "Embedded systems",
-        "description": "Information in the cockpit is represented almost entirely through the visual channel. Environments such as this have been shown to cause a form of sensory overload, which is a contributor to pilot error. An increasing amount of research is emerging which proves tactile communication to be highly beneficial for human-computer interactions in situations such as this. This project involves the design and implementation of a system which measures the ‘slip’ flight parameter, and conveys the data to the pilot through tactile feedback via the rudder pedals on a light aircraft.",
+        "description": "Information in the cockpit is represented almost entirely through the visual channel. Environments such as this have been shown to cause a form of sensory overload, which is a contributor to pilot error. An increasing amount of research is emerging which proves tactile communication to be highly beneficial for human-computer interactions in situations such as this. This project involves the design and implementation of a system which measures the 'slip' flight parameter, and conveys the data to the pilot through tactile feedback via the rudder pedals on a light aircraft.",
         "programme": "ME",
         "students": [
             {
@@ -1950,7 +1950,7 @@
         "students": [
             {
                 "email": "kevin.oneill27@mail.dcu.ie",
-                "name": "Kevin O’Neill"
+                "name": "Kevin O'Neill"
             }
         ],
         "supervisor": "Monica Ward",
@@ -1959,7 +1959,7 @@
     },
     {
         "area": "Software Development, Mobile App",
-        "description": "This project is an Android location based application which notifies the user of the close proximity of personal friends. The app gives the users control of how and when their location is shared with family and friends. The Android application connects to the back-end (written in Java) which is deployed on Google’s App Engine and stores user location using a NoSql database.",
+        "description": "This project is an Android location based application which notifies the user of the close proximity of personal friends. The app gives the users control of how and when their location is shared with family and friends. The Android application connects to the back-end (written in Java) which is deployed on Google's App Engine and stores user location using a NoSql database.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -2001,7 +2001,7 @@
     },
     {
         "area": "Metrology",
-        "description": "This project shows how a targeted laser beam can be used to detect sound vibrations in a remote object. We will show the design, build and test of a low-cost “laser microphone”, which is capable of converting vibrations induced by an audio source placed behind a glass surface into an audible audio signal This device can be used to locate abnormalities in mechanical machinery, dangerous cracked pipes, high voltage insulator failures, all from a safe distance.",
+        "description": "This project shows how a targeted laser beam can be used to detect sound vibrations in a remote object. We will show the design, build and test of a low-cost 'laser microphone', which is capable of converting vibrations induced by an audio source placed behind a glass surface into an audible audio signal This device can be used to locate abnormalities in mechanical machinery, dangerous cracked pipes, high voltage insulator failures, all from a safe distance.",
         "programme": "ME",
         "students": [
             {
@@ -2057,7 +2057,7 @@
     },
     {
         "area": "Web Application",
-        "description": "Chasing Returns is a financial risk management tool for independent or ‘retail’ traders. It uses advanced data analytics techniques to determine likely behaviour that will assist in better investment and trading decisions. Today’s trading execution platforms offer limited reporting or ability to analyse trades. As a result traders don’t understand their trading strengths and weaknesses, and typically don’t manage their money or their risk correctly. The Chasing Returns platform acts as their digital risk manager to support better trading decisions.",
+        "description": "Chasing Returns is a financial risk management tool for independent or 'retail' traders. It uses advanced data analytics techniques to determine likely behaviour that will assist in better investment and trading decisions. Today's trading execution platforms offer limited reporting or ability to analyse trades. As a result traders don't understand their trading strengths and weaknesses, and typically don't manage their money or their risk correctly. The Chasing Returns platform acts as their digital risk manager to support better trading decisions.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -2071,7 +2071,7 @@
     },
     {
         "area": "Image Analysis",
-        "description": "The aim of this project is to create a fully automated algorithm using Matlab and VSG toolboxes to successfully and most accurately classify images of cells into their respective classes. The algorithm incorporates reanalysis techniques for first round failed images. User feedback ensures the algorithm is not unfairly challenged. Graphical and analytical representation of algorithm’s results and accuracy are available post analysis.",
+        "description": "The aim of this project is to create a fully automated algorithm using Matlab and VSG toolboxes to successfully and most accurately classify images of cells into their respective classes. The algorithm incorporates reanalysis techniques for first round failed images. User feedback ensures the algorithm is not unfairly challenged. Graphical and analytical representation of algorithm's results and accuracy are available post analysis.",
         "programme": "BMED",
         "students": [
             {
@@ -2085,7 +2085,7 @@
     },
     {
         "area": "Web Application",
-        "description": "TickIt is a task management web application. The main idea of this system is to provide a web solution for users to create and manage ‘tickits’. Once signed in a user can create a tickit and view it on an interactive taskboard. Tickit status (e.g. done, doing etc) can be updated by dragging the tickits on the taskboard from one column to another. Technologies used in this project include NodeJS, Express and Passport, MongoDB, Mongoose, AngularJS, HTML5, CSS3, Bootstrap.",
+        "description": "TickIt is a task management web application. The main idea of this system is to provide a web solution for users to create and manage 'tickits'. Once signed in a user can create a tickit and view it on an interactive taskboard. Tickit status (e.g. done, doing etc) can be updated by dragging the tickits on the taskboard from one column to another. Technologies used in this project include NodeJS, Express and Passport, MongoDB, Mongoose, AngularJS, HTML5, CSS3, Bootstrap.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -2113,7 +2113,7 @@
     },
     {
         "area": "Mobile App",
-        "description": "The purpose of the project is to develop an android system that allows monitoring of grazing animals within a defined area and herd them using drones to ensure the area is grazed evenly. Each animal is fitted with a ‘slave’ device that acts as a GPS and motion sensor and relays data to a master device which processes data to issue commands to the drones to gently nudge the grazing animals around the fieldm with a visualisation to the user.",
+        "description": "The purpose of the project is to develop an android system that allows monitoring of grazing animals within a defined area and herd them using drones to ensure the area is grazed evenly. Each animal is fitted with a 'slave' device that acts as a GPS and motion sensor and relays data to a master device which processes data to issue commands to the drones to gently nudge the grazing animals around the fieldm with a visualisation to the user.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -2141,7 +2141,7 @@
     },
     {
         "area": "Data Analytics",
-        "description": "Wearable technology is considered by many to be the next step in personal computing. The recent advent of smart watches running Android OS has lead to computing becoming much more of an extension of the human body than ever before. The aim of this project is to first gather data based on the movements of the user’s watch then to apply data analysis techniques to that data in order to reach a meaningful conclusion.",
+        "description": "Wearable technology is considered by many to be the next step in personal computing. The recent advent of smart watches running Android OS has lead to computing becoming much more of an extension of the human body than ever before. The aim of this project is to first gather data based on the movements of the user's watch then to apply data analysis techniques to that data in order to reach a meaningful conclusion.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -2225,7 +2225,7 @@
     },
     {
         "area": "Cloud Computing, Document Processing, Optical Character Recognition, Web Application",
-        "description": "InShip, an application developed with a focus on UX, Design and Modern Web Technologies. Implemented with foundations in AngularJS, NodeJS, and many supporting libraries, InShip strives to provide a business solution which is both wonderfully user-friendly, yet functionally extremely powerful. InShip automates the accounts payable process of a small-medium size business by retrieving invoices/statements from a client’s email, applying OCR to extract information, routing documents for approval/review, then finally processing data through the client’s accounting software.",
+        "description": "InShip, an application developed with a focus on UX, Design and Modern Web Technologies. Implemented with foundations in AngularJS, NodeJS, and many supporting libraries, InShip strives to provide a business solution which is both wonderfully user-friendly, yet functionally extremely powerful. InShip automates the accounts payable process of a small-medium size business by retrieving invoices/statements from a client's email, applying OCR to extract information, routing documents for approval/review, then finally processing data through the client's accounting software.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -2253,7 +2253,7 @@
     },
     {
         "area": "Databases, Educational, Web Application",
-        "description": "The project, ‘Easy to learn’, is a German language e-learning teaching aid for upper-level primary school students. It focuses on assisting teachers in monitoring student progress. Exposure to a foreign language at a young age is ideal considering the broad capacity for development early on, as such providing the opportunity for a language base to be grasped prior to secondary school. Accordingly, this web application introduces simple concepts by lessons, whereby knowledge acquired is tested via various quizzes.",
+        "description": "The project, 'Easy to learn', is a German language e-learning teaching aid for upper-level primary school students. It focuses on assisting teachers in monitoring student progress. Exposure to a foreign language at a young age is ideal considering the broad capacity for development early on, as such providing the opportunity for a language base to be grasped prior to secondary school. Accordingly, this web application introduces simple concepts by lessons, whereby knowledge acquired is tested via various quizzes.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -2263,7 +2263,7 @@
         ],
         "supervisor": "Monica Ward",
         "technology": "HTML5, PHP, SQL",
-        "title": "‘Einfach erlernt’ – Easy to learn"
+        "title": "'Einfach erlernt' – Easy to learn"
     },
     {
         "area": "Sustainable Energy",

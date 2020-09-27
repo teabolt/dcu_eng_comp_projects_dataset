@@ -1,3 +1,3 @@
-jupyter notebook
+notebook
 pandas
 xlrd

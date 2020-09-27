@@ -20,7 +20,7 @@
     },
     {
         "area": "Artificial Intelligence, Simulation, Software Development",
-        "description": "This research project is a simulation that’s use can assist in fields like Social Sciences, Economics and Politics. Nobel Prize winner Gary Becker first suggested that there was a link between the levels of crime in a society and the level of inequality in that society. Agent based models are a powerful tool to study emergent behavior among individuals or “agents” in a closed system. The level of access to wealth, goods and services in a population, and its distribution is known to affect the level of happiness of its people. This simulation allows the user to create an environment with customisation levels for access to wealth and assess what types of behaviour emerge.",
+        "description": "This research project is a simulation that's use can assist in fields like Social Sciences, Economics and Politics. Nobel Prize winner Gary Becker first suggested that there was a link between the levels of crime in a society and the level of inequality in that society. Agent based models are a powerful tool to study emergent behavior among individuals or 'agents' in a closed system. The level of access to wealth, goods and services in a population, and its distribution is known to affect the level of happiness of its people. This simulation allows the user to create an environment with customisation levels for access to wealth and assess what types of behaviour emerge.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -82,7 +82,7 @@
         "students": [
             {
                 "email": "eoin.obrien82@mail.dcu.ie",
-                "name": "Eoin O’Brien"
+                "name": "Eoin O'Brien"
             },
             {
                 "email": "kieran.flynn36@mail.dcu.ie",
@@ -96,7 +96,7 @@
     },
     {
         "area": "Android, Databases, Energy Conservation, GPS/GIS, Instant Messaging, Mobile App, Software Development",
-        "description": "Clever Carpooling is an Android application which aims to facilitate and improve navigation and peer-to-peer ridesharing, utilising Google Maps API. Users may sign up as either a driver or a passenger, or both. Drivers may ‘post’ a route which they plan on undertaking, and passengers may request a lift if they are going anywhere on that same route within a given distance. Clever Carpooling has many applications to our society as a whole, including helping to attack the climate problem, and making student/commuter life easier, to name but a few.",
+        "description": "Clever Carpooling is an Android application which aims to facilitate and improve navigation and peer-to-peer ridesharing, utilising Google Maps API. Users may sign up as either a driver or a passenger, or both. Drivers may 'post' a route which they plan on undertaking, and passengers may request a lift if they are going anywhere on that same route within a given distance. Clever Carpooling has many applications to our society as a whole, including helping to attack the climate problem, and making student/commuter life easier, to name but a few.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -115,7 +115,7 @@
     },
     {
         "area": "Automation, Software Development, Web Application",
-        "description": "comet is an intuitive, powerful and comprehensive code metrics and analysis tool. A python-based parser built on the ANTLR parser generator produces insightful and valuable performance and structural metrics and models for submitted codebases. Requests are serviced by a Django REST API with abstract responses, designed to be useful in the context of comet’s sleek React.js web application, or as an integration with a deployment pipeline to provide a means of implementing metric-based checkpoints into the CI/CD cycle.",
+        "description": "comet is an intuitive, powerful and comprehensive code metrics and analysis tool. A python-based parser built on the ANTLR parser generator produces insightful and valuable performance and structural metrics and models for submitted codebases. Requests are serviced by a Django REST API with abstract responses, designed to be useful in the context of comet's sleek React.js web application, or as an integration with a deployment pipeline to provide a means of implementing metric-based checkpoints into the CI/CD cycle.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -187,7 +187,7 @@
     },
     {
         "area": "Cryptography, Databases, Educational, Filesystems, Security, Web Application",
-        "description": "xDrive provides a centralised, easy-to-use, first-party private cloud solution for staff and students in DCU. This is achieved by having a desktop client that automatically synchronises specified file systems to the cloud (in order to provide back-ups), while also allowing files to be accessed from any machine of the user’s choice. As well as this, xDrive comes equipped with two clients, one for the desktop (to synchronise/view files) and another on the web – where a user may view, add, and remove synchronised or added files of their choosing. Finally, in addition to previously mentioned features, users may also upload/download other files of choice from/to the cloud platform effortlessly, with the assurance that their data is stored securely and safely on the DCU’s xDrive system.",
+        "description": "xDrive provides a centralised, easy-to-use, first-party private cloud solution for staff and students in DCU. This is achieved by having a desktop client that automatically synchronises specified file systems to the cloud (in order to provide back-ups), while also allowing files to be accessed from any machine of the user's choice. As well as this, xDrive comes equipped with two clients, one for the desktop (to synchronise/view files) and another on the web – where a user may view, add, and remove synchronised or added files of their choosing. Finally, in addition to previously mentioned features, users may also upload/download other files of choice from/to the cloud platform effortlessly, with the assurance that their data is stored securely and safely on the DCU's xDrive system.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -226,7 +226,7 @@
         "students": [
             {
                 "email": "jack.oconnor88@mail.dcu.ie",
-                "name": "Jack O’Connor"
+                "name": "Jack O'Connor"
             },
             {
                 "email": "sean.jackson6@mail.dcu.ie",
@@ -259,7 +259,7 @@
     },
     {
         "area": "Content Management System, Databases, Educational, Filesystems",
-        "description": "The name Einstein is an application which resides Dublin City University’s. The purpose of this system is to provide students enrolled in various programming related modules a means of verifying if their code is written to a sufficient standard by passing test cases. The existing Einstein system is highly coupled within the architecture inside of Dublin City University. The goal of the project is to enable ease of deployment inside any institution while having all the necessary components tied within a single modular package. It also focuses on coordinator orchestration and enhancing students experience on command line and getting them more comfortable in a GUI’less environment by enabling file uploads to the system via the terminal.",
+        "description": "The name Einstein is an application which resides Dublin City University's. The purpose of this system is to provide students enrolled in various programming related modules a means of verifying if their code is written to a sufficient standard by passing test cases. The existing Einstein system is highly coupled within the architecture inside of Dublin City University. The goal of the project is to enable ease of deployment inside any institution while having all the necessary components tied within a single modular package. It also focuses on coordinator orchestration and enhancing students experience on command line and getting them more comfortable in a GUI'less environment by enabling file uploads to the system via the terminal.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -274,7 +274,7 @@
     },
     {
         "area": "Artificial Intelligence, Computer Vision, Image/Video Processing, Software Development, Speech Recognition, Web Application",
-        "description": "A web application that enables lecturers to monitor the emotion of an audience throughout a lecture via face detection, emotion classification and speech recognition to provide visual feedback in the form of graphs. Providing unbiased audience emotion information for the lecturer and enhancing the student’s learning were the main goals of this project. Audience images are collected using the lecturers mobile phone and are processed using REST services, making the application transferable to alternatives to university settings.",
+        "description": "A web application that enables lecturers to monitor the emotion of an audience throughout a lecture via face detection, emotion classification and speech recognition to provide visual feedback in the form of graphs. Providing unbiased audience emotion information for the lecturer and enhancing the student's learning were the main goals of this project. Audience images are collected using the lecturers mobile phone and are processed using REST services, making the application transferable to alternatives to university settings.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -293,12 +293,12 @@
     },
     {
         "area": "Data Analytics, Data Mining, Environmental Mapping, Web Application",
-        "description": "This project involved the creation of a web application that allows users to see a visual representation of changes in the Irish environment over time. It’s primary purpose is to translate large quantities of numerical / geographical data into a visual format and make well informed predictions about said data.",
+        "description": "This project involved the creation of a web application that allows users to see a visual representation of changes in the Irish environment over time. It's primary purpose is to translate large quantities of numerical / geographical data into a visual format and make well informed predictions about said data.",
         "programme": "Computer Applications",
         "students": [
             {
                 "email": "james.oboyle5@mail.dcu.ie",
-                "name": "James O’Boyle"
+                "name": "James O'Boyle"
             },
             {
                 "email": "simba.wekare2@mail.dcu.ie",
@@ -369,7 +369,7 @@
     },
     {
         "area": "Cloud Computing, Databases, Distributed Systems, Information Retrieval, Software Development",
-        "description": "GhostDB is a distributed, in-memory key-value data store that delivers single-digit microsecond performance at any scale. Only network latency can slow it down. GhostDB is designed to speed up dynamic data driven websites by storing data in RAM in order to reduce the number of times an external data source must be read. GhostDB can handle thousands of concurrent connections to each node in your cluster. Your clusters are live modifiable; if you need to scale up, GhostDB will adjust to your changes. GhostDB also provides multiple persistence options so you don’t lose your data if a node goes down. We also provide at-rest encryption for your snapshots and give you access to fine grained system and application level metrics so you have the best possible visibility over your cluster.",
+        "description": "GhostDB is a distributed, in-memory key-value data store that delivers single-digit microsecond performance at any scale. Only network latency can slow it down. GhostDB is designed to speed up dynamic data driven websites by storing data in RAM in order to reduce the number of times an external data source must be read. GhostDB can handle thousands of concurrent connections to each node in your cluster. Your clusters are live modifiable; if you need to scale up, GhostDB will adjust to your changes. GhostDB also provides multiple persistence options so you don't lose your data if a node goes down. We also provide at-rest encryption for your snapshots and give you access to fine grained system and application level metrics so you have the best possible visibility over your cluster.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -412,7 +412,7 @@
         "students": [
             {
                 "email": "cormac.oneill87@mail.dcu.ie",
-                "name": "Cormac O’Neill"
+                "name": "Cormac O'Neill"
             },
             {
                 "email": "dylan.sloyan2@mail.dcu.ie",
@@ -426,7 +426,7 @@
     },
     {
         "area": "Instant Messaging, Mobile App, SMS, Social Networking, Speech Recognition",
-        "description": "With the on-going dangers of today’s society, our safety has become more a priority than ever before. It’s inevitable that people make trips alone, be it short or long, but it wouldn’t be as daunting if provided with the reassurance that your guardians knew your location and that help was easily accessible. This is where the ICE application comes into play, transforming your mobile into its own personal safety device, providing that reassurance, extra comfort and protection.",
+        "description": "With the on-going dangers of today's society, our safety has become more a priority than ever before. It's inevitable that people make trips alone, be it short or long, but it wouldn't be as daunting if provided with the reassurance that your guardians knew your location and that help was easily accessible. This is where the ICE application comes into play, transforming your mobile into its own personal safety device, providing that reassurance, extra comfort and protection.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -435,7 +435,7 @@
             },
             {
                 "email": "hannah.oconnor26@mail.dcu.ie",
-                "name": "Hannah O’Connor"
+                "name": "Hannah O'Connor"
             }
         ],
         "supervisor": "renaat.verbruggen@dcu.ie",
@@ -479,7 +479,7 @@
     },
     {
         "area": "Databases, Multimedia, Web Application",
-        "description": "Juke is an online jukebox web app. Users queue up songs by searching them from a database and then vote on other songs in the queue to continue playing if they like it or skip the song if they dislike it. Juke is also a venue recommender. It looks at your past history of played songs as well as similar users’ tastes and recommends venues that tend to play similar genres of music.",
+        "description": "Juke is an online jukebox web app. Users queue up songs by searching them from a database and then vote on other songs in the queue to continue playing if they like it or skip the song if they dislike it. Juke is also a venue recommender. It looks at your past history of played songs as well as similar users' tastes and recommends venues that tend to play similar genres of music.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -488,7 +488,7 @@
             },
             {
                 "email": "jack.oreilly38@mail.dcu.ie",
-                "name": "Jack O’Reilly"
+                "name": "Jack O'Reilly"
             }
         ],
         "supervisor": "donal.fitzpatrick@dcu.ie",
@@ -507,7 +507,7 @@
             },
             {
                 "email": "michael.ohara29@mail.dcu.ie",
-                "name": "Michael O’Hara"
+                "name": "Michael O'Hara"
             }
         ],
         "supervisor": "gareth.jones@dcu.ie",
@@ -526,7 +526,7 @@
             },
             {
                 "email": "james.oneill54@mail.dcu.ie",
-                "name": "James O’Neill"
+                "name": "James O'Neill"
             }
         ],
         "supervisor": "alistair.sutherland@dcu.ie",
@@ -555,7 +555,7 @@
     },
     {
         "area": "Cloud Computing, Gaming, Information Retrieval",
-        "description": "Our project offers an API as a service to be used by game developers which aims to reduce the impact a bad network connection has on their game’s gameplay experience. Developers can use our API to send their game’s player movement data to the cloud where AWS Lambda is used to predict the movements players will make using machine learning. The predictions can then be pulled from the cloud (using our API) and can be applied to the developer’s game. Our project will include a demonstration of this. Cloud based gaming (e.g. Google Stadia, which requires a strong internet connection), AI player movement and erratic network conditions are examples of this project’s use cases.",
+        "description": "Our project offers an API as a service to be used by game developers which aims to reduce the impact a bad network connection has on their game's gameplay experience. Developers can use our API to send their game's player movement data to the cloud where AWS Lambda is used to predict the movements players will make using machine learning. The predictions can then be pulled from the cloud (using our API) and can be applied to the developer's game. Our project will include a demonstration of this. Cloud based gaming (e.g. Google Stadia, which requires a strong internet connection), AI player movement and erratic network conditions are examples of this project's use cases.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -593,12 +593,12 @@
     },
     {
         "area": "Computer Vision, Data Analytics, Data Mining, Databases, Image/Video Processing, Mobile App",
-        "description": "The project is aimed towards the average person, college student who is indecisive to a degree of what to prepare for dinner, lunch or breakfast. The procedure of using the application involves a user’s regular input to record home commodities, how this is done is the user will take a picture of their receipts of purchase goods.This data will then be parsed, stored and processed against recipes that the user can make. Recipes and Products are sourced from web scrapersT.",
+        "description": "The project is aimed towards the average person, college student who is indecisive to a degree of what to prepare for dinner, lunch or breakfast. The procedure of using the application involves a user's regular input to record home commodities, how this is done is the user will take a picture of their receipts of purchase goods.This data will then be parsed, stored and processed against recipes that the user can make. Recipes and Products are sourced from web scrapersT.",
         "programme": "Computer Applications",
         "students": [
             {
                 "email": "robin.oshea23@mail.dcu.ie",
-                "name": "Robin O’Shea"
+                "name": "Robin O'Shea"
             }
         ],
         "supervisor": "michael.scriney@dcu.ie",
@@ -623,7 +623,7 @@
     },
     {
         "area": "Automation, Control Systems, Data Analytics, Distributed Systems, Software Development, Web Application",
-        "description": "Odin is an distributed, programmable and observable job orchestration system which schedules, manages and executes user created tasks on Linux systems. Odin is designed to eliminate the DevOps definition of toil; work tied to running a service which is manual, repetitive and automatable. DevOps is practiced in the tools a team uses, and when traditional job schedulers fail they introduce a new level of toil in debugging. Odin is equally concerned with both the execution and the expected behavior of your job, which is described entirely by the user’s code. Observability into live values in code is achieved through the use of Odin’s language specific libraries. For teams, this means Odin can directly help diagnose where the problems are and get to the root cause of any interruptions.",
+        "description": "Odin is an distributed, programmable and observable job orchestration system which schedules, manages and executes user created tasks on Linux systems. Odin is designed to eliminate the DevOps definition of toil; work tied to running a service which is manual, repetitive and automatable. DevOps is practiced in the tools a team uses, and when traditional job schedulers fail they introduce a new level of toil in debugging. Odin is equally concerned with both the execution and the expected behavior of your job, which is described entirely by the user's code. Observability into live values in code is achieved through the use of Odin's language specific libraries. For teams, this means Odin can directly help diagnose where the problems are and get to the root cause of any interruptions.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -714,7 +714,7 @@
     },
     {
         "area": "Android, Computer Vision, Mobile App, Motion Analysis",
-        "description": "PocketTrainer is an Android application that employs the OpenPose library developed by CMU’s Perceptual Computing Lab, a computer vision library which identifies the location of key body points in image and video, to evaluate exercise form. A user records themselves performing an exercise, and the footage is analysed with the use of OpenPose. Once the key points on the body have been located, a set of mathematical heuristics such as the slope, angle and distance between points are evaluated to determine whether or not the exercise has been performed correctly. Pocket Trainer can evaluate four exercises: Bicep curl, pull up, squat and deadlift. The aim of the application is prevent injuries occurring from movements being performed incorrectly, and to improve overall exercise efficiency.",
+        "description": "PocketTrainer is an Android application that employs the OpenPose library developed by CMU's Perceptual Computing Lab, a computer vision library which identifies the location of key body points in image and video, to evaluate exercise form. A user records themselves performing an exercise, and the footage is analysed with the use of OpenPose. Once the key points on the body have been located, a set of mathematical heuristics such as the slope, angle and distance between points are evaluated to determine whether or not the exercise has been performed correctly. Pocket Trainer can evaluate four exercises: Bicep curl, pull up, squat and deadlift. The aim of the application is prevent injuries occurring from movements being performed incorrectly, and to improve overall exercise efficiency.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -742,7 +742,7 @@
             },
             {
                 "email": "darragh.oflaherty8@mail.dcu.ie",
-                "name": "Darragh O’Flaherty"
+                "name": "Darragh O'Flaherty"
             }
         ],
         "supervisor": "darragh.obrien@dcu.ie",
@@ -809,7 +809,7 @@
     },
     {
         "area": "Android, Automation, Mobile App",
-        "description": "SmartMusic Selector is an android application which uses data from a detector device to determine the most suitable track to play from the user’s music database. e.g. an android phone working in conjunction with a smartwatch that can takes in heart rate data in real-time. The app will return a suitable music track with criteria that fits the moment. Helps users achieve a Zen-like experience by syncing music to heart rate with harmony and customisable preference.",
+        "description": "SmartMusic Selector is an android application which uses data from a detector device to determine the most suitable track to play from the user's music database. e.g. an android phone working in conjunction with a smartwatch that can takes in heart rate data in real-time. The app will return a suitable music track with criteria that fits the moment. Helps users achieve a Zen-like experience by syncing music to heart rate with harmony and customisable preference.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -858,7 +858,7 @@
     },
     {
         "area": "Android, Computer Vision, Image/Video Processing, Mobile App, Social Networking, Software Development",
-        "description": "This project is an android application developed using Flutter to analyse a golfer’s swing. It uses human pose estimation to identify key poses of the swing and returns metrics to the user via the user profile  on the Android GUI. The computation is carried out using docker in a serverless container (Google Cloud Run).",
+        "description": "This project is an android application developed using Flutter to analyse a golfer's swing. It uses human pose estimation to identify key poses of the swing and returns metrics to the user via the user profile  on the Android GUI. The computation is carried out using docker in a serverless container (Google Cloud Run).",
         "programme": "Computer Applications",
         "students": [
             {
@@ -896,7 +896,7 @@
     },
     {
         "area": "Gaming",
-        "description": "This project is a Unity Based Texas Hold’em game that allows a person to play poker with friends or against an AI based computer to test their skills.",
+        "description": "This project is a Unity Based Texas Hold'em game that allows a person to play poker with friends or against an AI based computer to test their skills.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -910,7 +910,7 @@
         ],
         "supervisor": "david.sinclair@dcu.ie",
         "technology": ".NET, Unity",
-        "title": "Unity Based Texas Hold’em Game",
+        "title": "Unity Based Texas Hold'em Game",
         "video": "shorturl.at/aiAH7"
     },
     {
@@ -1002,7 +1002,7 @@
     },
     {
         "area": "Databases, Filesystems, Web Application",
-        "description": "This project aims to provide an alternative to other file storage cloud platforms. XDrive allows the user to host their own instance of the platform on their own server, meaning that their data will never leave own control if they don’t want it to. This project was developed with data sovereignty in mind, a concept that is slowly making its way to the forefront of consumers’ minds.",
+        "description": "This project aims to provide an alternative to other file storage cloud platforms. XDrive allows the user to host their own instance of the platform on their own server, meaning that their data will never leave own control if they don't want it to. This project was developed with data sovereignty in mind, a concept that is slowly making its way to the forefront of consumers' minds.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -1021,7 +1021,7 @@
     },
     {
         "area": "Mobile App",
-        "description": "Á la Mode is a multi-sided booking platform. The first side caters for independent service providers in the beauty industry who operate form their home or travel to houses. The second side is for the clients of these service providers. The first side of the application, ‘Á la Mode Beauty HQ’ will allow service providers to create accounts, set their location, display their services and availability, and manage their diary. The second side, ‘Á la mode’, will let clients create accounts so that they can search and book appointments automatically, leave reviews, and manage their appointments.",
+        "description": "Á la Mode is a multi-sided booking platform. The first side caters for independent service providers in the beauty industry who operate form their home or travel to houses. The second side is for the clients of these service providers. The first side of the application, 'Á la Mode Beauty HQ' will allow service providers to create accounts, set their location, display their services and availability, and manage their diary. The second side, 'Á la mode', will let clients create accounts so that they can search and book appointments automatically, leave reviews, and manage their appointments.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -1059,7 +1059,7 @@
     },
     {
         "area": "Databases, Mobile App, Web Application",
-        "description": "‘Ai1 Fitness’ aim is to create a sole platform for all your fitness needs. Currently, leading a healthy lifestyle and getting fit may not be very accessible to a lot of people. Ai1 Fitness will make ‘getting fit’ easy for anyone. From workout suggestions based on users requirements to nutritional advice Ai1 Fitness will house all your fitness needs in one place. This idea will greatly improve efficiency around leading a healthy lifestyle and make users much more knowledgeable about the topic.",
+        "description": "'Ai1 Fitness' aim is to create a sole platform for all your fitness needs. Currently, leading a healthy lifestyle and getting fit may not be very accessible to a lot of people. Ai1 Fitness will make 'getting fit' easy for anyone. From workout suggestions based on users requirements to nutritional advice Ai1 Fitness will house all your fitness needs in one place. This idea will greatly improve efficiency around leading a healthy lifestyle and make users much more knowledgeable about the topic.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -1093,7 +1093,7 @@
     },
     {
         "area": "Cloud Computing, Databases, Mobile App, Speech Recognition",
-        "description": "The general description of the project is to create a mobile application with audio recording abilities that will harness features of Google’s Cloud Speech-to-Text software to recognise and transcribe an audio source to a text file. Using this technology to provide the users with capabilities to extract, edit and locate various terms/sentences from an audio file. Using Google Cloud Services to provide a storage component for users.",
+        "description": "The general description of the project is to create a mobile application with audio recording abilities that will harness features of Google's Cloud Speech-to-Text software to recognise and transcribe an audio source to a text file. Using this technology to provide the users with capabilities to extract, edit and locate various terms/sentences from an audio file. Using Google Cloud Services to provide a storage component for users.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -1154,7 +1154,7 @@
     },
     {
         "area": "Automation, Security",
-        "description": "In the 10 seconds it takes you to read this, 750 records have been stolen from organisations due to cyber-attacks. Our project is a security testing tool for organisations to combat this. Our security framework carries out automated security testing on an organisation’s system producing an automated report upon its completion.",
+        "description": "In the 10 seconds it takes you to read this, 750 records have been stolen from organisations due to cyber-attacks. Our project is a security testing tool for organisations to combat this. Our security framework carries out automated security testing on an organisation's system producing an automated report upon its completion.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -1192,7 +1192,7 @@
     },
     {
         "area": "E-Commerce, Web Application",
-        "description": "Click to Brick offers a new customer experience that has yet to be done by any other retail company. It is an online, sustainable e-commerce clothing retailer with a central collection hub that contains dressing rooms. Customers can order products to the store, where they can go in and try on their goods in the changing rooms available. Any items they don’t want they can leave in store and receive a full refund.",
+        "description": "Click to Brick offers a new customer experience that has yet to be done by any other retail company. It is an online, sustainable e-commerce clothing retailer with a central collection hub that contains dressing rooms. Customers can order products to the store, where they can go in and try on their goods in the changing rooms available. Any items they don't want they can leave in store and receive a full refund.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -1211,7 +1211,7 @@
     },
     {
         "area": "Model View Controller, Statistical Analysis, Web Application",
-        "description": "ConfidentVote is a new, innovative way of conducting opinion polls. This project uses Implicit Association Tests (IATs) to determine participants’ feelings towards certain topics. IATs work by timing participants’ responses to categorising images and words. These times then determine if the participant feels stronger towards one category than another. IAT experiments were carried out on members of the public using PsychoPy and the results were correlated with results of quizzes on the topic of Irish peoples’ views of the UK.",
+        "description": "ConfidentVote is a new, innovative way of conducting opinion polls. This project uses Implicit Association Tests (IATs) to determine participants' feelings towards certain topics. IATs work by timing participants' responses to categorising images and words. These times then determine if the participant feels stronger towards one category than another. IAT experiments were carried out on members of the public using PsychoPy and the results were correlated with results of quizzes on the topic of Irish peoples' views of the UK.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -1230,7 +1230,7 @@
     },
     {
         "area": "Android, Image/Video Processing, Mobile App",
-        "description": "CyberArrive is a mobile application to be utilised by the Young and Inexperienced drivers of Ireland. The application utilises a user’s smartphone camera to record their journey, which will then be analysed and available to watch by the user and insurance company. Insurance Companies who work in partnership with CyberArrive will have the opportunity to view a driver’s journeys in order to resolve claims and also gain a more knowledgeable opinion on their customer’s ability while on the road! Programming Languages implemented within CyberArrive include HTML, CSS, PHP and JavaScript! These languages work together to provide an easy-to-use application suitable for all levels of technology know-how.",
+        "description": "CyberArrive is a mobile application to be utilised by the Young and Inexperienced drivers of Ireland. The application utilises a user's smartphone camera to record their journey, which will then be analysed and available to watch by the user and insurance company. Insurance Companies who work in partnership with CyberArrive will have the opportunity to view a driver's journeys in order to resolve claims and also gain a more knowledgeable opinion on their customer's ability while on the road! Programming Languages implemented within CyberArrive include HTML, CSS, PHP and JavaScript! These languages work together to provide an easy-to-use application suitable for all levels of technology know-how.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -1264,7 +1264,7 @@
     },
     {
         "area": "Android, Databases, GPS/GIS, Sensor Technology",
-        "description": "This project helps parents ensure their child’s safety by allowing them to request their location through the app.",
+        "description": "This project helps parents ensure their child's safety by allowing them to request their location through the app.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -1298,7 +1298,7 @@
     },
     {
         "area": "E-Commerce",
-        "description": "‘Fuisce’ is an eCommerce website that offers whiskey enthusiasts the chance to experience premium, locally crafted Irish whiskey from distilleries all across Ireland. Our aim is to deliver great tasting whiskey from across Ireland that people may not have had the opportunity to taste before. These bottles will be specially selected from the smaller distilleries that will not be widely available across supermarket shelves. The service will be delivered to each users doorstep.",
+        "description": "'Fuisce' is an eCommerce website that offers whiskey enthusiasts the chance to experience premium, locally crafted Irish whiskey from distilleries all across Ireland. Our aim is to deliver great tasting whiskey from across Ireland that people may not have had the opportunity to taste before. These bottles will be specially selected from the smaller distilleries that will not be widely available across supermarket shelves. The service will be delivered to each users doorstep.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -1336,7 +1336,7 @@
     },
     {
         "area": "Android, GPS/GIS, Mobile App",
-        "description": "Keep on Rollin’ is a mobile application with the aim of making life easier for road users by allowing these users to be able to mark potential hazards on the road (potholes, debris etc) this is able to alert other road users of any potential danger they may encounter, as well as allowing users to notify the local emergency services (for e.g livestock) that may need to be cleared.",
+        "description": "Keep on Rollin' is a mobile application with the aim of making life easier for road users by allowing these users to be able to mark potential hazards on the road (potholes, debris etc) this is able to alert other road users of any potential danger they may encounter, as well as allowing users to notify the local emergency services (for e.g livestock) that may need to be cleared.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -1350,17 +1350,17 @@
         ],
         "supervisor": "gareth.jones@dcu.ie",
         "technology": "CSS, HTML5, Python, React Native",
-        "title": "Keep on Rollin’",
+        "title": "Keep on Rollin'",
         "video": "shorturl.at/noDN1"
     },
     {
         "area": "Content Management System, Security, Web Application",
-        "description": "MaithMedia provides a platform for primary schools to upload and share multimedia content with pupils’ parents taken at school events during the year. At school events, such as a school play, only an appointed school representative is allowed to take photos and videos at the event. The school’s captured content is then uploaded onto MaithMedia where it is securely shared with pupils’ parents. This service supports tighter control over who can record at such events, making it a safer environment for school children.",
+        "description": "MaithMedia provides a platform for primary schools to upload and share multimedia content with pupils' parents taken at school events during the year. At school events, such as a school play, only an appointed school representative is allowed to take photos and videos at the event. The school's captured content is then uploaded onto MaithMedia where it is securely shared with pupils' parents. This service supports tighter control over who can record at such events, making it a safer environment for school children.",
         "programme": "Enterprise Computing",
         "students": [
             {
                 "email": "aine.oreilly73@mai.dcu.ie",
-                "name": "Aine O’Reilly"
+                "name": "Aine O'Reilly"
             },
             {
                 "email": "rebecca.owens5@mail.dcu.ie",
@@ -1412,7 +1412,7 @@
     },
     {
         "area": "E-Commerce",
-        "description": "A website was developed to allow user the purchase goods in bulk collectively. The purpose is to avoide high mark ups usually applied by generic retailer’s. Users make bulk purchases through the site and receive the percentage of the total order they paid for.",
+        "description": "A website was developed to allow user the purchase goods in bulk collectively. The purpose is to avoide high mark ups usually applied by generic retailer's. Users make bulk purchases through the site and receive the percentage of the total order they paid for.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -1440,7 +1440,7 @@
             },
             {
                 "email": "conor.odonovan9@mail.dcu.ie",
-                "name": "Conor O’Donovan"
+                "name": "Conor O'Donovan"
             }
         ],
         "supervisor": "cathal.gurrin@dcu.ie",
@@ -1450,7 +1450,7 @@
     },
     {
         "area": "Databases, Information Retrieval, Web Application",
-        "description": "This web application was developed in order to aid SMEs, to move away from the time consuming and money-wasting excel and paper-based time management systems. Payday is a cloud-based web application that allows easy access from any location or device. Although time management is the main function of Payday, it also provides other services such as holiday booking, end of month pay calculation, rostering and a to-do list. It’s simple and intuitive UI is suitable for non-tech savvy users.",
+        "description": "This web application was developed in order to aid SMEs, to move away from the time consuming and money-wasting excel and paper-based time management systems. Payday is a cloud-based web application that allows easy access from any location or device. Although time management is the main function of Payday, it also provides other services such as holiday booking, end of month pay calculation, rostering and a to-do list. It's simple and intuitive UI is suitable for non-tech savvy users.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -1521,12 +1521,12 @@
         ],
         "supervisor": "monica.ward@dcu.ie",
         "technology": "CSS, HTML5, Python, Django",
-        "title": "“Serv-Wishes” Final Year Project",
+        "title": "'Serv-Wishes' Final Year Project",
         "video": "shorturl.at/jpDFY"
     },
     {
         "area": "Data Analytics, Mobile App, Sensor Data",
-        "description": "Smart Instructor is a mobile application designed to help learners improve their driving. The application provides real-time feedback while they are driving along with a summary of each trip. This is done by analysis of telematics data which is generated by the sensors on the user’s device. The application was developed to help people tackle the biggest problem of acquiring a driver’s license, cost. Smart instructor also has a theory test feature which allows users to practice for the theory test.",
+        "description": "Smart Instructor is a mobile application designed to help learners improve their driving. The application provides real-time feedback while they are driving along with a summary of each trip. This is done by analysis of telematics data which is generated by the sensors on the user's device. The application was developed to help people tackle the biggest problem of acquiring a driver's license, cost. Smart instructor also has a theory test feature which allows users to practice for the theory test.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -1621,7 +1621,7 @@
     },
     {
         "area": "E-Commerce, GPS/GIS, Software Development, Web Application",
-        "description": "TakeTheTest aims to improve the way people learn to drive in Ireland. The first part of the application allows Driving Instructors to keep track of the Learner Driver’s driving skills during a lesson, by scoring their driving on different factors in real-time. The route travelled during the lesson is also tracked and all information is made available after the lesson to review. The second part of the application is a marketplace for finding the best driving instructor in your area, based on different factors such as price and customer ratings.",
+        "description": "TakeTheTest aims to improve the way people learn to drive in Ireland. The first part of the application allows Driving Instructors to keep track of the Learner Driver's driving skills during a lesson, by scoring their driving on different factors in real-time. The route travelled during the lesson is also tracked and all information is made available after the lesson to review. The second part of the application is a marketplace for finding the best driving instructor in your area, based on different factors such as price and customer ratings.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -1640,7 +1640,7 @@
     },
     {
         "area": "Databases, Information Retrieval, Model View Controller, Web Application",
-        "description": "TaskHive is a web application platform created for the gig economy. It provides an opportunity for one group of users, the Service Seekers, to outsource jobs they are not capable of doing themselves due to time constraints, lack of tools or skills. The platform is also available for another group of users, the Service Providers, who will be willing to complete these jobs for extra income. The platform will match both of these users together depending on the Seeker’s inputs to provide a quick and efficient service, as opposed to the long traditional method of finding a worker to complete your job.",
+        "description": "TaskHive is a web application platform created for the gig economy. It provides an opportunity for one group of users, the Service Seekers, to outsource jobs they are not capable of doing themselves due to time constraints, lack of tools or skills. The platform is also available for another group of users, the Service Providers, who will be willing to complete these jobs for extra income. The platform will match both of these users together depending on the Seeker's inputs to provide a quick and efficient service, as opposed to the long traditional method of finding a worker to complete your job.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -1788,7 +1788,7 @@
     },
     {
         "area": "Databases, Distributed Systems, Image/Video Processing, Social Networking, Software Development",
-        "description": "A federated social network for music lovers. Mobile, web, and 3rd party extensions publish what you’re currently listening to in real-time. Your listening history is available on your profile, and for the Fediverse to see. Notable features include: — Federated system; independent from large corporations and division of power — Easy deployment; good for smaller communities running their own node — Music recommendations and listening habit visualisations for users — Fediverse integration: a Mastodon user can follow their friend on funk.pub",
+        "description": "A federated social network for music lovers. Mobile, web, and 3rd party extensions publish what you're currently listening to in real-time. Your listening history is available on your profile, and for the Fediverse to see. Notable features include: — Federated system; independent from large corporations and division of power — Easy deployment; good for smaller communities running their own node — Music recommendations and listening habit visualisations for users — Fediverse integration: a Mastodon user can follow their friend on funk.pub",
         "programme": "Computational Problem Solving and Software Development",
         "students": [
             {
@@ -1815,7 +1815,7 @@
     },
     {
         "area": "Android, Cloud Computing, Content Management System, Databases, Filesystems, Information Retrieval, Mobile App, Multimedia, Network Applications, Social Networking, Software Development, Web Application",
-        "description": "Musicloud is a web based digital audio workstation (DAW) for producing and sharing music. Musicloud’s aim is to lower the barrier to entry into music production by eliminating the need to download large desktop software and making the UI simple and intuitive to newcomers. Alongside the DAW, Musicloud offers a social network experience with user profiles, a feed and song sharing, accessible through both the web and mobile application. This empowers artists to create, share and promote their music, all on one platform.",
+        "description": "Musicloud is a web based digital audio workstation (DAW) for producing and sharing music. Musicloud's aim is to lower the barrier to entry into music production by eliminating the need to download large desktop software and making the UI simple and intuitive to newcomers. Alongside the DAW, Musicloud offers a social network experience with user profiles, a feed and song sharing, accessible through both the web and mobile application. This empowers artists to create, share and promote their music, all on one platform.",
         "programme": "Computational Problem Solving and Software Development",
         "students": [
             {
@@ -1842,7 +1842,7 @@
     },
     {
         "area": "Android, GPS/GIS, Mobile App, Web Application, Traffic Simulators",
-        "description": "Turas: Intermodal Transit Planner Combining multiple cutting-edge routing algorithms (Transfer Patterns, Connection Scan Algorithm, RAPTOR) we present a cross-platform transit planner that allows users to potentially reduce their commute time by up to 50% by leveraging the use dublinbikes alongside the traditional public transport network. Turas also provides users with real-time road work information and public transport arrival information in an attempt to make their journey as smooth as possible. Turas’ routing API is in Golang, mobile apps written in Flutter, real-time information API written in Python, web application written in React.js and data storage done with Postgres.",
+        "description": "Turas: Intermodal Transit Planner Combining multiple cutting-edge routing algorithms (Transfer Patterns, Connection Scan Algorithm, RAPTOR) we present a cross-platform transit planner that allows users to potentially reduce their commute time by up to 50% by leveraging the use dublinbikes alongside the traditional public transport network. Turas also provides users with real-time road work information and public transport arrival information in an attempt to make their journey as smooth as possible. Turas' routing API is in Golang, mobile apps written in Flutter, real-time information API written in Python, web application written in React.js and data storage done with Postgres.",
         "programme": "Computational Problem Solving and Software Development",
         "students": [
             {
@@ -1885,7 +1885,7 @@
         "students": [
             {
                 "email": "michael.orourke35@mail.dcu.ie",
-                "name": "Michael O’Rourke"
+                "name": "Michael O'Rourke"
             }
         ],
         "supervisor": "john.geraghty@dcu.ie",
@@ -1895,7 +1895,7 @@
     },
     {
         "area": "Automotive Technology, Electric Generation, Energy Conservation, Renewable Energy Technology",
-        "description": "This project analyses Compressed Natural Gas Vehicles & their utilisation in an Irish carbon free Energy System. It investigates alternative energy production methods and technologies including Ireland’s potential for biogas production, hydrogen production, upgrading biogas, biogas injection into the national grid and carbon capture and storage. Also comparing different fuel types for transport and their affect on the environment.",
+        "description": "This project analyses Compressed Natural Gas Vehicles & their utilisation in an Irish carbon free Energy System. It investigates alternative energy production methods and technologies including Ireland's potential for biogas production, hydrogen production, upgrading biogas, biogas injection into the national grid and carbon capture and storage. Also comparing different fuel types for transport and their affect on the environment.",
         "programme": "Mechanical and Manufacturing Engineering",
         "students": [
             {
@@ -1905,7 +1905,7 @@
         ],
         "supervisor": "james.carton@dcu.ie",
         "technology": "Excel/VB",
-        "title": "Analysis of Ireland’s Natural Gas Vehicles & their Utilisation in a carbon free Energy System",
+        "title": "Analysis of Ireland's Natural Gas Vehicles & their Utilisation in a carbon free Energy System",
         "video": "shorturl.at/diEG3"
     },
     {
@@ -2060,7 +2060,7 @@
     },
     {
         "area": "Environmental Mapping",
-        "description": "Green Toolkit for the GAA is a function modelling project. The main objective of the project is to build a toolkit for GAA clubs nationwide to use to become more environmentally sustainable. The method used to design the toolkit is a function modelling method entitled IDEF0. This method graphically represents the toolkit user experience with the end user in mind, while making considerations for a given club’s limitations and resources. The models robust design ensures that the toolkit is applicable to GAA clubs regardless of the club’s background.",
+        "description": "Green Toolkit for the GAA is a function modelling project. The main objective of the project is to build a toolkit for GAA clubs nationwide to use to become more environmentally sustainable. The method used to design the toolkit is a function modelling method entitled IDEF0. This method graphically represents the toolkit user experience with the end user in mind, while making considerations for a given club's limitations and resources. The models robust design ensures that the toolkit is applicable to GAA clubs regardless of the club's background.",
         "programme": "Mechanical and Manufacturing Engineering",
         "students": [
             {
@@ -2390,7 +2390,7 @@
     },
     {
         "area": "Circuit Modeling, Device Design, Wireless Technology",
-        "description": "Very low frequency (VLF) radio waves covers the frequency range below about 30 MHz. The Earth’s ionosphere has been observed to have a strange and interesting effect on these VLF radio waves which do not occur to higher frequency radio waves. This project researches into some of these effects and builds a VLF Radio Observatory to act as a receiver system from which some of these effects can be observed and analysed.",
+        "description": "Very low frequency (VLF) radio waves covers the frequency range below about 30 MHz. The Earth's ionosphere has been observed to have a strange and interesting effect on these VLF radio waves which do not occur to higher frequency radio waves. This project researches into some of these effects and builds a VLF Radio Observatory to act as a receiver system from which some of these effects can be observed and analysed.",
         "programme": "Electronic and Computer Engineering",
         "students": [
             {
@@ -2560,7 +2560,7 @@
         "students": [
             {
                 "email": "eoin.oreilly47@mail.dcu.ie",
-                "name": "Eoin O’Reilly"
+                "name": "Eoin O'Reilly"
             }
         ],
         "supervisor": "paul.whelan@dcu.ie",
@@ -2690,7 +2690,7 @@
     },
     {
         "area": "3-D Modelling, Image/Video Processing, Software Development",
-        "description": "The novel technique of “B-Spline X-ray Diffraction imaging” is capable of non-destructive mapping of silicon semiconductor die lattice misorientations inside fully encapsulated packages. From this technique, a series of section x-ray topographic images are obtained and aligned along a plane to map out a full profile of the die warpage of the semiconductor die. The aim of this project is to develop a solution that can automate the process of constructing the die warpage map with the topographic images. This is achieved by using the Matlab application where a software is developed to process the images and construct a 3-D surface plot of the die warpage.",
+        "description": "The novel technique of 'B-Spline X-ray Diffraction imaging' is capable of non-destructive mapping of silicon semiconductor die lattice misorientations inside fully encapsulated packages. From this technique, a series of section x-ray topographic images are obtained and aligned along a plane to map out a full profile of the die warpage of the semiconductor die. The aim of this project is to develop a solution that can automate the process of constructing the die warpage map with the topographic images. This is achieved by using the Matlab application where a software is developed to process the images and construct a 3-D surface plot of the die warpage.",
         "programme": "Mechatronic Engineering",
         "students": [
             {
@@ -2765,7 +2765,7 @@
     },
     {
         "area": "3-D Modelling, Telecommunications, Wireless Technology",
-        "description": "This project examines to simulate and design a 3D printed horn antenna to operate within the X-band (8-12 GHz) of the radio frequency spectrum. The shape of the horn antenna is pyramidal. A simulation is developed using MATLAB, where the antenna’s gain and directivity are optimised. The designed antenna is then 3D printed and compared against a commercially available product. The antenna’s performance is also compared against the simulation results.",
+        "description": "This project examines to simulate and design a 3D printed horn antenna to operate within the X-band (8-12 GHz) of the radio frequency spectrum. The shape of the horn antenna is pyramidal. A simulation is developed using MATLAB, where the antenna's gain and directivity are optimised. The designed antenna is then 3D printed and compared against a commercially available product. The antenna's performance is also compared against the simulation results.",
         "programme": "Mechatronic Engineering",
         "students": [
             {
@@ -2795,7 +2795,7 @@
     },
     {
         "area": "Artificial Intelligence, Automation, Computer Vision, Internet of Things, Mechatronic Systems, RaspberryPi, Sensor Data, Sensor Technology, Web Application",
-        "description": "This project investigates a Cyber-Physical System for environmental control. It is focused on a horticultural environment. This system incorporates sensors, on board processors, and actuators to control a growing environment autonomously, while an interactive web-app allows users to manually adjust the actuators. Also, a deep learning model was trained to detect plant disease. The user is updated of the plant’s status daily. This is achieved using two Raspberry Pi single board computers. One wirelessly connects with an environment monitoring device and adjusts the actuators, the other deploys the plant disease detection with a camera module.",
+        "description": "This project investigates a Cyber-Physical System for environmental control. It is focused on a horticultural environment. This system incorporates sensors, on board processors, and actuators to control a growing environment autonomously, while an interactive web-app allows users to manually adjust the actuators. Also, a deep learning model was trained to detect plant disease. The user is updated of the plant's status daily. This is achieved using two Raspberry Pi single board computers. One wirelessly connects with an environment monitoring device and adjusts the actuators, the other deploys the plant disease detection with a camera module.",
         "programme": "Mechatronic Engineering",
         "students": [
             {
@@ -2815,7 +2815,7 @@
         "students": [
             {
                 "email": "cathal.ohara22@mail.dcu.ie",
-                "name": "Cathal O’Hara"
+                "name": "Cathal O'Hara"
             }
         ],
         "supervisor": "barry.mcmullin@dcu.ie",
@@ -2840,7 +2840,7 @@
     },
     {
         "area": "Computer Vision, Mechatronic Systems",
-        "description": "This project designs and builds a 3D vision sensor system to aid a forklift operator in positioning a forklift in front of a pallet. The Xbox 360 Kinect was used as the sensor. A program was developed which presents a graphically generated birds eye view of the scene with the pallet’s location clearly marked. This allows the operator to easily judge the alignment of the forklift with the pallet and make necessary adjustments if needed. The system was developed to be ultimately integrated into a fully autonomous vehicle.",
+        "description": "This project designs and builds a 3D vision sensor system to aid a forklift operator in positioning a forklift in front of a pallet. The Xbox 360 Kinect was used as the sensor. A program was developed which presents a graphically generated birds eye view of the scene with the pallet's location clearly marked. This allows the operator to easily judge the alignment of the forklift with the pallet and make necessary adjustments if needed. The system was developed to be ultimately integrated into a fully autonomous vehicle.",
         "programme": "Mechatronic Engineering",
         "students": [
             {
@@ -2890,7 +2890,7 @@
         "students": [
             {
                 "email": "jade.oconnor98@mail.dcu.ie",
-                "name": "Jade O’Connor"
+                "name": "Jade O'Connor"
             }
         ],
         "supervisor": "conor.mcardle@dcu.ie",
@@ -2915,7 +2915,7 @@
     },
     {
         "area": "Circuit Modeling, Energy Conservation, Mechatronic Systems, Renewable Energy Technology, Simulation",
-        "description": "Energy harvesters take unused energy from the environment and converts it to electrical energy. Energy harvesters can be used for applications requiring low levels of power, including biomedical devices and micro/nano sensors. This project examines an acoustic energy harvester. Acoustic energy harvesters use sound vibrations to produce power using piezoelectric materials. The energy harvester’s linear and nonlinear behaviour will be examined to enable accurate design of systems that employ them and maximise the energy produced.",
+        "description": "Energy harvesters take unused energy from the environment and converts it to electrical energy. Energy harvesters can be used for applications requiring low levels of power, including biomedical devices and micro/nano sensors. This project examines an acoustic energy harvester. Acoustic energy harvesters use sound vibrations to produce power using piezoelectric materials. The energy harvester's linear and nonlinear behaviour will be examined to enable accurate design of systems that employ them and maximise the energy produced.",
         "programme": "Mechatronic Engineering",
         "students": [
             {
@@ -2935,7 +2935,7 @@
         "students": [
             {
                 "email": "caroline.osullivan84@mail.dcu.ie",
-                "name": "Caroline O’Sullivan"
+                "name": "Caroline O'Sullivan"
             }
         ],
         "supervisor": "yan.delaure@dcu.ie",

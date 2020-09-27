@@ -1,7 +1,7 @@
     [
     {
         "area": "Model View Controller, Software Development, Web Application",
-        "description": "CryptoCert is a Blockchain-powered web application, which enables companies and other entities to provide clients with secure and verifiable certifications. An entity or Certificate Authority (CA) representative (rep) can interact with CryptoCert’s private blockchain either through the web application, or manually by setting up a node to listen in on the blockchain. CryptoCert also implements SAML authentication, so your company rep can verify themselves via your authentication portal.",
+        "description": "CryptoCert is a Blockchain-powered web application, which enables companies and other entities to provide clients with secure and verifiable certifications. An entity or Certificate Authority (CA) representative (rep) can interact with CryptoCert's private blockchain either through the web application, or manually by setting up a node to listen in on the blockchain. CryptoCert also implements SAML authentication, so your company rep can verify themselves via your authentication portal.",
         "programme": "Computer Applications",
         "students": [
         {
@@ -57,7 +57,7 @@
     },
     {
         "area": "Android, Database, Mobile App",
-        "description": "DigiStay is a mobile application designed to improve the overall hotel experience for both hotels and their guests. The app aims to reduce time at reception by digitalising the check-in process. The application generates a QR Code with the user’s data, which will be encrypted and will only be decrypted by the sister application.",
+        "description": "DigiStay is a mobile application designed to improve the overall hotel experience for both hotels and their guests. The app aims to reduce time at reception by digitalising the check-in process. The application generates a QR Code with the user's data, which will be encrypted and will only be decrypted by the sister application.",
         "programme": "Enterprise Computing",
         "students": [
         {
@@ -85,7 +85,7 @@
     },
     {
         "area": "Device Design, Educational, Arduino, Sensor Data, Software Development",
-        "description": "The aim of the project is to allow 1970’s communication technology work with a modern micro controller. Punch tape, an early form of data storage, is the communication medium and the tape reader is the piece of technology which had to be restored to working order. The system was built to output the punch tape message to an LCD screen. The project involves retrofitting design, C++ coding, SolidWorks modelling and extensive testing and analysis.",
+        "description": "The aim of the project is to allow 1970's communication technology work with a modern micro controller. Punch tape, an early form of data storage, is the communication medium and the tape reader is the piece of technology which had to be restored to working order. The system was built to output the punch tape message to an LCD screen. The project involves retrofitting design, C++ coding, SolidWorks modelling and extensive testing and analysis.",
         "programme": "Mechatronic Engineering",
         "students": [
         {
@@ -141,7 +141,7 @@
     },
     {
         "area": "Android, Arduino, GPS GIS, Mobile App",
-        "description": "This project is a bicycle navigation system which will allow cyclists to easily and safely tell the direction of their desired location. A small arduino powered LED display device located in the middle of the bicycle’shandle bars which indicates the correct direction. The device works wirelessly over bluetooth in conjunction with a mobile application for Android smartphones which reads gpx files to guide the user along their route.",
+        "description": "This project is a bicycle navigation system which will allow cyclists to easily and safely tell the direction of their desired location. A small arduino powered LED display device located in the middle of the bicycle'shandle bars which indicates the correct direction. The device works wirelessly over bluetooth in conjunction with a mobile application for Android smartphones which reads gpx files to guide the user along their route.",
         "programme": "Computer Applications",
         "students": [
         {
@@ -155,7 +155,7 @@
     },
     {
         "area": "Renewable Energy Technology, Optical Communications",
-        "description": "The reflectance of sunlight from the surface of a solar cell is a significant limiting factor in terms of overall efficiency. Existing anti-reflection coatings are expensive to produce and do not eliminate reflectance completely. A novel approach based on the anti reflection properties of a moth’s eye is examined to simulatea cost effective, low reflectance coating. A simulation is developed and then tested for solar cell application. The fabrication process of such a coating is also examined in detail.",
+        "description": "The reflectance of sunlight from the surface of a solar cell is a significant limiting factor in terms of overall efficiency. Existing anti-reflection coatings are expensive to produce and do not eliminate reflectance completely. A novel approach based on the anti reflection properties of a moth's eye is examined to simulatea cost effective, low reflectance coating. A simulation is developed and then tested for solar cell application. The fabrication process of such a coating is also examined in detail.",
         "programme": "Electronic and Computer Engineering",
         "students": [
         {
@@ -285,7 +285,7 @@
     },
     {
         "area": "Android, Cloud Computing, Cryptography, Databases, Distributed Systems, Information Retrieval, Mobile App, Security, Software Development, WebApplication",
-        "description": "This platform is designed to return the power of ones identity back to the user. This is a challenge, asproving a person’s identity is difficult in a world where private information is shared online daily. Based on a client-server architecture, the user will interact with an Android application, which stores digital, verified documents issued by bodies such as the Passport Authority. Verification of ones identity will use of a distributed, tamper-resistant solution called the Blockchain.",
+        "description": "This platform is designed to return the power of ones identity back to the user. This is a challenge, asproving a person's identity is difficult in a world where private information is shared online daily. Based on a client-server architecture, the user will interact with an Android application, which stores digital, verified documents issued by bodies such as the Passport Authority. Verification of ones identity will use of a distributed, tamper-resistant solution called the Blockchain.",
         "programme": "Computer Applications",
         "students": [
         {
@@ -327,7 +327,7 @@
     },
     {
         "area": "Mobile App",
-        "description": "Just Ask is a Question-Answer app, where users are Anonymous. The app is location based and also provides a feature of private chat which most similar apps don’t do. The AI detects any hate speech that may be used against other users for a more friendly sociable experience. The AI will also predict questions for the right users based on their interests. So now there is no need to keep them embarrassing questions to yourself, you can Just Ask it.",
+        "description": "Just Ask is a Question-Answer app, where users are Anonymous. The app is location based and also provides a feature of private chat which most similar apps don't do. The AI detects any hate speech that may be used against other users for a more friendly sociable experience. The AI will also predict questions for the right users based on their interests. So now there is no need to keep them embarrassing questions to yourself, you can Just Ask it.",
         "programme": "Computer Applications",
         "students": [
         {
@@ -341,7 +341,7 @@
     },
     {
         "area": "Educational, Internet of Things, RaspberryPi",
-        "description": "The intended outcome for this project was to research the applications of a Raspberry Pi based interface. The project will research and develop an early pre-prototype electronic touchscreen interface. Focusing on the RPi’s ability to be used as the Single Board Computer for the device. The intended end users for the interface are those who are not technologically inclined.",
+        "description": "The intended outcome for this project was to research the applications of a Raspberry Pi based interface. The project will research and develop an early pre-prototype electronic touchscreen interface. Focusing on the RPi's ability to be used as the Single Board Computer for the device. The intended end users for the interface are those who are not technologically inclined.",
         "programme": "Mechatronic Engineering",
         "students": [
         {
@@ -461,7 +461,7 @@
     },
     {
         "area": "Gaming",
-        "description": "The project is about helping primary school students to not only understand mathematics but to also master it with the help of our super hero who is travelling to his own home planet. While travelling home he’ll be facing number of obstacles which can only be solved by answering the Mathematical equations. With this game teacher will be able to monitor the progress in Mathematics for each primary school student with the help of the scores they are getting.",
+        "description": "The project is about helping primary school students to not only understand mathematics but to also master it with the help of our super hero who is travelling to his own home planet. While travelling home he'll be facing number of obstacles which can only be solved by answering the Mathematical equations. With this game teacher will be able to monitor the progress in Mathematics for each primary school student with the help of the scores they are getting.",
         "programme": "Computer Applications",
         "students": [
         {
@@ -553,7 +553,7 @@
     },
     {
         "area": "Image Video Processing, Embedded Systems, Computer Vision, Automation, Artificial Intelligence",
-        "description": "This project implements a person re-identification system using the Movidius Neural Compute Stick. The solution uses a convolutional neural network (CNN) for representation extraction on the device, and fast lookup techniques to determine if a person has been seen before by the system, and updates the system’s database accordingly. The project is developed using Python and the Caffe framework for the CNN.",
+        "description": "This project implements a person re-identification system using the Movidius Neural Compute Stick. The solution uses a convolutional neural network (CNN) for representation extraction on the device, and fast lookup techniques to determine if a person has been seen before by the system, and updates the system's database accordingly. The project is developed using Python and the Caffe framework for the CNN.",
         "programme": "Electronic and Computer Engineering",
         "students": [
         {
@@ -637,7 +637,7 @@
     },
     {
         "area": "E-Commerce, Web Application",
-        "description": "ICOHub is a unique and innovative investment platform that allows startup companies to launch an ICOtoken without any blockchain knowledge. ICOHub offers a package of services to investors allowing them invest in start-up company’s with ease.",
+        "description": "ICOHub is a unique and innovative investment platform that allows startup companies to launch an ICOtoken without any blockchain knowledge. ICOHub offers a package of services to investors allowing them invest in start-up company's with ease.",
         "programme": "Enterprise Computing",
         "students": [
         {
@@ -669,7 +669,7 @@
     },
     {
         "area": "Biomedical Engineering",
-        "description": "The primary objective of the project is measure the level of tack (stickiness) of pressure sensitive adhesives (PSA’s) that are used for wound care applications. The tack was measured using a probe tack test experimenting on surgical tapes and bandages that are found on the consumer market. The JKR theory was applied to the adhesive samples for comparison of the theoretical versus the actual results obtained. Finally, a standalone unit was designed to conduct the test on an individual’s forearm.",
+        "description": "The primary objective of the project is measure the level of tack (stickiness) of pressure sensitive adhesives (PSA's) that are used for wound care applications. The tack was measured using a probe tack test experimenting on surgical tapes and bandages that are found on the consumer market. The JKR theory was applied to the adhesive samples for comparison of the theoretical versus the actual results obtained. Finally, a standalone unit was designed to conduct the test on an individual's forearm.",
         "programme": "Biomedical Engineering",
         "students": [
         {
@@ -697,7 +697,7 @@
     },
     {
         "area": "Web Application, Social Networking, Databases, Data Mining, Model ViewController, Software Development",
-        "description": "This project is a social media bot to help people who have set up a community on Reddit prevent ‘brigades’ of users who belong to other communities from flooding the discussion. The bot collects a sample of comments from another community set by the user and trains a machine learning model, allowing it to detect and remove comments that are similar to the comments from the other community.",
+        "description": "This project is a social media bot to help people who have set up a community on Reddit prevent 'brigades' of users who belong to other communities from flooding the discussion. The bot collects a sample of comments from another community set by the user and trains a machine learning model, allowing it to detect and remove comments that are similar to the comments from the other community.",
         "programme": "Computer Applications",
         "students": [
         {
@@ -753,7 +753,7 @@
     },
     {
         "area": "Android, Mobile App",
-        "description": "This application was developed to help improve a GAA team’s game play by recording their statistics during the game to highlight their strengths and weaknesses on the pitch. The user logs into an account on the mobile application and then begins to record the information about the match (kick outs/ scores/ turnovers). This information will then be displayed to the user in graph form allowing them to see where the teams strength and weaknesses are on the pitch.",
+        "description": "This application was developed to help improve a GAA team's game play by recording their statistics during the game to highlight their strengths and weaknesses on the pitch. The user logs into an account on the mobile application and then begins to record the information about the match (kick outs/ scores/ turnovers). This information will then be displayed to the user in graph form allowing them to see where the teams strength and weaknesses are on the pitch.",
         "programme": "Computer Applications",
         "students": [
         {
@@ -767,7 +767,7 @@
     },
     {
         "area": "3-D Modelling, Biomedical Engineering, Finite Element Analysis",
-        "description": "This project will examine osteochondral defects on the medial femoral condyle and the stresses presentin the defect. It will investigate the effect the size of an osteochondral defect has on the stresses presentin a patient’s femur bone and use various scaffolds to repair the affected site. A 3D Finite Element Model composed of a standardised femur bone was created using ANSYS Workbench and SolidWorks to analyse and measure the various stresses and strains present in the distal femur.",
+        "description": "This project will examine osteochondral defects on the medial femoral condyle and the stresses presentin the defect. It will investigate the effect the size of an osteochondral defect has on the stresses presentin a patient's femur bone and use various scaffolds to repair the affected site. A 3D Finite Element Model composed of a standardised femur bone was created using ANSYS Workbench and SolidWorks to analyse and measure the various stresses and strains present in the distal femur.",
         "programme": "Biomedical Engineering ",
         "students": [
         {
@@ -781,7 +781,7 @@
     },
     {
         "area": "Internet of Things",
-        "description": "BluBox is an ‘Internet of Things’ device aimed at medium to large recreational boats. Our vision is to create a greater connection between boats and their owners by creating a remote hub for all important onboard information. Data will be sent via a mobile or web application for instant use, analysis and sending of critical notifications. The purpose of our project is to innovatively improve a owners boating experience.",
+        "description": "BluBox is an 'Internet of Things' device aimed at medium to large recreational boats. Our vision is to create a greater connection between boats and their owners by creating a remote hub for all important onboard information. Data will be sent via a mobile or web application for instant use, analysis and sending of critical notifications. The purpose of our project is to innovatively improve a owners boating experience.",
         "programme": "Enterprise Computing",
         "students": [
         {
@@ -827,7 +827,7 @@
     },
     {
         "area": "Additive Manufacturing, Arduino, Biomedical Engineering",
-        "description": "Plantar pressure distribution, which is the pressure felt between the sole of the foot and a support surface, can be an important form of analysis in determining an illness and detecting lower limb problems. The aim of this project is to design and develop a low-cost device capable of measuring an individual’s plantar pressure during normal activity such as walking. The finalised device was assessed and compared to other systems already present on the market.",
+        "description": "Plantar pressure distribution, which is the pressure felt between the sole of the foot and a support surface, can be an important form of analysis in determining an illness and detecting lower limb problems. The aim of this project is to design and develop a low-cost device capable of measuring an individual's plantar pressure during normal activity such as walking. The finalised device was assessed and compared to other systems already present on the market.",
         "programme": "Biomedical Engineering",
         "students": [
         {
@@ -841,7 +841,7 @@
     },
     {
         "area": "Mobile App, Android",
-        "description": "Spotted is a map based Android application. In summary, it allows users to make ‘posts’ which willbe displayed on a map and can be viewed by other users near their area as well as encompassing a communication system which allows users to contact each other. These ‘posts’ may contain images, textor both. Useful for users in communities as they can advertise unwanted items for sale, report antisocial behaviour, report missing pets, ask the towns people questions and so on.",
+        "description": "Spotted is a map based Android application. In summary, it allows users to make 'posts' which willbe displayed on a map and can be viewed by other users near their area as well as encompassing a communication system which allows users to contact each other. These 'posts' may contain images, textor both. Useful for users in communities as they can advertise unwanted items for sale, report antisocial behaviour, report missing pets, ask the towns people questions and so on.",
         "programme": "Computer Applications",
         "students": [
         {
@@ -993,7 +993,7 @@
     },
     {
         "area": "Automation",
-        "description": "This project aimed at upgrading the control systems which would enable communication from the PLC’sover the network, in order to make it in line with industry 4.0. Before this could happen problems had to be resolved with the station that was going to be worked on. These issues were resolved using Siemens Step 7 products and configuring the station efficiently.",
+        "description": "This project aimed at upgrading the control systems which would enable communication from the PLC'sover the network, in order to make it in line with industry 4.0. Before this could happen problems had to be resolved with the station that was going to be worked on. These issues were resolved using Siemens Step 7 products and configuring the station efficiently.",
         "programme": "Mechatronic Engineering",
         "students": [
         {
@@ -1021,7 +1021,7 @@
     },
     {
         "area": "Databases, Data Mining, Data Analytics",
-        "description": "The project tracks near real-time user behaviour to ensure the business understands their product performance - focusing on VSWare use case. It provides a general overview of user interactions with aVSWare application. This is achieved through a Big Data Platform and analytics which are computed ina distributed manner by Spark Cluster. User behaviour anomaly detection demonstrates the platform’s Machine Learning potential. General analytics are displayed on a web based UI.",
+        "description": "The project tracks near real-time user behaviour to ensure the business understands their product performance - focusing on VSWare use case. It provides a general overview of user interactions with aVSWare application. This is achieved through a Big Data Platform and analytics which are computed ina distributed manner by Spark Cluster. User behaviour anomaly detection demonstrates the platform's Machine Learning potential. General analytics are displayed on a web based UI.",
         "programme": "Computer Applications",
         "students": [
         {
@@ -1035,7 +1035,7 @@
     },
     {
         "area": "Advanced Material Engineering, Mechanical Design and Manufacture, AdditiveManufacturing",
-        "description": "In this project, reinforcing phases of elements of nano-scale SiC particles was integrated within Additive Manufacturing 316L stainless steel powder. Correlation of production parameters using Powder Metallurgy route, amount of the reinforcement phase and resultant part’s mechanical and microstructural properties were examined for process optimization. Nano-material characterization techniques for this project included SEM, advanced Optical Microscopy, and Particle Surface Analysis.",
+        "description": "In this project, reinforcing phases of elements of nano-scale SiC particles was integrated within Additive Manufacturing 316L stainless steel powder. Correlation of production parameters using Powder Metallurgy route, amount of the reinforcement phase and resultant part's mechanical and microstructural properties were examined for process optimization. Nano-material characterization techniques for this project included SEM, advanced Optical Microscopy, and Particle Surface Analysis.",
         "programme": "Mechanical and Manufacturing Engineering",
         "students": [
         {
@@ -1049,7 +1049,7 @@
     },
     {
         "area": "Mobile App, Educational, Android, Databases",
-        "description": "WhichPrep is an Android application designed to assist English learners to correctly use prepositions. The app offers sentences of varying length and content to the user with the prepositions missing. The user selects the correct preposition from a selection of possible answers. This process increases in difficulty as the user completes levels to allow the user to apply their learning. A MySQL database communicates with the main application to provide sentences suitable for the user’s current level.",
+        "description": "WhichPrep is an Android application designed to assist English learners to correctly use prepositions. The app offers sentences of varying length and content to the user with the prepositions missing. The user selects the correct preposition from a selection of possible answers. This process increases in difficulty as the user completes levels to allow the user to apply their learning. A MySQL database communicates with the main application to provide sentences suitable for the user's current level.",
         "programme": "Computer Applications",
         "students": [
         {
@@ -1077,7 +1077,7 @@
     },
     {
         "area": "Web Application, Databases",
-        "description": "Styled Solutions is a customer relationship management system that will help manage a salon’s relationship and interactions with their customers and potential customers. The website will manage bookings which will help salons to increase their profitability and work flow processes. Styled solutions acts as a platform for salons to advertise their business helping to generate new clients to maximise business potential.",
+        "description": "Styled Solutions is a customer relationship management system that will help manage a salon's relationship and interactions with their customers and potential customers. The website will manage bookings which will help salons to increase their profitability and work flow processes. Styled solutions acts as a platform for salons to advertise their business helping to generate new clients to maximise business potential.",
         "programme": "Enterprise Computing",
         "students": [
         {
@@ -1123,7 +1123,7 @@
     },
     {
         "area": "Android, Mobile App, Sensor Data",
-        "description": "Sensor fusion is the combination of sensor readings to enhance system performance. This project investigates the use of sensor fusion in relation to smartphone sensors and other data sources usable within infrastructures e.g. Wi-Fi, to develop an indoor navigational device that can provide a rough indication of position. Different localization strategies were developed throughout this project and were evaluated in terms of accuracy, performance and resource usage, by comparing the device’s outputs against ground truth data specified within this project.",
+        "description": "Sensor fusion is the combination of sensor readings to enhance system performance. This project investigates the use of sensor fusion in relation to smartphone sensors and other data sources usable within infrastructures e.g. Wi-Fi, to develop an indoor navigational device that can provide a rough indication of position. Different localization strategies were developed throughout this project and were evaluated in terms of accuracy, performance and resource usage, by comparing the device's outputs against ground truth data specified within this project.",
         "programme": "Electronic and Computer Engineering",
         "students": [
         {
@@ -1151,7 +1151,7 @@
     },
     {
         "area": "Android, Cloud Computing, Databases, Mobile App, Social Networking",
-        "description": "C-Me is a mobile application that helps groups of friends organise and locate each other during social events. This app allows friends to plan a social event by providing the event details and inviting their friends to the event. As the start-time of the event approaches the location of all invited guests will be shared amongst each other and everyone’s location will be visible on a virtual-map. Allowing users to track and locate their friend’s before and during social events.",
+        "description": "C-Me is a mobile application that helps groups of friends organise and locate each other during social events. This app allows friends to plan a social event by providing the event details and inviting their friends to the event. As the start-time of the event approaches the location of all invited guests will be shared amongst each other and everyone's location will be visible on a virtual-map. Allowing users to track and locate their friend's before and during social events.",
         "programme": "Enterprise Computing",
         "students": [
         {
@@ -1211,7 +1211,7 @@
     },
     {
         "area": "Internet of Things, Computer Vision, Embedded Systems",
-        "description": "The use of embedded machine vision for IoT applications is currently experiencing huge expansion. To facilitate this type of growth in the age of IoT and post Moore’s law era innovative solutions are needed that minimise power consumption and maximise computing resources. In this project a framework is developed for accelerating computationally expensive tasks in Hardware-Software Co-Design image processing pipelines using the Zynq APSoC and High Level Synthesis.",
+        "description": "The use of embedded machine vision for IoT applications is currently experiencing huge expansion. To facilitate this type of growth in the age of IoT and post Moore's law era innovative solutions are needed that minimise power consumption and maximise computing resources. In this project a framework is developed for accelerating computationally expensive tasks in Hardware-Software Co-Design image processing pipelines using the Zynq APSoC and High Level Synthesis.",
         "programme": "Electronic and Computer Engineering",
         "students": [
         {
@@ -1225,7 +1225,7 @@
     },
     {
         "area": "3-D Modelling, Additive Manufacturing, Biomedical Engineering, TissueEngineering",
-        "description": "This project investigates the validation of a pre-built FDM based 3D printer’s ability to produce accurate and precise calcium phosphate-based scaffolds and the modifications required for the printer to be repurposed in order to achieve this.",
+        "description": "This project investigates the validation of a pre-built FDM based 3D printer's ability to produce accurate and precise calcium phosphate-based scaffolds and the modifications required for the printer to be repurposed in order to achieve this.",
         "programme": "Mechatronic Engineering",
         "students": [
         {
@@ -1239,7 +1239,7 @@
     },
     {
         "area": "Web Applications",
-        "description": "TrackMyDiabetes is an application that was developed to assist people with diabetes with the monitoring of data crucial to their diabetic health management. It engages with the API of Fitbit and MyFitnessPal to automatically record and integrate the user’s exercise and diet data. The application also allows users to enter their blood glucose levels and then uses all of the information given to provide a recommended insulin bolus dosage to the user.",
+        "description": "TrackMyDiabetes is an application that was developed to assist people with diabetes with the monitoring of data crucial to their diabetic health management. It engages with the API of Fitbit and MyFitnessPal to automatically record and integrate the user's exercise and diet data. The application also allows users to enter their blood glucose levels and then uses all of the information given to provide a recommended insulin bolus dosage to the user.",
         "programme": "Enterprise Computing",
         "students": [
         {
@@ -1345,7 +1345,7 @@
     },
     {
         "area": "Android, Databases, Environmental Mapping, Instant Messaging, SoftwareDevelopment, Social Networking, Web Application",
-        "description": "The Android application Jobder is a virtual Employment system for all fields and skills of work. The system captures the user’s data including their GPS data, targeting instant events and real time posting’s. The data is filtered and displayed according to the user’s field of employment and user needs using google maps API. The application also includes instant messaging, geocoding and automatic grammar correction. There is a web application where users can view statistical information of different trends of employment.",
+        "description": "The Android application Jobder is a virtual Employment system for all fields and skills of work. The system captures the user's data including their GPS data, targeting instant events and real time posting's. The data is filtered and displayed according to the user's field of employment and user needs using google maps API. The application also includes instant messaging, geocoding and automatic grammar correction. There is a web application where users can view statistical information of different trends of employment.",
         "programme": "Computer Applications",
         "students": [
         {
@@ -1461,7 +1461,7 @@
     },
     {
         "area": "Web Applications",
-        "description": "SaorSchool is a teacher to parent communication application for primary school level that will create a more relevant mode of communication between both parties, while also aiming to reduce a schools waste on physical resources. The app will allow teachers to communicate details of, an upcoming school event, a child’s academic performance issue, create virtual permission slips for parents to sign and more. Parents can conveniently access this information along with the ability to virtually sign a permission slip.",
+        "description": "SaorSchool is a teacher to parent communication application for primary school level that will create a more relevant mode of communication between both parties, while also aiming to reduce a schools waste on physical resources. The app will allow teachers to communicate details of, an upcoming school event, a child's academic performance issue, create virtual permission slips for parents to sign and more. Parents can conveniently access this information along with the ability to virtually sign a permission slip.",
         "programme": "Enterprise Computing",
         "students": [
         {
@@ -1479,7 +1479,7 @@
     },
     {
         "area": "Data Analytics, Natural Language Processing, Statistical Analysis, Web Application",
-        "description": "The aim of this project is to contrast user behaviour on Reddit. It is a web application that performs statistical/sentiment analysis to portray a clearer insight into users’ behaviour and interactions within the different subforums of Reddit. It also outlines particular types of language which influences a comment to receive a higher score i.e. aggressive/assertive. There is an aspect of machine learning involved, incorporating predictive modelling to train a model to predict Subreddit/Score of a comment.",
+        "description": "The aim of this project is to contrast user behaviour on Reddit. It is a web application that performs statistical/sentiment analysis to portray a clearer insight into users' behaviour and interactions within the different subforums of Reddit. It also outlines particular types of language which influences a comment to receive a higher score i.e. aggressive/assertive. There is an aspect of machine learning involved, incorporating predictive modelling to train a model to predict Subreddit/Score of a comment.",
         "programme": "Computer Applications",
         "students": [
         {
@@ -1493,7 +1493,7 @@
     },
     {
         "area": "Web Applications",
-        "description": "The aim of this project is to give a user the ability to find the cheapest online market to buy a software key before selling it on another website at the highest possible price. By applying the basic arbitrage technique of “Buy low, sell high”, the user should be able to capitalise on the variations of product prices across multiple e commerce platforms.",
+        "description": "The aim of this project is to give a user the ability to find the cheapest online market to buy a software key before selling it on another website at the highest possible price. By applying the basic arbitrage technique of 'Buy low, sell high', the user should be able to capitalise on the variations of product prices across multiple e commerce platforms.",
         "programme": "Computer Applications",
         "students": [
         {
@@ -1577,7 +1577,7 @@
     },
     {
         "area": "Advanced Material Engineering, Automation, Data Analytics, Lean Manufacturing, Statistical Analysis",
-        "description": "The aim of this project was to analyse and improve the baseline production performances of three high speed assembly cells, located in Nypro Healthcare’s Bray site, currently experiencing significant volumes of mechanical faults and component blockages. Throughout the project, multiple lean and six sigma methodologies were utilised to effectively resolve these faults by developing and testing practical and efficient improvement solutions. Metrology analysis of assembly components and evaluation of injection moulding process conditions played a significant role in developing these solutions.",
+        "description": "The aim of this project was to analyse and improve the baseline production performances of three high speed assembly cells, located in Nypro Healthcare's Bray site, currently experiencing significant volumes of mechanical faults and component blockages. Throughout the project, multiple lean and six sigma methodologies were utilised to effectively resolve these faults by developing and testing practical and efficient improvement solutions. Metrology analysis of assembly components and evaluation of injection moulding process conditions played a significant role in developing these solutions.",
         "programme": "Mechanical and Manufacturing Engineering",
         "students": [
         {
@@ -1619,7 +1619,7 @@
     },
     {
         "area": "Mobile App, Android",
-        "description": "Simpli-Fi is a mobile application that aims to give parents more control over their children’s Wi-Fi access & app usage. Using the Simpli-Fi mobile app, parents can easily disable Wi-Fi access on their child’s device for any time period they choose. Parents can also block access to specific apps on the child’s smart device and even view the current location of their child. Simpli-Fi also brings a modern disciplinary technique to parents in a family household.",
+        "description": "Simpli-Fi is a mobile application that aims to give parents more control over their children's Wi-Fi access & app usage. Using the Simpli-Fi mobile app, parents can easily disable Wi-Fi access on their child's device for any time period they choose. Parents can also block access to specific apps on the child's smart device and even view the current location of their child. Simpli-Fi also brings a modern disciplinary technique to parents in a family household.",
         "programme": "Enterprise Computing",
         "students": [
         {
@@ -1659,7 +1659,7 @@
     },
     {
         "area": "Electric Generation, Energy Conservation, Renewable Energy Technology",
-        "description": "Wind energy is not as great as you think it is! Let’s make hydrogen. Hybrid Turbine Electrolyser is a project that critically examines, evaluates and highlights the problems associated with wind power for electricity generation, especially in Ireland. The identified inefficiencies are used to generate improvements by using wasted energy and converting it to storable hydrogen. This project includes the study of existing wind to hydrogen hybrid (power-to-gas) systems, and proposes a new energy system.",
+        "description": "Wind energy is not as great as you think it is! Let's make hydrogen. Hybrid Turbine Electrolyser is a project that critically examines, evaluates and highlights the problems associated with wind power for electricity generation, especially in Ireland. The identified inefficiencies are used to generate improvements by using wasted energy and converting it to storable hydrogen. This project includes the study of existing wind to hydrogen hybrid (power-to-gas) systems, and proposes a new energy system.",
         "programme": "Mechanical and Manufacturing Engineering",
         "students": [
         {
@@ -1729,7 +1729,7 @@
     },
     {
         "area": "Automotive Technology, BeagleBone, Embedded Systems, Mechatronic Systems",
-        "description": "The aims of the project are to investigate the Controller Area Network (CAN) Bus communication protocol, to design a platform to test this communication, and to develop a user-friendly messaging interface which“translates” the CAN communication using Matlab. This project demonstrates these aims, using an Analog Discovery signal generator, a Waveshare CAN module and a Beagle Bone Black embedded system. The communication is generated through the socketCAN open source driver within the Linux kernel, using iproute2 and can-utils utilities.",
+        "description": "The aims of the project are to investigate the Controller Area Network (CAN) Bus communication protocol, to design a platform to test this communication, and to develop a user-friendly messaging interface which'translates' the CAN communication using Matlab. This project demonstrates these aims, using an Analog Discovery signal generator, a Waveshare CAN module and a Beagle Bone Black embedded system. The communication is generated through the socketCAN open source driver within the Linux kernel, using iproute2 and can-utils utilities.",
         "programme": "Mechatronic Engineering",
         "students": [
         {
@@ -1757,7 +1757,7 @@
     },
     {
         "area": "Web Application",
-        "description": "This project is aimed to allow “Employers” to advertise jobs they need completed, whether it be painting or cleaning a house, and local “Employees” to apply for and complete these jobs for pay. The project aims to give people who are short on time a chance to outsource tasks, and a chance for people, unemployed or not, to earn extra income. This application will be built using the MEAN stack.",
+        "description": "This project is aimed to allow 'Employers' to advertise jobs they need completed, whether it be painting or cleaning a house, and local 'Employees' to apply for and complete these jobs for pay. The project aims to give people who are short on time a chance to outsource tasks, and a chance for people, unemployed or not, to earn extra income. This application will be built using the MEAN stack.",
         "programme": "Computer Applications",
         "students": [
         {
@@ -1817,7 +1817,7 @@
     },
     {
         "area": "Computer Vision, Device Design, Gaming, Image Video Processing, OpticalCharacter Recognition, Software Development, 3-D Modelling, Circuit Modeling",
-        "description": "This project entails the research and development of an Opto-Electronic shooting rig. The rig consists of a pistol which, when triggered emits a ray of infrared light towards a camera. The camera registers the light with which then C++ coding language along with OpenCV libraries are used to calibrate the pistol relative to the fixed position of the camera. A game is then developed using the calibrated data, after which the user’s shooting skills can be evaluated.",
+        "description": "This project entails the research and development of an Opto-Electronic shooting rig. The rig consists of a pistol which, when triggered emits a ray of infrared light towards a camera. The camera registers the light with which then C++ coding language along with OpenCV libraries are used to calibrate the pistol relative to the fixed position of the camera. A game is then developed using the calibrated data, after which the user's shooting skills can be evaluated.",
         "programme": "Mechatronic Engineering",
         "students": [
         {
@@ -1945,7 +1945,7 @@
     },
     {
         "area": "Mechatronic Systems, Robotics, Simulation, Virtual Reality",
-        "description": "This project contrasts the use of the Virtual Robot Experimentation Platform’s (V-Rep’s) native path planning calculation module against the use of an external API – the Open Motion Planning Library (OMPL) – and its integration through embedded scripts. The meticulous set up of the V-Rep environment was analysed. Rigorous testing was performed on the use of both methods for their ability to produce accurate and repeatable shortest path solutions from a start to target location in a specially designed test map.",
+        "description": "This project contrasts the use of the Virtual Robot Experimentation Platform's (V-Rep's) native path planning calculation module against the use of an external API – the Open Motion Planning Library (OMPL) – and its integration through embedded scripts. The meticulous set up of the V-Rep environment was analysed. Rigorous testing was performed on the use of both methods for their ability to produce accurate and repeatable shortest path solutions from a start to target location in a specially designed test map.",
         "programme": "Mechatronic Engineering",
         "students": [
         {
@@ -1959,7 +1959,7 @@
     },
     {
         "area": "Artificial Intelligence, Software Development, Databases",
-        "description": "DCU Damo is a chat bot that answers DCU related queries. The bot specializes in queries related to Timetable information and Lecturer information. DCU Damo is accessed through it’s Facebook page where it can be privately messaged with a query. The query is pulled from Facebook using node.js and is broken down by the bot. A java program was written to take the broken down query and format an accurate response for the user which is pushed back to Facebook.",
+        "description": "DCU Damo is a chat bot that answers DCU related queries. The bot specializes in queries related to Timetable information and Lecturer information. DCU Damo is accessed through it's Facebook page where it can be privately messaged with a query. The query is pulled from Facebook using node.js and is broken down by the bot. A java program was written to take the broken down query and format an accurate response for the user which is pushed back to Facebook.",
         "programme": "Computer Applications",
         "students": [
         {
@@ -2001,7 +2001,7 @@
     },
     {
         "area": "E-Commerce, Databases, Data Analytics, Mobile App",
-        "description": "Swiped is an online virtual shopping centre, that provides fast, easy browsing and shopping by using swipe technology to browse items. Through machine learning it documents customer behaviour to more accurately recommend items to the customer and provide real time data analytics to the retailer based on their customer’s likes, dislikes and spending patterns. Swiped provides benefits to both customer and retailer which sets it apart from competing apps.",
+        "description": "Swiped is an online virtual shopping centre, that provides fast, easy browsing and shopping by using swipe technology to browse items. Through machine learning it documents customer behaviour to more accurately recommend items to the customer and provide real time data analytics to the retailer based on their customer's likes, dislikes and spending patterns. Swiped provides benefits to both customer and retailer which sets it apart from competing apps.",
         "programme": "Enterprise Computing",
         "students": [
         {
@@ -2033,7 +2033,7 @@
     },
     {
         "area": "Software Development, Mobile App, GPS GIS, Databases, Cloud Computing, Android",
-        "description": "Never-Lost allows users to share their location with friends and family. This application can be used when the user needs directions or wants their location to be monitored, for example if the user is on their way home at night. Users can create geofences, which are triggered on exit, when they expect to stay within an area for some time. Travel patterns can be recorded to predict the user’s future trips as an aid for users living with Dementia.",
+        "description": "Never-Lost allows users to share their location with friends and family. This application can be used when the user needs directions or wants their location to be monitored, for example if the user is on their way home at night. Users can create geofences, which are triggered on exit, when they expect to stay within an area for some time. Travel patterns can be recorded to predict the user's future trips as an aid for users living with Dementia.",
         "programme": "Computer Applications",
         "students": [
         {
@@ -2121,7 +2121,7 @@
     },
     {
         "area": "Augmented Reality, Educational, Mobile App, Web Application",
-        "description": "Maths AR is an augmented reality application that will enhance children’s ability to understand concrete materials and represent them as pictorial objects. The maths tasks are based on the mathematics curriculum that teachers in Irish primary schools teach. Through the use of Apple’s new Augmented Reality technology, lessons & challenges will be created to help children better understand the topic usingan Apple iPad. A web portal is created to help teachers track children’s performance on individual topics.",
+        "description": "Maths AR is an augmented reality application that will enhance children's ability to understand concrete materials and represent them as pictorial objects. The maths tasks are based on the mathematics curriculum that teachers in Irish primary schools teach. Through the use of Apple's new Augmented Reality technology, lessons & challenges will be created to help children better understand the topic usingan Apple iPad. A web portal is created to help teachers track children's performance on individual topics.",
         "programme": "Computer Applications",
         "students": [
         {
@@ -2149,7 +2149,7 @@
     },
     {
         "area": "Android, Mobile App",
-        "description": "This project allows users to automate or script certain task. The project has an API that is accessible through the JavaScript. This API allows users to manipulate their device. This project waits for system events, such as the device’s battery is low on power, and executes any script associated with that event.",
+        "description": "This project allows users to automate or script certain task. The project has an API that is accessible through the JavaScript. This API allows users to manipulate their device. This project waits for system events, such as the device's battery is low on power, and executes any script associated with that event.",
         "programme": "Computer Applications",
         "students": [
         {
@@ -2163,7 +2163,7 @@
     },
     {
         "area": "Web Application, Security, E-Commerce",
-        "description": "‘Blocktract’ is a platform that facilitates the instant transfer of funds in settling travel insurance contracts between two independent parties in a secure and efficient manner - focusing solely on flight delays and cancellations. The service is provided to insurance companies via an API implementation which operates on the ‘Ethereum Blockchain’ network and makes use of smart contracts to trigger payment events. These smart contracts are triggered using provided flight status API’s from specified airlines.",
+        "description": "'Blocktract' is a platform that facilitates the instant transfer of funds in settling travel insurance contracts between two independent parties in a secure and efficient manner - focusing solely on flight delays and cancellations. The service is provided to insurance companies via an API implementation which operates on the 'Ethereum Blockchain' network and makes use of smart contracts to trigger payment events. These smart contracts are triggered using provided flight status API's from specified airlines.",
         "programme": "Enterprise Computing",
         "students": [
         {
@@ -2284,7 +2284,7 @@
         "students": [
         {
             "email": "niall.oshaughnessy4@mail.dcu.ie",
-            "name": "Niall O’Shaughnessy"
+            "name": "Niall O'Shaughnessy"
         }
         ],
         "supervisor": "Nicholas.Dunne@dcu.ie",
@@ -2367,7 +2367,7 @@
     },
     {
         "area": "Android, Artificial Intelligence, Computer Vision, Information Retrieval, Databases, Image Video Processing, Mechatronic Systems, Mobile App, Sensor Data, SoftwareDevelopment, Internet of Things",
-        "description": "This project uses Google’s TensorFlow machine learning library, trained with a mobile-optimised image classifier, to detect the user’s food or ingredient. Once classified, the application retrieves the nutritional information of the food, from either local data or a RESTful database. Finally, the connected Bluetooth kitchen scale records the weight and sends this to the application for calculations. The application successfully simplifies the task of logging meals and reduces the time and effort required in current meal logging applications.",
+        "description": "This project uses Google's TensorFlow machine learning library, trained with a mobile-optimised image classifier, to detect the user's food or ingredient. Once classified, the application retrieves the nutritional information of the food, from either local data or a RESTful database. Finally, the connected Bluetooth kitchen scale records the weight and sends this to the application for calculations. The application successfully simplifies the task of logging meals and reduces the time and effort required in current meal logging applications.",
         "programme": "Mechatronic Engineering",
         "students": [
         {
@@ -2609,7 +2609,7 @@
     },
     {
         "area": "Biomedical Engineering, Device Design",
-        "description": "This project is a development of the pyloric project: an implant for facilitating weight loss, for the company Trinitas. The project investigates the different variations of needle tips for penetration into stomach tissue. The project aims to find the ‘ideal’ needle tip for this process. The ‘ideal’ needle tip produces the least reaction force during insertion, and results in minimal deflection of the stomach tissue.",
+        "description": "This project is a development of the pyloric project: an implant for facilitating weight loss, for the company Trinitas. The project investigates the different variations of needle tips for penetration into stomach tissue. The project aims to find the 'ideal' needle tip for this process. The 'ideal' needle tip produces the least reaction force during insertion, and results in minimal deflection of the stomach tissue.",
         "programme": "Biomedical Engineering",
         "students": [
         {
@@ -2781,7 +2781,7 @@
     },
     {
         "area": "Artificial Intelligence",
-        "description": "‘MozAIrt’ tackles the challenges of AI in art by attempting to compose music. It utilises novel methods of data representation to turn a collection of music into a dataset to train a neural network. Riding the wave of neural networks’ renewed prominence in AI, ‘MozAIrt’ utilises the ‘Long Short-TermMemory’ model to retain information during its writing process, allowing it to “remember” features throughout the output. This results in a song that has consistent and coherent themes and patterns throughout.",
+        "description": "'MozAIrt' tackles the challenges of AI in art by attempting to compose music. It utilises novel methods of data representation to turn a collection of music into a dataset to train a neural network. Riding the wave of neural networks' renewed prominence in AI, 'MozAIrt' utilises the 'Long Short-TermMemory' model to retain information during its writing process, allowing it to 'remember' features throughout the output. This results in a song that has consistent and coherent themes and patterns throughout.",
         "programme": "Computer Applications",
         "students": [
         {
@@ -2791,11 +2791,11 @@
         ],
         "supervisor": "Suzanne.Little@dcu.ie",
         "technology": "Python",
-        "title": "‘MozAIrt - Music Learning Neural Network’"
+        "title": "'MozAIrt - Music Learning Neural Network'"
     },
     {
         "area": "Arduino, Control Systems, Mechatronic Systems, Sensor Data, Simulation",
-        "description": "Rheometers are used to measure the dynamic mechanical behaviour of liquids and soft solids. Values obtained are highly sensitive to temperature. Therefore measurements are conducted under carefully controlled conditions. The Peltier’s thermoelectric effect is used to provide cooling or heating as required in a squeeze film rheometer. An arduino uno and a h-bridge circuit are used to regulate power to the heat pump in response to a signal from a thermistor placed in close proximity to the sample under test.",
+        "description": "Rheometers are used to measure the dynamic mechanical behaviour of liquids and soft solids. Values obtained are highly sensitive to temperature. Therefore measurements are conducted under carefully controlled conditions. The Peltier's thermoelectric effect is used to provide cooling or heating as required in a squeeze film rheometer. An arduino uno and a h-bridge circuit are used to regulate power to the heat pump in response to a signal from a thermistor placed in close proximity to the sample under test.",
         "programme": "Mechatronic Engineering",
         "students": [
         {
@@ -2837,7 +2837,7 @@
     },
     {
         "area": "Software Development",
-        "description": "My project is for the CoderDojo Foundation. This project migrates CoderDojo’s Zen platform to become an OAuth provider allowing third-party applications access to CoderDojo’s API on behalf of a registered CoderDojo user.",
+        "description": "My project is for the CoderDojo Foundation. This project migrates CoderDojo's Zen platform to become an OAuth provider allowing third-party applications access to CoderDojo's API on behalf of a registered CoderDojo user.",
         "programme": "Computer Applications",
         "students": [
         {
@@ -2869,7 +2869,7 @@
     },
     {
         "area": "Wireless Technology, Mobile App, Statistical Analysis, Image Video Processing, Data Mining, Data Analytics, Android, Wearable Technology",
-        "description": "The project has explored electroencephalographic (EEG) signals in alpha, beta, theta, delta and gammawave bands to determine levels of memorability so that it’s users can redress forgetfulness. An Android application connects to a Muse brain-sensing and analyses states of memorability by presenting a user with a video. Moments of lost concentration which lead to forgetfulness are captured to provide the user with a reinforcement tool in the form of a personalized recap of the video.",
+        "description": "The project has explored electroencephalographic (EEG) signals in alpha, beta, theta, delta and gammawave bands to determine levels of memorability so that it's users can redress forgetfulness. An Android application connects to a Muse brain-sensing and analyses states of memorability by presenting a user with a video. Moments of lost concentration which lead to forgetfulness are captured to provide the user with a reinforcement tool in the form of a personalized recap of the video.",
         "programme": "Computer Applications",
         "students": [
         {
@@ -2897,7 +2897,7 @@
     },
     {
         "area": "Statistical Analysis, Web Application, Data Analytics, Natural Language Processing",
-        "description": "This project attempts to make the hiring process for both employers and applicants easier. It is a job posting web application created with the Django web framework. The application will read an applicant’s CV and return how qualified that person is for the applied role based on the requirements specified as well as predicting how well that person will perform in the role using machine learning. For applicants, they can upload their CV to see what job postings they match.",
+        "description": "This project attempts to make the hiring process for both employers and applicants easier. It is a job posting web application created with the Django web framework. The application will read an applicant's CV and return how qualified that person is for the applied role based on the requirements specified as well as predicting how well that person will perform in the role using machine learning. For applicants, they can upload their CV to see what job postings they match.",
         "programme": "Computer Applications",
         "students": [
         {
@@ -2967,7 +2967,7 @@
     },
     {
         "area": "Web Applications",
-        "description": "Searchee can be best described as a new electronic goods comparison search engine that tackles the issue of searching multiple sources for product and price comparison by combining them all on one website making it easier for the user. It adds the feature of location based results which not only save the user’s time in receiving their product but gives local Irish retailers the advantage against online international websites.",
+        "description": "Searchee can be best described as a new electronic goods comparison search engine that tackles the issue of searching multiple sources for product and price comparison by combining them all on one website making it easier for the user. It adds the feature of location based results which not only save the user's time in receiving their product but gives local Irish retailers the advantage against online international websites.",
         "programme": "Enterprise Computing",
         "students": [
         {
@@ -2985,7 +2985,7 @@
     },
     {
         "area": "Internet of Things",
-        "description": "For many IOT applications it’s desirable to collect environmental sensor data without power supply or network connection. The aim of this project is to develop a passive Near Field Communication (NFC) sensor which can be permanently installed in locations without power supply or network connection and then read periodically via an NFC-enabled smartphone Android application. The project will involve designing an NFC13MHz inductive loop circuit, a very low-power microcontroller with sensor hardware/software system, smartphone user-interface and NFC interface software.",
+        "description": "For many IOT applications it's desirable to collect environmental sensor data without power supply or network connection. The aim of this project is to develop a passive Near Field Communication (NFC) sensor which can be permanently installed in locations without power supply or network connection and then read periodically via an NFC-enabled smartphone Android application. The project will involve designing an NFC13MHz inductive loop circuit, a very low-power microcontroller with sensor hardware/software system, smartphone user-interface and NFC interface software.",
         "programme": "Electronic and Computer Engineering",
         "students": [
         {
@@ -2999,7 +2999,7 @@
     },
     {
         "area": "Web Application, Cloud Computing, Artificial Intelligence, Natural LanguageProcessing",
-        "description": "This project attempts to help users learning a language. It tracks and displays a user’s day-to-day use of a language and the mistakes they make, and uses that data to assist the user by highlighting difficult words, suggesting improvements when typing and other things. As a bonus, it can guess a user’s native language based on their writing in English. Data for the system is gathered using Metro, a data crowdsourcing platform also created by Rory outside of this project.",
+        "description": "This project attempts to help users learning a language. It tracks and displays a user's day-to-day use of a language and the mistakes they make, and uses that data to assist the user by highlighting difficult words, suggesting improvements when typing and other things. As a bonus, it can guess a user's native language based on their writing in English. Data for the system is gathered using Metro, a data crowdsourcing platform also created by Rory outside of this project.",
         "programme": "Computer Applications",
         "students": [
         {
@@ -3023,7 +3023,7 @@
         ],
         "supervisor": "Paul.Whelan@dcu.ie",
         "technology": "Python, opencv",
-        "title": "Real-time “privacy at source” computer vision system"
+        "title": "Real-time 'privacy at source' computer vision system"
     },
     {
         "area": "3-D Modelling",
@@ -3069,7 +3069,7 @@
     },
     {
         "area": "Gaming, Software Development",
-        "description": "Quest is a top-down exploration game, with emphasis on adventure, puzzle solving and getting through obstacles in the player’s way. It has been developed for the Windows platform using C# within the Unity game engine. The player follows the story to finish quests in a rogue-like manner to discover more about the world and people around them.",
+        "description": "Quest is a top-down exploration game, with emphasis on adventure, puzzle solving and getting through obstacles in the player's way. It has been developed for the Windows platform using C# within the Unity game engine. The player follows the story to finish quests in a rogue-like manner to discover more about the world and people around them.",
         "programme": "Computer Applications",
         "students": [
         {
@@ -3189,7 +3189,7 @@
     },
     {
         "area": "Artificial Intelligence, Natural Language Processing, Speech Recognition,",
-        "description": "The focus of this project is speech recognition, more specifically in “large vocabulary continuous speech recognition” (LVCSR). The problem addressed in this project is building a system that can transcribe speech from a wide variety of videos (news, interviews, sports, etc.) using information from the context of these videos. A Deep Speech Recurrent Neural Network is fine-tuned, the context is extracted from videos, language model training is carried out and a Beam Search decoder is used for final implementation checking.",
+        "description": "The focus of this project is speech recognition, more specifically in 'large vocabulary continuous speech recognition' (LVCSR). The problem addressed in this project is building a system that can transcribe speech from a wide variety of videos (news, interviews, sports, etc.) using information from the context of these videos. A Deep Speech Recurrent Neural Network is fine-tuned, the context is extracted from videos, language model training is carried out and a Beam Search decoder is used for final implementation checking.",
         "programme": "Study Abroad (Engineering & Computing)",
         "students": [
         {
@@ -3217,7 +3217,7 @@
     },
     {
         "area": "Artificial Intelligence, Image Processing",
-        "description": "The focus of this project is image processing on iSUN datasets so that the saliency model’s performance is improved. Initially examples of images are identified where fixation’s time and order seem important. A deep learning model, implemented in Python, (MLNet) is used to improve an existing model trained for saliency prediction by adding temporal information. A new metric is created and applied to evaluate the new model’s predictions.",
+        "description": "The focus of this project is image processing on iSUN datasets so that the saliency model's performance is improved. Initially examples of images are identified where fixation's time and order seem important. A deep learning model, implemented in Python, (MLNet) is used to improve an existing model trained for saliency prediction by adding temporal information. A new metric is created and applied to evaluate the new model's predictions.",
         "programme": "Study Abroad (Engineering & Computing)",
         "students": [
         {

@@ -48,7 +48,7 @@
         "students": [
             {
                 "email": "david.obrien86@mail.dcu.com",
-                "name": "David O’Brien"
+                "name": "David O'Brien"
             }
         ],
         "supervisor": "Cathal Gurrin",
@@ -71,7 +71,7 @@
     },
     {
         "area": "Cloud Computing, Content Management System, Databases, Multimedia, Web Application",
-        "description": "Póstaer is a fresh take on digital advertising in airports. Póstaer aims to capture the public’s attention at departure and arrival gates with eye catching digital advertising, that is specifically related to their destination. Our solution works by using an airport gate information API, in order to know what media content should be displayed from a media database on screens at a certain location. This is managed using a web interface.",
+        "description": "Póstaer is a fresh take on digital advertising in airports. Póstaer aims to capture the public's attention at departure and arrival gates with eye catching digital advertising, that is specifically related to their destination. Our solution works by using an airport gate information API, in order to know what media content should be displayed from a media database on screens at a certain location. This is managed using a web interface.",
         "programme": "Enterprise Computing – EC4",
         "students": [
             {
@@ -89,7 +89,7 @@
     },
     {
         "area": "Natural Language Processing, Optical Character Recognition, Web Application",
-        "description": "EmpowerYou aims to empower young graduates to understand and encourage them to start inventing in the stock market on a clear and interactive platform. EmpowerYou’s solution is a chatbot interface with a matching web application. This gives users the ability to see their investments in a simple manner, through a chatbot or with the use of a virtual assistant like Amazon Alexa.",
+        "description": "EmpowerYou aims to empower young graduates to understand and encourage them to start inventing in the stock market on a clear and interactive platform. EmpowerYou's solution is a chatbot interface with a matching web application. This gives users the ability to see their investments in a simple manner, through a chatbot or with the use of a virtual assistant like Amazon Alexa.",
         "programme": "Enterprise Computing – EC4",
         "students": [
             {
@@ -135,12 +135,12 @@
     },
     {
         "area": "Advanced Material Engineering, Biomedical Engineering",
-        "description": "This project investigated and developed an experimental apparatus capable of monitoring the degradation of calcium phosphate cements. The degradation of such cements was investigated under static and dynamic physiological conditions. The mechanical properties were then investigated, such as compressive strength, Young’s modulus and fracture toughness. Gravimetric changes were also observed and recorded. Properties were also investigated as a function of pH, temperature, flow rate, flow type and degradation time.",
+        "description": "This project investigated and developed an experimental apparatus capable of monitoring the degradation of calcium phosphate cements. The degradation of such cements was investigated under static and dynamic physiological conditions. The mechanical properties were then investigated, such as compressive strength, Young's modulus and fracture toughness. Gravimetric changes were also observed and recorded. Properties were also investigated as a function of pH, temperature, flow rate, flow type and degradation time.",
         "programme": "Biomedical Engineering – BMED4",
         "students": [
             {
                 "email": "leontia.odriscoll6@mail.dcu.ie",
-                "name": "Leontia O’Driscoll"
+                "name": "Leontia O'Driscoll"
             }
         ],
         "supervisor": "Nicholas Dunne",
@@ -191,7 +191,7 @@
     },
     {
         "area": "Android, Mobile App, Social Networking",
-        "description": "The Application is cross-platform. Designed with the intention of smarter marketing. It allows business’s to get closer to their customer, while rewarding users for carrying out certain tasks that will in turn benefit the business. The aim is for the businesses to have better social media coverage, while getting closer to their customer.",
+        "description": "The Application is cross-platform. Designed with the intention of smarter marketing. It allows business's to get closer to their customer, while rewarding users for carrying out certain tasks that will in turn benefit the business. The aim is for the businesses to have better social media coverage, while getting closer to their customer.",
         "programme": "Computer Applications – CASE4",
         "students": [
             {
@@ -237,7 +237,7 @@
     },
     {
         "area": "Android, Mobile App, Virtual Reality, Web Application",
-        "description": "Open Eyes VR is a Virtual reality Tour application for College Campus’ aimed at colleges to broaden their marketing potential nationally and internationally. It is downloaded by end users and experienced through a VR Headset. We will provide audio description throughout the tour and include virtual talks and tutorials, enabling prospective students to receive all the information they would at an open day. Our product allows colleges to promote themselves from anywhere in the world and stand out from competitors.",
+        "description": "Open Eyes VR is a Virtual reality Tour application for College Campus' aimed at colleges to broaden their marketing potential nationally and internationally. It is downloaded by end users and experienced through a VR Headset. We will provide audio description throughout the tour and include virtual talks and tutorials, enabling prospective students to receive all the information they would at an open day. Our product allows colleges to promote themselves from anywhere in the world and stand out from competitors.",
         "programme": "Enterprise Computing – EC4",
         "students": [
             {
@@ -255,7 +255,7 @@
     },
     {
         "area": "Android, Data Analytics, Databases, E-Commerce, GPS/GIS, Mobile App, Software Development, Web Application",
-        "description": "An Android application which allows users to order and pay for meals in a restaurant. Restaurants can upload their details and menu’s via a web application written in AngularJS/ JavaScript. Here they can also view visual data analytics on customer activity within their restaurant. This project also includes another Android application for restaurants to manage current orders from within the kitchen. This project combines the ideas of other current Android applications for ordering food from a takeaway and brings the idea into restaurants. This saves both the customer and restaurants time as well as helping restaurants to make informed business decisions.",
+        "description": "An Android application which allows users to order and pay for meals in a restaurant. Restaurants can upload their details and menu's via a web application written in AngularJS/ JavaScript. Here they can also view visual data analytics on customer activity within their restaurant. This project also includes another Android application for restaurants to manage current orders from within the kitchen. This project combines the ideas of other current Android applications for ordering food from a takeaway and brings the idea into restaurants. This saves both the customer and restaurants time as well as helping restaurants to make informed business decisions.",
         "programme": "Computer Applications – CASE4",
         "students": [
             {
@@ -445,7 +445,7 @@
     },
     {
         "area": "E-Commerce, Environmental Mapping, Virtual Reality",
-        "description": "VRetailer is a service we plan to sell to marketing directors of retailing outlets. The service involves mapping a store’s interior to create a digital twin which will be transformed into a virtual environment. The virtual environment is mapped using panoramas and 360 degree cameras. Within the virtual environment we will use software to create “hotspots” which are points of navigation throughout the store which users click to look around in a 360 degree view. Products within near view of these hotspots will be click able to show information such as price and give the ability to add to a user’s basket. The main goal of our idea is to make online shopping more fascinating for users, more profitable for our customers and providing a more accessible physical store experience to everyone.",
+        "description": "VRetailer is a service we plan to sell to marketing directors of retailing outlets. The service involves mapping a store's interior to create a digital twin which will be transformed into a virtual environment. The virtual environment is mapped using panoramas and 360 degree cameras. Within the virtual environment we will use software to create 'hotspots' which are points of navigation throughout the store which users click to look around in a 360 degree view. Products within near view of these hotspots will be click able to show information such as price and give the ability to add to a user's basket. The main goal of our idea is to make online shopping more fascinating for users, more profitable for our customers and providing a more accessible physical store experience to everyone.",
         "programme": "Enterprise Computing – EC4",
         "students": [
             {
@@ -486,7 +486,7 @@
         "students": [
             {
                 "email": "jack.obrien89@mail.dcu.ie",
-                "name": "Jack O’Brien"
+                "name": "Jack O'Brien"
             }
         ],
         "supervisor": "Paul Whelan",
@@ -495,7 +495,7 @@
     },
     {
         "area": "Android, Cloud Computing, Computer Vision, Data Analytics, GPS/GIS, Image/Video Processing, Mobile App, SMS, Sensor Data",
-        "description": "SafeDriving is an android mobile application which targets the problem of “Driver Fatigue”. The apps aim is to prevent crashes due to driver fatigue. It does so by monitoring the drivers face through the devices front camera and processes each frame to detect different driver states. An alarm system wakes up a tired driver and other features such as crash detection/ emergency contact sms notification are also implemented.",
+        "description": "SafeDriving is an android mobile application which targets the problem of 'Driver Fatigue'. The apps aim is to prevent crashes due to driver fatigue. It does so by monitoring the drivers face through the devices front camera and processes each frame to detect different driver states. An alarm system wakes up a tired driver and other features such as crash detection/ emergency contact sms notification are also implemented.",
         "programme": "Computer Applications – CASE4",
         "students": [
             {
@@ -601,7 +601,7 @@
     },
     {
         "area": "Additive Manufacturing, Automation, Mechatronic Systems, Robotics",
-        "description": "This project focuses on developing new ways to automate some of the post-processing required when 3D printing. The aim is to develop a pick and place tool head for E3D’s new Tool Changer. The tool adds two degrees of freedom to the printer’s motion system which allows for the orientation of parts. This allows non-printable components such as nuts, magnets and bearings to be added to the part during the print. New design options like waterproofing of electronic components are now available too.",
+        "description": "This project focuses on developing new ways to automate some of the post-processing required when 3D printing. The aim is to develop a pick and place tool head for E3D's new Tool Changer. The tool adds two degrees of freedom to the printer's motion system which allows for the orientation of parts. This allows non-printable components such as nuts, magnets and bearings to be added to the part during the print. New design options like waterproofing of electronic components are now available too.",
         "programme": "Mechatronic Engineering – ME4",
         "students": [
             {
@@ -699,7 +699,7 @@
     },
     {
         "area": "E-Commerce",
-        "description": "Air D&D is a service that allows homeowners to rent out their driveway as a parking space to paying drivers. It is particularly targeted at environments like DCU where on-street parking, some of it illegal, is particularly annoying to local residents some of whom have empty driveways that could earn them money. Homeowners register the availability of their driveway and our service generates a price for drivers to use it based on a dynamic pricing model which factors in demand as well as distance from the driver’s destination, in this case to DCU. Drivers can view driveways, choose one and reserve the parking space. They will also be given the option to use our journey management tool to get directions to their parking spot. Drivers pay based on usage and homeowners are paid monthly.",
+        "description": "Air D&D is a service that allows homeowners to rent out their driveway as a parking space to paying drivers. It is particularly targeted at environments like DCU where on-street parking, some of it illegal, is particularly annoying to local residents some of whom have empty driveways that could earn them money. Homeowners register the availability of their driveway and our service generates a price for drivers to use it based on a dynamic pricing model which factors in demand as well as distance from the driver's destination, in this case to DCU. Drivers can view driveways, choose one and reserve the parking space. They will also be given the option to use our journey management tool to get directions to their parking spot. Drivers pay based on usage and homeowners are paid monthly.",
         "programme": "Enterprise Computing – EC4",
         "students": [
             {
@@ -731,7 +731,7 @@
     },
     {
         "area": "Cloud Computing, Information Retrieval",
-        "description": "DCDS (Dynamic cloud document storage) is a customisable opensource document archival and storage management platform. DCDS is a “cloud-friendly” IaaS. The system was developed for docker, allowing the use of serverless-services e.g. Elasticsearch and Python docker. The efficient use of cloud resources and storage while keeping documents at user’s fingertips is the projects primary goal. Helping users achieve smarter storage and reducing costs without the need for the development of custom solutions.",
+        "description": "DCDS (Dynamic cloud document storage) is a customisable opensource document archival and storage management platform. DCDS is a 'cloud-friendly' IaaS. The system was developed for docker, allowing the use of serverless-services e.g. Elasticsearch and Python docker. The efficient use of cloud resources and storage while keeping documents at user's fingertips is the projects primary goal. Helping users achieve smarter storage and reducing costs without the need for the development of custom solutions.",
         "programme": "Computer Applications – CASE4",
         "students": [
             {
@@ -745,7 +745,7 @@
     },
     {
         "area": "Distributed Systems, E-Commerce, Web Application",
-        "description": "This website’s purpose is to provide a consumer-friendly storefront to discourage unethical business practices. It is an ecommerce site designed with a microservice architecture. It follows a MVC design pattern and use an item-to-item recommendation system to suggest products to users.",
+        "description": "This website's purpose is to provide a consumer-friendly storefront to discourage unethical business practices. It is an ecommerce site designed with a microservice architecture. It follows a MVC design pattern and use an item-to-item recommendation system to suggest products to users.",
         "programme": "Computer Applications – CASE4",
         "students": [
             {
@@ -778,7 +778,7 @@
         "students": [
             {
                 "email": "jordan.obrien88@mail.dcu.ie",
-                "name": "Jordan O’Brien"
+                "name": "Jordan O'Brien"
             }
         ],
         "supervisor": "Paul Young",
@@ -787,7 +787,7 @@
     },
     {
         "area": "Biomedical Engineering, Sensor Data, Software Development, Wearable_Technology",
-        "description": "The earth’s magnetic field is used by humans and animals alike. While this field is used to control devices like compasses, some animals possess the unique ability to see the magnetic field, and can use it to locate and direct themselves. A device is created that can add an additional sense to the user using sensory augmentation. The device uses vibrotactile inputs to provide the user with the location of magnetic north.",
+        "description": "The earth's magnetic field is used by humans and animals alike. While this field is used to control devices like compasses, some animals possess the unique ability to see the magnetic field, and can use it to locate and direct themselves. A device is created that can add an additional sense to the user using sensory augmentation. The device uses vibrotactile inputs to provide the user with the location of magnetic north.",
         "programme": "Electronic and Computer Engineering – ECE4",
         "students": [
             {
@@ -875,7 +875,7 @@
     },
     {
         "area": "Computer Vision, Databases, Image/Video Processing, Information Retrieval, Internet of Things, RaspberryPi, Software Development, Web Application",
-        "description": "The project is a Raspberry Pi based Smart Cabinet. The cabinet stores users prescription medication in drawers. Facial Recognition is implemented to change the cabinet interface to show details about your medication. Weight sensors let the user know when you are running low. Real-time notifications are sent to the user’s email to remind them to take their tablets. A ReactJS based front-end is used to change what tablets are in each drawer and also to add and delete users.",
+        "description": "The project is a Raspberry Pi based Smart Cabinet. The cabinet stores users prescription medication in drawers. Facial Recognition is implemented to change the cabinet interface to show details about your medication. Weight sensors let the user know when you are running low. Real-time notifications are sent to the user's email to remind them to take their tablets. A ReactJS based front-end is used to change what tablets are in each drawer and also to add and delete users.",
         "programme": "Computer Applications – CASE4",
         "students": [
             {
@@ -897,13 +897,13 @@
                 "name": "Mark Kane"
             }
         ],
-        "supervisor": "Noel O’Connor",
+        "supervisor": "Noel O'Connor",
         "technology": "Python",
         "title": "Modality Transformation of Multichannel Time Series for Human Activity Recognition Using Deep Learning"
     },
     {
         "area": "Blogging, Distributed Systems, Information Retrieval, Social Networking, Software Development, Web Application",
-        "description": "Rabble (https://rabble.network) is a decentralised social blogging network built on the ActivityPub federated social protocol. Rabble uses the power of the decentralised web to maximise authors’ control and build communities. It uses recommender systems and searching to try to alleviate the problem of echo chambers. It is composed of Docker-bound python & go microservices orchestrated by docker-compose, making instances easy to deploy and lightweight to run, with a Typescript/React client to create a great (and customisable!) user experience.",
+        "description": "Rabble (https://rabble.network) is a decentralised social blogging network built on the ActivityPub federated social protocol. Rabble uses the power of the decentralised web to maximise authors' control and build communities. It uses recommender systems and searching to try to alleviate the problem of echo chambers. It is composed of Docker-bound python & go microservices orchestrated by docker-compose, making instances easy to deploy and lightweight to run, with a Typescript/React client to create a great (and customisable!) user experience.",
         "programme": "Computational Problem Solving and Software Development – CPSSD4, Computer Applications – CASE4",
         "students": [
             {
@@ -916,7 +916,7 @@
             },
             {
                 "email": "ross.osullivan37@mail.dcu.ie",
-                "name": "Ross O’Sullivan"
+                "name": "Ross O'Sullivan"
             },
             {
                 "email": "noah.donnelly25@mail.dcu.ie",
@@ -943,7 +943,7 @@
     },
     {
         "area": "Android, Cloud Computing, Data Analytics, Educational, Sensor Data",
-        "description": "Career fairs kill the Amazon. Papphlet, for Android, replaces bags of brochures, (which at best will end up in recycling), with NFC and RFID cards. The “RDS Higher Options” is the starting point for Papphlet. However, Papphlet can be applied to any fair, including this DCU project “expo”. Tap an RFID card instead of picking up a brochure. Use “Google Firebase Firestore” instead of a bag of brochures. Use “Google BigQuery” to elicit engagement statistics instead of feedback forms.",
+        "description": "Career fairs kill the Amazon. Papphlet, for Android, replaces bags of brochures, (which at best will end up in recycling), with NFC and RFID cards. The 'RDS Higher Options' is the starting point for Papphlet. However, Papphlet can be applied to any fair, including this DCU project 'expo'. Tap an RFID card instead of picking up a brochure. Use 'Google Firebase Firestore' instead of a bag of brochures. Use 'Google BigQuery' to elicit engagement statistics instead of feedback forms.",
         "programme": "Computer Applications – CASE4",
         "students": [
             {
@@ -1008,7 +1008,7 @@
             },
             {
                 "email": "katie.omahoney6@mail.dcu.ie",
-                "name": "Katie O’Mahoney"
+                "name": "Katie O'Mahoney"
             }
         ],
         "supervisor": "Monica Ward",
@@ -1059,7 +1059,7 @@
     },
     {
         "area": "Data Analytics, Information Retrieval, Natural Language Processing, Social Networking, Statistical Analysis, Web Application",
-        "description": "Filtered is a web application which analyses a user’s social media posts for abusive and negative content. Users can connect up to three accounts (Twitter, Facebook and Reddit) and are given a profile rating based on the ‘healthiness’ of their posts. Each post is analysed for abusive language, named entities, sentiment and custom filters. The post is then given a rating based on these factors. Once the analysis is completed, the posts are returned to the user and are ordered by rating, with the highest rated posts having the unhealthiest content.",
+        "description": "Filtered is a web application which analyses a user's social media posts for abusive and negative content. Users can connect up to three accounts (Twitter, Facebook and Reddit) and are given a profile rating based on the 'healthiness' of their posts. Each post is analysed for abusive language, named entities, sentiment and custom filters. The post is then given a rating based on these factors. Once the analysis is completed, the posts are returned to the user and are ordered by rating, with the highest rated posts having the unhealthiest content.",
         "programme": "Computer Applications – CASE4",
         "students": [
             {
@@ -1096,12 +1096,12 @@
             }
         ],
         "supervisor": "Ray Walshe",
-        "technology": "Java, Firebase, Google Maps API’s, HERE Maps API",
+        "technology": "Java, Firebase, Google Maps API's, HERE Maps API",
         "title": "DCU Carpool"
     },
     {
         "area": "Internet of Things, Mobile App, RaspberryPi, Wireless Technology",
-        "description": "This project aims to implement an audio server solution which can stream music over the network to a number of client devices, at high quality, with minimal audio artefacts and synchronised output. Listener tracking is implemented via the AltBeacon Bluetooth Beacon protocol alongside a cross-platform mobile application developed using Google’s “Flutter” framework. Ranging information from the Beacons, as measured by the mobile application, is then used to increase the volume on the streaming client nearest the listener.",
+        "description": "This project aims to implement an audio server solution which can stream music over the network to a number of client devices, at high quality, with minimal audio artefacts and synchronised output. Listener tracking is implemented via the AltBeacon Bluetooth Beacon protocol alongside a cross-platform mobile application developed using Google's 'Flutter' framework. Ranging information from the Beacons, as measured by the mobile application, is then used to increase the volume on the streaming client nearest the listener.",
         "programme": "Electronic and Computer Engineering – ECE4",
         "students": [
             {
@@ -1193,7 +1193,7 @@
     },
     {
         "area": "Android, Information Retrieval, Mobile App",
-        "description": "This project involved building an android mobile application that pulled movie information from the “The movie Db” and displayed their posters within the interface. The application allows users to further explore movie information along with giving their own ratings. A recommender system was implemented in python that would constantly grab any movies that user rated to offer a range of recommended movies it deems to be of interest to the user.",
+        "description": "This project involved building an android mobile application that pulled movie information from the 'The movie Db' and displayed their posters within the interface. The application allows users to further explore movie information along with giving their own ratings. A recommender system was implemented in python that would constantly grab any movies that user rated to offer a range of recommended movies it deems to be of interest to the user.",
         "programme": "Computer Applications – CASE4",
         "students": [
             {
@@ -1212,7 +1212,7 @@
         "students": [
             {
                 "email": "daraigh.eglingtonotoole2@mail.dcu.ie",
-                "name": "Daraigh O’Toole"
+                "name": "Daraigh O'Toole"
             }
         ],
         "supervisor": "James Carton",
@@ -1221,7 +1221,7 @@
     },
     {
         "area": "Cloud Computing, Distributed Systems, Filesystems, Image/Video Processing, Software Development",
-        "description": "VersaDesk is a “Desktop as a Service” suite which utilises Linux containers to provide full desktop environments for terminal services. It leverages Docker to provide lightweight, customised and resource efficient sessions to each user on demand. The WebRTC based remote desktop protocol and web management console empowers users to access their computer on any device. It aims to lower hardware costs and administration overhead for academic and office environments by eliminating the need for every user to own a PC.",
+        "description": "VersaDesk is a 'Desktop as a Service' suite which utilises Linux containers to provide full desktop environments for terminal services. It leverages Docker to provide lightweight, customised and resource efficient sessions to each user on demand. The WebRTC based remote desktop protocol and web management console empowers users to access their computer on any device. It aims to lower hardware costs and administration overhead for academic and office environments by eliminating the need for every user to own a PC.",
         "programme": "Computational Problem Solving and Software Development – CPSSD4",
         "students": [
             {
@@ -1271,7 +1271,7 @@
     },
     {
         "area": "Data Mining, Databases, Model View Controller, Web Application",
-        "description": "Things to do is a user-friendly web application which aims to remove the strain of searching for things to do in one’s free time. Activities will be suggested for the user based on their individual interests and some final parameters such as their price range and day of choice. The user will have the option to rate activities. The ratings will be used in a matrix factorization-based algorithm to generate recommendations, enhancing user experience while introducing the user to new interests.",
+        "description": "Things to do is a user-friendly web application which aims to remove the strain of searching for things to do in one's free time. Activities will be suggested for the user based on their individual interests and some final parameters such as their price range and day of choice. The user will have the option to rate activities. The ratings will be used in a matrix factorization-based algorithm to generate recommendations, enhancing user experience while introducing the user to new interests.",
         "programme": "Computer Applications – CASE4",
         "students": [
             {
@@ -1299,7 +1299,7 @@
     },
     {
         "area": "Android, Data Analytics, Databases, Mobile App, Web Application",
-        "description": "This application was developed to analyse a Rugby team’s strengths and weaknesses during a game. The coach on the sideline enters the events(Linebreak, Turnover, Offside, Kick/Chase), the outcome (Success/Failure) and what area of the pitch the event happened. The result gets saved in the cloud and can be viewed by the Manager up in the stand on the Web application, or in the application itself. The Web application updates as the application is being updated in real time.",
+        "description": "This application was developed to analyse a Rugby team's strengths and weaknesses during a game. The coach on the sideline enters the events(Linebreak, Turnover, Offside, Kick/Chase), the outcome (Success/Failure) and what area of the pitch the event happened. The result gets saved in the cloud and can be viewed by the Manager up in the stand on the Web application, or in the application itself. The Web application updates as the application is being updated in real time.",
         "programme": "Computer Applications – CASE4",
         "students": [
             {
@@ -1313,7 +1313,7 @@
     },
     {
         "area": "Data Analytics, Internet of Things, Mobile App, Sensor Data",
-        "description": "This project investigates the use of IOT-enabled sensors coupled with a mobile application for automatic and manual collection of information on the health and wellbeing of nursing home residents. Data securely collected over a Low Powered Wide-Area Network is captured, stored, analysed and then visualised through analytical dashboards. This will reduce nursing home staff’s workload and also enable them to track subtle changes in residents health over-time, ultimately providing 21st century care to their residents.",
+        "description": "This project investigates the use of IOT-enabled sensors coupled with a mobile application for automatic and manual collection of information on the health and wellbeing of nursing home residents. Data securely collected over a Low Powered Wide-Area Network is captured, stored, analysed and then visualised through analytical dashboards. This will reduce nursing home staff's workload and also enable them to track subtle changes in residents health over-time, ultimately providing 21st century care to their residents.",
         "programme": "Enterprise Computing – EC4",
         "students": [
             {
@@ -1335,7 +1335,7 @@
     },
     {
         "area": "Android, Circuit Modeling, Content Management System, Internet of Things, Mechatronic Systems, Mobile App, Power Electronics, Sensor Data",
-        "description": "Instrumentation of an Electric Bike” is a project regarding the process of instrumenting an electric bike through the planning phase to the implementation of the designs conceived in the planning phase. For this project, data was to be gathered from the bike itself such as battery level, power in to the electric motor, and displayed on an off the shelf android device alongside information gathered from the in-built sensors on the device such as speed, altitude, and route taken. This was to be all integrated into the existing electronics of the bike, ensuring no external power was needed.",
+        "description": "Instrumentation of an Electric Bike' is a project regarding the process of instrumenting an electric bike through the planning phase to the implementation of the designs conceived in the planning phase. For this project, data was to be gathered from the bike itself such as battery level, power in to the electric motor, and displayed on an off the shelf android device alongside information gathered from the in-built sensors on the device such as speed, altitude, and route taken. This was to be all integrated into the existing electronics of the bike, ensuring no external power was needed.",
         "programme": "Mechatronic Engineering – ME4",
         "students": [
             {
@@ -1391,7 +1391,7 @@
     },
     {
         "area": "Databases, Information Retrieval, Model View Controller, Web Application",
-        "description": "MyHealthSum is web application that aims to help users monitor and understand their health better. The application links with wearable sensors and aggregators, including Fitbit and the Freestyle Libre, to gather data relating to the user’s health. Based on the data retrieved, the user receives a percentile regarding their physical activity and inactivity. The user also receives recommendations to help them improve and change their lifestyle if needed.",
+        "description": "MyHealthSum is web application that aims to help users monitor and understand their health better. The application links with wearable sensors and aggregators, including Fitbit and the Freestyle Libre, to gather data relating to the user's health. Based on the data retrieved, the user receives a percentile regarding their physical activity and inactivity. The user also receives recommendations to help them improve and change their lifestyle if needed.",
         "programme": "Enterprise Computing – EC4",
         "students": [
             {
@@ -1456,7 +1456,7 @@
         "students": [
             {
                 "email": "matthew.oleary29@mail.dcu.ie",
-                "name": "Matthew O’Leary"
+                "name": "Matthew O'Leary"
             }
         ],
         "supervisor": "Marija Bezbradica",
@@ -1470,7 +1470,7 @@
         "students": [
             {
                 "email": "kate.ohanrahan2@mail.dcu.ie",
-                "name": "Kate O’Hanrahan"
+                "name": "Kate O'Hanrahan"
             }
         ],
         "supervisor": "Nicholas Dunne",
@@ -1529,13 +1529,13 @@
                 "name": "Robert McConnell"
             }
         ],
-        "supervisor": "Noel O’Connor",
+        "supervisor": "Noel O'Connor",
         "technology": "Python, TensorFlow",
         "title": "Deep Learning for Semantic Segmentation of Agricultural Imagery"
     },
     {
         "area": "Biometrics, Cloud Computing, Content Management System, Data Analytics, Data Mining, Databases, Internet of Things, Model View Controller, Network Applications, Security, Sensor Data, Statistical Analysis, Wearable_Technology, Web Application",
-        "description": "“HeadTrack” is a psychiatric tool intended for use by therapists to use data analytics to improve their patient’s treatment and lives. The app will have two interfaces. The app gathers information through the client interface. The therapist can analyse the data from the therapist interface. An annual license fee will be charged to therapists who can then provide access to their clients. This app is intended to replace the unreliable pen and paper diary system which is current practice.",
+        "description": "'HeadTrack' is a psychiatric tool intended for use by therapists to use data analytics to improve their patient's treatment and lives. The app will have two interfaces. The app gathers information through the client interface. The therapist can analyse the data from the therapist interface. An annual license fee will be charged to therapists who can then provide access to their clients. This app is intended to replace the unreliable pen and paper diary system which is current practice.",
         "programme": "Enterprise Computing – EC4",
         "students": [
             {
@@ -1614,7 +1614,7 @@
         "students": [
             {
                 "email": "ryan.odowd@mail.dcu.ie",
-                "name": "Ryan O’ Dowd"
+                "name": "Ryan O' Dowd"
             }
         ],
         "supervisor": "Monica Ward",
@@ -1637,7 +1637,7 @@
     },
     {
         "area": "Internet of Things, Network Applications, Sensor Data, Sensor Technology, Wireless Technology",
-        "description": "The contents of this report is based on how vehicles communicate with each other. It commonly known as vehicle ad hoc netowrks (VANETs). It outlines techinical aspects of the technology that is needed for vehicle to vehicle and vehicle to infrastructure. It explores the applications that it is used for from the safety aspects to the commerical. It has design that is based on the “Dissemination of critical traffic information using VANETs. It also has results from simulations based on the design.",
+        "description": "The contents of this report is based on how vehicles communicate with each other. It commonly known as vehicle ad hoc netowrks (VANETs). It outlines techinical aspects of the technology that is needed for vehicle to vehicle and vehicle to infrastructure. It explores the applications that it is used for from the safety aspects to the commerical. It has design that is based on the 'Dissemination of critical traffic information using VANETs. It also has results from simulations based on the design.",
         "programme": "Electronic and Computer Engineering – ECE4",
         "students": [
             {
@@ -1651,7 +1651,7 @@
     },
     {
         "area": "Artificial Intelligence, Simulation, Software Development, Web Application",
-        "description": "A project that simulates Artificial Life which uses a genetic algorithm to represent a population of single celled organisms which interact via game theory which is expressed through their genes. Cells are born with a cell wall ‘thickness’ which determines how much protection they have against their environment and how much energy they can generate. Cells with thicker cell walls generate energy slower but can also consume those with cell walls which are thinner. Cells can cooperate by joining together to form a multi-cellular organism to share the benefits of both genes.",
+        "description": "A project that simulates Artificial Life which uses a genetic algorithm to represent a population of single celled organisms which interact via game theory which is expressed through their genes. Cells are born with a cell wall 'thickness' which determines how much protection they have against their environment and how much energy they can generate. Cells with thicker cell walls generate energy slower but can also consume those with cell walls which are thinner. Cells can cooperate by joining together to form a multi-cellular organism to share the benefits of both genes.",
         "programme": "Computer Applications – CASE4",
         "students": [
             {
@@ -1684,7 +1684,7 @@
         "students": [
             {
                 "email": "cillian.odonnell42@mail.dcu.ie",
-                "name": "Cillian O’Donnell"
+                "name": "Cillian O'Donnell"
             }
         ],
         "supervisor": "Paul Whelan",
@@ -1743,7 +1743,7 @@
     },
     {
         "area": "Biomedical Engineering",
-        "description": "This project was been designed to look at the mechanical and resorption kinetics of a bioresorbable coronary stent. Specifically, Abbott’s Absorb Bioresorbable Vascular Scaffold. The mechanical and degradation performance of the stents were examined with various mechanical tests and specially designed experiments. They were then compared to the performance of a drug-eluting metal stent. This study provides new insights into the performance of a failed bioresorbable polymer stent, and whether the future really lies with bioresorbable stents.",
+        "description": "This project was been designed to look at the mechanical and resorption kinetics of a bioresorbable coronary stent. Specifically, Abbott's Absorb Bioresorbable Vascular Scaffold. The mechanical and degradation performance of the stents were examined with various mechanical tests and specially designed experiments. They were then compared to the performance of a drug-eluting metal stent. This study provides new insights into the performance of a failed bioresorbable polymer stent, and whether the future really lies with bioresorbable stents.",
         "programme": "Biomedical Engineering – BMED4",
         "students": [
             {
@@ -1785,7 +1785,7 @@
     },
     {
         "area": "Artificial Intelligence, Embedded Systems, Environmental Mapping, Motion Analysis, Robotics, Sensor Data, Sensor Technology, Software Development, Vehicle Control, Wireless Technology",
-        "description": "This project explores the validity of introducing programmable and mechanical technology into a cave rescue environment. The main focus became the development and introduction of autonomy into an unmanned aerial vehicle (UAV) with the intention to aid in a cave rescue situation. The objectives were to produce a line-following drone, which could evade obstacles and locate heat signatures in order to identify people who may be lost or injured. The results obtained revealed that basic autonomous drone flight without GPS was not very repeatable and contained a lot of drift. Further development would be required to increase flight accuracy, such as filtering the drone’s directional coordinates which would be retrieved from the accelerometer to verify its location.",
+        "description": "This project explores the validity of introducing programmable and mechanical technology into a cave rescue environment. The main focus became the development and introduction of autonomy into an unmanned aerial vehicle (UAV) with the intention to aid in a cave rescue situation. The objectives were to produce a line-following drone, which could evade obstacles and locate heat signatures in order to identify people who may be lost or injured. The results obtained revealed that basic autonomous drone flight without GPS was not very repeatable and contained a lot of drift. Further development would be required to increase flight accuracy, such as filtering the drone's directional coordinates which would be retrieved from the accelerometer to verify its location.",
         "programme": "Mechatronic Engineering – ME4",
         "students": [
             {
@@ -1809,11 +1809,11 @@
         ],
         "supervisor": "Mark Humphrys",
         "technology": "JavaScript",
-        "title": "Ancient Brain’s Introduction to JavaScript Programming for Beginners"
+        "title": "Ancient Brain's Introduction to JavaScript Programming for Beginners"
     },
     {
         "area": "Android, Databases, Mobile App",
-        "description": "Aimed at fashion consumers, StockCheckr is an android mobile app that enables shoppers to search a product code and check the store’s inventory levels for different sizes of the product. The user can search multiple locations from one place. This app empowers shoppers to take control of their shopping experience by querying the stores database themselves. Stockcheckr is the mobile assistant that makes shopping quicker and easier.",
+        "description": "Aimed at fashion consumers, StockCheckr is an android mobile app that enables shoppers to search a product code and check the store's inventory levels for different sizes of the product. The user can search multiple locations from one place. This app empowers shoppers to take control of their shopping experience by querying the stores database themselves. Stockcheckr is the mobile assistant that makes shopping quicker and easier.",
         "programme": "Enterprise Computing – EC4",
         "students": [
             {
@@ -1962,7 +1962,7 @@
         "students": [
             {
                 "email": "katie.obrien64@mail.dcu.ie",
-                "name": "Katie O’Brien"
+                "name": "Katie O'Brien"
             }
         ],
         "supervisor": "John Geraghty",
@@ -1985,7 +1985,7 @@
     },
     {
         "area": "Environmental Mapping, Fluid Mechanics, Water Treatment",
-        "description": "Over the past few decades stormwater modelling software’s have flooded the market. The models study many different aspects such as flowrates and pollution levels. The objective of the project is to compare two stormwater modelling tools. The tools are compared by a literature review, a defined evaluation criteria and comparing the results generated from the stormwater modelling tools to a case study. The case study is a small residential estate situated in Ireland with a waste water treatment plant onsite.",
+        "description": "Over the past few decades stormwater modelling software's have flooded the market. The models study many different aspects such as flowrates and pollution levels. The objective of the project is to compare two stormwater modelling tools. The tools are compared by a literature review, a defined evaluation criteria and comparing the results generated from the stormwater modelling tools to a case study. The case study is a small residential estate situated in Ireland with a waste water treatment plant onsite.",
         "programme": "Biomedical Engineering – BMED4",
         "students": [
             {
@@ -2027,7 +2027,7 @@
     },
     {
         "area": "Artificial Intelligence, Data Mining, GPS/GIS, Software Development, Web Application",
-        "description": "Where To Next is a Web Application developed for delivery companies. It is designed to minimize a companies cost while increasing its drivers efficiency by utilizing Clustering and Heuristic Search Algorithms. Given “n” delivery locations, the WebApp computes the optimal number of delivery drivers (via clustering), allocate each driver their drop off location(from each Cluster) and display the best route for each driver to reach their allocated drop off locations (via heuristic Algorithms to solve TSP).",
+        "description": "Where To Next is a Web Application developed for delivery companies. It is designed to minimize a companies cost while increasing its drivers efficiency by utilizing Clustering and Heuristic Search Algorithms. Given 'n' delivery locations, the WebApp computes the optimal number of delivery drivers (via clustering), allocate each driver their drop off location(from each Cluster) and display the best route for each driver to reach their allocated drop off locations (via heuristic Algorithms to solve TSP).",
         "programme": "Computer Applications – CASE4",
         "students": [
             {
@@ -2037,7 +2037,7 @@
         ],
         "supervisor": "Stephen Blott",
         "technology": "CSS, Docker, HTML5, JavaScript, Python, REST, SQLite, RPC",
-        "title": "Where To Next (Travelling Sales “Men” Problem)"
+        "title": "Where To Next (Travelling Sales 'Men' Problem)"
     },
     {
         "area": "Databases, Gaming",
@@ -2092,7 +2092,7 @@
         "students": [
             {
                 "email": "sarah.ogara5@mail.dcu.ie",
-                "name": "Sarah O’Gara"
+                "name": "Sarah O'Gara"
             }
         ],
         "supervisor": "Kevin McGuinness",
@@ -2185,7 +2185,7 @@
     },
     {
         "area": "Artificial Intelligence, Web Application",
-        "description": "This project allows users to design and train neural networks using a interactive and intuitive web application. The user simply drags and drops layers into the network design. They can then train the model and analysis training metrics in real-time. The purpose of this project is to allow user to learn about neural networks and design one without having to write any code, and possibly spark an interest this field. The models created by the user’s are compiled and trained by the browser with TensorflowJS. The application is built using Flask and React. The application is a single page application (SPA).",
+        "description": "This project allows users to design and train neural networks using a interactive and intuitive web application. The user simply drags and drops layers into the network design. They can then train the model and analysis training metrics in real-time. The purpose of this project is to allow user to learn about neural networks and design one without having to write any code, and possibly spark an interest this field. The models created by the user's are compiled and trained by the browser with TensorflowJS. The application is built using Flask and React. The application is a single page application (SPA).",
         "programme": "Computer Applications – CASE4",
         "students": [
             {
@@ -2199,7 +2199,7 @@
     },
     {
         "area": "Artificial Intelligence, Automation, Natural Language Processing, Web Application",
-        "description": "The Twitter Hate Speech App aims to help reduce the amount of abuse on Twitter. It uses Twitter’s API to pull in hundreds of thousands of tweets a day. These tweets are then run through a deep learning model to determine whether or not they are hate speech. Flagged tweets are stored and displayed on a dashboard where human reviewers can assess the model’s judgments. These human judgements are then used to retrain the model in order to further improve its accuracy.",
+        "description": "The Twitter Hate Speech App aims to help reduce the amount of abuse on Twitter. It uses Twitter's API to pull in hundreds of thousands of tweets a day. These tweets are then run through a deep learning model to determine whether or not they are hate speech. Flagged tweets are stored and displayed on a dashboard where human reviewers can assess the model's judgments. These human judgements are then used to retrain the model in order to further improve its accuracy.",
         "programme": "Computer Applications – CASE4",
         "students": [
             {
@@ -2259,12 +2259,12 @@
     },
     {
         "area": "Computer Vision, Educational, Image/Video Processing, Mobile App",
-        "description": "CherryPik is a vitamin and nutrient logging application for iOS. Users can track if they are fulfilling the recommended daily vitamin/nutrient intake through their consumption of fruit and vegetables. These Recommended Daily Allowances (RDA) will be based on the European Food Safety Authority recommendations. The two main features to add items to a user’s profile in CherryPik is by syncing the app to the user’s Fitbit profile or by taking a photo or importing a photo from the camera library which is then analysed by an image classifier. This feature has other uses such as aiding users in identifying fruits or vegetables they may not have encountered before. Each food item will have its nutrient and vitamin values displayed to the user before they add it to their profile.",
+        "description": "CherryPik is a vitamin and nutrient logging application for iOS. Users can track if they are fulfilling the recommended daily vitamin/nutrient intake through their consumption of fruit and vegetables. These Recommended Daily Allowances (RDA) will be based on the European Food Safety Authority recommendations. The two main features to add items to a user's profile in CherryPik is by syncing the app to the user's Fitbit profile or by taking a photo or importing a photo from the camera library which is then analysed by an image classifier. This feature has other uses such as aiding users in identifying fruits or vegetables they may not have encountered before. Each food item will have its nutrient and vitamin values displayed to the user before they add it to their profile.",
         "programme": "Computer Applications – CASE4",
         "students": [
             {
                 "email": "emma.okeeffe7@mail.dcu.ie",
-                "name": "Emma O’Keeffe"
+                "name": "Emma O'Keeffe"
             }
         ],
         "supervisor": "Suzanne Little",
@@ -2365,7 +2365,7 @@
     },
     {
         "area": "Artificial Intelligence, Computer Vision, Image/Video Processing, Natural Language Processing, Web Application",
-        "description": "This project pertains to the exploration and application of a novel approach to dynamic video abstraction (generating a short representation of an original video) predicated on contemporary memorability research. The video abstraction tool consists of a series of Deep Neural Networks – a CNN-RNN encoder-decoder model, used to extract features from the video and generate apposite captions, and an LSTM which assigns memorability scores to those captions – followed by a simple submodular maximisation of qualities inherent to a “good” video abstract. A web-app hosts the video abstraction tool, where users can upload a video and receive an according abstract consisting of their video’s most memorable segments.",
+        "description": "This project pertains to the exploration and application of a novel approach to dynamic video abstraction (generating a short representation of an original video) predicated on contemporary memorability research. The video abstraction tool consists of a series of Deep Neural Networks – a CNN-RNN encoder-decoder model, used to extract features from the video and generate apposite captions, and an LSTM which assigns memorability scores to those captions – followed by a simple submodular maximisation of qualities inherent to a 'good' video abstract. A web-app hosts the video abstraction tool, where users can upload a video and receive an according abstract consisting of their video's most memorable segments.",
         "programme": "Computer Applications – CASE4",
         "students": [
             {
@@ -2379,7 +2379,7 @@
     },
     {
         "area": "Artificial Intelligence, Data Analytics, Natural Language Processing, Web Application",
-        "description": "The project hopes to train and develop a Long Short Term Memory modeled recurrent neural network to create its own version of a brief episode transcript of ‘The Simpsons’. The network will utilise a data set of over 600 episodes in order to observe individual character speech patterns and screenwriting techniques.",
+        "description": "The project hopes to train and develop a Long Short Term Memory modeled recurrent neural network to create its own version of a brief episode transcript of 'The Simpsons'. The network will utilise a data set of over 600 episodes in order to observe individual character speech patterns and screenwriting techniques.",
         "programme": "Computer Applications – CASE4",
         "students": [
             {
@@ -2389,7 +2389,7 @@
         ],
         "supervisor": "Andy Way",
         "technology": "CSS, HTML5, JavaScript, Python, Postgres",
-        "title": "The Simpsons’ Script Generator"
+        "title": "The Simpsons' Script Generator"
     },
     {
         "area": "Data Analytics, Data Mining, Statistical Analysis, Wearable_Technology, Web Application",
@@ -2449,7 +2449,7 @@
     },
     {
         "area": "Artificial Intelligence, Gaming, Software Development, Web Application",
-        "description": "This project allows users to play Heads-up No Limit Texas Hold’em poker against a computer player through a web application. The game is 1v1 so the Artificial Intelligence player learns their opponent’s behaviour and implements strategies to counteract the opponent’s actions in order to maximise their winnings. The computer player is generated using neurogenetics, meaning Neural Networks are evaluated and mutated through genetic algorithms in order to generate interesting and viable poker strategies.",
+        "description": "This project allows users to play Heads-up No Limit Texas Hold'em poker against a computer player through a web application. The game is 1v1 so the Artificial Intelligence player learns their opponent's behaviour and implements strategies to counteract the opponent's actions in order to maximise their winnings. The computer player is generated using neurogenetics, meaning Neural Networks are evaluated and mutated through genetic algorithms in order to generate interesting and viable poker strategies.",
         "programme": "Computer Applications – CASE4",
         "students": [
             {
@@ -2477,7 +2477,7 @@
     },
     {
         "area": "Biometrics, Databases, Information Retrieval, Web Application",
-        "description": "E-Pensions is a digitalised pension administration system which uses Blockchain technology to facilitate payments. Uses biometrics to replace the traditional “Certificate of Existence” method to allow a client to trigger an instant payment from an Ethereum based Smart Contract. Provides automatic reporting on client transactions to the administrators, which reduces the organisations paper & admin expenses. Reduces administrative workloads due to automatic transaction reports generated by the Blockchain network.",
+        "description": "E-Pensions is a digitalised pension administration system which uses Blockchain technology to facilitate payments. Uses biometrics to replace the traditional 'Certificate of Existence' method to allow a client to trigger an instant payment from an Ethereum based Smart Contract. Provides automatic reporting on client transactions to the administrators, which reduces the organisations paper & admin expenses. Reduces administrative workloads due to automatic transaction reports generated by the Blockchain network.",
         "programme": "Enterprise Computing – EC4",
         "students": [
             {
@@ -2486,7 +2486,7 @@
             },
             {
                 "email": "emmett.obrien77@mail.dcu.ie",
-                "name": "Emmett O’Brien"
+                "name": "Emmett O'Brien"
             }
         ],
         "supervisor": "Markus Helfert",
@@ -2551,7 +2551,7 @@
     },
     {
         "area": "Android, Arduino, GPS/GIS, Internet of Things, Mobile App, Wearable_Technology",
-        "description": "PetTrack is an Android application that uses a GPS tracker to allow pet owners to track their pet’s location. The tracker, which can be attached to a pet’s collar, sends GPS coordinates to a server. The app retrieves these coordinates so users can view their pet’s location on a map in real time and view their pet’s previous locations as a route. These routes can be saved in the app and viewed later by the user.",
+        "description": "PetTrack is an Android application that uses a GPS tracker to allow pet owners to track their pet's location. The tracker, which can be attached to a pet's collar, sends GPS coordinates to a server. The app retrieves these coordinates so users can view their pet's location on a map in real time and view their pet's previous locations as a route. These routes can be saved in the app and viewed later by the user.",
         "programme": "Computer Applications – CASE4",
         "students": [
             {
@@ -2579,7 +2579,7 @@
     },
     {
         "area": "Artificial Intelligence, RaspberryPi, Speech Recognition",
-        "description": "The Voice Assistant is a voice controlled device that can assist you with a wide variety of task’s such as controlling a television or smart home device, reading or sending emails, playing music, taking pictures, receiving news and weather updates. The Voice Assistant also offers a privacy setting which allows the user to restrict access to the device.",
+        "description": "The Voice Assistant is a voice controlled device that can assist you with a wide variety of task's such as controlling a television or smart home device, reading or sending emails, playing music, taking pictures, receiving news and weather updates. The Voice Assistant also offers a privacy setting which allows the user to restrict access to the device.",
         "programme": "Computer Applications – CASE4",
         "students": [
             {
@@ -2640,7 +2640,7 @@
         "students": [
             {
                 "email": "ciaran.odonnell44@mail.dcu.ie",
-                "name": "Ciarán O’Donnell"
+                "name": "Ciarán O'Donnell"
             }
         ],
         "supervisor": "Derek Molloy",
@@ -2654,7 +2654,7 @@
         "students": [
             {
                 "email": "chloe.darcy8@mail.dcu.ie",
-                "name": "Chloe D’Arcy"
+                "name": "Chloe D'Arcy"
             },
             {
                 "email": "amy.rowe2@mail.dcu.ie",
@@ -2695,7 +2695,7 @@
     },
     {
         "area": "Simulation",
-        "description": "This project investigates to test if the following statement is correct “Given the shape of one gear and the transmission ratio of that shape can the other gear be defined using the SolidWorks CAD package and its internal programming language.",
+        "description": "This project investigates to test if the following statement is correct 'Given the shape of one gear and the transmission ratio of that shape can the other gear be defined using the SolidWorks CAD package and its internal programming language.",
         "programme": "Mechanical and Manufacturing Engineering – CAM4",
         "students": [
             {
@@ -2747,11 +2747,11 @@
         ],
         "supervisor": "Paul Young",
         "technology": "C/C++",
-        "title": "Design and Implementation of a low-cost, 3D printed and electronically operated prosthetic arm’"
+        "title": "Design and Implementation of a low-cost, 3D printed and electronically operated prosthetic arm'"
     },
     {
         "area": "Cloud Computing, GPS/GIS, Mobile App, Software Development",
-        "description": "FitTune is a cross-platform cardio challenge application and route planner for Android and iOS. It makes use of real-time communication and GPS technologies to enable users to take part in both walking and running races against other smartphone users around the world. It allows users to design their own running routes on screen or can automatically generate a selection of suitable routes in a user’s area. It also monitors and gathers statistics on exercise performance to help improve fitness levels.",
+        "description": "FitTune is a cross-platform cardio challenge application and route planner for Android and iOS. It makes use of real-time communication and GPS technologies to enable users to take part in both walking and running races against other smartphone users around the world. It allows users to design their own running routes on screen or can automatically generate a selection of suitable routes in a user's area. It also monitors and gathers statistics on exercise performance to help improve fitness levels.",
         "programme": "Computer Applications – CASE4",
         "students": [
             {
@@ -2807,7 +2807,7 @@
     },
     {
         "area": "Artificial Intelligence, Data Analytics, Data Mining, Databases, E-Commerce, Natural Language Processing, Software Development, Statistical Analysis, Web Application",
-        "description": "This project investigates the relationship between the publishing of news articles on a company and the impact they have on that company’s stock price. Through the use of Sentiment Analysis, the news headlines can be judged to be positive, negative or neutral, then assigned a score based on how the stock price reacted to the news, e.g. stock price increased after a positive article.",
+        "description": "This project investigates the relationship between the publishing of news articles on a company and the impact they have on that company's stock price. Through the use of Sentiment Analysis, the news headlines can be judged to be positive, negative or neutral, then assigned a score based on how the stock price reacted to the news, e.g. stock price increased after a positive article.",
         "programme": "Computer Applications – CASE4",
         "students": [
             {
@@ -2821,7 +2821,7 @@
     },
     {
         "area": "Automation, Cloud Computing, Educational, Natural Language Processing, Software Development, Web Application",
-        "description": "This project aims to improve the process of teachers creating comprehension type questions or students testing themselves, on a text input. As it’s main NLP component, this uses spaCy to analyze inputted text for question extraction. This project runs as a web app with 2 types of ways to input text, either pasting or inputting a .txt file. Once the text is inputted, it can be very efficiently analyzed and questions can be extracted with little to no delay and high fluency, which can then be downloaded with the click of a button! The project is a full backend to frontend development with technologies such as; Python, Django Project, Django Rest Framework, AWS EC2 and Docker, which includes autodeployment and auto-start on EC2 running on a nameserver accessible from any location.",
+        "description": "This project aims to improve the process of teachers creating comprehension type questions or students testing themselves, on a text input. As it's main NLP component, this uses spaCy to analyze inputted text for question extraction. This project runs as a web app with 2 types of ways to input text, either pasting or inputting a .txt file. Once the text is inputted, it can be very efficiently analyzed and questions can be extracted with little to no delay and high fluency, which can then be downloaded with the click of a button! The project is a full backend to frontend development with technologies such as; Python, Django Project, Django Rest Framework, AWS EC2 and Docker, which includes autodeployment and auto-start on EC2 running on a nameserver accessible from any location.",
         "programme": "Computer Applications – CASE4",
         "students": [
             {
@@ -2854,7 +2854,7 @@
         "students": [
             {
                 "email": "donal.oconnor98@mail.dcu.ie",
-                "name": "Donal O’Connor"
+                "name": "Donal O'Connor"
             }
         ],
         "supervisor": "Donal Fitzpatrick",
@@ -2863,7 +2863,7 @@
     },
     {
         "area": "Lean Manufacturing",
-        "description": "Remanufacturing is the part of the reverse supply chain loop, where obsolete products are returned to the remanufacturer to be returned to a new or ‘like new’ condition and then sold to the customer. Remanufacturing adds complexity to the production line due to uncertainties in the rate of returns, demand and the quality of the returned products. Different CONWIP models were tested to determine the optimum model for ensuring reliability and consistency in the quality of the remanufactured products and system service level.",
+        "description": "Remanufacturing is the part of the reverse supply chain loop, where obsolete products are returned to the remanufacturer to be returned to a new or 'like new' condition and then sold to the customer. Remanufacturing adds complexity to the production line due to uncertainties in the rate of returns, demand and the quality of the returned products. Different CONWIP models were tested to determine the optimum model for ensuring reliability and consistency in the quality of the remanufactured products and system service level.",
         "programme": "Mechanical and Manufacturing Engineering – CAM4",
         "students": [
             {
@@ -2905,7 +2905,7 @@
     },
     {
         "area": "Automation, Educational, Filesystems, Software Development, Web Application",
-        "description": "This project aims to recreate the Einstein programming script correction utility found within DCU with Docker technology. This will allow it to be used in other university’s as a standalone containerized web application, and remove any external dependencies relating to DCU.",
+        "description": "This project aims to recreate the Einstein programming script correction utility found within DCU with Docker technology. This will allow it to be used in other university's as a standalone containerized web application, and remove any external dependencies relating to DCU.",
         "programme": "Computer Applications – CASE4",
         "students": [
             {
@@ -2933,7 +2933,7 @@
     },
     {
         "area": "Simulation",
-        "description": "The oscillators are one of the main block of today’s technologies; e.g., telecommunication systems, computer industry. However, the very low-frequency oscillators are important in biomedical, biological and sensor applications. The project involve the numerical and experimental implementation of an effective and economical oscillator.",
+        "description": "The oscillators are one of the main block of today's technologies; e.g., telecommunication systems, computer industry. However, the very low-frequency oscillators are important in biomedical, biological and sensor applications. The project involve the numerical and experimental implementation of an effective and economical oscillator.",
         "programme": "Electronic and Computer Engineering – ECE4",
         "students": [
             {
@@ -3045,7 +3045,7 @@
     },
     {
         "area": "Arduino, Circuit Modeling, Device Design",
-        "description": "The main aim of this project was to instrument a device created last year by a student in DCU. The device was designed to measure rotational resistance in playing fields. Croke Park requested a device that would be able to measure the turfs rotational resistance while a 30Kg load is being applied to the device. The device last year used springs to attempt to reduce the user’s bodyweight to the desired 30Kg. The goal was to instrument the device to be able to measure the weight being applied to the football boot. The device was instrumented successfully using a load cell, after testing was completed it can be said with confidence that the design last year does not limit the load being applied to the boot to 30Kg.",
+        "description": "The main aim of this project was to instrument a device created last year by a student in DCU. The device was designed to measure rotational resistance in playing fields. Croke Park requested a device that would be able to measure the turfs rotational resistance while a 30Kg load is being applied to the device. The device last year used springs to attempt to reduce the user's bodyweight to the desired 30Kg. The goal was to instrument the device to be able to measure the weight being applied to the football boot. The device was instrumented successfully using a load cell, after testing was completed it can be said with confidence that the design last year does not limit the load being applied to the boot to 30Kg.",
         "programme": "Mechanical and Manufacturing Engineering – CAM4",
         "students": [
             {
@@ -3119,7 +3119,7 @@
     },
     {
         "area": "Android, Arduino, Circuit Modeling, Mobile App",
-        "description": "The system comprises of an Android application which uses NFC to interact with locking mechanisms via an Arduino micro controller. This is a system which could be used in any situation where a physical item (e.g. key card) is needed to grant authorised users access to an area/safe/door etc. in a building. As these physical items can often be lost easily, having the same functionality contained within the user’s Android smartphone is much more convenient.",
+        "description": "The system comprises of an Android application which uses NFC to interact with locking mechanisms via an Arduino micro controller. This is a system which could be used in any situation where a physical item (e.g. key card) is needed to grant authorised users access to an area/safe/door etc. in a building. As these physical items can often be lost easily, having the same functionality contained within the user's Android smartphone is much more convenient.",
         "programme": "Computer Applications – CASE4",
         "students": [
             {
@@ -3250,7 +3250,7 @@
         "students": [
             {
                 "email": "caoilfhionn.odriscoll23@mail.dcu.ie",
-                "name": "Caoilfhionn O’Driscoll"
+                "name": "Caoilfhionn O'Driscoll"
             }
         ],
         "supervisor": "Garrett McGuinness",
@@ -3287,7 +3287,7 @@
     },
     {
         "area": "Mechanical Design and Manufacture",
-        "description": "The aim of this project was to design and construct a demonstration rig of the throughfeed centreless grinding manufacturing process. Throughfeed centreless grinding is a process used to produce cylindrical products using a grinding wheel and is driven using a rubberised “regulating” wheel.",
+        "description": "The aim of this project was to design and construct a demonstration rig of the throughfeed centreless grinding manufacturing process. Throughfeed centreless grinding is a process used to produce cylindrical products using a grinding wheel and is driven using a rubberised 'regulating' wheel.",
         "programme": "Mechanical and Manufacturing Engineering – CAM4",
         "students": [
             {
@@ -3357,7 +3357,7 @@
     },
     {
         "area": "Android, Automation, Control Systems, Data Analytics, Databases, Internet of Things, Mobile App, RaspberryPi, Sensor Data, Sensor Technology, Software Development, Statistical Analysis, Wearable_Technology, Wireless Technology",
-        "description": "Entua is an application designed to create customized home automation sequences using a variety of devices, with a focus towards giving the elderly a way of extending the time they can continue to live within their own homes. It uses a combination of open source smart plugs, as well as proximity beacons to track a user’s movement around their home. Using machine learning it analyses a user’s daily routines and suggests ways to automate their most common behavioural patterns.",
+        "description": "Entua is an application designed to create customized home automation sequences using a variety of devices, with a focus towards giving the elderly a way of extending the time they can continue to live within their own homes. It uses a combination of open source smart plugs, as well as proximity beacons to track a user's movement around their home. Using machine learning it analyses a user's daily routines and suggests ways to automate their most common behavioural patterns.",
         "programme": "Computational Problem Solving and Software Development – CPSSD4",
         "students": [
             {

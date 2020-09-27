@@ -43,7 +43,7 @@
     },
     {
         "area": "Biomedical Engineering",
-        "description": "This project investigates the mechanical properties and resorption rate of bioresorbable calcium phosphate cements (CPC). CPCs are currently being developed for treating of ‘burst fractures’ of the spine which are caused by sudden impact trauma, such as falling off a ladder or in a car crash. The aims of the project were to produce CPCs, determine the compressive properties, initial and final setting times and to develop a method of monitoring the resorption rate, the key parameters involved with CPCs.",
+        "description": "This project investigates the mechanical properties and resorption rate of bioresorbable calcium phosphate cements (CPC). CPCs are currently being developed for treating of 'burst fractures' of the spine which are caused by sudden impact trauma, such as falling off a ladder or in a car crash. The aims of the project were to produce CPCs, determine the compressive properties, initial and final setting times and to develop a method of monitoring the resorption rate, the key parameters involved with CPCs.",
         "programme": "Biomedical Engineering",
         "students": [
             {
@@ -127,7 +127,7 @@
     },
     {
         "area": "Web Application, Graphics, Educational",
-        "description": "My project is a “Physics Room” in which the user has complete control over the laws of physics. The project is a web browser application which is written in Three.js. The application is intended to be helpful to secondaryschool students studying physics related subjects and can be used to replicate Leaving Cert-style questions. The behavior of the environment is determined by inputs from the user and feedback is provided to assist learning.",
+        "description": "My project is a 'Physics Room' in which the user has complete control over the laws of physics. The project is a web browser application which is written in Three.js. The application is intended to be helpful to secondaryschool students studying physics related subjects and can be used to replicate Leaving Cert-style questions. The behavior of the environment is determined by inputs from the user and feedback is provided to assist learning.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -155,7 +155,7 @@
     },
     {
         "area": "Artificial Intelligence, Gaming",
-        "description": "This project “Neural Sprint” is a 2-D side scrolling platform game built within the Unity 5 engine that also contains a neural network using the NEAT (Neuroevolution of augmenting topologies) genetic algorithm, both developed using C#. When prompted to do so it will run, learn and evolve to complete the level presented to it. The game will also allow the user to take control and play the game as normal if so desired.",
+        "description": "This project 'Neural Sprint' is a 2-D side scrolling platform game built within the Unity 5 engine that also contains a neural network using the NEAT (Neuroevolution of augmenting topologies) genetic algorithm, both developed using C#. When prompted to do so it will run, learn and evolve to complete the level presented to it. The game will also allow the user to take control and play the game as normal if so desired.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -183,7 +183,7 @@
     },
     {
         "area": "Closed Loop Supply Chains",
-        "description": "This report is compiled to explore the extensive meanings of Closed Loop Supply Chain Management, mostly concentrating on reusable articles. The case study is based on the Supply chain between a pharmaceutical company and one of its suppliers, who have recently changed to a closed loop supply chain using a reusable article. A simulation has been assembled to probe the issues that may arise with this reusable articles and to see if it’s a plausible solution for other companies.",
+        "description": "This report is compiled to explore the extensive meanings of Closed Loop Supply Chain Management, mostly concentrating on reusable articles. The case study is based on the Supply chain between a pharmaceutical company and one of its suppliers, who have recently changed to a closed loop supply chain using a reusable article. A simulation has been assembled to probe the issues that may arise with this reusable articles and to see if it's a plausible solution for other companies.",
         "programme": "Manufacturing Engineering with Business",
         "students": [
             {
@@ -211,12 +211,12 @@
     },
     {
         "area": "Lean Manufacturing",
-        "description": "Lean and Six Sigma tools have been widely applied to drive efficiency in manufacturing processes. The aim of this project is to assess the appropriateness of Lean/Six Sigma approaches for water conservation in a manufacturing environment. The objective of this project is to assess individual methods, for example, DMAIC Process, vertical integration, and their appropriateness for use in manufacturing. The process includes developing a Lean/Six Sigma toolkit and by using a case study, assessing the toolkit’s performance.",
+        "description": "Lean and Six Sigma tools have been widely applied to drive efficiency in manufacturing processes. The aim of this project is to assess the appropriateness of Lean/Six Sigma approaches for water conservation in a manufacturing environment. The objective of this project is to assess individual methods, for example, DMAIC Process, vertical integration, and their appropriateness for use in manufacturing. The process includes developing a Lean/Six Sigma toolkit and by using a case study, assessing the toolkit's performance.",
         "programme": "Mechanical and Manufacturing Engineering",
         "students": [
             {
                 "email": "fearghal.ohare3@mail.dcu.ie",
-                "name": "Fearghal O’Hare"
+                "name": "Fearghal O'Hare"
             }
         ],
         "supervisor": "Lorna.Fitzsimons@dcu.ie",
@@ -261,7 +261,7 @@
     },
     {
         "area": "Model View Controller, Web Application",
-        "description": "This web application facilitates the activities of scrum along with being integrated with Git. Users can create projects which contain project members, the product backlog and sprints. In addition, the project can be connected to the project’s Git repository. Once connected, users can submit issues with pieces of code that they are having difficulty with. These issues can be solved by other team members, committed and pushed back to origin.",
+        "description": "This web application facilitates the activities of scrum along with being integrated with Git. Users can create projects which contain project members, the product backlog and sprints. In addition, the project can be connected to the project's Git repository. Once connected, users can submit issues with pieces of code that they are having difficulty with. These issues can be solved by other team members, committed and pushed back to origin.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -406,7 +406,7 @@
         "students": [
             {
                 "email": "cian.ohagan5@mail.dcu.ie",
-                "name": "Cian O’Hagan"
+                "name": "Cian O'Hagan"
             }
         ],
         "supervisor": "Tamas.Szecsi@dcu.ie",
@@ -462,7 +462,7 @@
         "students": [
             {
                 "email": "shane.oneill65@mail.dcu.ie",
-                "name": "Shane O’Neill"
+                "name": "Shane O'Neill"
             }
         ],
         "supervisor": "David.Sinclair@dcu.ie",
@@ -485,12 +485,12 @@
     },
     {
         "area": "Microservice Deployment",
-        "description": "Microservice architectures are appealing because they allow individual components of an application to be deployed and scaled independently. However, some of these components are too small or infrequently used to warrant the provisioning of a server specifically for that microservice. The notion of ‘serverless microservices’ addresses this issue by providing a platform on which developers can host a number of these smaller microservices. The platform automates the execution of these microservices as corresponding messages flow inwards.",
+        "description": "Microservice architectures are appealing because they allow individual components of an application to be deployed and scaled independently. However, some of these components are too small or infrequently used to warrant the provisioning of a server specifically for that microservice. The notion of 'serverless microservices' addresses this issue by providing a platform on which developers can host a number of these smaller microservices. The platform automates the execution of these microservices as corresponding messages flow inwards.",
         "programme": "Computer Applications",
         "students": [
             {
                 "email": "jacob.okeeffe22@mail.dcu.ie",
-                "name": "Jacob O’Keeffe"
+                "name": "Jacob O'Keeffe"
             }
         ],
         "supervisor": "Paul.M.Clarke@dcu.ie",
@@ -513,7 +513,7 @@
     },
     {
         "area": "GPS GIS, Databases, Arduino, Internet of Things, Sensor Data, Sensor Technology, Wireless Technology, Telecommunications",
-        "description": "Project Whurl uses an Arduino system to capture GPS data to measure a player’s performance, where post-match a manager can review completed statistics on his/her dashboard. As well as this, managers can also be informed in real-time if a player has incurred in an injury suddenly or has developed an injury during the period of the game. The system also suggests the immediate action a manager should take with regards to his/ her player’s safety within the real-time notification.",
+        "description": "Project Whurl uses an Arduino system to capture GPS data to measure a player's performance, where post-match a manager can review completed statistics on his/her dashboard. As well as this, managers can also be informed in real-time if a player has incurred in an injury suddenly or has developed an injury during the period of the game. The system also suggests the immediate action a manager should take with regards to his/ her player's safety within the real-time notification.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -591,7 +591,7 @@
     },
     {
         "area": "Artificial Intelligence, Web Application",
-        "description": "This project allows users to play Heads-Up Texas hold’em poker. Heads-Up poker is one-on-one poker in which the blinds increase as the game progresses. The project consists of the Poker AI, developed in Java, and an AngularJS/HTML5 front end which allows users to play a game against the AI in their web browser.",
+        "description": "This project allows users to play Heads-Up Texas hold'em poker. Heads-Up poker is one-on-one poker in which the blinds increase as the game progresses. The project consists of the Poker AI, developed in Java, and an AngularJS/HTML5 front end which allows users to play a game against the AI in their web browser.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -605,7 +605,7 @@
     },
     {
         "area": "Mobile App, Databases, Android",
-        "description": "MyMedication is a notification-based medication scheduler that helps to assist the user in organising, tracking and taking their medications. It is designed to simplify the process and remove any uncertainties. MyMedication informs the user with constant notifications and alerts until they have interacted with our application and have selected they have taken their medications. The user can also designate a next of kin/carer who will receive these alerts when the user hasn’t taken their medications.",
+        "description": "MyMedication is a notification-based medication scheduler that helps to assist the user in organising, tracking and taking their medications. It is designed to simplify the process and remove any uncertainties. MyMedication informs the user with constant notifications and alerts until they have interacted with our application and have selected they have taken their medications. The user can also designate a next of kin/carer who will receive these alerts when the user hasn't taken their medications.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -623,7 +623,7 @@
     },
     {
         "area": "Web Application",
-        "description": "Absentify is an absence tracking web application, initially aimed at schools. It allows parents/guardians to digitally submit the reason for their child’s absence to the school. Absentify replaces the current inefficient pen and paper note system. It automates the system, making it more efficient for both parents/guardians and schools. Parents/guardians are more likely to submit the required information and it is stored in a single repository. The application is built using the MEAN stack.",
+        "description": "Absentify is an absence tracking web application, initially aimed at schools. It allows parents/guardians to digitally submit the reason for their child's absence to the school. Absentify replaces the current inefficient pen and paper note system. It automates the system, making it more efficient for both parents/guardians and schools. Parents/guardians are more likely to submit the required information and it is stored in a single repository. The application is built using the MEAN stack.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -655,7 +655,7 @@
     },
     {
         "area": "Web Application",
-        "description": "CourseHappy is a unique web application designed to guide potential third level students to their future academic path. Our application is tailored to help students find a third level college and course that caters to their personality and individual aptitude level. The psychometric questions asked by our application will depend on the users’ choice of field, e.g. computing, nursing, etc. Our unique scoring mechanism will present their results of college courses in a table format making their college preference effortless!",
+        "description": "CourseHappy is a unique web application designed to guide potential third level students to their future academic path. Our application is tailored to help students find a third level college and course that caters to their personality and individual aptitude level. The psychometric questions asked by our application will depend on the users' choice of field, e.g. computing, nursing, etc. Our unique scoring mechanism will present their results of college courses in a table format making their college preference effortless!",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -673,7 +673,7 @@
     },
     {
         "area": "Mobile App, Android",
-        "description": "This project is an Android application that uses the Google Maps API and the user’s current location to create a lecture attendance recording platform. This application will use the user’s timetable to show on the map where the user’s next lecture is and also the lecture time. Once the time approaches the lecture time the application will record the lecture as ‘Attended’-based on the user’s current location and the lecture location.",
+        "description": "This project is an Android application that uses the Google Maps API and the user's current location to create a lecture attendance recording platform. This application will use the user's timetable to show on the map where the user's next lecture is and also the lecture time. Once the time approaches the lecture time the application will record the lecture as 'Attended'-based on the user's current location and the lecture location.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -715,7 +715,7 @@
     },
     {
         "area": "Telecommunications, Power Electronics, Circuit Modeling, Arduino",
-        "description": "The Earth produces electromagnetic radiation due to natural phenomena such as thunderstorms or aurorae and can also can experience “sudden ionospheric disturbances” (SIDs) during solar flares. These disrupt telecommunications and GPS systems. SIDs are especially easy to measure in the VLF spectral region (e.g. 3-30+ kHz). This project discusses the design of a VLF receiver and will use captured data to extract information on the state of the Earth’s ionosphere.",
+        "description": "The Earth produces electromagnetic radiation due to natural phenomena such as thunderstorms or aurorae and can also can experience 'sudden ionospheric disturbances' (SIDs) during solar flares. These disrupt telecommunications and GPS systems. SIDs are especially easy to measure in the VLF spectral region (e.g. 3-30+ kHz). This project discusses the design of a VLF receiver and will use captured data to extract information on the state of the Earth's ionosphere.",
         "programme": "Information and Communications Engineering",
         "students": [
             {
@@ -729,7 +729,7 @@
     },
     {
         "area": "Android, Artificial Intelligence, Data Analytics, Machine Learning, Computer Vision",
-        "description": "Displaying appropriate advertisements using machine learning techniques in a custom collaborative filtering system to passersby based on their interests and demographics. Interests are supplied by an installable Android library coordinating with nearby low energy bluetooth beacons placed around advertisement displays. Demographics are gained through cameras placed around these advertisement displays, images are then sent to Microsoft’s Computer Vision API for image classification. Using a combination of this data an appropriate advertisement is chosen.",
+        "description": "Displaying appropriate advertisements using machine learning techniques in a custom collaborative filtering system to passersby based on their interests and demographics. Interests are supplied by an installable Android library coordinating with nearby low energy bluetooth beacons placed around advertisement displays. Demographics are gained through cameras placed around these advertisement displays, images are then sent to Microsoft's Computer Vision API for image classification. Using a combination of this data an appropriate advertisement is chosen.",
         "programme": "Computational Problem Solving and Software Development",
         "students": [
             {
@@ -807,7 +807,7 @@
     },
     {
         "area": "Artificial Intelligence, Simulation",
-        "description": "Altruistic traits have survived in humans and other species for thousands of years – the ability to cooperate provides an evolutionary advantage. But in the zero-sum game of survival, being too trusting is fatal. This project was built to provide a simulation environment to measure the performance of various strategies among creatures competing for survival. Agents controlled by AI algorithms move about a 3D landscape collecting and/ or sharing ‘food’ needed for their survival and reproduction.",
+        "description": "Altruistic traits have survived in humans and other species for thousands of years – the ability to cooperate provides an evolutionary advantage. But in the zero-sum game of survival, being too trusting is fatal. This project was built to provide a simulation environment to measure the performance of various strategies among creatures competing for survival. Agents controlled by AI algorithms move about a 3D landscape collecting and/ or sharing 'food' needed for their survival and reproduction.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -821,7 +821,7 @@
     },
     {
         "area": "Software Development, Web Application, Mobile App, Android",
-        "description": "Managers, in real-time, can see tasks and employee locations on a map, assign tasks and monitor their execution. Employees can see all tasks they have been assigned to on their mobile app, constantly report task status, inform about materials used and take a photo of the work done. Clients sign completed task by leaving their signature in the employee’s eTasker app and rate quality of received service.",
+        "description": "Managers, in real-time, can see tasks and employee locations on a map, assign tasks and monitor their execution. Employees can see all tasks they have been assigned to on their mobile app, constantly report task status, inform about materials used and take a photo of the work done. Clients sign completed task by leaving their signature in the employee's eTasker app and rate quality of received service.",
         "programme": "Computational Problem Solving and Software Development",
         "students": [
             {
@@ -863,7 +863,7 @@
     },
     {
         "area": "Artificial Intelligence, Data Analytics, Image Video Processing, Natural Language Processing, Software Development",
-        "description": "This project classifies basic frame captions from a neural network using natural language processing, exploits alternative tagging to optimise and enhance the captions leading to the derivation of an overall augmented caption for Vine videos. This project uses a variety of technologies including IBM’s Watson image recognition and natural language processing together with off-the-shelf image tagging APIs.",
+        "description": "This project classifies basic frame captions from a neural network using natural language processing, exploits alternative tagging to optimise and enhance the captions leading to the derivation of an overall augmented caption for Vine videos. This project uses a variety of technologies including IBM's Watson image recognition and natural language processing together with off-the-shelf image tagging APIs.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -877,7 +877,7 @@
     },
     {
         "area": "Automation, Information Retrieval, Social Networking",
-        "description": "CloudCleanse is a website-based service that will help the user review and sanitise all of their social media accounts. Our system will automatically crawl through the user’s social media account and by using a list of predetermined blacklisted words we can detect any adverse behaviour they may wish to review and then delete.",
+        "description": "CloudCleanse is a website-based service that will help the user review and sanitise all of their social media accounts. Our system will automatically crawl through the user's social media account and by using a list of predetermined blacklisted words we can detect any adverse behaviour they may wish to review and then delete.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -895,7 +895,7 @@
     },
     {
         "area": "Educational, Gaming, Computer Assisted Language Learning (CALL)",
-        "description": "This project is a video game application to help students learn a new language. Each game targets a different area of the language learning process. The teacher can view the student’s results in these games to see where improvement is needed. The project aims to add enjoyment and interactivity to language learning while improving the student’s ability.",
+        "description": "This project is a video game application to help students learn a new language. Each game targets a different area of the language learning process. The teacher can view the student's results in these games to see where improvement is needed. The project aims to add enjoyment and interactivity to language learning while improving the student's ability.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -955,7 +955,7 @@
     },
     {
         "area": "Android, Computer Vision, Information Retrieval, Image Video Processing, Mobile App",
-        "description": "This Android application allows users with skin issues to monitor changes as early as possible and to take action. Using intelligent image processing, this application can monitor several of the user’s skin irregularities such as melanomas, psoriasis and acne. Using insights from dermatology, this application promotes long term self-examination and allows users to share their results and records with dermatologists and doctors.This application also retrieves information for its users, relevant to their specific skin concern.",
+        "description": "This Android application allows users with skin issues to monitor changes as early as possible and to take action. Using intelligent image processing, this application can monitor several of the user's skin irregularities such as melanomas, psoriasis and acne. Using insights from dermatology, this application promotes long term self-examination and allows users to share their results and records with dermatologists and doctors.This application also retrieves information for its users, relevant to their specific skin concern.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -983,7 +983,7 @@
     },
     {
         "area": "Mobile App, Optical Character Recognition, Android",
-        "description": "This application allows multiple users to store their details (names and allergies) and the application notifies the user whether it is safe to consume a product, based on this information. The application will prompt the user to take a photo of the allergen label of the product. The allergens will be read in and, if need be, translated into the user’s preferred language before checking the user's known allergens.",
+        "description": "This application allows multiple users to store their details (names and allergies) and the application notifies the user whether it is safe to consume a product, based on this information. The application will prompt the user to take a photo of the allergen label of the product. The allergens will be read in and, if need be, translated into the user's preferred language before checking the user's known allergens.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -1043,7 +1043,7 @@
     },
     {
         "area": "Robotics, Mechatronic Systems, Device Design",
-        "description": "This project proposes a solution for the problem of sensory saturation in aircraft pilots. Research has shown this problem to be a significant cause of aircraft accidents. The project uses flight simulation software to provide information about the condition of an aircraft in flight, including ‘slip’ and angle-of-attack. The information is processed to check for out-of-balance/dangerous flight conditions, then activates a haptic feedback device which generate vibrations to notify the pilot of these flight conditions.",
+        "description": "This project proposes a solution for the problem of sensory saturation in aircraft pilots. Research has shown this problem to be a significant cause of aircraft accidents. The project uses flight simulation software to provide information about the condition of an aircraft in flight, including 'slip' and angle-of-attack. The information is processed to check for out-of-balance/dangerous flight conditions, then activates a haptic feedback device which generate vibrations to notify the pilot of these flight conditions.",
         "programme": "Mechatronic Engineering",
         "students": [
             {
@@ -1099,7 +1099,7 @@
     },
     {
         "area": "Mobile App",
-        "description": "Takeaway Direct is a mobile application which provides users with a ‘one stop shop’ for all their takeaway needs, offering a more personalised ordering experience. Takeaway Direct tracks the user’s location and based on their location shows the most popular meal deal/meals in their delivery radius and allows users to order online or call the restaurant directly. Save time on searching different menus, see the most popular meals with one tap.",
+        "description": "Takeaway Direct is a mobile application which provides users with a 'one stop shop' for all their takeaway needs, offering a more personalised ordering experience. Takeaway Direct tracks the user's location and based on their location shows the most popular meal deal/meals in their delivery radius and allows users to order online or call the restaurant directly. Save time on searching different menus, see the most popular meals with one tap.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -1201,7 +1201,7 @@
     },
     {
         "area": "Data Analytics, Model View Controller, Web Application",
-        "description": "Art-Drop is an interactive web application developed using the Spring framework. It aims to fill in the gap between browse and search by tailoring art recommendations specifically to a user’s taste. The application examines popularity data and conjointly explores user preferences to make topical suggestions to users, thus allowing them to continually discover new art pieces, galleries and artists. In addition, Art-Drop acts as a social platform for kindred artists, enabling them to connect and interact with each other.",
+        "description": "Art-Drop is an interactive web application developed using the Spring framework. It aims to fill in the gap between browse and search by tailoring art recommendations specifically to a user's taste. The application examines popularity data and conjointly explores user preferences to make topical suggestions to users, thus allowing them to continually discover new art pieces, galleries and artists. In addition, Art-Drop acts as a social platform for kindred artists, enabling them to connect and interact with each other.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -1355,7 +1355,7 @@
     },
     {
         "area": "Automotive Technology, Gaming, Graphics, Image Video Processing, Vehicle Control, Arduino",
-        "description": "This project investigates the use of FPGA technology as a cost-effective method to achieve live video overlays to be used for “heads-up” navigation of aircraft and other vehicles. The overlays are used to display data from sensors that are connected to the device. The project also involves building a custom HID device. A Xilinx Zynq platform is being used as the development platform with an Arduino being used as a sensor slave device.",
+        "description": "This project investigates the use of FPGA technology as a cost-effective method to achieve live video overlays to be used for 'heads-up' navigation of aircraft and other vehicles. The overlays are used to display data from sensors that are connected to the device. The project also involves building a custom HID device. A Xilinx Zynq platform is being used as the development platform with an Arduino being used as a sensor slave device.",
         "programme": "Electronic and Computer Engineering",
         "students": [
             {
@@ -1393,7 +1393,7 @@
         ],
         "supervisor": "Renaat.Verbruggen@dcu.ie",
         "technology": "C#",
-        "title": "It’s Dangerous To Go Alone!"
+        "title": "It's Dangerous To Go Alone!"
     },
     {
         "area": "Arduino, Control Systems, Mechatronic Systems, Sensor Data",
@@ -1439,7 +1439,7 @@
     },
     {
         "area": "Renewable Energy Technology",
-        "description": "With the increasing demand for energy, green renewable energies have recently gained more attention. This project aims to investigate the use of organic waste (fruit waste) to produce biogas. Mechanical pre-treatment was applied to the feedstock used to verify its impact extent in methane production. The conversion technology used in this project is anaerobic digestion (AD) as it’s the most common method for biomass conversion.",
+        "description": "With the increasing demand for energy, green renewable energies have recently gained more attention. This project aims to investigate the use of organic waste (fruit waste) to produce biogas. Mechanical pre-treatment was applied to the feedstock used to verify its impact extent in methane production. The conversion technology used in this project is anaerobic digestion (AD) as it's the most common method for biomass conversion.",
         "programme": "Manufacturing Engineering with Business",
         "students": [
             {
@@ -1453,7 +1453,7 @@
     },
     {
         "area": "Simulation",
-        "description": "This project is a simulation of the history of Ireland, modelling the population and the major events of Irish history to determine the impact they’ve had on the modern day population of the island. The successive waves of British invasion and plantation and the religious barriers created by them are modelled to investigate how different groups integrated into the larger Irish population and how far back the most recent common ancestor of everyone alive in Ireland, excluding recent immigration.",
+        "description": "This project is a simulation of the history of Ireland, modelling the population and the major events of Irish history to determine the impact they've had on the modern day population of the island. The successive waves of British invasion and plantation and the religious barriers created by them are modelled to investigate how different groups integrated into the larger Irish population and how far back the most recent common ancestor of everyone alive in Ireland, excluding recent immigration.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -1495,7 +1495,7 @@
     },
     {
         "area": "Additive Manufacturing",
-        "description": "Additive manufacturing of metals faces a common problem of producing rough surface objects.This projects aims to improve the object’s surface, by analysing and testing the effect of the different parameters of the laser surface smoothing process on stainless steel objects, manufactured by metal additive manufacturing process or selective laser melting.",
+        "description": "Additive manufacturing of metals faces a common problem of producing rough surface objects.This projects aims to improve the object's surface, by analysing and testing the effect of the different parameters of the laser surface smoothing process on stainless steel objects, manufactured by metal additive manufacturing process or selective laser melting.",
         "programme": "Manufacturing Engineering with Business",
         "students": [
             {
@@ -1509,12 +1509,12 @@
     },
     {
         "area": "Web Application",
-        "description": "This project’s aim is to integrate project management into the cloud in one unique web application. It combines a social media strength of rapid and efficient communication with optimised and proven project management techniques, centralised in one location that is simple yet sleek from basic projects to complex. This is a unique niche that centralises a project’s data into one location with file sharing. This removes multiple programs needed to fully integrate projects into the cloud, it’s a master key.",
+        "description": "This project's aim is to integrate project management into the cloud in one unique web application. It combines a social media strength of rapid and efficient communication with optimised and proven project management techniques, centralised in one location that is simple yet sleek from basic projects to complex. This is a unique niche that centralises a project's data into one location with file sharing. This removes multiple programs needed to fully integrate projects into the cloud, it's a master key.",
         "programme": "Computer Applications",
         "students": [
             {
                 "email": "james.ohara5@mail.dcu.ie",
-                "name": "James O’Hara"
+                "name": "James O'Hara"
             }
         ],
         "supervisor": "Renaat.Verbruggen@dcu.ie",
@@ -1584,7 +1584,7 @@
         "students": [
             {
                 "email": "tadhg.omahony6@mail.dcu.ie",
-                "name": "Tadhg O’Mahony"
+                "name": "Tadhg O'Mahony"
             }
         ],
         "supervisor": "Garrett.McGuinness@dcu.ie",
@@ -1607,7 +1607,7 @@
     },
     {
         "area": "3D Modelling, Artificial Intelligence, Gaming",
-        "description": "This project investigates which factors produce the highest tension levels during a horror game. I have created a game for PC named ‘Breathless’ in the Unity Game Engine, with the 3D models having been created using Blender 3D Graphics and Animation Software. Different modes have been created such as the addition of music, jump scares and seeing the enemy vs not seeing the enemy to discover what combination of ingredients create the most nerve-racking experience for the player.",
+        "description": "This project investigates which factors produce the highest tension levels during a horror game. I have created a game for PC named 'Breathless' in the Unity Game Engine, with the 3D models having been created using Blender 3D Graphics and Animation Software. Different modes have been created such as the addition of music, jump scares and seeing the enemy vs not seeing the enemy to discover what combination of ingredients create the most nerve-racking experience for the player.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -1635,7 +1635,7 @@
     },
     {
         "area": "Web Application, Artificial Intelligence",
-        "description": "This project is an easy to use web application that allows users to test their Texas hold’em poker skills against an Artificial Intelligence Agent in a game of Heads-Up No-Limit Texas hold’em poker. Heads-up play is the pinnacle of poker play. The Agent is powered by Counterfactual Regret Minimisation (CFR) and has engaged in days of self-play in order to learn how to play. The question is, man vs machine, do you have what it takes to beat it?",
+        "description": "This project is an easy to use web application that allows users to test their Texas hold'em poker skills against an Artificial Intelligence Agent in a game of Heads-Up No-Limit Texas hold'em poker. Heads-up play is the pinnacle of poker play. The Agent is powered by Counterfactual Regret Minimisation (CFR) and has engaged in days of self-play in order to learn how to play. The question is, man vs machine, do you have what it takes to beat it?",
         "programme": "Computer Applications",
         "students": [
             {
@@ -1645,7 +1645,7 @@
         ],
         "supervisor": "David.Sinclair@dcu.ie",
         "technology": "HTML5, Java, CSS, Angular 2",
-        "title": "Heads-Up No-Limit Texas Hold’em Poker Agent"
+        "title": "Heads-Up No-Limit Texas Hold'em Poker Agent"
     },
     {
         "area": "Robotics, Wireless Technology, Vehicle Control, Sensor Data, Mechatronic Systems, Embedded Systems, BeagleBone, Automation",
@@ -1663,7 +1663,7 @@
     },
     {
         "area": "Virtual Reality",
-        "description": "V-Chess is a virtual reality video game based on the classic board game ‘chess’. It utilises Google Cardboard for virtual reality support, paired with Leap Motion sensor for hand tracking. By combining these two pieces of hardware, users can move pieces using their own hands in a virtual environment as if they had a physical board in front of them.",
+        "description": "V-Chess is a virtual reality video game based on the classic board game 'chess'. It utilises Google Cardboard for virtual reality support, paired with Leap Motion sensor for hand tracking. By combining these two pieces of hardware, users can move pieces using their own hands in a virtual environment as if they had a physical board in front of them.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -1696,7 +1696,7 @@
         "students": [
             {
                 "email": "daire.obruachail2@mail.dcu.ie",
-                "name": "Daire O’Bruachail"
+                "name": "Daire O'Bruachail"
             }
         ],
         "supervisor": "David.Sinclair@dcu.ie",
@@ -1747,7 +1747,7 @@
     },
     {
         "area": "Mobile App, GPS GIS, Android, Augmented Reality",
-        "description": "Lens is an Android app that combines location-based services and augmented reality in an innovative fashion. The app allows users to share their commentary at a location and explore the content shared by others by physically navigating in the direction of markers that populate the Lens map. When close enough to posted content, users can use Lens’ augmented reality component to visualise it. Lens is built on the Firebase platform and investigates location search and real-time data, among other concepts.",
+        "description": "Lens is an Android app that combines location-based services and augmented reality in an innovative fashion. The app allows users to share their commentary at a location and explore the content shared by others by physically navigating in the direction of markers that populate the Lens map. When close enough to posted content, users can use Lens' augmented reality component to visualise it. Lens is built on the Firebase platform and investigates location search and real-time data, among other concepts.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -1775,7 +1775,7 @@
     },
     {
         "area": "Databases, Data Analytics, Data Mining, Software Development, Social Networking",
-        "description": "This project analyses the branding of companies on social media. It aims to identify the properties of a successful social media marketing campaign. The application looks at elements such as sentiment, phrasing, inclusion of media, hashtags and individuals tagged in posts. It uses these elements to generate a score for the brand’s marketing campaign and offer suggestions on how to improve it. The software identifies key social influences that would help improve marketing campaigns.",
+        "description": "This project analyses the branding of companies on social media. It aims to identify the properties of a successful social media marketing campaign. The application looks at elements such as sentiment, phrasing, inclusion of media, hashtags and individuals tagged in posts. It uses these elements to generate a score for the brand's marketing campaign and offer suggestions on how to improve it. The software identifies key social influences that would help improve marketing campaigns.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -1817,7 +1817,7 @@
     },
     {
         "area": "Data Analytics, Data Mining, Statistical Analysis",
-        "description": "This project aimed to investigate factors affecting popularity of posts on the social media site ‘reddit.com’ through the use of data mining and analytics methods. These factors were then used to create an integrative predictive model for a post’s overall ‘score’, which was used as a proxy for popularity. Such a model has applications in the creation of viral content, which is highly relevant to effective advertisement on social media.",
+        "description": "This project aimed to investigate factors affecting popularity of posts on the social media site 'reddit.com' through the use of data mining and analytics methods. These factors were then used to create an integrative predictive model for a post's overall 'score', which was used as a proxy for popularity. Such a model has applications in the creation of viral content, which is highly relevant to effective advertisement on social media.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -1831,7 +1831,7 @@
     },
     {
         "area": "Optical Character Recognition, Android, Mobile App, Computer Vision",
-        "description": "Lotto Hub is a lottery application for Android which caters to players of the Irish National Lottery, Daily Million and Euro Millions. Users can check a ticket by using their device’s camera which then extracts the relevant information using OCR. Users can also check current and previous results, view complete prize breakdown and save their favourite numbers.",
+        "description": "Lotto Hub is a lottery application for Android which caters to players of the Irish National Lottery, Daily Million and Euro Millions. Users can check a ticket by using their device's camera which then extracts the relevant information using OCR. Users can also check current and previous results, view complete prize breakdown and save their favourite numbers.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -1887,7 +1887,7 @@
     },
     {
         "area": "Computer Vision, Image Video Processing, Motion Analysis",
-        "description": "Using a webcam, it is possible to estimate where on a computer screen a person is looking. The aim of this project is to design, construct and calibrate an eye-tracking device capable of identifying the user’s gaze and using that information to control the cursor on a screen. The project explores head-mounted versus desk-mounted cameras and various illumination strategies.",
+        "description": "Using a webcam, it is possible to estimate where on a computer screen a person is looking. The aim of this project is to design, construct and calibrate an eye-tracking device capable of identifying the user's gaze and using that information to control the cursor on a screen. The project explores head-mounted versus desk-mounted cameras and various illumination strategies.",
         "programme": "Mechatronic Engineering",
         "students": [
             {
@@ -1901,7 +1901,7 @@
     },
     {
         "area": "Mobile App",
-        "description": "Friends is a social media application for iOS devices. It allows friends create different kinds of events, such as social, sport, culture and many others. From those events, anyone who got invited can see detailed information about the event including a location map, who is coming and who is not. Users of this application can check friends’ locations or events they are going to and can join them. This application makes it easy and faster for friends to hangout together.",
+        "description": "Friends is a social media application for iOS devices. It allows friends create different kinds of events, such as social, sport, culture and many others. From those events, anyone who got invited can see detailed information about the event including a location map, who is coming and who is not. Users of this application can check friends' locations or events they are going to and can join them. This application makes it easy and faster for friends to hangout together.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -1915,7 +1915,7 @@
     },
     {
         "area": "Biomedical Engineering",
-        "description": "This project examines the effect the offset and neck angle of a hip prosthesis have on the stresses present in a patient’s femur bone. A 3D Finite Element Model consisting of a standardised femur bone and a DePuy hip prosthesis model was constructed using ANSYS Workbench and SolidWorks in order to measure the different stresses present in the proximal femur bone as a result of the different offset and neck angle values tested.",
+        "description": "This project examines the effect the offset and neck angle of a hip prosthesis have on the stresses present in a patient's femur bone. A 3D Finite Element Model consisting of a standardised femur bone and a DePuy hip prosthesis model was constructed using ANSYS Workbench and SolidWorks in order to measure the different stresses present in the proximal femur bone as a result of the different offset and neck angle values tested.",
         "programme": "Biomedical Engineering",
         "students": [
             {
@@ -1943,7 +1943,7 @@
     },
     {
         "area": "Sensor Data, 3D Modelling, Biomedical Engineering, Device Design, Fluid Mechanics, Mechanical Design and Manufacture, Mechatronic Systems",
-        "description": "This project investigates the design, manufacture and assembly of a surgical-based water jet system for dissection procedures. The project involves the mechanical design and manufacture of the pumping system, nozzle assembly and testing rig. The system is digitally controlled using a microcontroller which also records sensory data from two flow meters and a pressure sensor. Multiple tests were carried out to prove the capabilities of the system and a liver substitute gel was tested to further prove the system’s capabilities.",
+        "description": "This project investigates the design, manufacture and assembly of a surgical-based water jet system for dissection procedures. The project involves the mechanical design and manufacture of the pumping system, nozzle assembly and testing rig. The system is digitally controlled using a microcontroller which also records sensory data from two flow meters and a pressure sensor. Multiple tests were carried out to prove the capabilities of the system and a liver substitute gel was tested to further prove the system's capabilities.",
         "programme": "Mechatronic Engineering",
         "students": [
             {
@@ -2064,7 +2064,7 @@
             },
             {
                 "email": "luke.oriodan3@mail.dcu.ie",
-                "name": "Luke O’Riordan"
+                "name": "Luke O'Riordan"
             },
             {
                 "email": "michael.omodele2@mail.dcu.ie",
@@ -2105,7 +2105,7 @@
     },
     {
         "area": "Arduino, Circuit Modeling, Cryptography",
-        "description": "The objective of this project was to design, build and test a cost-effective true random number generator, which can generate “high-quality” random numbers at a high rate. This was achieved by creating a source of noise, which was generated by a zener diode. This noise was then sampled on a Teensy 3.2 microcontroller. The numbers that were generated were then tested for correlation using MATLAB and Excel.",
+        "description": "The objective of this project was to design, build and test a cost-effective true random number generator, which can generate 'high-quality' random numbers at a high rate. This was achieved by creating a source of noise, which was generated by a zener diode. This noise was then sampled on a Teensy 3.2 microcontroller. The numbers that were generated were then tested for correlation using MATLAB and Excel.",
         "programme": "Mechatronic Engineering",
         "students": [
             {
@@ -2198,7 +2198,7 @@
         "students": [
             {
                 "email": "luke.oregan4@mail.dcu.ie",
-                "name": "Luke O’Regan"
+                "name": "Luke O'Regan"
             }
         ],
         "supervisor": "Suzanne.Little@dcu.ie",
@@ -2379,12 +2379,12 @@
     },
     {
         "area": "Biomedical Engineering",
-        "description": "This project aims to design, develop and validate a reliable test rig that can generate a thoracolumbar burst fracture. The test rig implements a “drop weight” technique where a known weight is dropped from a known height onto the sample. The kinetic and potential energies required to cause a burst fracture may be determined. By mimicking a naturally occurring fracture, several tests may be performed to understand the relationship between experimental test parameters and the type of spinal fracture introduced.",
+        "description": "This project aims to design, develop and validate a reliable test rig that can generate a thoracolumbar burst fracture. The test rig implements a 'drop weight' technique where a known weight is dropped from a known height onto the sample. The kinetic and potential energies required to cause a burst fracture may be determined. By mimicking a naturally occurring fracture, several tests may be performed to understand the relationship between experimental test parameters and the type of spinal fracture introduced.",
         "programme": "Biomedical Engineering",
         "students": [
             {
                 "email": "martina.omalley24@mail.dcu.ie",
-                "name": "Martina O’Malley"
+                "name": "Martina O'Malley"
             }
         ],
         "supervisor": "Nicholas.Dunne@dcu.ie",
@@ -2407,7 +2407,7 @@
     },
     {
         "area": "Social Networking",
-        "description": "The Greenpower Education Trust’s competition is an electric car challenge which requires students, guided by DCU, to design, build and then race an electric car. This project involves liaison with the school teams and the main objectives include the design of a website to promote the Greenpower car challenge, linking with DCU’s communications and marketing team to promote activities during the year and making frequent school visits and promotion at open days and other events during the academic year.",
+        "description": "The Greenpower Education Trust's competition is an electric car challenge which requires students, guided by DCU, to design, build and then race an electric car. This project involves liaison with the school teams and the main objectives include the design of a website to promote the Greenpower car challenge, linking with DCU's communications and marketing team to promote activities during the year and making frequent school visits and promotion at open days and other events during the academic year.",
         "programme": "Manufacturing Engineering with Business",
         "students": [
             {
@@ -2477,7 +2477,7 @@
     },
     {
         "area": "Image Video Processing, Web Application",
-        "description": "This “Face Recognition System” will be a web application tool used for both students for educational purposes and for business for institutional use. The goal is to compare and contrast three different face recognition algorithms in the context of speed, accuracy and description. Whilst also having the purpose of being implemented within businesses for security reasons.",
+        "description": "This 'Face Recognition System' will be a web application tool used for both students for educational purposes and for business for institutional use. The goal is to compare and contrast three different face recognition algorithms in the context of speed, accuracy and description. Whilst also having the purpose of being implemented within businesses for security reasons.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -2505,7 +2505,7 @@
     },
     {
         "area": "Databases, Mobile App, Web Application",
-        "description": "The ADAPT Centre’s MT group require the development of a web-based data portal, where contributors can upload their data through a simple, easy to use process. The portal functions will include validation checks for the file formats. The portal’s front end is implemented with Angular 2 and the portal’s back end is implemented using a Python framework called Flask. The two services will interact through REST, communicating over HTTP – making requests to specific URLs.",
+        "description": "The ADAPT Centre's MT group require the development of a web-based data portal, where contributors can upload their data through a simple, easy to use process. The portal functions will include validation checks for the file formats. The portal's front end is implemented with Angular 2 and the portal's back end is implemented using a Python framework called Flask. The two services will interact through REST, communicating over HTTP – making requests to specific URLs.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -2552,7 +2552,7 @@
         "students": [
             {
                 "email": "eoin.ofriel2@mail.dcu.ie",
-                "name": "Eóin O’Friel"
+                "name": "Eóin O'Friel"
             }
         ],
         "supervisor": "Cathal.Gurrin@dcu.ie",
@@ -2561,7 +2561,7 @@
     },
     {
         "area": "Android, Databases, Data Analytics, Mobile App, Social Networking, Web Application",
-        "description": "Live a-Side is a sports organisation and management system, consisting of a mobile application and a web application. The mobile app simplifies the organisation of games and provides a platform for users to book the use of sports facilities through its unique timetabling feature. The web app serves as a booking management system for sports facilities and provides data analytics for owners to make more educated business decisions. It’s your sport – you decide the time, you decide the place.",
+        "description": "Live a-Side is a sports organisation and management system, consisting of a mobile application and a web application. The mobile app simplifies the organisation of games and provides a platform for users to book the use of sports facilities through its unique timetabling feature. The web app serves as a booking management system for sports facilities and provides data analytics for owners to make more educated business decisions. It's your sport – you decide the time, you decide the place.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -2649,7 +2649,7 @@
     },
     {
         "area": "Internet of Things, Sensor Data",
-        "description": "This project looks at creating an IoT-based support to the triage process. Several sensors are interfaced to a NodeMCU, creating a sensor network. This sensor network would be fitted to a patient waiting in an A&E department and would gather relevant health data on the patient. This data would then be sent over WiFi to a central computer that analyses the incoming data, generates an action list in real-time and flags if a patient’s health is deteriorating while waiting.",
+        "description": "This project looks at creating an IoT-based support to the triage process. Several sensors are interfaced to a NodeMCU, creating a sensor network. This sensor network would be fitted to a patient waiting in an A&E department and would gather relevant health data on the patient. This data would then be sent over WiFi to a central computer that analyses the incoming data, generates an action list in real-time and flags if a patient's health is deteriorating while waiting.",
         "programme": "Electronic and Computer Engineering",
         "students": [
             {
@@ -2695,7 +2695,7 @@
     },
     {
         "area": "Web Application",
-        "description": "The Natural Language Learner is a web-based system to assist and encourage the learning of the language Nawat (an endangered language from Central America). The platform aims to engage with people of all ages to enable them to learn the language. The system has various levels of difficulty and there are quiz-based games to test learners’ knowledge at each level. The infrastructure of the system could be used to develop language learning resource for other endangered languages.",
+        "description": "The Natural Language Learner is a web-based system to assist and encourage the learning of the language Nawat (an endangered language from Central America). The platform aims to engage with people of all ages to enable them to learn the language. The system has various levels of difficulty and there are quiz-based games to test learners' knowledge at each level. The infrastructure of the system could be used to develop language learning resource for other endangered languages.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -2709,7 +2709,7 @@
     },
     {
         "area": "Data Analytics",
-        "description": "This research project is inspired by Klout Score and Goss.ie’s list of 2016’s top 100 Irish Social Media Influencers. Klout don’t reveal their scoring system and we don’t know how Goss.ie generated this list. How did this list come to be? What makes these users influential? The goal is to investigate differences between these influencers by creating an algorithm to score them based on Twitter activity and using this data to create networks of followers allowing analysis of the influencers.",
+        "description": "This research project is inspired by Klout Score and Goss.ie's list of 2016's top 100 Irish Social Media Influencers. Klout don't reveal their scoring system and we don't know how Goss.ie generated this list. How did this list come to be? What makes these users influential? The goal is to investigate differences between these influencers by creating an algorithm to score them based on Twitter activity and using this data to create networks of followers allowing analysis of the influencers.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -2723,7 +2723,7 @@
     },
     {
         "area": "Automation, Sensor Technology, Software Development, Wireless Technology",
-        "description": "This project is to improve control on the central conveyor system, display the current status on an online dashboard and develop record keeping for statistical analysis of the performance of the whole system. It emphasises on establishing a networked connection between PLC’s implementing the system to industry 4.0.",
+        "description": "This project is to improve control on the central conveyor system, display the current status on an online dashboard and develop record keeping for statistical analysis of the performance of the whole system. It emphasises on establishing a networked connection between PLC's implementing the system to industry 4.0.",
         "programme": "Mechanical and Manufacturing Engineering",
         "students": [
             {
@@ -2812,7 +2812,7 @@
         "students": [
             {
                 "email": "robert.oconnor47@mail.dcu.ie",
-                "name": "Robert O’Connor"
+                "name": "Robert O'Connor"
             }
         ],
         "supervisor": "David.Sinclair@dcu.ie",
@@ -2877,7 +2877,7 @@
     },
     {
         "area": "Android, Mobile App",
-        "description": "FlightMode is a mobile application designed to improve a passenger’s experience in the airport by providing real-time flight information and exclusive offers. The user scans the QR code on their boarding pass and receives their personalised flight details, including gate number, and opening time via push notifications, saving them time and effort checking airport screens. Airport businesses can use the app as a platform to promote their products to customers, creating sales opportunities and allowing passengers to shop efficiently.",
+        "description": "FlightMode is a mobile application designed to improve a passenger's experience in the airport by providing real-time flight information and exclusive offers. The user scans the QR code on their boarding pass and receives their personalised flight details, including gate number, and opening time via push notifications, saving them time and effort checking airport screens. Airport businesses can use the app as a platform to promote their products to customers, creating sales opportunities and allowing passengers to shop efficiently.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -2895,7 +2895,7 @@
     },
     {
         "area": "Lean Manufacturing, Mechanical Design and Manufacture",
-        "description": "This project will require the development of new raw material feed, interlocks and control to enable the station on the FMS rig perform the required assembly task more efficiently. The performance improvement will be determined on the basis of analysis of the design of the current system, new operation specification and implementation under control of a Siemens PLC. This will then communicate KPI’s to the central PLC over the network to provide information on system performance.",
+        "description": "This project will require the development of new raw material feed, interlocks and control to enable the station on the FMS rig perform the required assembly task more efficiently. The performance improvement will be determined on the basis of analysis of the design of the current system, new operation specification and implementation under control of a Siemens PLC. This will then communicate KPI's to the central PLC over the network to provide information on system performance.",
         "programme": "Mechatronic Engineering",
         "students": [
             {
@@ -2932,7 +2932,7 @@
             },
             {
                 "email": "philip.odricoll4@mail.dcu.ie",
-                "name": "Philip O’Driscol"
+                "name": "Philip O'Driscol"
             }
         ],
         "supervisor": "Cathal.Gurrin@dcu.ie",
@@ -2988,7 +2988,7 @@
         "students": [
             {
                 "email": "brid.oneill34@mail.dcu.ie",
-                "name": "Bríd O’Neill"
+                "name": "Bríd O'Neill"
             }
         ],
         "supervisor": "Patrick.McNally@dcu.ie",
@@ -3011,7 +3011,7 @@
     },
     {
         "area": "Mobile Business Intelligence",
-        "description": "VOX is a mobile interface that allows a user to get answers to their data query questions instantly using natural language against a business intelligence backend system. When the user’s question is sent to VOX, it converts the question to a data query and then returns the matching data. VOX enables users to look at their frequently asked questions and interact with an intuitive chart if it’s returned with their answer to give them a better understanding of their data.",
+        "description": "VOX is a mobile interface that allows a user to get answers to their data query questions instantly using natural language against a business intelligence backend system. When the user's question is sent to VOX, it converts the question to a data query and then returns the matching data. VOX enables users to look at their frequently asked questions and interact with an intuitive chart if it's returned with their answer to give them a better understanding of their data.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -3067,7 +3067,7 @@
     },
     {
         "area": "Mobile App, Audio Processing",
-        "description": "BeatBlox is an audio production and performance app for iOS. The app allows users to record, import and edit a collection of audio samples. These sound bites can be either triggered live or carefully arranged into rhythmic patterns from the app’s sequencer. Furthermore, the arranged sounds can then be manipulated using the set of audio processing effects. The parameters of these effects can be mapped to the device’s accelerometer allowing for creative and dynamic live performances.",
+        "description": "BeatBlox is an audio production and performance app for iOS. The app allows users to record, import and edit a collection of audio samples. These sound bites can be either triggered live or carefully arranged into rhythmic patterns from the app's sequencer. Furthermore, the arranged sounds can then be manipulated using the set of audio processing effects. The parameters of these effects can be mapped to the device's accelerometer allowing for creative and dynamic live performances.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -3081,7 +3081,7 @@
     },
     {
         "area": "Device Design, Internet of Things, Wireless Technology",
-        "description": "The project is based around the EZ430 Chronos, a reprogrammable smartwatch. The on-board sensors are programmed to detect the user’s physical activity to determine physical parameters such as distance travelled, calories burned, etc. These parameters are then sent via the watches RF protocol, simpliciTI, to a Raspberry Pi. The Raspberry Pi acts as storage for the data and runs an Apache web server to display the user’s parameters.",
+        "description": "The project is based around the EZ430 Chronos, a reprogrammable smartwatch. The on-board sensors are programmed to detect the user's physical activity to determine physical parameters such as distance travelled, calories burned, etc. These parameters are then sent via the watches RF protocol, simpliciTI, to a Raspberry Pi. The Raspberry Pi acts as storage for the data and runs an Apache web server to display the user's parameters.",
         "programme": "Electronic and Computer Engineering",
         "students": [
             {
@@ -3151,7 +3151,7 @@
     },
     {
         "area": "Android",
-        "description": "The application was developed to help young learners learn the letters of the alphabet. The app checks if the letters have been written correctly. It also stores statistics on the learner’s letter writing development that can be reviewed by a parent or a teacher. The app is designed for young learners with no prior knowledge of letters.",
+        "description": "The application was developed to help young learners learn the letters of the alphabet. The app checks if the letters have been written correctly. It also stores statistics on the learner's letter writing development that can be reviewed by a parent or a teacher. The app is designed for young learners with no prior knowledge of letters.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -3179,7 +3179,7 @@
     },
     {
         "area": "Lean Manufacturing",
-        "description": "Value stream mapping is a basic pen and paper Lean tool that follows a product’s production path from customer demand to supplier and draws a visual representation of every process in the material and information flow. This project aims to create a value stream mapping (VSM) using simulation. ExtendSim9 is employed as the simulation software of choice used to create a VSM library. Through literature-based case study, models are developed and the library is tested.",
+        "description": "Value stream mapping is a basic pen and paper Lean tool that follows a product's production path from customer demand to supplier and draws a visual representation of every process in the material and information flow. This project aims to create a value stream mapping (VSM) using simulation. ExtendSim9 is employed as the simulation software of choice used to create a VSM library. Through literature-based case study, models are developed and the library is tested.",
         "programme": "Manufacturing Engineering with Business",
         "students": [
             {
@@ -3318,7 +3318,7 @@
         "students": [
             {
                 "email": "brian.omeara3@mail.dcu.ie",
-                "name": "Brian O’Meara"
+                "name": "Brian O'Meara"
             },
             {
                 "email": "bobby.clarke24@mail.dcu.ie",
@@ -3359,7 +3359,7 @@
     },
     {
         "area": "Web Application",
-        "description": "This webapp is designed to enable people to manage their diet more efficiently and easily. They can achieve the goals they desire by creating their own individual set of formulae. These would in return give them their own personal specific results from which then they’d be offered sets of recipes for foods beneficial to them.",
+        "description": "This webapp is designed to enable people to manage their diet more efficiently and easily. They can achieve the goals they desire by creating their own individual set of formulae. These would in return give them their own personal specific results from which then they'd be offered sets of recipes for foods beneficial to them.",
         "programme": "Computer Applications",
         "students": [
             {
@@ -3447,7 +3447,7 @@
     },
     {
         "area": "Mobile App",
-        "description": "This project was started with the aim of launching a competitive service for online ticket sales. A prototype application was developed to showcase the vision for the service as well as a comprehensive and thorough business plan. The prototype demonstrates overall app functionality, Facebook integration and event suggestions as well as looking at using NFC-enabled devices as the ‘ticket’ to enter events.",
+        "description": "This project was started with the aim of launching a competitive service for online ticket sales. A prototype application was developed to showcase the vision for the service as well as a comprehensive and thorough business plan. The prototype demonstrates overall app functionality, Facebook integration and event suggestions as well as looking at using NFC-enabled devices as the 'ticket' to enter events.",
         "programme": "Enterprise Computing",
         "students": [
             {
@@ -3465,7 +3465,7 @@
     },
     {
         "area": "Android, Control Systems, Mechatronic Systems, Mobile App, Vehicle Control",
-        "description": "This project deals with the design, building and testing of a two-wheeled self-balancing vehicle using an Android-based smartphone. This vehicle incorporates two stepper motors which provide the vehicle’s motion and relies solely on the phone's onboard sensors to keep the device upright and balanced.",
+        "description": "This project deals with the design, building and testing of a two-wheeled self-balancing vehicle using an Android-based smartphone. This vehicle incorporates two stepper motors which provide the vehicle's motion and relies solely on the phone's onboard sensors to keep the device upright and balanced.",
         "programme": "Mechatronic Engineering",
         "students": [
             {
