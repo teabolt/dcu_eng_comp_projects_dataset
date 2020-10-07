@@ -137,8 +137,6 @@ Name: Brendan Flanagan
 Email: brendanmflanagan@gmail.com
 Programme: Mechanical and Manufacturing Engineering
 Supervisor: Dr. Dermot Brabazon
-Programme: Enterprise Computing
-Supervisor: Prof. Alan Smeaton
 There has been increasing demand for the development of nanomaterials among a variety of industries
 such as semiconductor, medical devices, pharmaceutical and solar energy. Laser Ablation in Liquid
 requires less energy, has lower capital costs and higher rate of precision which combined makes it an
