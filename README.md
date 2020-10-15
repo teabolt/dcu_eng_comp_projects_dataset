@@ -35,7 +35,7 @@ PDF's should also be stripped of margins that contain the booklet header, page n
 
 Search online `pdf crop` for websites or tools. May also need `pdf merge`.
 
-### Convert PDF's to a text format (TODO)
+### Convert PDF's to a text format
 
 Files should be converted from PDF to a text format (.txt, .csv, .xlsx) for easy parsing.
 
@@ -53,7 +53,7 @@ References:
 
 Alternatively just copy all the text from a stripped PDF (using CTRL+A), where it's possible to do a selection.
 
-### Parse the data from text files (TODO)
+### Parse the data from text files
 
 Convert text or excel files into structured data.
 
@@ -63,7 +63,7 @@ Adjust the source of data from the last step as needed.
 E.g. in 2019 one of the projects had students all with different programmes. It was easier to just list all the programmes after the list of students (though we lose information about which student is in which programme, that is not so necessary).
 For small anomaly cases, it's best to just adjust the data, instead of writing extra logic.
 
-Also perform data "canonicalization" (standardisation or normalization) in this step. Ensure that data is clean and ready to use.
+Also perform data "canonicalization" (standardisation or normalization) in this step.
 
 https://pythex.org/ is very useful for testing out regular expressions.
 
